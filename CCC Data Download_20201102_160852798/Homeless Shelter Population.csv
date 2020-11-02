@@ -1,0 +1,11 @@
+"Name","Homeless Shelter Population"
+"Description","<g class=""gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins doubleReplace replaceWithoutSep"" id=""3"" data-gr-id=""3"">Number</g>&nbsp;of unduplicated individuals served in the New York City Department of Homeless Services shelter system."
+"Source Notes","New York City Department of Homeless Services, DHS Data Dashboard (FY 2011 - FY 2014); retrieved&nbsp;<g class=""gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""3"" data-gr-id=""3"">from:</g>&nbsp;<a href=""https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page"">https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page</a>"
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2011,Number,110112,3651000
+New York City,2012,Number,104754,3651000
+New York City,2013,Number,111210,3651000
+New York City,2014,Number,116294,3651000
+New York City,2015,Number,133883,3651000

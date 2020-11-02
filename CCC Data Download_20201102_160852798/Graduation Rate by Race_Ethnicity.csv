@@ -1,0 +1,2802 @@
+"Name","Graduation Rate by Race/Ethnicity"
+"Description","New York City public high school students who graduated as of June after four years of instruction."
+"Source Notes","New York City Department of Education, Graduation Results (School Years 2004-05 to 2018-19); retrieved from&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a><a href=""https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results"">https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results</a>&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a><a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a>"
+"Notes","All data represent outcomes as of June after four years of instruction. In order to comply with FERPA regulations on public reporting of education outcomes, breakdowns where the number of students in the cohort is 5 or less are suppressed and maps and tables display ""no data"" or ""0""."
+
+Location,Race/Ethnicity,TimeFrame,DataFormat,Data,Fips
+Staten Island,Asian,2001,Percent,0.82154,36085
+Staten Island,Asian,2002,Percent,0.84936,36085
+Staten Island,Asian,2003,Percent,0.84123,36085
+Staten Island,Asian,2004,Percent,0.87879,36085
+Staten Island,Black,2001,Percent,0.47708,36085
+Staten Island,Black,2002,Percent,0.52765,36085
+Staten Island,Black,2003,Percent,0.56268,36085
+Staten Island,Black,2004,Percent,0.52252,36085
+Staten Island,Latino,2001,Percent,0.54466,36085
+Staten Island,Latino,2002,Percent,0.50435,36085
+Staten Island,Latino,2003,Percent,0.52778,36085
+Staten Island,Latino,2004,Percent,0.53962,36085
+Staten Island,White,2001,Percent,0.75278,36085
+Staten Island,White,2002,Percent,0.75676,36085
+Staten Island,White,2003,Percent,0.75536,36085
+Staten Island,White,2004,Percent,0.76329,36085
+Lower East Side,Latino,2001,Percent,0.52174,SD1
+Lower East Side,Latino,2002,Percent,0.4527,SD1
+Lower East Side,Latino,2003,Percent,0.47222,SD1
+Lower East Side,Latino,2004,Percent,0.53435,SD1
+Lower East Side,White,2001,Percent,0.90323,SD1
+Lower East Side,White,2002,Percent,0.89286,SD1
+Lower East Side,White,2003,Percent,0.81609,SD1
+Lower East Side,White,2004,Percent,0.87143,SD1
+"Stuyvesant Town, Upper E. Side",Asian,2001,Percent,0.80997,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2002,Percent,0.81254,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2003,Percent,0.79828,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2004,Percent,0.80875,SD2
+"Stuyvesant Town, Upper E. Side",Black,2001,Percent,0.49675,SD2
+"Stuyvesant Town, Upper E. Side",Black,2002,Percent,0.51674,SD2
+"Stuyvesant Town, Upper E. Side",Black,2003,Percent,0.47042,SD2
+"Stuyvesant Town, Upper E. Side",Black,2004,Percent,0.50185,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2001,Percent,0.49795,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2002,Percent,0.50787,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2003,Percent,0.45896,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2004,Percent,0.51842,SD2
+"Stuyvesant Town, Upper E. Side",White,2001,Percent,0.82731,SD2
+"Stuyvesant Town, Upper E. Side",White,2002,Percent,0.80183,SD2
+"Stuyvesant Town, Upper E. Side",White,2003,Percent,0.79292,SD2
+"Stuyvesant Town, Upper E. Side",White,2004,Percent,0.77801,SD2
+Upper West Side,Asian,2001,Percent,0.89209,SD3
+Upper West Side,Asian,2002,Percent,0.92414,SD3
+Upper West Side,Asian,2003,Percent,0.92568,SD3
+Upper West Side,Asian,2004,Percent,0.92486,SD3
+Upper West Side,Black,2001,Percent,0.62183,SD3
+Upper West Side,Black,2002,Percent,0.60749,SD3
+Upper West Side,Black,2003,Percent,0.53379,SD3
+Upper West Side,Black,2004,Percent,0.57018,SD3
+Upper West Side,Latino,2001,Percent,0.5409,SD3
+Upper West Side,Latino,2002,Percent,0.52874,SD3
+Upper West Side,Latino,2003,Percent,0.4669,SD3
+Upper West Side,Latino,2004,Percent,0.50384,SD3
+Upper West Side,White,2001,Percent,0.87533,SD3
+Upper West Side,White,2002,Percent,0.90686,SD3
+Upper West Side,White,2003,Percent,0.92,SD3
+Upper West Side,White,2004,Percent,0.91892,SD3
+East Harlem,Asian,2001,Percent,0.7234,SD4
+East Harlem,Asian,2002,Percent,0.83333,SD4
+East Harlem,Asian,2003,Percent,0.87755,SD4
+East Harlem,Asian,2004,Percent,0.84615,SD4
+East Harlem,Black,2001,Percent,0.53759,SD4
+East Harlem,Black,2002,Percent,0.62452,SD4
+East Harlem,Black,2003,Percent,0.63636,SD4
+East Harlem,Black,2004,Percent,0.63913,SD4
+East Harlem,Latino,2001,Percent,0.59034,SD4
+East Harlem,Latino,2002,Percent,0.66023,SD4
+East Harlem,Latino,2003,Percent,0.65207,SD4
+East Harlem,Latino,2004,Percent,0.63063,SD4
+East Harlem,White,2001,Percent,0.7619,SD4
+East Harlem,White,2002,Percent,0.68182,SD4
+East Harlem,White,2003,Percent,No Data,SD4
+East Harlem,White,2004,Percent,No Data,SD4
+Central Harlem,Asian,2001,Percent,No Data,SD5
+Central Harlem,Asian,2003,Percent,No Data,SD5
+Central Harlem,Asian,2004,Percent,0.94595,SD5
+Central Harlem,Black,2001,Percent,0.74242,SD5
+Central Harlem,Black,2002,Percent,0.66452,SD5
+Central Harlem,Black,2003,Percent,0.6129,SD5
+Central Harlem,Black,2004,Percent,0.52392,SD5
+Central Harlem,Latino,2001,Percent,0.62963,SD5
+Central Harlem,Latino,2002,Percent,0.53086,SD5
+Central Harlem,Latino,2003,Percent,0.44961,SD5
+Central Harlem,Latino,2004,Percent,0.58935,SD5
+Central Harlem,White,2001,Percent,No Data,SD5
+Central Harlem,White,2002,Percent,No Data,SD5
+Central Harlem,White,2003,Percent,No Data,SD5
+Central Harlem,White,2004,Percent,0.89474,SD5
+Washington Heights,Asian,2001,Percent,No Data,SD6
+Washington Heights,Asian,2002,Percent,0.225,SD6
+Washington Heights,Asian,2003,Percent,0.92593,SD6
+Washington Heights,Asian,2004,Percent,No Data,SD6
+Washington Heights,Black,2001,Percent,0.62673,SD6
+Washington Heights,Black,2002,Percent,0.48936,SD6
+Washington Heights,Black,2003,Percent,0.5847,SD6
+Washington Heights,Black,2004,Percent,0.49714,SD6
+Washington Heights,Latino,2001,Percent,0.60536,SD6
+Washington Heights,Latino,2002,Percent,0.54334,SD6
+Washington Heights,Latino,2003,Percent,0.63889,SD6
+Washington Heights,Latino,2004,Percent,0.64229,SD6
+Washington Heights,White,2001,Percent,No Data,SD6
+Washington Heights,White,2002,Percent,0.08696,SD6
+Washington Heights,White,2003,Percent,No Data,SD6
+Washington Heights,White,2004,Percent,No Data,SD6
+Mott Haven,Asian,2001,Percent,No Data,SD7
+Mott Haven,Asian,2002,Percent,No Data,SD7
+Mott Haven,Asian,2003,Percent,No Data,SD7
+Mott Haven,Asian,2004,Percent,0.86957,SD7
+Mott Haven,Black,2001,Percent,0.51304,SD7
+Mott Haven,Black,2002,Percent,0.5393,SD7
+Mott Haven,Black,2003,Percent,0.53409,SD7
+Mott Haven,Black,2004,Percent,0.5186,SD7
+Mott Haven,Latino,2001,Percent,0.52716,SD7
+Mott Haven,Latino,2002,Percent,0.58108,SD7
+Mott Haven,Latino,2003,Percent,0.54568,SD7
+Mott Haven,Latino,2004,Percent,0.55126,SD7
+Mott Haven,White,2001,Percent,No Data,SD7
+Mott Haven,White,2002,Percent,No Data,SD7
+Mott Haven,White,2003,Percent,No Data,SD7
+Mott Haven,White,2004,Percent,No Data,SD7
+"Hunts Point, Port Morris",Asian,2001,Percent,0.64835,SD8
+"Hunts Point, Port Morris",Asian,2002,Percent,0.57609,SD8
+"Hunts Point, Port Morris",Asian,2003,Percent,0.64286,SD8
+"Hunts Point, Port Morris",Asian,2004,Percent,0.62857,SD8
+"Hunts Point, Port Morris",Black,2001,Percent,0.45972,SD8
+"Hunts Point, Port Morris",Black,2002,Percent,0.39943,SD8
+"Hunts Point, Port Morris",Black,2003,Percent,0.39317,SD8
+"Hunts Point, Port Morris",Black,2004,Percent,0.3887,SD8
+"Hunts Point, Port Morris",Latino,2001,Percent,0.41703,SD8
+"Hunts Point, Port Morris",Latino,2002,Percent,0.38032,SD8
+"Hunts Point, Port Morris",Latino,2003,Percent,0.36142,SD8
+"Hunts Point, Port Morris",Latino,2004,Percent,0.39093,SD8
+"Hunts Point, Port Morris",White,2001,Percent,0.54315,SD8
+"Hunts Point, Port Morris",White,2002,Percent,0.46497,SD8
+"Hunts Point, Port Morris",White,2003,Percent,0.52695,SD8
+"Hunts Point, Port Morris",White,2004,Percent,0.54217,SD8
+"East Tremont, Morris Heights",Asian,2001,Percent,No Data,SD9
+"East Tremont, Morris Heights",Asian,2002,Percent,No Data,SD9
+"East Tremont, Morris Heights",Asian,2003,Percent,No Data,SD9
+"East Tremont, Morris Heights",Asian,2004,Percent,0.77143,SD9
+"East Tremont, Morris Heights",Black,2001,Percent,0.41925,SD9
+"East Tremont, Morris Heights",Black,2002,Percent,0.46041,SD9
+"East Tremont, Morris Heights",Black,2003,Percent,0.53924,SD9
+"East Tremont, Morris Heights",Black,2004,Percent,0.65724,SD9
+"East Tremont, Morris Heights",Latino,2001,Percent,0.33131,SD9
+"East Tremont, Morris Heights",Latino,2002,Percent,0.45816,SD9
+"East Tremont, Morris Heights",Latino,2003,Percent,0.45168,SD9
+"East Tremont, Morris Heights",Latino,2004,Percent,0.57726,SD9
+"East Tremont, Morris Heights",White,2001,Percent,No Data,SD9
+"East Tremont, Morris Heights",White,2002,Percent,No Data,SD9
+"East Tremont, Morris Heights",White,2003,Percent,No Data,SD9
+"East Tremont, Morris Heights",White,2004,Percent,0.59091,SD9
+"Riverdale, Kingsbridge, Fordham",Asian,2001,Percent,0.84615,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2002,Percent,0.85491,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2003,Percent,0.93103,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2004,Percent,0.92828,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2001,Percent,0.44286,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2002,Percent,0.46928,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2003,Percent,0.53464,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2004,Percent,0.55683,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2001,Percent,0.36489,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2002,Percent,0.38494,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2003,Percent,0.44808,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2004,Percent,0.50886,SD10
+"Riverdale, Kingsbridge, Fordham",White,2001,Percent,0.81744,SD10
+"Riverdale, Kingsbridge, Fordham",White,2002,Percent,0.84615,SD10
+"Riverdale, Kingsbridge, Fordham",White,2003,Percent,0.84227,SD10
+"Riverdale, Kingsbridge, Fordham",White,2004,Percent,0.86006,SD10
+"Eastchester, Baychester, Co-op City",Asian,2001,Percent,0.61446,SD11
+"Eastchester, Baychester, Co-op City",Asian,2002,Percent,0.47917,SD11
+"Eastchester, Baychester, Co-op City",Asian,2003,Percent,0.59259,SD11
+"Eastchester, Baychester, Co-op City",Asian,2004,Percent,0.61842,SD11
+"Eastchester, Baychester, Co-op City",Black,2001,Percent,0.45755,SD11
+"Eastchester, Baychester, Co-op City",Black,2002,Percent,0.48305,SD11
+"Eastchester, Baychester, Co-op City",Black,2003,Percent,0.5722,SD11
+"Eastchester, Baychester, Co-op City",Black,2004,Percent,0.6269,SD11
+"Eastchester, Baychester, Co-op City",White,2001,Percent,0.38525,SD11
+"Eastchester, Baychester, Co-op City",White,2002,Percent,0.51376,SD11
+"Eastchester, Baychester, Co-op City",White,2003,Percent,0.4902,SD11
+"Eastchester, Baychester, Co-op City",White,2004,Percent,0.55046,SD11
+"Crotona Park, Morrisania, Melrose",Asian,2001,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2002,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2003,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2004,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Black,2001,Percent,0.36842,SD12
+"Crotona Park, Morrisania, Melrose",Black,2002,Percent,0.43243,SD12
+"Crotona Park, Morrisania, Melrose",Black,2003,Percent,0.41391,SD12
+"Crotona Park, Morrisania, Melrose",Black,2004,Percent,0.44237,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2001,Percent,0.37057,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2002,Percent,0.3558,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2003,Percent,0.40935,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2004,Percent,0.44604,SD12
+"Crotona Park, Morrisania, Melrose",White,2001,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2002,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2003,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2004,Percent,No Data,SD12
+"Brooklyn Hts, Downtown Brooklyn",Asian,2001,Percent,0.91991,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2002,Percent,0.92798,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2003,Percent,0.92537,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2004,Percent,0.9297,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2001,Percent,0.64151,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2002,Percent,0.66982,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2003,Percent,0.66252,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2004,Percent,0.69808,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2001,Percent,0.64115,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2002,Percent,0.62791,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2003,Percent,0.59483,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2004,Percent,0.64417,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2001,Percent,0.89796,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2002,Percent,0.92698,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2003,Percent,0.86937,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2004,Percent,0.92086,SD13
+"Williamsburg, Greenpoint",Asian,2001,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Asian,2002,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Asian,2003,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Asian,2004,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Black,2001,Percent,0.47384,SD14
+"Williamsburg, Greenpoint",Black,2002,Percent,0.53713,SD14
+"Williamsburg, Greenpoint",Black,2003,Percent,0.5615,SD14
+"Williamsburg, Greenpoint",Black,2004,Percent,0.63768,SD14
+"Williamsburg, Greenpoint",Latino,2001,Percent,0.48837,SD14
+"Williamsburg, Greenpoint",Latino,2002,Percent,0.52703,SD14
+"Williamsburg, Greenpoint",Latino,2003,Percent,0.54174,SD14
+"Williamsburg, Greenpoint",Latino,2004,Percent,0.61066,SD14
+"Williamsburg, Greenpoint",White,2001,Percent,0.44,SD14
+"Williamsburg, Greenpoint",White,2002,Percent,No Data,SD14
+"Williamsburg, Greenpoint",White,2003,Percent,0.28571,SD14
+"Williamsburg, Greenpoint",White,2004,Percent,0.57576,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2001,Percent,0.54545,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2002,Percent,No Data,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2003,Percent,0.61905,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2004,Percent,0.68421,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2001,Percent,0.52837,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2002,Percent,0.45333,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2003,Percent,0.4784,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2004,Percent,0.52902,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2001,Percent,0.36579,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2002,Percent,0.32778,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2003,Percent,0.32335,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2004,Percent,0.3436,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2001,Percent,0.375,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2002,Percent,0.47692,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2003,Percent,0.38,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2004,Percent,0.46667,SD15
+Bedford Stuyvesant,Asian,2001,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2002,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2003,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2004,Percent,No Data,SD16
+Bedford Stuyvesant,Black,2001,Percent,0.47027,SD16
+Bedford Stuyvesant,Black,2002,Percent,0.42984,SD16
+Bedford Stuyvesant,Black,2003,Percent,0.37679,SD16
+Bedford Stuyvesant,Black,2004,Percent,0.42962,SD16
+Bedford Stuyvesant,Latino,2001,Percent,0.25,SD16
+Bedford Stuyvesant,Latino,2002,Percent,0.23529,SD16
+Bedford Stuyvesant,Latino,2003,Percent,0.24675,SD16
+Bedford Stuyvesant,Latino,2004,Percent,0.23333,SD16
+Bedford Stuyvesant,White,2001,Percent,No Data,SD16
+Bedford Stuyvesant,White,2002,Percent,No Data,SD16
+Bedford Stuyvesant,White,2003,Percent,No Data,SD16
+Bedford Stuyvesant,White,2004,Percent,No Data,SD16
+Crown Heights,Asian,2001,Percent,0.37143,SD17
+Crown Heights,Asian,2002,Percent,0.59375,SD17
+Crown Heights,Asian,2003,Percent,0.73913,SD17
+Crown Heights,Asian,2004,Percent,0.65574,SD17
+Crown Heights,Black,2001,Percent,0.46565,SD17
+Crown Heights,Black,2002,Percent,0.51031,SD17
+Crown Heights,Black,2003,Percent,0.60037,SD17
+Crown Heights,Black,2004,Percent,0.61078,SD17
+Crown Heights,Latino,2001,Percent,0.34135,SD17
+Crown Heights,Latino,2002,Percent,0.42169,SD17
+Crown Heights,Latino,2003,Percent,0.51553,SD17
+Crown Heights,Latino,2004,Percent,0.52752,SD17
+Crown Heights,White,2001,Percent,0.68421,SD17
+Crown Heights,White,2002,Percent,0.84615,SD17
+Crown Heights,White,2003,Percent,No Data,SD17
+Crown Heights,White,2004,Percent,0.53846,SD17
+"East Flatbush, Canarsie",Asian,2001,Percent,0.38095,SD18
+"East Flatbush, Canarsie",Asian,2002,Percent,0.38095,SD18
+"East Flatbush, Canarsie",Asian,2003,Percent,No Data,SD18
+"East Flatbush, Canarsie",Asian,2004,Percent,No Data,SD18
+"East Flatbush, Canarsie",Black,2001,Percent,0.39121,SD18
+"East Flatbush, Canarsie",Black,2002,Percent,0.33449,SD18
+"East Flatbush, Canarsie",Black,2003,Percent,0.33939,SD18
+"East Flatbush, Canarsie",Black,2004,Percent,0.33671,SD18
+"East Flatbush, Canarsie",Latino,2001,Percent,0.26549,SD18
+"East Flatbush, Canarsie",Latino,2002,Percent,0.22535,SD18
+"East Flatbush, Canarsie",Latino,2003,Percent,0.26061,SD18
+"East Flatbush, Canarsie",Latino,2004,Percent,0.23967,SD18
+"East Flatbush, Canarsie",White,2001,Percent,0.47059,SD18
+"East Flatbush, Canarsie",White,2002,Percent,0.28947,SD18
+"East Flatbush, Canarsie",White,2003,Percent,0.22727,SD18
+"East Flatbush, Canarsie",White,2004,Percent,No Data,SD18
+East New York,Asian,2001,Percent,0.41558,SD19
+East New York,Asian,2002,Percent,0.52586,SD19
+East New York,Asian,2003,Percent,0.52632,SD19
+East New York,Asian,2004,Percent,0.55172,SD19
+East New York,Black,2001,Percent,0.39102,SD19
+East New York,Black,2002,Percent,0.35953,SD19
+East New York,Black,2003,Percent,0.42997,SD19
+East New York,Black,2004,Percent,0.49718,SD19
+East New York,Latino,2001,Percent,0.33587,SD19
+East New York,Latino,2002,Percent,0.38852,SD19
+East New York,Latino,2003,Percent,0.38511,SD19
+East New York,Latino,2004,Percent,0.3503,SD19
+East New York,White,2001,Percent,0.35593,SD19
+East New York,White,2002,Percent,0.36842,SD19
+East New York,White,2003,Percent,0.14286,SD19
+East New York,White,2004,Percent,0.23077,SD19
+"Bay Ridge, Bensonhurst",Asian,2001,Percent,0.53226,SD20
+"Bay Ridge, Bensonhurst",Asian,2002,Percent,0.56298,SD20
+"Bay Ridge, Bensonhurst",Asian,2003,Percent,0.60478,SD20
+"Bay Ridge, Bensonhurst",Asian,2004,Percent,0.63865,SD20
+"Bay Ridge, Bensonhurst",Black,2001,Percent,0.45918,SD20
+"Bay Ridge, Bensonhurst",Black,2002,Percent,0.49457,SD20
+"Bay Ridge, Bensonhurst",Black,2003,Percent,0.56667,SD20
+"Bay Ridge, Bensonhurst",Black,2004,Percent,0.56584,SD20
+"Bay Ridge, Bensonhurst",Latino,2001,Percent,0.39322,SD20
+"Bay Ridge, Bensonhurst",Latino,2002,Percent,0.34545,SD20
+"Bay Ridge, Bensonhurst",Latino,2003,Percent,0.40695,SD20
+"Bay Ridge, Bensonhurst",Latino,2004,Percent,0.44569,SD20
+"Bay Ridge, Bensonhurst",White,2001,Percent,0.53543,SD20
+"Bay Ridge, Bensonhurst",White,2002,Percent,0.55983,SD20
+"Bay Ridge, Bensonhurst",White,2003,Percent,0.58708,SD20
+"Bay Ridge, Bensonhurst",White,2004,Percent,0.62485,SD20
+"Gravesend, Coney Island",Asian,2001,Percent,0.62712,SD21
+"Gravesend, Coney Island",Asian,2002,Percent,0.61921,SD21
+"Gravesend, Coney Island",Asian,2003,Percent,0.66345,SD21
+"Gravesend, Coney Island",Asian,2004,Percent,0.69122,SD21
+"Gravesend, Coney Island",Black,2001,Percent,0.45064,SD21
+"Gravesend, Coney Island",Black,2002,Percent,0.48073,SD21
+"Gravesend, Coney Island",Black,2003,Percent,0.45656,SD21
+"Gravesend, Coney Island",Black,2004,Percent,0.4542,SD21
+"Gravesend, Coney Island",Latino,2001,Percent,0.36522,SD21
+"Gravesend, Coney Island",Latino,2002,Percent,0.33922,SD21
+"Gravesend, Coney Island",Latino,2003,Percent,0.39319,SD21
+"Gravesend, Coney Island",Latino,2004,Percent,0.37961,SD21
+"Gravesend, Coney Island",White,2001,Percent,0.65262,SD21
+"Gravesend, Coney Island",White,2002,Percent,0.63588,SD21
+"Gravesend, Coney Island",White,2003,Percent,0.61722,SD21
+"Gravesend, Coney Island",White,2004,Percent,0.64396,SD21
+"Flatbush, Midwood, Sheepshead Bay",Asian,2001,Percent,0.69495,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2002,Percent,0.71586,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2003,Percent,0.74949,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2004,Percent,0.77888,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2001,Percent,0.53545,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2002,Percent,0.60627,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2003,Percent,0.60653,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2004,Percent,0.61251,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2001,Percent,0.45645,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2002,Percent,0.45833,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2003,Percent,0.51884,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2004,Percent,0.56284,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2001,Percent,0.7,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2002,Percent,0.69881,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2003,Percent,0.71906,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2004,Percent,0.7519,SD22
+"Brownsville, Ocean Hill",Asian,2003,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2004,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Black,2001,Percent,0.30952,SD23
+"Brownsville, Ocean Hill",Black,2002,Percent,0.51799,SD23
+"Brownsville, Ocean Hill",Black,2003,Percent,0.51266,SD23
+"Brownsville, Ocean Hill",Black,2004,Percent,0.62951,SD23
+"Brownsville, Ocean Hill",Latino,2001,Percent,0.34043,SD23
+"Brownsville, Ocean Hill",Latino,2002,Percent,0.43478,SD23
+"Brownsville, Ocean Hill",Latino,2003,Percent,0.45455,SD23
+"Brownsville, Ocean Hill",Latino,2004,Percent,0.61905,SD23
+"Brownsville, Ocean Hill",White,2001,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2002,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2004,Percent,No Data,SD23
+"Sunnyside, Woodside, Jackson Hts",Asian,2001,Percent,0.65464,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2002,Percent,0.59627,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2003,Percent,0.64179,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2004,Percent,0.6814,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2001,Percent,0.38333,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2002,Percent,0.49099,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2003,Percent,0.51515,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2004,Percent,0.53394,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2001,Percent,0.45819,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2002,Percent,0.45771,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2003,Percent,0.45258,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2004,Percent,0.49147,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2001,Percent,0.53608,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2002,Percent,0.4895,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2003,Percent,0.55584,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2004,Percent,0.63972,SD24
+"Flushing, Whitestone",Asian,2001,Percent,0.63588,SD25
+"Flushing, Whitestone",Asian,2002,Percent,0.58609,SD25
+"Flushing, Whitestone",Asian,2003,Percent,0.65441,SD25
+"Flushing, Whitestone",Asian,2004,Percent,0.75382,SD25
+"Flushing, Whitestone",Black,2001,Percent,0.45946,SD25
+"Flushing, Whitestone",Black,2002,Percent,0.415,SD25
+"Flushing, Whitestone",Black,2003,Percent,0.42553,SD25
+"Flushing, Whitestone",Black,2004,Percent,0.49779,SD25
+"Flushing, Whitestone",Latino,2001,Percent,0.39796,SD25
+"Flushing, Whitestone",Latino,2002,Percent,0.35,SD25
+"Flushing, Whitestone",Latino,2003,Percent,0.43228,SD25
+"Flushing, Whitestone",Latino,2004,Percent,0.46809,SD25
+"Flushing, Whitestone",White,2001,Percent,0.76491,SD25
+"Flushing, Whitestone",White,2002,Percent,0.7614,SD25
+"Flushing, Whitestone",White,2003,Percent,0.73191,SD25
+"Flushing, Whitestone",White,2004,Percent,0.72973,SD25
+"Bayside, Douglaston, Little Neck",Asian,2001,Percent,0.77524,SD26
+"Bayside, Douglaston, Little Neck",Asian,2002,Percent,0.79167,SD26
+"Bayside, Douglaston, Little Neck",Asian,2003,Percent,0.8162,SD26
+"Bayside, Douglaston, Little Neck",Asian,2004,Percent,0.8144,SD26
+"Bayside, Douglaston, Little Neck",Black,2001,Percent,0.6283,SD26
+"Bayside, Douglaston, Little Neck",Black,2002,Percent,0.6357,SD26
+"Bayside, Douglaston, Little Neck",Black,2003,Percent,0.68919,SD26
+"Bayside, Douglaston, Little Neck",Black,2004,Percent,0.69043,SD26
+"Bayside, Douglaston, Little Neck",Latino,2001,Percent,0.61509,SD26
+"Bayside, Douglaston, Little Neck",Latino,2002,Percent,0.63201,SD26
+"Bayside, Douglaston, Little Neck",Latino,2003,Percent,0.65289,SD26
+"Bayside, Douglaston, Little Neck",Latino,2004,Percent,0.70634,SD26
+"Bayside, Douglaston, Little Neck",White,2001,Percent,0.7161,SD26
+"Bayside, Douglaston, Little Neck",White,2002,Percent,0.76406,SD26
+"Bayside, Douglaston, Little Neck",White,2003,Percent,0.79111,SD26
+"Bayside, Douglaston, Little Neck",White,2004,Percent,0.78359,SD26
+"Jamaica, Howard Beach, Rockaways",Asian,2001,Percent,0.5,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2002,Percent,0.53769,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2003,Percent,0.53559,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2004,Percent,0.52652,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2001,Percent,0.37593,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2002,Percent,0.41849,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2003,Percent,0.38728,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2004,Percent,0.41955,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2001,Percent,0.3873,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2002,Percent,0.43712,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2003,Percent,0.40367,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2004,Percent,0.41353,SD27
+"Jamaica, Howard Beach, Rockaways",White,2001,Percent,0.404,SD27
+"Jamaica, Howard Beach, Rockaways",White,2002,Percent,0.39086,SD27
+"Jamaica, Howard Beach, Rockaways",White,2003,Percent,0.45701,SD27
+"Jamaica, Howard Beach, Rockaways",White,2004,Percent,0.40201,SD27
+"Jamaica, Forest Hills",Asian,2001,Percent,0.72603,SD28
+"Jamaica, Forest Hills",Asian,2002,Percent,0.75246,SD28
+"Jamaica, Forest Hills",Asian,2003,Percent,0.75437,SD28
+"Jamaica, Forest Hills",Asian,2004,Percent,0.74489,SD28
+"Jamaica, Forest Hills",Black,2001,Percent,0.55005,SD28
+"Jamaica, Forest Hills",Black,2002,Percent,0.5727,SD28
+"Jamaica, Forest Hills",Black,2003,Percent,0.59352,SD28
+"Jamaica, Forest Hills",Black,2004,Percent,0.55375,SD28
+"Jamaica, Forest Hills",Latino,2001,Percent,0.54891,SD28
+"Jamaica, Forest Hills",Latino,2002,Percent,0.55538,SD28
+"Jamaica, Forest Hills",Latino,2003,Percent,0.56454,SD28
+"Jamaica, Forest Hills",Latino,2004,Percent,0.57223,SD28
+"Jamaica, Forest Hills",White,2001,Percent,0.74913,SD28
+"Jamaica, Forest Hills",White,2002,Percent,0.75042,SD28
+"Jamaica, Forest Hills",White,2003,Percent,0.74242,SD28
+"Jamaica, Forest Hills",White,2004,Percent,0.78753,SD28
+"Queens Village, Rosedale, Hollis",Asian,2001,Percent,0.53846,SD29
+"Queens Village, Rosedale, Hollis",Asian,2002,Percent,0.68293,SD29
+"Queens Village, Rosedale, Hollis",Asian,2003,Percent,0.65714,SD29
+"Queens Village, Rosedale, Hollis",Asian,2004,Percent,0.72727,SD29
+"Queens Village, Rosedale, Hollis",Black,2001,Percent,0.42582,SD29
+"Queens Village, Rosedale, Hollis",Black,2002,Percent,0.47156,SD29
+"Queens Village, Rosedale, Hollis",Black,2003,Percent,0.48603,SD29
+"Queens Village, Rosedale, Hollis",Black,2004,Percent,0.59874,SD29
+"Queens Village, Rosedale, Hollis",Latino,2001,Percent,0.36923,SD29
+"Queens Village, Rosedale, Hollis",Latino,2002,Percent,0.35211,SD29
+"Queens Village, Rosedale, Hollis",Latino,2003,Percent,0.45,SD29
+"Queens Village, Rosedale, Hollis",Latino,2004,Percent,0.55769,SD29
+"Queens Village, Rosedale, Hollis",White,2001,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2002,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2003,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2004,Percent,No Data,SD29
+"Long Island City, Astoria",Asian,2001,Percent,0.63536,SD30
+"Long Island City, Astoria",Asian,2002,Percent,0.61236,SD30
+"Long Island City, Astoria",Asian,2003,Percent,0.67123,SD30
+"Long Island City, Astoria",Asian,2004,Percent,0.62241,SD30
+"Long Island City, Astoria",Black,2001,Percent,0.4797,SD30
+"Long Island City, Astoria",Black,2002,Percent,0.31746,SD30
+"Long Island City, Astoria",Black,2003,Percent,0.49563,SD30
+"Long Island City, Astoria",Black,2004,Percent,0.48727,SD30
+"Long Island City, Astoria",Latino,2001,Percent,0.4321,SD30
+"Long Island City, Astoria",Latino,2002,Percent,0.44228,SD30
+"Long Island City, Astoria",Latino,2003,Percent,0.46355,SD30
+"Long Island City, Astoria",Latino,2004,Percent,0.49213,SD30
+"Long Island City, Astoria",White,2001,Percent,0.59234,SD30
+"Long Island City, Astoria",White,2002,Percent,0.65217,SD30
+"Long Island City, Astoria",White,2003,Percent,0.69778,SD30
+"Long Island City, Astoria",White,2004,Percent,0.68278,SD30
+Staten Island,Asian,2001,Percent,0.82154,SD31
+Staten Island,Asian,2002,Percent,0.84936,SD31
+Staten Island,Asian,2003,Percent,0.84123,SD31
+Staten Island,Asian,2004,Percent,0.87879,SD31
+Staten Island,Black,2001,Percent,0.47708,SD31
+Staten Island,Black,2002,Percent,0.52765,SD31
+Staten Island,Black,2003,Percent,0.56268,SD31
+Staten Island,Black,2004,Percent,0.52252,SD31
+Staten Island,Latino,2001,Percent,0.54466,SD31
+Staten Island,Latino,2002,Percent,0.50435,SD31
+Staten Island,Latino,2003,Percent,0.52778,SD31
+Staten Island,Latino,2004,Percent,0.53962,SD31
+Staten Island,White,2001,Percent,0.75278,SD31
+Staten Island,White,2002,Percent,0.75676,SD31
+Staten Island,White,2003,Percent,0.75536,SD31
+Staten Island,White,2004,Percent,0.76329,SD31
+Bushwick,Asian,2001,Percent,No Data,SD32
+Bushwick,Asian,2002,Percent,No Data,SD32
+Bushwick,Asian,2003,Percent,No Data,SD32
+Bushwick,Asian,2004,Percent,No Data,SD32
+Bushwick,Black,2001,Percent,0.20915,SD32
+Bushwick,Black,2002,Percent,0.25294,SD32
+Bushwick,Black,2003,Percent,0.41379,SD32
+Bushwick,Black,2004,Percent,0.45455,SD32
+Bushwick,Latino,2001,Percent,0.28508,SD32
+Bushwick,Latino,2002,Percent,0.45809,SD32
+Bushwick,Latino,2003,Percent,0.53358,SD32
+Bushwick,Latino,2004,Percent,0.55179,SD32
+Bushwick,White,2001,Percent,No Data,SD32
+Bushwick,White,2002,Percent,No Data,SD32
+Bushwick,White,2003,Percent,No Data,SD32
+Bushwick,White,2004,Percent,No Data,SD32
+"Eastchester, Baychester, Co-op City",Latino,2001,Percent,0.32583,SD11
+"Eastchester, Baychester, Co-op City",Latino,2002,Percent,0.43419,SD11
+"Eastchester, Baychester, Co-op City",Latino,2003,Percent,0.45861,SD11
+"Eastchester, Baychester, Co-op City",Latino,2004,Percent,0.55321,SD11
+New York City,Asian,2005,Percent,0.68854,3651000
+New York City,Asian,2006,Percent,0.69351,3651000
+New York City,Asian,2007,Percent,0.73268,3651000
+New York City,Asian,2008,Percent,0.75233,3651000
+New York City,Asian,2009,Percent,0.77611,3651000
+New York City,Asian,2010,Percent,0.79761,3651000
+New York City,Asian,2011,Percent,0.79395,3651000
+New York City,Asian,2012,Percent,0.79111,3651000
+New York City,Asian,2013,Percent,0.77404,3651000
+New York City,Asian,2014,Percent,0.79432,3651000
+New York City,Black,2005,Percent,0.44521,3651000
+New York City,Black,2006,Percent,0.47123,3651000
+New York City,Black,2007,Percent,0.51191,3651000
+New York City,Black,2008,Percent,0.53728,3651000
+New York City,Black,2009,Percent,0.55681,3651000
+New York City,Black,2010,Percent,0.57613,3651000
+New York City,Black,2011,Percent,0.55496,3651000
+New York City,Black,2012,Percent,0.54989,3651000
+New York City,Black,2013,Percent,0.55958,3651000
+New York City,Black,2014,Percent,0.58845,3651000
+New York City,Latino,2005,Percent,0.41363,3651000
+New York City,Latino,2006,Percent,0.43661,3651000
+New York City,Latino,2007,Percent,0.46691,3651000
+New York City,Latino,2008,Percent,0.50809,3651000
+New York City,Latino,2009,Percent,0.53469,3651000
+New York City,Latino,2010,Percent,0.55287,3651000
+New York City,Latino,2011,Percent,0.54041,3651000
+New York City,Latino,2012,Percent,0.52688,3651000
+New York City,Latino,2013,Percent,0.53635,3651000
+New York City,Latino,2014,Percent,0.56622,3651000
+New York City,White,2005,Percent,0.67556,3651000
+New York City,White,2006,Percent,0.69527,3651000
+New York City,White,2007,Percent,0.71005,3651000
+New York City,White,2008,Percent,0.72938,3651000
+New York City,White,2009,Percent,0.7492,3651000
+New York City,White,2010,Percent,0.76343,3651000
+New York City,White,2011,Percent,0.75705,3651000
+New York City,White,2012,Percent,0.7515,3651000
+New York City,White,2013,Percent,0.76405,3651000
+New York City,White,2014,Percent,0.77838,3651000
+Bronx,Asian,2005,Percent,0.76886,36005
+Bronx,Asian,2006,Percent,0.74513,36005
+Bronx,Asian,2007,Percent,0.8346,36005
+Bronx,Asian,2008,Percent,0.84097,36005
+Bronx,Asian,2009,Percent,0.87467,36005
+Bronx,Asian,2010,Percent,0.85455,36005
+Bronx,Asian,2011,Percent,0.8607,36005
+Bronx,Asian,2012,Percent,0.8324,36005
+Bronx,Asian,2013,Percent,0.82773,36005
+Bronx,Asian,2014,Percent,0.84891,36005
+Bronx,Black,2005,Percent,0.45068,36005
+Bronx,Black,2006,Percent,0.4636,36005
+Bronx,Black,2007,Percent,0.51007,36005
+Bronx,Black,2008,Percent,0.54215,36005
+Bronx,Black,2009,Percent,0.55722,36005
+Bronx,Black,2010,Percent,0.56725,36005
+Bronx,Black,2011,Percent,0.51567,36005
+Bronx,Black,2012,Percent,0.51325,36005
+Bronx,Black,2013,Percent,0.5263,36005
+Bronx,Black,2014,Percent,0.55657,36005
+Bronx,Latino,2005,Percent,0.38497,36005
+Bronx,Latino,2006,Percent,0.41766,36005
+Bronx,Latino,2007,Percent,0.44041,36005
+Bronx,Latino,2008,Percent,0.49804,36005
+Bronx,Latino,2009,Percent,0.51865,36005
+Bronx,Latino,2010,Percent,0.5182,36005
+Bronx,Latino,2011,Percent,0.49192,36005
+Bronx,Latino,2012,Percent,0.45603,36005
+Bronx,Latino,2013,Percent,0.47436,36005
+Bronx,Latino,2014,Percent,0.49403,36005
+Bronx,White,2005,Percent,0.66209,36005
+Bronx,White,2006,Percent,0.69016,36005
+Bronx,White,2007,Percent,0.68233,36005
+Bronx,White,2008,Percent,0.70242,36005
+Bronx,White,2009,Percent,0.67773,36005
+Bronx,White,2010,Percent,0.70447,36005
+Bronx,White,2011,Percent,0.71451,36005
+Bronx,White,2012,Percent,0.7248,36005
+Bronx,White,2013,Percent,0.75211,36005
+Bronx,White,2014,Percent,0.7642,36005
+Brooklyn,Asian,2005,Percent,0.64681,36047
+Brooklyn,Asian,2006,Percent,0.66591,36047
+Brooklyn,Asian,2007,Percent,0.70158,36047
+Brooklyn,Asian,2008,Percent,0.73166,36047
+Brooklyn,Asian,2009,Percent,0.73187,36047
+Brooklyn,Asian,2010,Percent,0.78576,36047
+Brooklyn,Asian,2011,Percent,0.78189,36047
+Brooklyn,Asian,2012,Percent,0.7696,36047
+Brooklyn,Asian,2013,Percent,0.74495,36047
+Brooklyn,Asian,2014,Percent,0.77404,36047
+Brooklyn,Black,2005,Percent,0.46572,36047
+Brooklyn,Black,2006,Percent,0.47815,36047
+Brooklyn,Black,2007,Percent,0.50096,36047
+Brooklyn,Black,2008,Percent,0.53563,36047
+Brooklyn,Black,2009,Percent,0.54584,36047
+Brooklyn,Black,2010,Percent,0.56845,36047
+Brooklyn,Black,2011,Percent,0.55311,36047
+Brooklyn,Black,2012,Percent,0.56685,36047
+Brooklyn,Black,2013,Percent,0.57627,36047
+Brooklyn,Black,2014,Percent,0.60447,36047
+Brooklyn,Latino,2005,Percent,0.3844,36047
+Brooklyn,Latino,2006,Percent,0.40437,36047
+Brooklyn,Latino,2007,Percent,0.44014,36047
+Brooklyn,Latino,2008,Percent,0.4672,36047
+Brooklyn,Latino,2009,Percent,0.49763,36047
+Brooklyn,Latino,2010,Percent,0.50978,36047
+Brooklyn,Latino,2011,Percent,0.52273,36047
+Brooklyn,Latino,2012,Percent,0.51187,36047
+Brooklyn,Latino,2013,Percent,0.52504,36047
+Brooklyn,Latino,2014,Percent,0.5464,36047
+Brooklyn,White,2005,Percent,0.6437,36047
+Brooklyn,White,2006,Percent,0.65225,36047
+Brooklyn,White,2007,Percent,0.64493,36047
+Brooklyn,White,2008,Percent,0.68252,36047
+Brooklyn,White,2009,Percent,0.69986,36047
+Brooklyn,White,2010,Percent,0.71031,36047
+Brooklyn,White,2011,Percent,0.70217,36047
+Brooklyn,White,2012,Percent,0.70039,36047
+Brooklyn,White,2013,Percent,0.71271,36047
+Brooklyn,White,2014,Percent,0.73417,36047
+Manhattan,Asian,2005,Percent,0.81683,36061
+Manhattan,Asian,2006,Percent,0.80175,36061
+Manhattan,Asian,2007,Percent,0.79266,36061
+Manhattan,Asian,2008,Percent,0.80159,36061
+Manhattan,Asian,2009,Percent,0.83243,36061
+Manhattan,Asian,2010,Percent,0.83882,36061
+Manhattan,Asian,2011,Percent,0.81901,36061
+Manhattan,Asian,2012,Percent,0.82196,36061
+Manhattan,Asian,2013,Percent,0.80009,36061
+Manhattan,Asian,2014,Percent,0.80725,36061
+Manhattan,Black,2005,Percent,0.54964,36061
+Manhattan,Black,2006,Percent,0.55088,36061
+Manhattan,Black,2007,Percent,0.51465,36061
+Manhattan,Black,2008,Percent,0.53134,36061
+Manhattan,Black,2009,Percent,0.57133,36061
+Manhattan,Black,2010,Percent,0.58986,36061
+Manhattan,Black,2011,Percent,0.56895,36061
+Manhattan,Black,2012,Percent,0.56008,36061
+Manhattan,Black,2013,Percent,0.57024,36061
+Manhattan,Black,2014,Percent,0.60258,36061
+Manhattan,Latino,2005,Percent,0.52848,36061
+Manhattan,Latino,2006,Percent,0.52712,36061
+Manhattan,Latino,2007,Percent,0.5012,36061
+Manhattan,Latino,2008,Percent,0.54272,36061
+Manhattan,Latino,2009,Percent,0.58189,36061
+Manhattan,Latino,2010,Percent,0.59261,36061
+Manhattan,Latino,2011,Percent,0.56443,36061
+Manhattan,Latino,2012,Percent,0.56252,36061
+Manhattan,Latino,2013,Percent,0.57302,36061
+Manhattan,Latino,2014,Percent,0.60836,36061
+Manhattan,White,2005,Percent,0.83796,36061
+Manhattan,White,2006,Percent,0.81954,36061
+Manhattan,White,2007,Percent,0.826,36061
+Manhattan,White,2008,Percent,0.82476,36061
+Manhattan,White,2009,Percent,0.85732,36061
+Manhattan,White,2010,Percent,0.85555,36061
+Manhattan,White,2011,Percent,0.83919,36061
+Manhattan,White,2012,Percent,0.84121,36061
+Manhattan,White,2013,Percent,0.82856,36061
+Manhattan,White,2014,Percent,0.83812,36061
+Queens,Asian,2005,Percent,0.68004,36081
+Queens,Asian,2006,Percent,0.68154,36081
+Queens,Asian,2007,Percent,0.71511,36081
+Queens,Asian,2008,Percent,0.72517,36081
+Queens,Asian,2009,Percent,0.75806,36081
+Queens,Asian,2010,Percent,0.7699,36081
+Queens,Asian,2011,Percent,0.77052,36081
+Queens,Asian,2012,Percent,0.77477,36081
+Queens,Asian,2013,Percent,0.76359,36081
+Queens,Asian,2014,Percent,0.78112,36081
+Queens,Black,2005,Percent,0.48415,36081
+Queens,Black,2006,Percent,0.50143,36081
+Queens,Black,2007,Percent,0.53222,36081
+Queens,Black,2008,Percent,0.54489,36081
+Queens,Black,2009,Percent,0.56641,36081
+Queens,Black,2010,Percent,0.58878,36081
+Queens,Black,2011,Percent,0.58294,36081
+Queens,Black,2012,Percent,0.53797,36081
+Queens,Black,2013,Percent,0.5457,36081
+Queens,Black,2014,Percent,0.56756,36081
+Queens,Latino,2005,Percent,0.45853,36081
+Queens,Latino,2006,Percent,0.46656,36081
+Queens,Latino,2007,Percent,0.47866,36081
+Queens,Latino,2008,Percent,0.51327,36081
+Queens,Latino,2009,Percent,0.53192,36081
+Queens,Latino,2010,Percent,0.57829,36081
+Queens,Latino,2011,Percent,0.58347,36081
+Queens,Latino,2012,Percent,0.57568,36081
+Queens,Latino,2013,Percent,0.57312,36081
+Queens,Latino,2014,Percent,0.61119,36081
+Queens,White,2005,Percent,0.65311,36081
+Queens,White,2006,Percent,0.66654,36081
+Queens,White,2007,Percent,0.6905,36081
+Queens,White,2008,Percent,0.70389,36081
+Queens,White,2009,Percent,0.71502,36081
+Queens,White,2010,Percent,0.73376,36081
+Queens,White,2011,Percent,0.73554,36081
+Queens,White,2012,Percent,0.72539,36081
+Queens,White,2013,Percent,0.74848,36081
+Queens,White,2014,Percent,0.75584,36081
+Staten Island,Asian,2005,Percent,0.82154,36085
+Staten Island,Asian,2006,Percent,0.84936,36085
+Staten Island,Asian,2007,Percent,0.84123,36085
+Staten Island,Asian,2008,Percent,0.87879,36085
+Staten Island,Asian,2009,Percent,0.864,36085
+Staten Island,Asian,2010,Percent,0.89425,36085
+Staten Island,Asian,2011,Percent,0.91443,36085
+Staten Island,Asian,2012,Percent,0.91905,36085
+Staten Island,Asian,2013,Percent,0.89381,36085
+Staten Island,Asian,2014,Percent,0.94498,36085
+Staten Island,Black,2005,Percent,0.47708,36085
+Staten Island,Black,2006,Percent,0.52765,36085
+Staten Island,Black,2007,Percent,0.56268,36085
+Staten Island,Black,2008,Percent,0.52252,36085
+Staten Island,Black,2009,Percent,0.56915,36085
+Staten Island,Black,2010,Percent,0.58038,36085
+Staten Island,Black,2011,Percent,0.57688,36085
+Staten Island,Black,2012,Percent,0.57625,36085
+Staten Island,Black,2013,Percent,0.58035,36085
+Staten Island,Black,2014,Percent,0.63362,36085
+Staten Island,Latino,2005,Percent,0.54466,36085
+Staten Island,Latino,2006,Percent,0.50435,36085
+Staten Island,Latino,2007,Percent,0.52778,36085
+Staten Island,Latino,2008,Percent,0.53962,36085
+Staten Island,Latino,2009,Percent,0.541,36085
+Staten Island,Latino,2010,Percent,0.61591,36085
+Staten Island,Latino,2011,Percent,0.58859,36085
+Staten Island,Latino,2012,Percent,0.60511,36085
+Staten Island,Latino,2013,Percent,0.59553,36085
+Staten Island,Latino,2014,Percent,0.65613,36085
+Staten Island,White,2005,Percent,0.75278,36085
+Staten Island,White,2006,Percent,0.75676,36085
+Staten Island,White,2007,Percent,0.75536,36085
+Staten Island,White,2008,Percent,0.76329,36085
+Staten Island,White,2009,Percent,0.78846,36085
+Staten Island,White,2010,Percent,0.80387,36085
+Staten Island,White,2011,Percent,0.80358,36085
+Staten Island,White,2012,Percent,0.78746,36085
+Staten Island,White,2013,Percent,0.80129,36085
+Staten Island,White,2014,Percent,0.81753,36085
+Lower East Side,Asian,2005,Percent,0.86441,SD1
+Lower East Side,Asian,2006,Percent,0.64286,SD1
+Lower East Side,Asian,2007,Percent,0.53125,SD1
+Lower East Side,Asian,2008,Percent,0.64032,SD1
+Lower East Side,Asian,2009,Percent,0.5814,SD1
+Lower East Side,Asian,2010,Percent,0.66421,SD1
+Lower East Side,Asian,2011,Percent,0.69369,SD1
+Lower East Side,Asian,2012,Percent,0.67829,SD1
+Lower East Side,Asian,2013,Percent,0.55405,SD1
+Lower East Side,Asian,2014,Percent,0.46243,SD1
+Lower East Side,Black,2005,Percent,0.6988,SD1
+Lower East Side,Black,2006,Percent,0.54945,SD1
+Lower East Side,Black,2007,Percent,0.49541,SD1
+Lower East Side,Black,2008,Percent,0.6732,SD1
+Lower East Side,Black,2009,Percent,0.51111,SD1
+Lower East Side,Black,2010,Percent,0.52632,SD1
+Lower East Side,Black,2011,Percent,0.44105,SD1
+Lower East Side,Black,2012,Percent,0.49811,SD1
+Lower East Side,Black,2013,Percent,0.48047,SD1
+Lower East Side,Black,2014,Percent,0.48848,SD1
+Lower East Side,Latino,2005,Percent,0.52174,SD1
+Lower East Side,Latino,2006,Percent,0.4527,SD1
+Lower East Side,Latino,2007,Percent,0.47222,SD1
+Lower East Side,Latino,2008,Percent,0.53435,SD1
+Lower East Side,Latino,2009,Percent,0.55676,SD1
+Lower East Side,Latino,2010,Percent,0.50154,SD1
+Lower East Side,Latino,2011,Percent,0.47875,SD1
+Lower East Side,Latino,2012,Percent,0.46137,SD1
+Lower East Side,Latino,2013,Percent,0.4335,SD1
+Lower East Side,Latino,2014,Percent,0.41645,SD1
+Lower East Side,White,2005,Percent,0.90323,SD1
+Lower East Side,White,2006,Percent,0.89286,SD1
+Lower East Side,White,2007,Percent,0.81609,SD1
+Lower East Side,White,2008,Percent,0.87143,SD1
+Lower East Side,White,2009,Percent,0.85542,SD1
+Lower East Side,White,2010,Percent,0.91453,SD1
+Lower East Side,White,2011,Percent,0.87898,SD1
+Lower East Side,White,2012,Percent,0.83803,SD1
+Lower East Side,White,2013,Percent,0.89565,SD1
+Lower East Side,White,2014,Percent,0.88079,SD1
+"Stuyvesant Town, Upper E. Side",Asian,2005,Percent,0.80997,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2006,Percent,0.81254,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2007,Percent,0.79828,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2008,Percent,0.80875,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2009,Percent,0.84746,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2010,Percent,0.85471,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2011,Percent,0.84153,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2012,Percent,0.84245,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2013,Percent,0.82399,SD2
+"Stuyvesant Town, Upper E. Side",Asian,2014,Percent,0.85251,SD2
+"Stuyvesant Town, Upper E. Side",Black,2005,Percent,0.49675,SD2
+"Stuyvesant Town, Upper E. Side",Black,2006,Percent,0.51674,SD2
+"Stuyvesant Town, Upper E. Side",Black,2007,Percent,0.47042,SD2
+"Stuyvesant Town, Upper E. Side",Black,2008,Percent,0.50185,SD2
+"Stuyvesant Town, Upper E. Side",Black,2009,Percent,0.55329,SD2
+"Stuyvesant Town, Upper E. Side",Black,2010,Percent,0.58372,SD2
+"Stuyvesant Town, Upper E. Side",Black,2011,Percent,0.57102,SD2
+"Stuyvesant Town, Upper E. Side",Black,2012,Percent,0.57062,SD2
+"Stuyvesant Town, Upper E. Side",Black,2013,Percent,0.5699,SD2
+"Stuyvesant Town, Upper E. Side",Black,2014,Percent,0.61182,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2005,Percent,0.49795,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2006,Percent,0.50787,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2007,Percent,0.45896,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2008,Percent,0.51842,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2009,Percent,0.55445,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2010,Percent,0.5796,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2011,Percent,0.56717,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2012,Percent,0.5686,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2013,Percent,0.58324,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2014,Percent,0.6156,SD2
+"Stuyvesant Town, Upper E. Side",White,2005,Percent,0.82731,SD2
+"Stuyvesant Town, Upper E. Side",White,2006,Percent,0.80183,SD2
+"Stuyvesant Town, Upper E. Side",White,2007,Percent,0.79292,SD2
+"Stuyvesant Town, Upper E. Side",White,2008,Percent,0.77801,SD2
+"Stuyvesant Town, Upper E. Side",White,2009,Percent,0.82121,SD2
+"Stuyvesant Town, Upper E. Side",White,2010,Percent,0.80773,SD2
+"Stuyvesant Town, Upper E. Side",White,2011,Percent,0.78672,SD2
+"Stuyvesant Town, Upper E. Side",White,2012,Percent,0.80235,SD2
+"Stuyvesant Town, Upper E. Side",White,2013,Percent,0.79696,SD2
+"Stuyvesant Town, Upper E. Side",White,2014,Percent,0.79528,SD2
+Upper West Side,Asian,2005,Percent,0.89209,SD3
+Upper West Side,Asian,2006,Percent,0.92414,SD3
+Upper West Side,Asian,2007,Percent,0.92568,SD3
+Upper West Side,Asian,2008,Percent,0.92486,SD3
+Upper West Side,Asian,2009,Percent,0.93333,SD3
+Upper West Side,Asian,2010,Percent,0.93846,SD3
+Upper West Side,Asian,2011,Percent,0.72862,SD3
+Upper West Side,Asian,2012,Percent,0.79386,SD3
+Upper West Side,Asian,2013,Percent,0.9,SD3
+Upper West Side,Asian,2014,Percent,0.91342,SD3
+Upper West Side,Black,2005,Percent,0.62183,SD3
+Upper West Side,Black,2006,Percent,0.60749,SD3
+Upper West Side,Black,2007,Percent,0.53379,SD3
+Upper West Side,Black,2008,Percent,0.57018,SD3
+Upper West Side,Black,2009,Percent,0.59283,SD3
+Upper West Side,Black,2010,Percent,0.60905,SD3
+Upper West Side,Black,2011,Percent,0.55485,SD3
+Upper West Side,Black,2012,Percent,0.54185,SD3
+Upper West Side,Black,2013,Percent,0.5885,SD3
+Upper West Side,Black,2014,Percent,0.61745,SD3
+Upper West Side,Latino,2005,Percent,0.5409,SD3
+Upper West Side,Latino,2006,Percent,0.52874,SD3
+Upper West Side,Latino,2007,Percent,0.4669,SD3
+Upper West Side,Latino,2008,Percent,0.50384,SD3
+Upper West Side,Latino,2009,Percent,0.54228,SD3
+Upper West Side,Latino,2010,Percent,0.52686,SD3
+Upper West Side,Latino,2011,Percent,0.51838,SD3
+Upper West Side,Latino,2012,Percent,0.51176,SD3
+Upper West Side,Latino,2013,Percent,0.51111,SD3
+Upper West Side,Latino,2014,Percent,0.60112,SD3
+Upper West Side,White,2005,Percent,0.87533,SD3
+Upper West Side,White,2006,Percent,0.90686,SD3
+Upper West Side,White,2007,Percent,0.92,SD3
+Upper West Side,White,2008,Percent,0.91892,SD3
+Upper West Side,White,2009,Percent,0.9379,SD3
+Upper West Side,White,2010,Percent,0.94845,SD3
+Upper West Side,White,2011,Percent,0.94612,SD3
+Upper West Side,White,2012,Percent,0.93361,SD3
+Upper West Side,White,2013,Percent,0.89669,SD3
+Upper West Side,White,2014,Percent,0.90104,SD3
+East Harlem,Asian,2005,Percent,0.7234,SD4
+East Harlem,Asian,2006,Percent,0.83333,SD4
+East Harlem,Asian,2007,Percent,0.87755,SD4
+East Harlem,Asian,2008,Percent,0.84615,SD4
+East Harlem,Asian,2009,Percent,0.88636,SD4
+East Harlem,Asian,2010,Percent,0.87654,SD4
+East Harlem,Asian,2011,Percent,0.94898,SD4
+East Harlem,Asian,2012,Percent,0.91429,SD4
+East Harlem,Asian,2013,Percent,0.91919,SD4
+East Harlem,Asian,2014,Percent,0.90826,SD4
+East Harlem,Black,2005,Percent,0.53759,SD4
+East Harlem,Black,2006,Percent,0.62452,SD4
+East Harlem,Black,2007,Percent,0.63636,SD4
+East Harlem,Black,2008,Percent,0.63913,SD4
+East Harlem,Black,2009,Percent,0.57096,SD4
+East Harlem,Black,2010,Percent,0.62595,SD4
+East Harlem,Black,2011,Percent,0.58163,SD4
+East Harlem,Black,2012,Percent,0.609,SD4
+East Harlem,Black,2013,Percent,0.67424,SD4
+East Harlem,Black,2014,Percent,0.69291,SD4
+East Harlem,Latino,2005,Percent,0.59034,SD4
+East Harlem,Latino,2006,Percent,0.66023,SD4
+East Harlem,Latino,2007,Percent,0.65207,SD4
+East Harlem,Latino,2008,Percent,0.63063,SD4
+East Harlem,Latino,2009,Percent,0.68809,SD4
+East Harlem,Latino,2010,Percent,0.72937,SD4
+East Harlem,Latino,2011,Percent,0.62018,SD4
+East Harlem,Latino,2012,Percent,0.67938,SD4
+East Harlem,Latino,2013,Percent,0.72474,SD4
+East Harlem,Latino,2014,Percent,0.76404,SD4
+East Harlem,White,2005,Percent,0.7619,SD4
+East Harlem,White,2006,Percent,0.68182,SD4
+East Harlem,White,2007,Percent,No Data,SD4
+East Harlem,White,2008,Percent,No Data,SD4
+East Harlem,White,2009,Percent,0.78261,SD4
+East Harlem,White,2010,Percent,0.88462,SD4
+East Harlem,White,2011,Percent,No Data,SD4
+East Harlem,White,2012,Percent,0.79167,SD4
+East Harlem,White,2013,Percent,No Data,SD4
+East Harlem,White,2014,Percent,No Data,SD4
+Central Harlem,Asian,2005,Percent,No Data,SD5
+Central Harlem,Asian,2006,Percent,No Data,SD5
+Central Harlem,Asian,2007,Percent,No Data,SD5
+Central Harlem,Asian,2008,Percent,0.94595,SD5
+Central Harlem,Asian,2009,Percent,0.97222,SD5
+Central Harlem,Asian,2010,Percent,0.97059,SD5
+Central Harlem,Asian,2011,Percent,0.97222,SD5
+Central Harlem,Asian,2012,Percent,0.87805,SD5
+Central Harlem,Asian,2013,Percent,0.90909,SD5
+Central Harlem,Asian,2014,Percent,0.92157,SD5
+Central Harlem,Black,2005,Percent,0.74242,SD5
+Central Harlem,Black,2006,Percent,0.66452,SD5
+Central Harlem,Black,2007,Percent,0.6129,SD5
+Central Harlem,Black,2008,Percent,0.52392,SD5
+Central Harlem,Black,2009,Percent,0.60913,SD5
+Central Harlem,Black,2010,Percent,0.58366,SD5
+Central Harlem,Black,2011,Percent,0.59796,SD5
+Central Harlem,Black,2012,Percent,0.53859,SD5
+Central Harlem,Black,2013,Percent,0.54562,SD5
+Central Harlem,Black,2014,Percent,0.55064,SD5
+Central Harlem,Latino,2005,Percent,0.62963,SD5
+Central Harlem,Latino,2006,Percent,0.53086,SD5
+Central Harlem,Latino,2007,Percent,0.44961,SD5
+Central Harlem,Latino,2008,Percent,0.58935,SD5
+Central Harlem,Latino,2009,Percent,0.63455,SD5
+Central Harlem,Latino,2010,Percent,0.63415,SD5
+Central Harlem,Latino,2011,Percent,0.57879,SD5
+Central Harlem,Latino,2012,Percent,0.47093,SD5
+Central Harlem,Latino,2013,Percent,0.54121,SD5
+Central Harlem,Latino,2014,Percent,0.575,SD5
+Central Harlem,White,2005,Percent,No Data,SD5
+Central Harlem,White,2006,Percent,No Data,SD5
+Central Harlem,White,2007,Percent,No Data,SD5
+Central Harlem,White,2008,Percent,0.89474,SD5
+Central Harlem,White,2009,Percent,0.87879,SD5
+Central Harlem,White,2010,Percent,0.84615,SD5
+Central Harlem,White,2011,Percent,0.93939,SD5
+Central Harlem,White,2012,Percent,0.92857,SD5
+Central Harlem,White,2013,Percent,0.86842,SD5
+Central Harlem,White,2014,Percent,0.86364,SD5
+Washington Heights,Asian,2005,Percent,No Data,SD6
+Washington Heights,Asian,2006,Percent,0.225,SD6
+Washington Heights,Asian,2007,Percent,0.92593,SD6
+Washington Heights,Asian,2008,Percent,No Data,SD6
+Washington Heights,Asian,2009,Percent,No Data,SD6
+Washington Heights,Asian,2010,Percent,No Data,SD6
+Washington Heights,Asian,2011,Percent,No Data,SD6
+Washington Heights,Asian,2012,Percent,No Data,SD6
+Washington Heights,Asian,2013,Percent,0.72727,SD6
+Washington Heights,Asian,2014,Percent,No Data,SD6
+Washington Heights,Black,2005,Percent,0.62673,SD6
+Washington Heights,Black,2006,Percent,0.48936,SD6
+Washington Heights,Black,2007,Percent,0.5847,SD6
+Washington Heights,Black,2008,Percent,0.49714,SD6
+Washington Heights,Black,2009,Percent,0.71552,SD6
+Washington Heights,Black,2010,Percent,0.63768,SD6
+Washington Heights,Black,2011,Percent,0.65854,SD6
+Washington Heights,Black,2012,Percent,0.56977,SD6
+Washington Heights,Black,2013,Percent,0.56109,SD6
+Washington Heights,Black,2014,Percent,0.60377,SD6
+Washington Heights,Latino,2005,Percent,0.60536,SD6
+Washington Heights,Latino,2006,Percent,0.54334,SD6
+Washington Heights,Latino,2007,Percent,0.63889,SD6
+Washington Heights,Latino,2008,Percent,0.64229,SD6
+Washington Heights,Latino,2009,Percent,0.69398,SD6
+Washington Heights,Latino,2010,Percent,0.67149,SD6
+Washington Heights,Latino,2011,Percent,0.60453,SD6
+Washington Heights,Latino,2012,Percent,0.58781,SD6
+Washington Heights,Latino,2013,Percent,0.56905,SD6
+Washington Heights,Latino,2014,Percent,0.59139,SD6
+Washington Heights,White,2005,Percent,No Data,SD6
+Washington Heights,White,2006,Percent,0.08696,SD6
+Washington Heights,White,2007,Percent,No Data,SD6
+Washington Heights,White,2008,Percent,No Data,SD6
+Washington Heights,White,2009,Percent,No Data,SD6
+Washington Heights,White,2010,Percent,No Data,SD6
+Washington Heights,White,2011,Percent,No Data,SD6
+Washington Heights,White,2012,Percent,No Data,SD6
+Washington Heights,White,2013,Percent,No Data,SD6
+Washington Heights,White,2014,Percent,No Data,SD6
+Mott Haven,Asian,2005,Percent,No Data,SD7
+Mott Haven,Asian,2006,Percent,No Data,SD7
+Mott Haven,Asian,2007,Percent,No Data,SD7
+Mott Haven,Asian,2008,Percent,0.86957,SD7
+Mott Haven,Asian,2009,Percent,0.84,SD7
+Mott Haven,Asian,2010,Percent,0.5,SD7
+Mott Haven,Asian,2011,Percent,0.6129,SD7
+Mott Haven,Asian,2012,Percent,0.68966,SD7
+Mott Haven,Asian,2013,Percent,0.53571,SD7
+Mott Haven,Asian,2014,Percent,0.65625,SD7
+Mott Haven,Black,2005,Percent,0.51304,SD7
+Mott Haven,Black,2006,Percent,0.5393,SD7
+Mott Haven,Black,2007,Percent,0.53409,SD7
+Mott Haven,Black,2008,Percent,0.5186,SD7
+Mott Haven,Black,2009,Percent,0.51262,SD7
+Mott Haven,Black,2010,Percent,0.514,SD7
+Mott Haven,Black,2011,Percent,0.48013,SD7
+Mott Haven,Black,2012,Percent,0.52632,SD7
+Mott Haven,Black,2013,Percent,0.50598,SD7
+Mott Haven,Black,2014,Percent,0.52621,SD7
+Mott Haven,Latino,2005,Percent,0.52716,SD7
+Mott Haven,Latino,2006,Percent,0.58108,SD7
+Mott Haven,Latino,2007,Percent,0.54568,SD7
+Mott Haven,Latino,2008,Percent,0.55126,SD7
+Mott Haven,Latino,2009,Percent,0.50446,SD7
+Mott Haven,Latino,2010,Percent,0.52716,SD7
+Mott Haven,Latino,2011,Percent,0.51565,SD7
+Mott Haven,Latino,2012,Percent,0.46393,SD7
+Mott Haven,Latino,2013,Percent,0.42139,SD7
+Mott Haven,Latino,2014,Percent,0.46116,SD7
+Mott Haven,White,2005,Percent,No Data,SD7
+Mott Haven,White,2006,Percent,No Data,SD7
+Mott Haven,White,2007,Percent,No Data,SD7
+Mott Haven,White,2008,Percent,No Data,SD7
+Mott Haven,White,2009,Percent,No Data,SD7
+Mott Haven,White,2010,Percent,No Data,SD7
+Mott Haven,White,2011,Percent,No Data,SD7
+Mott Haven,White,2012,Percent,No Data,SD7
+Mott Haven,White,2013,Percent,No Data,SD7
+Mott Haven,White,2014,Percent,No Data,SD7
+"Hunts Point, Port Morris",Asian,2005,Percent,0.64835,SD8
+"Hunts Point, Port Morris",Asian,2006,Percent,0.57609,SD8
+"Hunts Point, Port Morris",Asian,2007,Percent,0.64286,SD8
+"Hunts Point, Port Morris",Asian,2008,Percent,0.62857,SD8
+"Hunts Point, Port Morris",Asian,2009,Percent,0.76596,SD8
+"Hunts Point, Port Morris",Asian,2010,Percent,0.60215,SD8
+"Hunts Point, Port Morris",Asian,2011,Percent,0.63462,SD8
+"Hunts Point, Port Morris",Asian,2012,Percent,0.5566,SD8
+"Hunts Point, Port Morris",Asian,2013,Percent,0.6381,SD8
+"Hunts Point, Port Morris",Asian,2014,Percent,0.61111,SD8
+"Hunts Point, Port Morris",Black,2005,Percent,0.45972,SD8
+"Hunts Point, Port Morris",Black,2006,Percent,0.39943,SD8
+"Hunts Point, Port Morris",Black,2007,Percent,0.39317,SD8
+"Hunts Point, Port Morris",Black,2008,Percent,0.3887,SD8
+"Hunts Point, Port Morris",Black,2009,Percent,0.40263,SD8
+"Hunts Point, Port Morris",Black,2010,Percent,0.45121,SD8
+"Hunts Point, Port Morris",Black,2011,Percent,0.43976,SD8
+"Hunts Point, Port Morris",Black,2012,Percent,0.41016,SD8
+"Hunts Point, Port Morris",Black,2013,Percent,0.4042,SD8
+"Hunts Point, Port Morris",Black,2014,Percent,0.44372,SD8
+"Hunts Point, Port Morris",Latino,2005,Percent,0.41703,SD8
+"Hunts Point, Port Morris",Latino,2006,Percent,0.38032,SD8
+"Hunts Point, Port Morris",Latino,2007,Percent,0.36142,SD8
+"Hunts Point, Port Morris",Latino,2008,Percent,0.39093,SD8
+"Hunts Point, Port Morris",Latino,2009,Percent,0.40801,SD8
+"Hunts Point, Port Morris",Latino,2010,Percent,0.42765,SD8
+"Hunts Point, Port Morris",Latino,2011,Percent,0.42484,SD8
+"Hunts Point, Port Morris",Latino,2012,Percent,0.38611,SD8
+"Hunts Point, Port Morris",Latino,2013,Percent,0.4047,SD8
+"Hunts Point, Port Morris",Latino,2014,Percent,0.43243,SD8
+"Hunts Point, Port Morris",White,2005,Percent,0.54315,SD8
+"Hunts Point, Port Morris",White,2006,Percent,0.46497,SD8
+"Hunts Point, Port Morris",White,2007,Percent,0.52695,SD8
+"Hunts Point, Port Morris",White,2008,Percent,0.54217,SD8
+"Hunts Point, Port Morris",White,2009,Percent,0.48052,SD8
+"Hunts Point, Port Morris",White,2010,Percent,0.45255,SD8
+"Hunts Point, Port Morris",White,2011,Percent,0.52448,SD8
+"Hunts Point, Port Morris",White,2012,Percent,0.43363,SD8
+"Hunts Point, Port Morris",White,2013,Percent,0.5,SD8
+"Hunts Point, Port Morris",White,2014,Percent,0.52727,SD8
+"East Tremont, Morris Heights",Asian,2005,Percent,No Data,SD9
+"East Tremont, Morris Heights",Asian,2006,Percent,No Data,SD9
+"East Tremont, Morris Heights",Asian,2007,Percent,No Data,SD9
+"East Tremont, Morris Heights",Asian,2008,Percent,0.77143,SD9
+"East Tremont, Morris Heights",Asian,2009,Percent,0.96552,SD9
+"East Tremont, Morris Heights",Asian,2010,Percent,0.91176,SD9
+"East Tremont, Morris Heights",Asian,2011,Percent,0.81818,SD9
+"East Tremont, Morris Heights",Asian,2012,Percent,0.83333,SD9
+"East Tremont, Morris Heights",Asian,2013,Percent,0.825,SD9
+"East Tremont, Morris Heights",Asian,2014,Percent,0.72727,SD9
+"East Tremont, Morris Heights",Black,2005,Percent,0.41925,SD9
+"East Tremont, Morris Heights",Black,2006,Percent,0.46041,SD9
+"East Tremont, Morris Heights",Black,2007,Percent,0.53924,SD9
+"East Tremont, Morris Heights",Black,2008,Percent,0.65724,SD9
+"East Tremont, Morris Heights",Black,2009,Percent,0.67552,SD9
+"East Tremont, Morris Heights",Black,2010,Percent,0.64361,SD9
+"East Tremont, Morris Heights",Black,2011,Percent,0.56485,SD9
+"East Tremont, Morris Heights",Black,2012,Percent,0.55062,SD9
+"East Tremont, Morris Heights",Black,2013,Percent,0.5708,SD9
+"East Tremont, Morris Heights",Black,2014,Percent,0.56643,SD9
+"East Tremont, Morris Heights",Latino,2005,Percent,0.33131,SD9
+"East Tremont, Morris Heights",Latino,2006,Percent,0.45816,SD9
+"East Tremont, Morris Heights",Latino,2007,Percent,0.45168,SD9
+"East Tremont, Morris Heights",Latino,2008,Percent,0.57726,SD9
+"East Tremont, Morris Heights",Latino,2009,Percent,0.66667,SD9
+"East Tremont, Morris Heights",Latino,2010,Percent,0.60136,SD9
+"East Tremont, Morris Heights",Latino,2011,Percent,0.55075,SD9
+"East Tremont, Morris Heights",Latino,2012,Percent,0.54948,SD9
+"East Tremont, Morris Heights",Latino,2013,Percent,0.54795,SD9
+"East Tremont, Morris Heights",Latino,2014,Percent,0.54674,SD9
+"East Tremont, Morris Heights",White,2005,Percent,No Data,SD9
+"East Tremont, Morris Heights",White,2006,Percent,No Data,SD9
+"East Tremont, Morris Heights",White,2007,Percent,No Data,SD9
+"East Tremont, Morris Heights",White,2008,Percent,0.59091,SD9
+"East Tremont, Morris Heights",White,2009,Percent,No Data,SD9
+"East Tremont, Morris Heights",White,2010,Percent,No Data,SD9
+"East Tremont, Morris Heights",White,2011,Percent,0.63636,SD9
+"East Tremont, Morris Heights",White,2012,Percent,0.69565,SD9
+"East Tremont, Morris Heights",White,2013,Percent,No Data,SD9
+"East Tremont, Morris Heights",White,2014,Percent,0.45455,SD9
+"Riverdale, Kingsbridge, Fordham",Asian,2005,Percent,0.84615,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2006,Percent,0.85491,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2007,Percent,0.93103,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2008,Percent,0.92828,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2009,Percent,0.92673,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2010,Percent,0.92945,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2011,Percent,0.93934,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2012,Percent,0.92208,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2013,Percent,0.90895,SD10
+"Riverdale, Kingsbridge, Fordham",Asian,2014,Percent,0.92379,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2005,Percent,0.44286,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2006,Percent,0.46928,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2007,Percent,0.53464,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2008,Percent,0.55683,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2009,Percent,0.58306,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2010,Percent,0.59237,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2011,Percent,0.54808,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2012,Percent,0.54188,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2013,Percent,0.534,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2014,Percent,0.56919,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2005,Percent,0.36489,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2006,Percent,0.38494,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2007,Percent,0.44808,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2008,Percent,0.50886,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2009,Percent,0.54345,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2010,Percent,0.52618,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2011,Percent,0.50897,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2012,Percent,0.46102,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2013,Percent,0.49183,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2014,Percent,0.48747,SD10
+"Riverdale, Kingsbridge, Fordham",White,2005,Percent,0.81744,SD10
+"Riverdale, Kingsbridge, Fordham",White,2006,Percent,0.84615,SD10
+"Riverdale, Kingsbridge, Fordham",White,2007,Percent,0.84227,SD10
+"Riverdale, Kingsbridge, Fordham",White,2008,Percent,0.86006,SD10
+"Riverdale, Kingsbridge, Fordham",White,2009,Percent,0.84545,SD10
+"Riverdale, Kingsbridge, Fordham",White,2010,Percent,0.84638,SD10
+"Riverdale, Kingsbridge, Fordham",White,2011,Percent,0.87989,SD10
+"Riverdale, Kingsbridge, Fordham",White,2012,Percent,0.87778,SD10
+"Riverdale, Kingsbridge, Fordham",White,2013,Percent,0.88857,SD10
+"Riverdale, Kingsbridge, Fordham",White,2014,Percent,0.91545,SD10
+"Eastchester, Baychester, Co-op City",Asian,2005,Percent,0.61446,SD11
+"Eastchester, Baychester, Co-op City",Asian,2006,Percent,0.47917,SD11
+"Eastchester, Baychester, Co-op City",Asian,2007,Percent,0.59259,SD11
+"Eastchester, Baychester, Co-op City",Asian,2008,Percent,0.61842,SD11
+"Eastchester, Baychester, Co-op City",Asian,2009,Percent,0.66667,SD11
+"Eastchester, Baychester, Co-op City",Asian,2010,Percent,0.75269,SD11
+"Eastchester, Baychester, Co-op City",Asian,2011,Percent,0.78313,SD11
+"Eastchester, Baychester, Co-op City",Asian,2012,Percent,0.68132,SD11
+"Eastchester, Baychester, Co-op City",Asian,2013,Percent,0.62222,SD11
+"Eastchester, Baychester, Co-op City",Asian,2014,Percent,0.76623,SD11
+"Eastchester, Baychester, Co-op City",Black,2005,Percent,0.45755,SD11
+"Eastchester, Baychester, Co-op City",Black,2006,Percent,0.48305,SD11
+"Eastchester, Baychester, Co-op City",Black,2007,Percent,0.5722,SD11
+"Eastchester, Baychester, Co-op City",Black,2008,Percent,0.6269,SD11
+"Eastchester, Baychester, Co-op City",Black,2009,Percent,0.60052,SD11
+"Eastchester, Baychester, Co-op City",Black,2010,Percent,0.62203,SD11
+"Eastchester, Baychester, Co-op City",Black,2011,Percent,0.57912,SD11
+"Eastchester, Baychester, Co-op City",Black,2012,Percent,0.58643,SD11
+"Eastchester, Baychester, Co-op City",Black,2013,Percent,0.62981,SD11
+"Eastchester, Baychester, Co-op City",Black,2014,Percent,0.66858,SD11
+"Eastchester, Baychester, Co-op City",Latino,2005,Percent,0.32583,SD11
+"Eastchester, Baychester, Co-op City",Latino,2006,Percent,0.43419,SD11
+"Eastchester, Baychester, Co-op City",Latino,2007,Percent,0.45861,SD11
+"Eastchester, Baychester, Co-op City",Latino,2008,Percent,0.55321,SD11
+"Eastchester, Baychester, Co-op City",Latino,2009,Percent,0.55624,SD11
+"Eastchester, Baychester, Co-op City",Latino,2010,Percent,0.55009,SD11
+"Eastchester, Baychester, Co-op City",Latino,2011,Percent,0.52981,SD11
+"Eastchester, Baychester, Co-op City",Latino,2012,Percent,0.49245,SD11
+"Eastchester, Baychester, Co-op City",Latino,2013,Percent,0.53783,SD11
+"Eastchester, Baychester, Co-op City",Latino,2014,Percent,0.57657,SD11
+"Eastchester, Baychester, Co-op City",White,2005,Percent,0.38525,SD11
+"Eastchester, Baychester, Co-op City",White,2006,Percent,0.51376,SD11
+"Eastchester, Baychester, Co-op City",White,2007,Percent,0.4902,SD11
+"Eastchester, Baychester, Co-op City",White,2008,Percent,0.55046,SD11
+"Eastchester, Baychester, Co-op City",White,2009,Percent,0.5,SD11
+"Eastchester, Baychester, Co-op City",White,2010,Percent,0.6036,SD11
+"Eastchester, Baychester, Co-op City",White,2011,Percent,0.44944,SD11
+"Eastchester, Baychester, Co-op City",White,2012,Percent,0.54082,SD11
+"Eastchester, Baychester, Co-op City",White,2013,Percent,0.63208,SD11
+"Eastchester, Baychester, Co-op City",White,2014,Percent,0.58108,SD11
+"Crotona Park, Morrisania, Melrose",Asian,2005,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2006,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2007,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2008,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2009,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2010,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2011,Percent,0.45455,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2012,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2013,Percent,0.6,SD12
+"Crotona Park, Morrisania, Melrose",Asian,2014,Percent,0.62963,SD12
+"Crotona Park, Morrisania, Melrose",Black,2005,Percent,0.36842,SD12
+"Crotona Park, Morrisania, Melrose",Black,2006,Percent,0.43243,SD12
+"Crotona Park, Morrisania, Melrose",Black,2007,Percent,0.41391,SD12
+"Crotona Park, Morrisania, Melrose",Black,2008,Percent,0.44237,SD12
+"Crotona Park, Morrisania, Melrose",Black,2009,Percent,0.53797,SD12
+"Crotona Park, Morrisania, Melrose",Black,2010,Percent,0.50328,SD12
+"Crotona Park, Morrisania, Melrose",Black,2011,Percent,0.39312,SD12
+"Crotona Park, Morrisania, Melrose",Black,2012,Percent,0.37149,SD12
+"Crotona Park, Morrisania, Melrose",Black,2013,Percent,0.42585,SD12
+"Crotona Park, Morrisania, Melrose",Black,2014,Percent,0.48174,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2005,Percent,0.37057,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2006,Percent,0.3558,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2007,Percent,0.40935,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2008,Percent,0.44604,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2009,Percent,0.45548,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2010,Percent,0.50542,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2011,Percent,0.40443,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2012,Percent,0.38538,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2013,Percent,0.4337,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2014,Percent,0.48767,SD12
+"Crotona Park, Morrisania, Melrose",White,2005,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2006,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2007,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2008,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2009,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2010,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2011,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2012,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2013,Percent,No Data,SD12
+"Crotona Park, Morrisania, Melrose",White,2014,Percent,No Data,SD12
+"Brooklyn Hts, Downtown Brooklyn",Asian,2005,Percent,0.91991,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2006,Percent,0.92798,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2007,Percent,0.92537,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2008,Percent,0.9297,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2009,Percent,0.88994,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2010,Percent,0.92253,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2011,Percent,0.93261,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2012,Percent,0.92232,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2013,Percent,0.92832,SD13
+"Brooklyn Hts, Downtown Brooklyn",Asian,2014,Percent,0.92936,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2005,Percent,0.64151,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2006,Percent,0.66982,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2007,Percent,0.66252,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2008,Percent,0.69808,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2009,Percent,0.66993,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2010,Percent,0.67158,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2011,Percent,0.62685,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2012,Percent,0.63368,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2013,Percent,0.65991,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2014,Percent,0.67718,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2005,Percent,0.64115,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2006,Percent,0.62791,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2007,Percent,0.59483,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2008,Percent,0.64417,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2009,Percent,0.66765,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2010,Percent,0.63784,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2011,Percent,0.61918,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2012,Percent,0.60345,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2013,Percent,0.60417,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2014,Percent,0.63836,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2005,Percent,0.89796,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2006,Percent,0.92698,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2007,Percent,0.86937,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2008,Percent,0.92086,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2009,Percent,0.90873,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2010,Percent,0.85185,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2011,Percent,0.89494,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2012,Percent,0.86598,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2013,Percent,0.95987,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2014,Percent,0.91379,SD13
+"Williamsburg, Greenpoint",Asian,2005,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Asian,2006,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Asian,2007,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Asian,2008,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Asian,2009,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Asian,2010,Percent,No Data,SD14
+"Williamsburg, Greenpoint",Asian,2011,Percent,0.83333,SD14
+"Williamsburg, Greenpoint",Asian,2012,Percent,0.92857,SD14
+"Williamsburg, Greenpoint",Asian,2013,Percent,0.86885,SD14
+"Williamsburg, Greenpoint",Asian,2014,Percent,0.88158,SD14
+"Williamsburg, Greenpoint",Black,2005,Percent,0.47384,SD14
+"Williamsburg, Greenpoint",Black,2006,Percent,0.53713,SD14
+"Williamsburg, Greenpoint",Black,2007,Percent,0.5615,SD14
+"Williamsburg, Greenpoint",Black,2008,Percent,0.63768,SD14
+"Williamsburg, Greenpoint",Black,2009,Percent,0.66074,SD14
+"Williamsburg, Greenpoint",Black,2010,Percent,0.67837,SD14
+"Williamsburg, Greenpoint",Black,2011,Percent,0.64484,SD14
+"Williamsburg, Greenpoint",Black,2012,Percent,0.64648,SD14
+"Williamsburg, Greenpoint",Black,2013,Percent,0.57687,SD14
+"Williamsburg, Greenpoint",Black,2014,Percent,0.62225,SD14
+"Williamsburg, Greenpoint",Latino,2005,Percent,0.48837,SD14
+"Williamsburg, Greenpoint",Latino,2006,Percent,0.52703,SD14
+"Williamsburg, Greenpoint",Latino,2007,Percent,0.54174,SD14
+"Williamsburg, Greenpoint",Latino,2008,Percent,0.61066,SD14
+"Williamsburg, Greenpoint",Latino,2009,Percent,0.64431,SD14
+"Williamsburg, Greenpoint",Latino,2010,Percent,0.62606,SD14
+"Williamsburg, Greenpoint",Latino,2011,Percent,0.61139,SD14
+"Williamsburg, Greenpoint",Latino,2012,Percent,0.62706,SD14
+"Williamsburg, Greenpoint",Latino,2013,Percent,0.53609,SD14
+"Williamsburg, Greenpoint",Latino,2014,Percent,0.59781,SD14
+"Williamsburg, Greenpoint",White,2005,Percent,0.44,SD14
+"Williamsburg, Greenpoint",White,2006,Percent,No Data,SD14
+"Williamsburg, Greenpoint",White,2007,Percent,0.28571,SD14
+"Williamsburg, Greenpoint",White,2008,Percent,0.57576,SD14
+"Williamsburg, Greenpoint",White,2009,Percent,0.59375,SD14
+"Williamsburg, Greenpoint",White,2010,Percent,0.64444,SD14
+"Williamsburg, Greenpoint",White,2011,Percent,0.55769,SD14
+"Williamsburg, Greenpoint",White,2012,Percent,0.65517,SD14
+"Williamsburg, Greenpoint",White,2013,Percent,0.54098,SD14
+"Williamsburg, Greenpoint",White,2014,Percent,0.60377,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2005,Percent,0.54545,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2006,Percent,No Data,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2007,Percent,0.61905,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2008,Percent,0.68421,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2009,Percent,0.51111,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2010,Percent,0.58333,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2011,Percent,0.46341,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2012,Percent,0.54167,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2013,Percent,0.68182,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2014,Percent,0.60294,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2005,Percent,0.52837,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2006,Percent,0.45333,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2007,Percent,0.4784,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2008,Percent,0.52902,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2009,Percent,0.58656,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2010,Percent,0.57826,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2011,Percent,0.53538,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2012,Percent,0.61465,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2013,Percent,0.69793,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2014,Percent,0.6639,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2005,Percent,0.36579,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2006,Percent,0.32778,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2007,Percent,0.32335,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2008,Percent,0.3436,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2009,Percent,0.42065,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2010,Percent,0.39348,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2011,Percent,0.43844,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2012,Percent,0.44612,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2013,Percent,0.53014,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2014,Percent,0.51858,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2005,Percent,0.375,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2006,Percent,0.47692,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2007,Percent,0.38,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2008,Percent,0.46667,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2009,Percent,0.43182,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2010,Percent,0.42188,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2011,Percent,0.40625,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2012,Percent,0.41667,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2013,Percent,0.48544,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2014,Percent,0.50495,SD15
+Bedford Stuyvesant,Asian,2005,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2006,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2007,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2008,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2009,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2010,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2011,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2012,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2013,Percent,No Data,SD16
+Bedford Stuyvesant,Asian,2014,Percent,No Data,SD16
+Bedford Stuyvesant,Black,2005,Percent,0.47027,SD16
+Bedford Stuyvesant,Black,2006,Percent,0.42984,SD16
+Bedford Stuyvesant,Black,2007,Percent,0.37679,SD16
+Bedford Stuyvesant,Black,2008,Percent,0.42962,SD16
+Bedford Stuyvesant,Black,2009,Percent,0.40898,SD16
+Bedford Stuyvesant,Black,2010,Percent,0.41873,SD16
+Bedford Stuyvesant,Black,2011,Percent,0.42387,SD16
+Bedford Stuyvesant,Black,2012,Percent,0.35549,SD16
+Bedford Stuyvesant,Black,2013,Percent,0.40446,SD16
+Bedford Stuyvesant,Black,2014,Percent,0.39575,SD16
+Bedford Stuyvesant,Latino,2005,Percent,0.25,SD16
+Bedford Stuyvesant,Latino,2006,Percent,0.23529,SD16
+Bedford Stuyvesant,Latino,2007,Percent,0.24675,SD16
+Bedford Stuyvesant,Latino,2008,Percent,0.23333,SD16
+Bedford Stuyvesant,Latino,2009,Percent,0.26389,SD16
+Bedford Stuyvesant,Latino,2010,Percent,0.31579,SD16
+Bedford Stuyvesant,Latino,2011,Percent,0.46078,SD16
+Bedford Stuyvesant,Latino,2012,Percent,0.37662,SD16
+Bedford Stuyvesant,Latino,2013,Percent,0.32979,SD16
+Bedford Stuyvesant,Latino,2014,Percent,0.43564,SD16
+Bedford Stuyvesant,White,2005,Percent,No Data,SD16
+Bedford Stuyvesant,White,2006,Percent,No Data,SD16
+Bedford Stuyvesant,White,2007,Percent,No Data,SD16
+Bedford Stuyvesant,White,2008,Percent,No Data,SD16
+Bedford Stuyvesant,White,2009,Percent,No Data,SD16
+Bedford Stuyvesant,White,2010,Percent,No Data,SD16
+Bedford Stuyvesant,White,2011,Percent,No Data,SD16
+Bedford Stuyvesant,White,2012,Percent,No Data,SD16
+Bedford Stuyvesant,White,2013,Percent,No Data,SD16
+Bedford Stuyvesant,White,2014,Percent,No Data,SD16
+Crown Heights,Asian,2005,Percent,0.37143,SD17
+Crown Heights,Asian,2006,Percent,0.59375,SD17
+Crown Heights,Asian,2007,Percent,0.73913,SD17
+Crown Heights,Asian,2008,Percent,0.65574,SD17
+Crown Heights,Asian,2009,Percent,0.64912,SD17
+Crown Heights,Asian,2010,Percent,0.72973,SD17
+Crown Heights,Asian,2011,Percent,0.68,SD17
+Crown Heights,Asian,2012,Percent,0.69565,SD17
+Crown Heights,Asian,2013,Percent,0.77419,SD17
+Crown Heights,Asian,2014,Percent,0.58333,SD17
+Crown Heights,Black,2005,Percent,0.46565,SD17
+Crown Heights,Black,2006,Percent,0.51031,SD17
+Crown Heights,Black,2007,Percent,0.60037,SD17
+Crown Heights,Black,2008,Percent,0.61078,SD17
+Crown Heights,Black,2009,Percent,0.60867,SD17
+Crown Heights,Black,2010,Percent,0.60782,SD17
+Crown Heights,Black,2011,Percent,0.56664,SD17
+Crown Heights,Black,2012,Percent,0.59989,SD17
+Crown Heights,Black,2013,Percent,0.61644,SD17
+Crown Heights,Black,2014,Percent,0.67266,SD17
+Crown Heights,Latino,2005,Percent,0.34135,SD17
+Crown Heights,Latino,2006,Percent,0.42169,SD17
+Crown Heights,Latino,2007,Percent,0.51553,SD17
+Crown Heights,Latino,2008,Percent,0.52752,SD17
+Crown Heights,Latino,2009,Percent,0.4877,SD17
+Crown Heights,Latino,2010,Percent,0.47222,SD17
+Crown Heights,Latino,2011,Percent,0.43295,SD17
+Crown Heights,Latino,2012,Percent,0.52489,SD17
+Crown Heights,Latino,2013,Percent,0.45238,SD17
+Crown Heights,Latino,2014,Percent,0.51163,SD17
+Crown Heights,White,2005,Percent,0.68421,SD17
+Crown Heights,White,2006,Percent,0.84615,SD17
+Crown Heights,White,2007,Percent,No Data,SD17
+Crown Heights,White,2008,Percent,0.53846,SD17
+Crown Heights,White,2009,Percent,No Data,SD17
+Crown Heights,White,2010,Percent,0.36585,SD17
+Crown Heights,White,2011,Percent,0.45161,SD17
+Crown Heights,White,2012,Percent,0.46341,SD17
+Crown Heights,White,2013,Percent,0.2963,SD17
+Crown Heights,White,2014,Percent,0.4359,SD17
+"East Flatbush, Canarsie",Asian,2005,Percent,0.38095,SD18
+"East Flatbush, Canarsie",Asian,2006,Percent,0.38095,SD18
+"East Flatbush, Canarsie",Asian,2007,Percent,No Data,SD18
+"East Flatbush, Canarsie",Asian,2008,Percent,No Data,SD18
+"East Flatbush, Canarsie",Asian,2009,Percent,0.6,SD18
+"East Flatbush, Canarsie",Asian,2010,Percent,No Data,SD18
+"East Flatbush, Canarsie",Asian,2011,Percent,No Data,SD18
+"East Flatbush, Canarsie",Asian,2012,Percent,No Data,SD18
+"East Flatbush, Canarsie",Asian,2013,Percent,No Data,SD18
+"East Flatbush, Canarsie",Asian,2014,Percent,No Data,SD18
+"East Flatbush, Canarsie",Black,2005,Percent,0.39121,SD18
+"East Flatbush, Canarsie",Black,2006,Percent,0.33449,SD18
+"East Flatbush, Canarsie",Black,2007,Percent,0.33939,SD18
+"East Flatbush, Canarsie",Black,2008,Percent,0.33671,SD18
+"East Flatbush, Canarsie",Black,2009,Percent,0.33333,SD18
+"East Flatbush, Canarsie",Black,2010,Percent,0.36623,SD18
+"East Flatbush, Canarsie",Black,2011,Percent,0.44734,SD18
+"East Flatbush, Canarsie",Black,2012,Percent,0.52586,SD18
+"East Flatbush, Canarsie",Black,2013,Percent,0.52462,SD18
+"East Flatbush, Canarsie",Black,2014,Percent,0.54678,SD18
+"East Flatbush, Canarsie",Latino,2005,Percent,0.26549,SD18
+"East Flatbush, Canarsie",Latino,2006,Percent,0.22535,SD18
+"East Flatbush, Canarsie",Latino,2007,Percent,0.26061,SD18
+"East Flatbush, Canarsie",Latino,2008,Percent,0.23967,SD18
+"East Flatbush, Canarsie",Latino,2009,Percent,0.40458,SD18
+"East Flatbush, Canarsie",Latino,2010,Percent,0.23364,SD18
+"East Flatbush, Canarsie",Latino,2011,Percent,0.29703,SD18
+"East Flatbush, Canarsie",Latino,2012,Percent,0.43697,SD18
+"East Flatbush, Canarsie",Latino,2013,Percent,0.33333,SD18
+"East Flatbush, Canarsie",Latino,2014,Percent,0.47,SD18
+"East Flatbush, Canarsie",White,2005,Percent,0.47059,SD18
+"East Flatbush, Canarsie",White,2006,Percent,0.28947,SD18
+"East Flatbush, Canarsie",White,2007,Percent,0.22727,SD18
+"East Flatbush, Canarsie",White,2008,Percent,No Data,SD18
+"East Flatbush, Canarsie",White,2009,Percent,0.55172,SD18
+"East Flatbush, Canarsie",White,2010,Percent,No Data,SD18
+"East Flatbush, Canarsie",White,2011,Percent,No Data,SD18
+"East Flatbush, Canarsie",White,2012,Percent,No Data,SD18
+"East Flatbush, Canarsie",White,2013,Percent,No Data,SD18
+"East Flatbush, Canarsie",White,2014,Percent,No Data,SD18
+East New York,Asian,2005,Percent,0.41558,SD19
+East New York,Asian,2006,Percent,0.52586,SD19
+East New York,Asian,2007,Percent,0.52632,SD19
+East New York,Asian,2008,Percent,0.55172,SD19
+East New York,Asian,2009,Percent,0.53846,SD19
+East New York,Asian,2010,Percent,0.68605,SD19
+East New York,Asian,2011,Percent,0.68182,SD19
+East New York,Asian,2012,Percent,0.77083,SD19
+East New York,Asian,2013,Percent,0.70588,SD19
+East New York,Asian,2014,Percent,0.48837,SD19
+East New York,Black,2005,Percent,0.39102,SD19
+East New York,Black,2006,Percent,0.35953,SD19
+East New York,Black,2007,Percent,0.42997,SD19
+East New York,Black,2008,Percent,0.49718,SD19
+East New York,Black,2009,Percent,0.5166,SD19
+East New York,Black,2010,Percent,0.50465,SD19
+East New York,Black,2011,Percent,0.55074,SD19
+East New York,Black,2012,Percent,0.56749,SD19
+East New York,Black,2013,Percent,0.542,SD19
+East New York,Black,2014,Percent,0.5362,SD19
+East New York,Latino,2005,Percent,0.33587,SD19
+East New York,Latino,2006,Percent,0.38852,SD19
+East New York,Latino,2007,Percent,0.38511,SD19
+East New York,Latino,2008,Percent,0.3503,SD19
+East New York,Latino,2009,Percent,0.43472,SD19
+East New York,Latino,2010,Percent,0.44018,SD19
+East New York,Latino,2011,Percent,0.51847,SD19
+East New York,Latino,2012,Percent,0.4584,SD19
+East New York,Latino,2013,Percent,0.471,SD19
+East New York,Latino,2014,Percent,0.48893,SD19
+East New York,White,2005,Percent,0.35593,SD19
+East New York,White,2006,Percent,0.36842,SD19
+East New York,White,2007,Percent,0.14286,SD19
+East New York,White,2008,Percent,0.23077,SD19
+East New York,White,2009,Percent,No Data,SD19
+East New York,White,2010,Percent,0.44444,SD19
+East New York,White,2011,Percent,0.4,SD19
+East New York,White,2012,Percent,No Data,SD19
+East New York,White,2013,Percent,0.61905,SD19
+East New York,White,2014,Percent,0.5,SD19
+"Bay Ridge, Bensonhurst",Asian,2005,Percent,0.53226,SD20
+"Bay Ridge, Bensonhurst",Asian,2006,Percent,0.56298,SD20
+"Bay Ridge, Bensonhurst",Asian,2007,Percent,0.60478,SD20
+"Bay Ridge, Bensonhurst",Asian,2008,Percent,0.63865,SD20
+"Bay Ridge, Bensonhurst",Asian,2009,Percent,0.65148,SD20
+"Bay Ridge, Bensonhurst",Asian,2010,Percent,0.71084,SD20
+"Bay Ridge, Bensonhurst",Asian,2011,Percent,0.70811,SD20
+"Bay Ridge, Bensonhurst",Asian,2012,Percent,0.65119,SD20
+"Bay Ridge, Bensonhurst",Asian,2013,Percent,0.62015,SD20
+"Bay Ridge, Bensonhurst",Asian,2014,Percent,0.65446,SD20
+"Bay Ridge, Bensonhurst",Black,2005,Percent,0.45918,SD20
+"Bay Ridge, Bensonhurst",Black,2006,Percent,0.49457,SD20
+"Bay Ridge, Bensonhurst",Black,2007,Percent,0.56667,SD20
+"Bay Ridge, Bensonhurst",Black,2008,Percent,0.56584,SD20
+"Bay Ridge, Bensonhurst",Black,2009,Percent,0.56682,SD20
+"Bay Ridge, Bensonhurst",Black,2010,Percent,0.58371,SD20
+"Bay Ridge, Bensonhurst",Black,2011,Percent,0.5787,SD20
+"Bay Ridge, Bensonhurst",Black,2012,Percent,0.56322,SD20
+"Bay Ridge, Bensonhurst",Black,2013,Percent,0.57831,SD20
+"Bay Ridge, Bensonhurst",Black,2014,Percent,0.67713,SD20
+"Bay Ridge, Bensonhurst",Latino,2005,Percent,0.39322,SD20
+"Bay Ridge, Bensonhurst",Latino,2006,Percent,0.34545,SD20
+"Bay Ridge, Bensonhurst",Latino,2007,Percent,0.40695,SD20
+"Bay Ridge, Bensonhurst",Latino,2008,Percent,0.44569,SD20
+"Bay Ridge, Bensonhurst",Latino,2009,Percent,0.46915,SD20
+"Bay Ridge, Bensonhurst",Latino,2010,Percent,0.49051,SD20
+"Bay Ridge, Bensonhurst",Latino,2011,Percent,0.54187,SD20
+"Bay Ridge, Bensonhurst",Latino,2012,Percent,0.54097,SD20
+"Bay Ridge, Bensonhurst",Latino,2013,Percent,0.54505,SD20
+"Bay Ridge, Bensonhurst",Latino,2014,Percent,0.52836,SD20
+"Bay Ridge, Bensonhurst",White,2005,Percent,0.53543,SD20
+"Bay Ridge, Bensonhurst",White,2006,Percent,0.55983,SD20
+"Bay Ridge, Bensonhurst",White,2007,Percent,0.58708,SD20
+"Bay Ridge, Bensonhurst",White,2008,Percent,0.62485,SD20
+"Bay Ridge, Bensonhurst",White,2009,Percent,0.66543,SD20
+"Bay Ridge, Bensonhurst",White,2010,Percent,0.68026,SD20
+"Bay Ridge, Bensonhurst",White,2011,Percent,0.67521,SD20
+"Bay Ridge, Bensonhurst",White,2012,Percent,0.672,SD20
+"Bay Ridge, Bensonhurst",White,2013,Percent,0.66667,SD20
+"Bay Ridge, Bensonhurst",White,2014,Percent,0.70035,SD20
+"Gravesend, Coney Island",Asian,2005,Percent,0.62712,SD21
+"Gravesend, Coney Island",Asian,2006,Percent,0.61921,SD21
+"Gravesend, Coney Island",Asian,2007,Percent,0.66345,SD21
+"Gravesend, Coney Island",Asian,2008,Percent,0.69122,SD21
+"Gravesend, Coney Island",Asian,2009,Percent,0.69,SD21
+"Gravesend, Coney Island",Asian,2010,Percent,0.72756,SD21
+"Gravesend, Coney Island",Asian,2011,Percent,0.74096,SD21
+"Gravesend, Coney Island",Asian,2012,Percent,0.76851,SD21
+"Gravesend, Coney Island",Asian,2013,Percent,0.71327,SD21
+"Gravesend, Coney Island",Asian,2014,Percent,0.76803,SD21
+"Gravesend, Coney Island",Black,2005,Percent,0.45064,SD21
+"Gravesend, Coney Island",Black,2006,Percent,0.48073,SD21
+"Gravesend, Coney Island",Black,2007,Percent,0.45656,SD21
+"Gravesend, Coney Island",Black,2008,Percent,0.4542,SD21
+"Gravesend, Coney Island",Black,2009,Percent,0.51649,SD21
+"Gravesend, Coney Island",Black,2010,Percent,0.54724,SD21
+"Gravesend, Coney Island",Black,2011,Percent,0.55808,SD21
+"Gravesend, Coney Island",Black,2012,Percent,0.5979,SD21
+"Gravesend, Coney Island",Black,2013,Percent,0.63405,SD21
+"Gravesend, Coney Island",Black,2014,Percent,0.64926,SD21
+"Gravesend, Coney Island",Latino,2005,Percent,0.36522,SD21
+"Gravesend, Coney Island",Latino,2006,Percent,0.33922,SD21
+"Gravesend, Coney Island",Latino,2007,Percent,0.39319,SD21
+"Gravesend, Coney Island",Latino,2008,Percent,0.37961,SD21
+"Gravesend, Coney Island",Latino,2009,Percent,0.43595,SD21
+"Gravesend, Coney Island",Latino,2010,Percent,0.47405,SD21
+"Gravesend, Coney Island",Latino,2011,Percent,0.47042,SD21
+"Gravesend, Coney Island",Latino,2012,Percent,0.48012,SD21
+"Gravesend, Coney Island",Latino,2013,Percent,0.5625,SD21
+"Gravesend, Coney Island",Latino,2014,Percent,0.6096,SD21
+"Gravesend, Coney Island",White,2005,Percent,0.65262,SD21
+"Gravesend, Coney Island",White,2006,Percent,0.63588,SD21
+"Gravesend, Coney Island",White,2007,Percent,0.61722,SD21
+"Gravesend, Coney Island",White,2008,Percent,0.64396,SD21
+"Gravesend, Coney Island",White,2009,Percent,0.68421,SD21
+"Gravesend, Coney Island",White,2010,Percent,0.69274,SD21
+"Gravesend, Coney Island",White,2011,Percent,0.65335,SD21
+"Gravesend, Coney Island",White,2012,Percent,0.69538,SD21
+"Gravesend, Coney Island",White,2013,Percent,0.70838,SD21
+"Gravesend, Coney Island",White,2014,Percent,0.73868,SD21
+"Flatbush, Midwood, Sheepshead Bay",Asian,2005,Percent,0.69495,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2006,Percent,0.71586,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2007,Percent,0.74949,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2008,Percent,0.77888,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2009,Percent,0.8,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2010,Percent,0.83422,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2011,Percent,0.81964,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2012,Percent,0.78053,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2013,Percent,0.77878,SD22
+"Flatbush, Midwood, Sheepshead Bay",Asian,2014,Percent,0.8135,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2005,Percent,0.53545,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2006,Percent,0.60627,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2007,Percent,0.60653,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2008,Percent,0.61251,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2009,Percent,0.63733,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2010,Percent,0.69865,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2011,Percent,0.67426,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2012,Percent,0.62934,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2013,Percent,0.60155,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2014,Percent,0.66376,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2005,Percent,0.45645,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2006,Percent,0.45833,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2007,Percent,0.51884,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2008,Percent,0.56284,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2009,Percent,0.53846,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2010,Percent,0.5929,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2011,Percent,0.60571,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2012,Percent,0.53826,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2013,Percent,0.5752,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2014,Percent,0.59882,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2005,Percent,0.7,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2006,Percent,0.69881,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2007,Percent,0.71906,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2008,Percent,0.7519,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2009,Percent,0.74969,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2010,Percent,0.77998,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2011,Percent,0.77972,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2012,Percent,0.73434,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2013,Percent,0.75095,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2014,Percent,0.77558,SD22
+"Brownsville, Ocean Hill",Asian,2005,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2006,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2007,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2008,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2009,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2010,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2011,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2012,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2013,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Asian,2014,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Black,2005,Percent,0.30952,SD23
+"Brownsville, Ocean Hill",Black,2006,Percent,0.51799,SD23
+"Brownsville, Ocean Hill",Black,2007,Percent,0.51266,SD23
+"Brownsville, Ocean Hill",Black,2008,Percent,0.62951,SD23
+"Brownsville, Ocean Hill",Black,2009,Percent,0.45992,SD23
+"Brownsville, Ocean Hill",Black,2010,Percent,0.41451,SD23
+"Brownsville, Ocean Hill",Black,2011,Percent,0.38687,SD23
+"Brownsville, Ocean Hill",Black,2012,Percent,0.32689,SD23
+"Brownsville, Ocean Hill",Black,2013,Percent,0.33721,SD23
+"Brownsville, Ocean Hill",Black,2014,Percent,0.36842,SD23
+"Brownsville, Ocean Hill",Latino,2005,Percent,0.34043,SD23
+"Brownsville, Ocean Hill",Latino,2006,Percent,0.43478,SD23
+"Brownsville, Ocean Hill",Latino,2007,Percent,0.45455,SD23
+"Brownsville, Ocean Hill",Latino,2008,Percent,0.61905,SD23
+"Brownsville, Ocean Hill",Latino,2009,Percent,0.41346,SD23
+"Brownsville, Ocean Hill",Latino,2010,Percent,0.4087,SD23
+"Brownsville, Ocean Hill",Latino,2011,Percent,0.35714,SD23
+"Brownsville, Ocean Hill",Latino,2012,Percent,0.26667,SD23
+"Brownsville, Ocean Hill",Latino,2013,Percent,0.34286,SD23
+"Brownsville, Ocean Hill",Latino,2014,Percent,0.33735,SD23
+"Brownsville, Ocean Hill",White,2005,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2006,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2007,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2008,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2009,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2010,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2011,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2012,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2013,Percent,No Data,SD23
+"Brownsville, Ocean Hill",White,2014,Percent,No Data,SD23
+"Sunnyside, Woodside, Jackson Hts",Asian,2005,Percent,0.65464,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2006,Percent,0.59627,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2007,Percent,0.64179,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2008,Percent,0.6814,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2009,Percent,0.72022,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2010,Percent,0.70782,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2011,Percent,0.76316,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2012,Percent,0.75965,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2013,Percent,0.73813,SD24
+"Sunnyside, Woodside, Jackson Hts",Asian,2014,Percent,0.76127,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2005,Percent,0.38333,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2006,Percent,0.49099,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2007,Percent,0.51515,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2008,Percent,0.53394,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2009,Percent,0.55195,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2010,Percent,0.53112,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2011,Percent,0.51477,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2012,Percent,0.42568,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2013,Percent,0.29825,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2014,Percent,0.31828,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2005,Percent,0.45819,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2006,Percent,0.45771,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2007,Percent,0.45258,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2008,Percent,0.49147,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2009,Percent,0.53842,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2010,Percent,0.55418,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2011,Percent,0.58549,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2012,Percent,0.57053,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2013,Percent,0.5576,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2014,Percent,0.60837,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2005,Percent,0.53608,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2006,Percent,0.4895,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2007,Percent,0.55584,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2008,Percent,0.63972,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2009,Percent,0.60744,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2010,Percent,0.64175,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2011,Percent,0.62785,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2012,Percent,0.6383,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2013,Percent,0.70133,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2014,Percent,0.69231,SD24
+"Flushing, Whitestone",Asian,2005,Percent,0.63588,SD25
+"Flushing, Whitestone",Asian,2006,Percent,0.58609,SD25
+"Flushing, Whitestone",Asian,2007,Percent,0.65441,SD25
+"Flushing, Whitestone",Asian,2008,Percent,0.75382,SD25
+"Flushing, Whitestone",Asian,2009,Percent,0.7332,SD25
+"Flushing, Whitestone",Asian,2010,Percent,0.75769,SD25
+"Flushing, Whitestone",Asian,2011,Percent,0.7387,SD25
+"Flushing, Whitestone",Asian,2012,Percent,0.74969,SD25
+"Flushing, Whitestone",Asian,2013,Percent,0.71507,SD25
+"Flushing, Whitestone",Asian,2014,Percent,0.7545,SD25
+"Flushing, Whitestone",Black,2005,Percent,0.45946,SD25
+"Flushing, Whitestone",Black,2006,Percent,0.415,SD25
+"Flushing, Whitestone",Black,2007,Percent,0.42553,SD25
+"Flushing, Whitestone",Black,2008,Percent,0.49779,SD25
+"Flushing, Whitestone",Black,2009,Percent,0.49227,SD25
+"Flushing, Whitestone",Black,2010,Percent,0.49573,SD25
+"Flushing, Whitestone",Black,2011,Percent,0.5207,SD25
+"Flushing, Whitestone",Black,2012,Percent,0.48399,SD25
+"Flushing, Whitestone",Black,2013,Percent,0.50977,SD25
+"Flushing, Whitestone",Black,2014,Percent,0.52277,SD25
+"Flushing, Whitestone",Latino,2005,Percent,0.39796,SD25
+"Flushing, Whitestone",Latino,2006,Percent,0.35,SD25
+"Flushing, Whitestone",Latino,2007,Percent,0.43228,SD25
+"Flushing, Whitestone",Latino,2008,Percent,0.46809,SD25
+"Flushing, Whitestone",Latino,2009,Percent,0.48449,SD25
+"Flushing, Whitestone",Latino,2010,Percent,0.52004,SD25
+"Flushing, Whitestone",Latino,2011,Percent,0.50651,SD25
+"Flushing, Whitestone",Latino,2012,Percent,0.50425,SD25
+"Flushing, Whitestone",Latino,2013,Percent,0.49457,SD25
+"Flushing, Whitestone",Latino,2014,Percent,0.50847,SD25
+"Flushing, Whitestone",White,2005,Percent,0.76491,SD25
+"Flushing, Whitestone",White,2006,Percent,0.7614,SD25
+"Flushing, Whitestone",White,2007,Percent,0.73191,SD25
+"Flushing, Whitestone",White,2008,Percent,0.72973,SD25
+"Flushing, Whitestone",White,2009,Percent,0.71277,SD25
+"Flushing, Whitestone",White,2010,Percent,0.69198,SD25
+"Flushing, Whitestone",White,2011,Percent,0.72464,SD25
+"Flushing, Whitestone",White,2012,Percent,0.67974,SD25
+"Flushing, Whitestone",White,2013,Percent,0.70946,SD25
+"Flushing, Whitestone",White,2014,Percent,0.7108,SD25
+"Bayside, Douglaston, Little Neck",Asian,2005,Percent,0.77524,SD26
+"Bayside, Douglaston, Little Neck",Asian,2006,Percent,0.79167,SD26
+"Bayside, Douglaston, Little Neck",Asian,2007,Percent,0.8162,SD26
+"Bayside, Douglaston, Little Neck",Asian,2008,Percent,0.8144,SD26
+"Bayside, Douglaston, Little Neck",Asian,2009,Percent,0.82241,SD26
+"Bayside, Douglaston, Little Neck",Asian,2010,Percent,0.8113,SD26
+"Bayside, Douglaston, Little Neck",Asian,2011,Percent,0.83913,SD26
+"Bayside, Douglaston, Little Neck",Asian,2012,Percent,0.85739,SD26
+"Bayside, Douglaston, Little Neck",Asian,2013,Percent,0.85821,SD26
+"Bayside, Douglaston, Little Neck",Asian,2014,Percent,0.8401,SD26
+"Bayside, Douglaston, Little Neck",Black,2005,Percent,0.6283,SD26
+"Bayside, Douglaston, Little Neck",Black,2006,Percent,0.6357,SD26
+"Bayside, Douglaston, Little Neck",Black,2007,Percent,0.68919,SD26
+"Bayside, Douglaston, Little Neck",Black,2008,Percent,0.69043,SD26
+"Bayside, Douglaston, Little Neck",Black,2009,Percent,0.68182,SD26
+"Bayside, Douglaston, Little Neck",Black,2010,Percent,0.66092,SD26
+"Bayside, Douglaston, Little Neck",Black,2011,Percent,0.68683,SD26
+"Bayside, Douglaston, Little Neck",Black,2012,Percent,0.6441,SD26
+"Bayside, Douglaston, Little Neck",Black,2013,Percent,0.65726,SD26
+"Bayside, Douglaston, Little Neck",Black,2014,Percent,0.63005,SD26
+"Bayside, Douglaston, Little Neck",Latino,2005,Percent,0.61509,SD26
+"Bayside, Douglaston, Little Neck",Latino,2006,Percent,0.63201,SD26
+"Bayside, Douglaston, Little Neck",Latino,2007,Percent,0.65289,SD26
+"Bayside, Douglaston, Little Neck",Latino,2008,Percent,0.70634,SD26
+"Bayside, Douglaston, Little Neck",Latino,2009,Percent,0.6848,SD26
+"Bayside, Douglaston, Little Neck",Latino,2010,Percent,0.6977,SD26
+"Bayside, Douglaston, Little Neck",Latino,2011,Percent,0.70993,SD26
+"Bayside, Douglaston, Little Neck",Latino,2012,Percent,0.73474,SD26
+"Bayside, Douglaston, Little Neck",Latino,2013,Percent,0.6967,SD26
+"Bayside, Douglaston, Little Neck",Latino,2014,Percent,0.71353,SD26
+"Bayside, Douglaston, Little Neck",White,2005,Percent,0.7161,SD26
+"Bayside, Douglaston, Little Neck",White,2006,Percent,0.76406,SD26
+"Bayside, Douglaston, Little Neck",White,2007,Percent,0.79111,SD26
+"Bayside, Douglaston, Little Neck",White,2008,Percent,0.78359,SD26
+"Bayside, Douglaston, Little Neck",White,2009,Percent,0.81445,SD26
+"Bayside, Douglaston, Little Neck",White,2010,Percent,0.79534,SD26
+"Bayside, Douglaston, Little Neck",White,2011,Percent,0.78084,SD26
+"Bayside, Douglaston, Little Neck",White,2012,Percent,0.8075,SD26
+"Bayside, Douglaston, Little Neck",White,2013,Percent,0.80222,SD26
+"Bayside, Douglaston, Little Neck",White,2014,Percent,0.82406,SD26
+"Jamaica, Howard Beach, Rockaways",Asian,2005,Percent,0.5,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2006,Percent,0.53769,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2007,Percent,0.53559,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2008,Percent,0.52652,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2009,Percent,0.56066,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2010,Percent,0.63397,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2011,Percent,0.61328,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2012,Percent,0.61853,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2013,Percent,0.61669,SD27
+"Jamaica, Howard Beach, Rockaways",Asian,2014,Percent,0.63932,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2005,Percent,0.37593,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2006,Percent,0.41849,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2007,Percent,0.38728,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2008,Percent,0.41955,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2009,Percent,0.44713,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2010,Percent,0.50587,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2011,Percent,0.49776,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2012,Percent,0.43682,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2013,Percent,0.40892,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2014,Percent,0.46121,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2005,Percent,0.3873,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2006,Percent,0.43712,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2007,Percent,0.40367,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2008,Percent,0.41353,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2009,Percent,0.42589,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2010,Percent,0.52913,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2011,Percent,0.54281,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2012,Percent,0.51441,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2013,Percent,0.50451,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2014,Percent,0.57115,SD27
+"Jamaica, Howard Beach, Rockaways",White,2005,Percent,0.404,SD27
+"Jamaica, Howard Beach, Rockaways",White,2006,Percent,0.39086,SD27
+"Jamaica, Howard Beach, Rockaways",White,2007,Percent,0.45701,SD27
+"Jamaica, Howard Beach, Rockaways",White,2008,Percent,0.40201,SD27
+"Jamaica, Howard Beach, Rockaways",White,2009,Percent,0.51205,SD27
+"Jamaica, Howard Beach, Rockaways",White,2010,Percent,0.50282,SD27
+"Jamaica, Howard Beach, Rockaways",White,2011,Percent,0.63942,SD27
+"Jamaica, Howard Beach, Rockaways",White,2012,Percent,0.66534,SD27
+"Jamaica, Howard Beach, Rockaways",White,2013,Percent,0.69874,SD27
+"Jamaica, Howard Beach, Rockaways",White,2014,Percent,0.69856,SD27
+"Jamaica, Forest Hills",Asian,2005,Percent,0.72603,SD28
+"Jamaica, Forest Hills",Asian,2006,Percent,0.75246,SD28
+"Jamaica, Forest Hills",Asian,2007,Percent,0.75437,SD28
+"Jamaica, Forest Hills",Asian,2008,Percent,0.74489,SD28
+"Jamaica, Forest Hills",Asian,2009,Percent,0.82253,SD28
+"Jamaica, Forest Hills",Asian,2010,Percent,0.8316,SD28
+"Jamaica, Forest Hills",Asian,2011,Percent,0.81707,SD28
+"Jamaica, Forest Hills",Asian,2012,Percent,0.80783,SD28
+"Jamaica, Forest Hills",Asian,2013,Percent,0.79353,SD28
+"Jamaica, Forest Hills",Asian,2014,Percent,0.83419,SD28
+"Jamaica, Forest Hills",Black,2005,Percent,0.55005,SD28
+"Jamaica, Forest Hills",Black,2006,Percent,0.5727,SD28
+"Jamaica, Forest Hills",Black,2007,Percent,0.59352,SD28
+"Jamaica, Forest Hills",Black,2008,Percent,0.55375,SD28
+"Jamaica, Forest Hills",Black,2009,Percent,0.63636,SD28
+"Jamaica, Forest Hills",Black,2010,Percent,0.65035,SD28
+"Jamaica, Forest Hills",Black,2011,Percent,0.61896,SD28
+"Jamaica, Forest Hills",Black,2012,Percent,0.62042,SD28
+"Jamaica, Forest Hills",Black,2013,Percent,0.69347,SD28
+"Jamaica, Forest Hills",Black,2014,Percent,0.71581,SD28
+"Jamaica, Forest Hills",Latino,2005,Percent,0.54891,SD28
+"Jamaica, Forest Hills",Latino,2006,Percent,0.55538,SD28
+"Jamaica, Forest Hills",Latino,2007,Percent,0.56454,SD28
+"Jamaica, Forest Hills",Latino,2008,Percent,0.57223,SD28
+"Jamaica, Forest Hills",Latino,2009,Percent,0.6571,SD28
+"Jamaica, Forest Hills",Latino,2010,Percent,0.7118,SD28
+"Jamaica, Forest Hills",Latino,2011,Percent,0.65718,SD28
+"Jamaica, Forest Hills",Latino,2012,Percent,0.63683,SD28
+"Jamaica, Forest Hills",Latino,2013,Percent,0.69669,SD28
+"Jamaica, Forest Hills",Latino,2014,Percent,0.70874,SD28
+"Jamaica, Forest Hills",White,2005,Percent,0.74913,SD28
+"Jamaica, Forest Hills",White,2006,Percent,0.75042,SD28
+"Jamaica, Forest Hills",White,2007,Percent,0.74242,SD28
+"Jamaica, Forest Hills",White,2008,Percent,0.78753,SD28
+"Jamaica, Forest Hills",White,2009,Percent,0.7973,SD28
+"Jamaica, Forest Hills",White,2010,Percent,0.83811,SD28
+"Jamaica, Forest Hills",White,2011,Percent,0.8105,SD28
+"Jamaica, Forest Hills",White,2012,Percent,0.78049,SD28
+"Jamaica, Forest Hills",White,2013,Percent,0.73559,SD28
+"Jamaica, Forest Hills",White,2014,Percent,0.75169,SD28
+"Queens Village, Rosedale, Hollis",Asian,2005,Percent,0.53846,SD29
+"Queens Village, Rosedale, Hollis",Asian,2006,Percent,0.68293,SD29
+"Queens Village, Rosedale, Hollis",Asian,2007,Percent,0.65714,SD29
+"Queens Village, Rosedale, Hollis",Asian,2008,Percent,0.72727,SD29
+"Queens Village, Rosedale, Hollis",Asian,2009,Percent,0.76087,SD29
+"Queens Village, Rosedale, Hollis",Asian,2010,Percent,0.62791,SD29
+"Queens Village, Rosedale, Hollis",Asian,2011,Percent,0.66038,SD29
+"Queens Village, Rosedale, Hollis",Asian,2012,Percent,0.64103,SD29
+"Queens Village, Rosedale, Hollis",Asian,2013,Percent,0.65,SD29
+"Queens Village, Rosedale, Hollis",Asian,2014,Percent,0.77143,SD29
+"Queens Village, Rosedale, Hollis",Black,2005,Percent,0.42582,SD29
+"Queens Village, Rosedale, Hollis",Black,2006,Percent,0.47156,SD29
+"Queens Village, Rosedale, Hollis",Black,2007,Percent,0.48603,SD29
+"Queens Village, Rosedale, Hollis",Black,2008,Percent,0.59874,SD29
+"Queens Village, Rosedale, Hollis",Black,2009,Percent,0.60813,SD29
+"Queens Village, Rosedale, Hollis",Black,2010,Percent,0.62119,SD29
+"Queens Village, Rosedale, Hollis",Black,2011,Percent,0.57615,SD29
+"Queens Village, Rosedale, Hollis",Black,2012,Percent,0.55185,SD29
+"Queens Village, Rosedale, Hollis",Black,2013,Percent,0.58856,SD29
+"Queens Village, Rosedale, Hollis",Black,2014,Percent,0.6242,SD29
+"Queens Village, Rosedale, Hollis",Latino,2005,Percent,0.36923,SD29
+"Queens Village, Rosedale, Hollis",Latino,2006,Percent,0.35211,SD29
+"Queens Village, Rosedale, Hollis",Latino,2007,Percent,0.45,SD29
+"Queens Village, Rosedale, Hollis",Latino,2008,Percent,0.55769,SD29
+"Queens Village, Rosedale, Hollis",Latino,2009,Percent,0.54651,SD29
+"Queens Village, Rosedale, Hollis",Latino,2010,Percent,0.54118,SD29
+"Queens Village, Rosedale, Hollis",Latino,2011,Percent,0.51087,SD29
+"Queens Village, Rosedale, Hollis",Latino,2012,Percent,0.46067,SD29
+"Queens Village, Rosedale, Hollis",Latino,2013,Percent,0.6,SD29
+"Queens Village, Rosedale, Hollis",Latino,2014,Percent,0.63,SD29
+"Queens Village, Rosedale, Hollis",White,2005,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2006,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2007,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2008,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2009,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2010,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2011,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2012,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2013,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",White,2014,Percent,No Data,SD29
+"Long Island City, Astoria",Asian,2005,Percent,0.63536,SD30
+"Long Island City, Astoria",Asian,2006,Percent,0.61236,SD30
+"Long Island City, Astoria",Asian,2007,Percent,0.67123,SD30
+"Long Island City, Astoria",Asian,2008,Percent,0.62241,SD30
+"Long Island City, Astoria",Asian,2009,Percent,0.69656,SD30
+"Long Island City, Astoria",Asian,2010,Percent,0.78008,SD30
+"Long Island City, Astoria",Asian,2011,Percent,0.71769,SD30
+"Long Island City, Astoria",Asian,2012,Percent,0.72586,SD30
+"Long Island City, Astoria",Asian,2013,Percent,0.71692,SD30
+"Long Island City, Astoria",Asian,2014,Percent,0.71589,SD30
+"Long Island City, Astoria",Black,2005,Percent,0.4797,SD30
+"Long Island City, Astoria",Black,2006,Percent,0.31746,SD30
+"Long Island City, Astoria",Black,2007,Percent,0.49563,SD30
+"Long Island City, Astoria",Black,2008,Percent,0.48727,SD30
+"Long Island City, Astoria",Black,2009,Percent,0.41538,SD30
+"Long Island City, Astoria",Black,2010,Percent,0.49498,SD30
+"Long Island City, Astoria",Black,2011,Percent,0.57818,SD30
+"Long Island City, Astoria",Black,2012,Percent,0.53094,SD30
+"Long Island City, Astoria",Black,2013,Percent,0.57986,SD30
+"Long Island City, Astoria",Black,2014,Percent,0.60825,SD30
+"Long Island City, Astoria",Latino,2005,Percent,0.4321,SD30
+"Long Island City, Astoria",Latino,2006,Percent,0.44228,SD30
+"Long Island City, Astoria",Latino,2007,Percent,0.46355,SD30
+"Long Island City, Astoria",Latino,2008,Percent,0.49213,SD30
+"Long Island City, Astoria",Latino,2009,Percent,0.48196,SD30
+"Long Island City, Astoria",Latino,2010,Percent,0.54658,SD30
+"Long Island City, Astoria",Latino,2011,Percent,0.55827,SD30
+"Long Island City, Astoria",Latino,2012,Percent,0.57109,SD30
+"Long Island City, Astoria",Latino,2013,Percent,0.57092,SD30
+"Long Island City, Astoria",Latino,2014,Percent,0.60332,SD30
+"Long Island City, Astoria",White,2005,Percent,0.59234,SD30
+"Long Island City, Astoria",White,2006,Percent,0.65217,SD30
+"Long Island City, Astoria",White,2007,Percent,0.69778,SD30
+"Long Island City, Astoria",White,2008,Percent,0.68278,SD30
+"Long Island City, Astoria",White,2009,Percent,0.65443,SD30
+"Long Island City, Astoria",White,2010,Percent,0.73744,SD30
+"Long Island City, Astoria",White,2011,Percent,0.75682,SD30
+"Long Island City, Astoria",White,2012,Percent,0.72818,SD30
+"Long Island City, Astoria",White,2013,Percent,0.79352,SD30
+"Long Island City, Astoria",White,2014,Percent,0.79398,SD30
+Staten Island,Asian,2005,Percent,0.82154,SD31
+Staten Island,Asian,2006,Percent,0.84936,SD31
+Staten Island,Asian,2007,Percent,0.84123,SD31
+Staten Island,Asian,2008,Percent,0.87879,SD31
+Staten Island,Asian,2009,Percent,0.864,SD31
+Staten Island,Asian,2010,Percent,0.89425,SD31
+Staten Island,Asian,2011,Percent,0.91443,SD31
+Staten Island,Asian,2012,Percent,0.91905,SD31
+Staten Island,Asian,2013,Percent,0.89381,SD31
+Staten Island,Asian,2014,Percent,0.94498,SD31
+Staten Island,Black,2005,Percent,0.47708,SD31
+Staten Island,Black,2006,Percent,0.52765,SD31
+Staten Island,Black,2007,Percent,0.56268,SD31
+Staten Island,Black,2008,Percent,0.52252,SD31
+Staten Island,Black,2009,Percent,0.56915,SD31
+Staten Island,Black,2010,Percent,0.58038,SD31
+Staten Island,Black,2011,Percent,0.57688,SD31
+Staten Island,Black,2012,Percent,0.57625,SD31
+Staten Island,Black,2013,Percent,0.58035,SD31
+Staten Island,Black,2014,Percent,0.63362,SD31
+Staten Island,Latino,2005,Percent,0.54466,SD31
+Staten Island,Latino,2006,Percent,0.50435,SD31
+Staten Island,Latino,2007,Percent,0.52778,SD31
+Staten Island,Latino,2008,Percent,0.53962,SD31
+Staten Island,Latino,2009,Percent,0.541,SD31
+Staten Island,Latino,2010,Percent,0.61591,SD31
+Staten Island,Latino,2011,Percent,0.58859,SD31
+Staten Island,Latino,2012,Percent,0.60511,SD31
+Staten Island,Latino,2013,Percent,0.59553,SD31
+Staten Island,Latino,2014,Percent,0.65613,SD31
+Staten Island,White,2005,Percent,0.75278,SD31
+Staten Island,White,2006,Percent,0.75676,SD31
+Staten Island,White,2007,Percent,0.75536,SD31
+Staten Island,White,2008,Percent,0.76329,SD31
+Staten Island,White,2009,Percent,0.78846,SD31
+Staten Island,White,2010,Percent,0.80387,SD31
+Staten Island,White,2011,Percent,0.80358,SD31
+Staten Island,White,2012,Percent,0.78746,SD31
+Staten Island,White,2013,Percent,0.80129,SD31
+Staten Island,White,2014,Percent,0.81753,SD31
+Bushwick,Asian,2005,Percent,No Data,SD32
+Bushwick,Asian,2006,Percent,No Data,SD32
+Bushwick,Asian,2007,Percent,No Data,SD32
+Bushwick,Asian,2008,Percent,No Data,SD32
+Bushwick,Asian,2009,Percent,No Data,SD32
+Bushwick,Asian,2010,Percent,No Data,SD32
+Bushwick,Asian,2011,Percent,No Data,SD32
+Bushwick,Asian,2012,Percent,No Data,SD32
+Bushwick,Asian,2013,Percent,No Data,SD32
+Bushwick,Asian,2014,Percent,No Data,SD32
+Bushwick,Black,2005,Percent,0.20915,SD32
+Bushwick,Black,2006,Percent,0.25294,SD32
+Bushwick,Black,2007,Percent,0.41379,SD32
+Bushwick,Black,2008,Percent,0.45455,SD32
+Bushwick,Black,2009,Percent,0.42541,SD32
+Bushwick,Black,2010,Percent,0.47619,SD32
+Bushwick,Black,2011,Percent,0.37143,SD32
+Bushwick,Black,2012,Percent,0.38813,SD32
+Bushwick,Black,2013,Percent,0.35088,SD32
+Bushwick,Black,2014,Percent,0.42857,SD32
+Bushwick,Latino,2005,Percent,0.28508,SD32
+Bushwick,Latino,2006,Percent,0.45809,SD32
+Bushwick,Latino,2007,Percent,0.53358,SD32
+Bushwick,Latino,2008,Percent,0.55179,SD32
+Bushwick,Latino,2009,Percent,0.51295,SD32
+Bushwick,Latino,2010,Percent,0.56397,SD32
+Bushwick,Latino,2011,Percent,0.51411,SD32
+Bushwick,Latino,2012,Percent,0.44426,SD32
+Bushwick,Latino,2013,Percent,0.51327,SD32
+Bushwick,Latino,2014,Percent,0.48694,SD32
+Bushwick,White,2005,Percent,No Data,SD32
+Bushwick,White,2006,Percent,No Data,SD32
+Bushwick,White,2007,Percent,No Data,SD32
+Bushwick,White,2008,Percent,No Data,SD32
+Bushwick,White,2009,Percent,No Data,SD32
+Bushwick,White,2010,Percent,No Data,SD32
+Bushwick,White,2011,Percent,No Data,SD32
+Bushwick,White,2012,Percent,No Data,SD32
+Bushwick,White,2013,Percent,No Data,SD32
+Bushwick,White,2014,Percent,No Data,SD32
+New York City,Asian,2015,Percent,0.82461,3651000
+New York City,Black,2015,Percent,0.61658,3651000
+New York City,Latino,2015,Percent,0.60367,3651000
+New York City,White,2015,Percent,0.80083,3651000
+Bronx,Asian,2015,Percent,0.86207,36005
+Bronx,Black,2015,Percent,0.81019,36005
+Bronx,Latino,2015,Percent,0.53694,36005
+Bronx,White,2015,Percent,0.74749,36005
+Brooklyn,Asian,2015,Percent,0.81019,36047
+Brooklyn,Black,2015,Percent,0.63046,36047
+Brooklyn,Latino,2015,Percent,0.5922,36047
+Brooklyn,White,2015,Percent,0.75993,36047
+Manhattan,Asian,2015,Percent,0.84435,36061
+Manhattan,Black,2015,Percent,0.62406,36061
+Manhattan,Latino,2015,Percent,0.63621,36061
+Manhattan,White,2015,Percent,0.84873,36061
+Queens,Asian,2015,Percent,0.81255,36081
+Queens,Black,2015,Percent,0.6052,36081
+Queens,Latino,2015,Percent,0.65619,36081
+Queens,White,2015,Percent,0.79931,36081
+Staten Island,Asian,2015,Percent,0.89934,36085
+Staten Island,Black,2015,Percent,0.63436,36085
+Staten Island,Latino,2015,Percent,0.62079,36085
+Staten Island,White,2015,Percent,0.83103,36085
+Lower East Side,Asian,2015,Percent,0.64535,SD1
+Lower East Side,Black,2015,Percent,0.50965,SD1
+Lower East Side,Latino,2015,Percent,0.45758,SD1
+Lower East Side,White,2015,Percent,0.90164,SD1
+"Stuyvesant Town, Upper E. Side",Asian,2015,Percent,0.86243,SD2
+"Stuyvesant Town, Upper E. Side",Black,2015,Percent,0.63267,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2015,Percent,0.66064,SD2
+"Stuyvesant Town, Upper E. Side",White,2015,Percent,0.81003,SD2
+Upper West Side,Asian,2015,Percent,0.94421,SD3
+Upper West Side,Black,2015,Percent,0.63731,SD3
+Upper West Side,Latino,2015,Percent,0.613,SD3
+Upper West Side,White,2015,Percent,0.92548,SD3
+East Harlem,Asian,2015,Percent,0.92308,SD4
+East Harlem,Black,2015,Percent,0.704,SD4
+East Harlem,Latino,2015,Percent,0.78038,SD4
+East Harlem,White,2015,Percent,0.86957,SD4
+Central Harlem,Asian,2015,Percent,0.9697,SD5
+Central Harlem,Black,2015,Percent,0.58935,SD5
+Central Harlem,Latino,2015,Percent,0.57418,SD5
+Central Harlem,White,2015,Percent,0.7561,SD5
+Washington Heights,Asian,2015,Percent,0.81818,SD6
+Washington Heights,Black,2015,Percent,0.63684,SD6
+Washington Heights,Latino,2015,Percent,0.58941,SD6
+Washington Heights,White,2015,Percent,No Data,SD6
+Mott Haven,Asian,2015,Percent,0.6129,SD7
+Mott Haven,Black,2015,Percent,0.52214,SD7
+Mott Haven,Latino,2015,Percent,0.51423,SD7
+Mott Haven,White,2015,Percent,0.42308,SD7
+"Hunts Point, Port Morris",Asian,2015,Percent,0.62821,SD8
+"Hunts Point, Port Morris",Black,2015,Percent,0.45486,SD8
+"Hunts Point, Port Morris",Latino,2015,Percent,0.40432,SD8
+"Hunts Point, Port Morris",White,2015,Percent,1.48148,SD8
+"East Tremont, Morris Heights",Asian,2015,Percent,0.84848,SD9
+"East Tremont, Morris Heights",Black,2015,Percent,0.62567,SD9
+"East Tremont, Morris Heights",Latino,2015,Percent,0.6117,SD9
+"East Tremont, Morris Heights",White,2015,Percent,No Data,SD9
+"Riverdale, Kingsbridge, Fordham",Asian,2015,Percent,0.94242,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2015,Percent,0.6084,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2015,Percent,0.53301,SD10
+"Riverdale, Kingsbridge, Fordham",White,2015,Percent,0.8852,SD10
+"Eastchester, Baychester, Co-op City",Asian,2015,Percent,0.69298,SD11
+"Eastchester, Baychester, Co-op City",Black,2015,Percent,0.6809,SD11
+"Eastchester, Baychester, Co-op City",Latino,2015,Percent,0.60771,SD11
+"Eastchester, Baychester, Co-op City",White,2015,Percent,0.75,SD11
+"Crotona Park, Morrisania, Melrose",Asian,2015,Percent,0.68293,SD12
+"Crotona Park, Morrisania, Melrose",Black,2015,Percent,0.55952,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2015,Percent,0.55122,SD12
+"Crotona Park, Morrisania, Melrose",White,2015,Percent,0.59091,SD12
+"Brooklyn Hts, Downtown Brooklyn",Asian,2015,Percent,0.94183,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2015,Percent,0.65261,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2015,Percent,0.69251,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2015,Percent,0.94304,SD13
+"Williamsburg, Greenpoint",Asian,2015,Percent,0.90244,SD14
+"Williamsburg, Greenpoint",Black,2015,Percent,0.69867,SD14
+"Williamsburg, Greenpoint",Latino,2015,Percent,0.64629,SD14
+"Williamsburg, Greenpoint",White,2015,Percent,0.76404,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2015,Percent,0.64045,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2015,Percent,0.69186,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2015,Percent,0.58333,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2015,Percent,0.68595,SD15
+Bedford Stuyvesant,Asian,2015,Percent,No Data,SD16
+Bedford Stuyvesant,Black,2015,Percent,0.47032,SD16
+Bedford Stuyvesant,Latino,2015,Percent,0.6,SD16
+Bedford Stuyvesant,White,2015,Percent,No Data,SD16
+Crown Heights,Asian,2015,Percent,0.83784,SD17
+Crown Heights,Black,2015,Percent,0.66187,SD17
+Crown Heights,Latino,2015,Percent,0.57353,SD17
+Crown Heights,White,2015,Percent,0.56098,SD17
+"East Flatbush, Canarsie",Asian,2015,Percent,No Data,SD18
+"East Flatbush, Canarsie",Black,2015,Percent,0.59606,SD18
+"East Flatbush, Canarsie",Latino,2015,Percent,0.50862,SD18
+"East Flatbush, Canarsie",White,2015,Percent,No Data,SD18
+East New York,Asian,2015,Percent,0.60526,SD19
+East New York,Black,2015,Percent,0.58386,SD19
+East New York,Latino,2015,Percent,0.5,SD19
+East New York,White,2015,Percent,0.52381,SD19
+"Bay Ridge, Bensonhurst",Asian,2015,Percent,0.72558,SD20
+"Bay Ridge, Bensonhurst",Black,2015,Percent,0.62637,SD20
+"Bay Ridge, Bensonhurst",Latino,2015,Percent,0.60809,SD20
+"Bay Ridge, Bensonhurst",White,2015,Percent,0.7266,SD20
+"Gravesend, Coney Island",Asian,2015,Percent,0.7619,SD21
+"Gravesend, Coney Island",Black,2015,Percent,0.66667,SD21
+"Gravesend, Coney Island",Latino,2015,Percent,0.58305,SD21
+"Gravesend, Coney Island",White,2015,Percent,0.73034,SD21
+"Flatbush, Midwood, Sheepshead Bay",Asian,2015,Percent,0.85895,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2015,Percent,0.72914,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2015,Percent,0.62585,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2015,Percent,0.80052,SD22
+"Brownsville, Ocean Hill",Asian,2015,Percent,No Data,SD23
+"Brownsville, Ocean Hill",Black,2015,Percent,0.42213,SD23
+"Brownsville, Ocean Hill",Latino,2015,Percent,0.31707,SD23
+"Brownsville, Ocean Hill",White,2015,Percent,No Data,SD23
+"Sunnyside, Woodside, Jackson Hts",Asian,2015,Percent,0.82956,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2015,Percent,0.35753,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2015,Percent,0.67366,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2015,Percent,0.78555,SD24
+"Flushing, Whitestone",Asian,2015,Percent,0.78669,SD25
+"Flushing, Whitestone",Black,2015,Percent,0.56405,SD25
+"Flushing, Whitestone",Latino,2015,Percent,0.54527,SD25
+"Flushing, Whitestone",White,2015,Percent,0.7381,SD25
+"Bayside, Douglaston, Little Neck",Asian,2015,Percent,0.84917,SD26
+"Bayside, Douglaston, Little Neck",Black,2015,Percent,0.69448,SD26
+"Bayside, Douglaston, Little Neck",Latino,2015,Percent,0.79179,SD26
+"Bayside, Douglaston, Little Neck",White,2015,Percent,0.86777,SD26
+"Jamaica, Howard Beach, Rockaways",Asian,2015,Percent,0.69859,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2015,Percent,0.48558,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2015,Percent,0.5668,SD27
+"Jamaica, Howard Beach, Rockaways",White,2015,Percent,0.67005,SD27
+"Jamaica, Forest Hills",Asian,2015,Percent,0.85918,SD28
+"Jamaica, Forest Hills",Black,2015,Percent,0.72465,SD28
+"Jamaica, Forest Hills",Latino,2015,Percent,0.72443,SD28
+"Jamaica, Forest Hills",White,2015,Percent,0.82932,SD28
+"Queens Village, Rosedale, Hollis",Asian,2015,Percent,0.75806,SD29
+"Queens Village, Rosedale, Hollis",Black,2015,Percent,0.63626,SD29
+"Queens Village, Rosedale, Hollis",Latino,2015,Percent,0.57143,SD29
+"Queens Village, Rosedale, Hollis",White,2015,Percent,No Data,SD29
+"Long Island City, Astoria",Asian,2015,Percent,0.77758,SD30
+"Long Island City, Astoria",Black,2015,Percent,0.65854,SD30
+"Long Island City, Astoria",Latino,2015,Percent,0.66667,SD30
+"Long Island City, Astoria",White,2015,Percent,0.81674,SD30
+Staten Island,Asian,2015,Percent,0.89934,SD31
+Staten Island,Black,2015,Percent,0.63436,SD31
+Staten Island,Latino,2015,Percent,0.62079,SD31
+Staten Island,White,2015,Percent,0.83103,SD31
+Bushwick,Asian,2015,Percent,No Data,SD32
+Bushwick,Black,2015,Percent,0.48092,SD32
+Bushwick,Latino,2015,Percent,0.54932,SD32
+Bushwick,White,2015,Percent,No Data,SD32
+New York City,Asian,2016,Percent,0.83526,3651000
+New York City,Black,2016,Percent,0.65259,3651000
+New York City,Latino,2016,Percent,0.63928,3651000
+New York City,White,2016,Percent,0.80145,3651000
+New York City,Asian,2017,Percent,0.84992,3651000
+New York City,Black,2017,Percent,0.66488,3651000
+New York City,Latino,2017,Percent,0.64733,3651000
+New York City,White,2017,Percent,0.81235,3651000
+Bronx,Asian,2016,Percent,0.87564,36005
+Brooklyn,Asian,2016,Percent,0.81245,36047
+Manhattan,Asian,2016,Percent,0.86375,36061
+Queens,Asian,2016,Percent,0.82359,36081
+Staten Island,Asian,2016,Percent,0.9085,36085
+Bronx,Black,2016,Percent,0.62554,36005
+Brooklyn,Black,2016,Percent,0.65972,36047
+Manhattan,Black,2016,Percent,0.66041,36061
+Queens,Black,2016,Percent,0.65503,36081
+Staten Island,Black,2016,Percent,0.65812,36085
+Bronx,Latino,2016,Percent,0.57725,36005
+Brooklyn,Latino,2016,Percent,0.62292,36047
+Manhattan,Latino,2016,Percent,0.66414,36061
+Queens,Latino,2016,Percent,0.69131,36081
+Staten Island,Latino,2016,Percent,0.6713,36085
+Bronx,White,2016,Percent,0.73333,36005
+Brooklyn,White,2016,Percent,0.75601,36047
+Manhattan,White,2016,Percent,0.85313,36061
+Queens,White,2016,Percent,0.79879,36081
+Staten Island,White,2016,Percent,0.84129,36085
+Bronx,Asian,2017,Percent,0.89241,36005
+Brooklyn,Asian,2017,Percent,0.83305,36047
+Manhattan,Asian,2017,Percent,0.86005,36061
+Queens,Asian,2017,Percent,0.8438,36081
+Staten Island,Asian,2017,Percent,0.91577,36085
+Bronx,Black,2017,Percent,0.62624,36005
+Brooklyn,Black,2017,Percent,0.67713,36047
+Manhattan,Black,2017,Percent,0.67237,36061
+Queens,Black,2017,Percent,0.67308,36081
+Staten Island,Black,2017,Percent,0.64454,36085
+Bronx,Latino,2017,Percent,0.59376,36005
+Brooklyn,Latino,2017,Percent,0.63218,36047
+Manhattan,Latino,2017,Percent,0.66204,36061
+Queens,Latino,2017,Percent,0.70129,36081
+Staten Island,Latino,2017,Percent,0.66984,36085
+Bronx,White,2017,Percent,0.74729,36005
+Brooklyn,White,2017,Percent,0.76556,36047
+Manhattan,White,2017,Percent,0.84512,36061
+Queens,White,2017,Percent,0.81134,36081
+Staten Island,White,2017,Percent,0.86477,36085
+Lower East Side,Asian,2016,Percent,0.63636,SD1
+"Stuyvesant Town, Upper E. Side",Asian,2016,Percent,0.89279,SD2
+Upper West Side,Asian,2016,Percent,0.94737,SD3
+East Harlem,Asian,2016,Percent,0.9375,SD4
+Central Harlem,Asian,2016,Percent,0.81667,SD5
+Washington Heights,Asian,2016,Percent,0.7619,SD6
+Mott Haven,Asian,2016,Percent,0.65625,SD7
+"Hunts Point, Port Morris",Asian,2016,Percent,0.73256,SD8
+"East Tremont, Morris Heights",Asian,2016,Percent,0.74194,SD9
+"Riverdale, Kingsbridge, Fordham",Asian,2016,Percent,0.93314,SD10
+"Eastchester, Baychester, Co-op City",Asian,2016,Percent,0.82813,SD11
+"Crotona Park, Morrisania, Melrose",Asian,2016,Percent,0.58065,SD12
+"Brooklyn Hts, Downtown Brooklyn",Asian,2016,Percent,0.94573,SD13
+"Williamsburg, Greenpoint",Asian,2016,Percent,0.9863,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2016,Percent,0.69663,SD15
+Bedford Stuyvesant,Asian,2016,Percent,0.42857,SD16
+Crown Heights,Asian,2016,Percent,0.66,SD17
+"East Flatbush, Canarsie",Asian,2016,Percent,0.76923,SD18
+East New York,Asian,2016,Percent,0.69565,SD19
+"Bay Ridge, Bensonhurst",Asian,2016,Percent,0.73014,SD20
+"Gravesend, Coney Island",Asian,2016,Percent,0.76153,SD21
+"Flatbush, Midwood, Sheepshead Bay",Asian,2016,Percent,0.84486,SD22
+"Brownsville, Ocean Hill",Asian,2016,Percent,0.33333,SD23
+"Sunnyside, Woodside, Jackson Hts",Asian,2016,Percent,0.86349,SD24
+"Flushing, Whitestone",Asian,2016,Percent,0.80972,SD25
+"Bayside, Douglaston, Little Neck",Asian,2016,Percent,0.86888,SD26
+"Jamaica, Howard Beach, Rockaways",Asian,2016,Percent,0.71021,SD27
+"Jamaica, Forest Hills",Asian,2016,Percent,0.8422,SD28
+"Queens Village, Rosedale, Hollis",Asian,2016,Percent,0.83117,SD29
+"Long Island City, Astoria",Asian,2016,Percent,0.77889,SD30
+Staten Island,Asian,2016,Percent,0.9085,SD31
+Bushwick,Asian,2016,Percent,0.83333,SD32
+Lower East Side,Black,2016,Percent,0.56481,SD1
+"Stuyvesant Town, Upper E. Side",Black,2016,Percent,0.67915,SD2
+Upper West Side,Black,2016,Percent,0.67213,SD3
+East Harlem,Black,2016,Percent,0.68936,SD4
+Central Harlem,Black,2016,Percent,0.60569,SD5
+Washington Heights,Black,2016,Percent,0.63768,SD6
+Mott Haven,Black,2016,Percent,0.60986,SD7
+"Hunts Point, Port Morris",Black,2016,Percent,0.49485,SD8
+"East Tremont, Morris Heights",Black,2016,Percent,0.67208,SD9
+"Riverdale, Kingsbridge, Fordham",Black,2016,Percent,0.67539,SD10
+"Eastchester, Baychester, Co-op City",Black,2016,Percent,0.69681,SD11
+"Crotona Park, Morrisania, Melrose",Black,2016,Percent,0.51042,SD12
+"Brooklyn Hts, Downtown Brooklyn",Black,2016,Percent,0.73765,SD13
+"Williamsburg, Greenpoint",Black,2016,Percent,0.72387,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Black,2016,Percent,0.73264,SD15
+Bedford Stuyvesant,Black,2016,Percent,0.46778,SD16
+Crown Heights,Black,2016,Percent,0.69395,SD17
+"East Flatbush, Canarsie",Black,2016,Percent,0.56901,SD18
+East New York,Black,2016,Percent,0.64634,SD19
+"Bay Ridge, Bensonhurst",Black,2016,Percent,0.65409,SD20
+"Gravesend, Coney Island",Black,2016,Percent,0.63229,SD21
+"Flatbush, Midwood, Sheepshead Bay",Black,2016,Percent,0.77297,SD22
+"Brownsville, Ocean Hill",Black,2016,Percent,0.42406,SD23
+"Sunnyside, Woodside, Jackson Hts",Black,2016,Percent,0.41688,SD24
+"Flushing, Whitestone",Black,2016,Percent,0.61276,SD25
+"Bayside, Douglaston, Little Neck",Black,2016,Percent,0.77473,SD26
+"Jamaica, Howard Beach, Rockaways",Black,2016,Percent,0.57512,SD27
+"Jamaica, Forest Hills",Black,2016,Percent,0.74262,SD28
+"Queens Village, Rosedale, Hollis",Black,2016,Percent,0.66706,SD29
+"Long Island City, Astoria",Black,2016,Percent,0.63636,SD30
+Staten Island,Black,2016,Percent,0.65812,SD31
+Bushwick,Black,2016,Percent,0.65031,SD32
+Lower East Side,Latino,2016,Percent,0.45501,SD1
+"Stuyvesant Town, Upper E. Side",Latino,2016,Percent,0.6852,SD2
+Upper West Side,Latino,2016,Percent,0.65744,SD3
+East Harlem,Latino,2016,Percent,0.81056,SD4
+Central Harlem,Latino,2016,Percent,0.58908,SD5
+Washington Heights,Latino,2016,Percent,0.61638,SD6
+Mott Haven,Latino,2016,Percent,0.54656,SD7
+"Hunts Point, Port Morris",Latino,2016,Percent,0.48972,SD8
+"East Tremont, Morris Heights",Latino,2016,Percent,0.63094,SD9
+"Riverdale, Kingsbridge, Fordham",Latino,2016,Percent,0.59621,SD10
+"Eastchester, Baychester, Co-op City",Latino,2016,Percent,0.62035,SD11
+"Crotona Park, Morrisania, Melrose",Latino,2016,Percent,0.55312,SD12
+"Brooklyn Hts, Downtown Brooklyn",Latino,2016,Percent,0.70924,SD13
+"Williamsburg, Greenpoint",Latino,2016,Percent,0.69145,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2016,Percent,0.59069,SD15
+Bedford Stuyvesant,Latino,2016,Percent,0.43939,SD16
+Crown Heights,Latino,2016,Percent,0.56701,SD17
+"East Flatbush, Canarsie",Latino,2016,Percent,0.57732,SD18
+East New York,Latino,2016,Percent,0.59903,SD19
+"Bay Ridge, Bensonhurst",Latino,2016,Percent,0.57701,SD20
+"Gravesend, Coney Island",Latino,2016,Percent,0.63036,SD21
+"Flatbush, Midwood, Sheepshead Bay",Latino,2016,Percent,0.695,SD22
+"Brownsville, Ocean Hill",Latino,2016,Percent,0.28571,SD23
+"Sunnyside, Woodside, Jackson Hts",Latino,2016,Percent,0.70056,SD24
+"Flushing, Whitestone",Latino,2016,Percent,0.56642,SD25
+"Bayside, Douglaston, Little Neck",Latino,2016,Percent,0.8082,SD26
+"Jamaica, Howard Beach, Rockaways",Latino,2016,Percent,0.62751,SD27
+"Jamaica, Forest Hills",Latino,2016,Percent,0.75705,SD28
+"Queens Village, Rosedale, Hollis",Latino,2016,Percent,0.70642,SD29
+"Long Island City, Astoria",Latino,2016,Percent,0.69162,SD30
+Staten Island,Latino,2016,Percent,0.6713,SD31
+Bushwick,Latino,2016,Percent,0.62185,SD32
+Lower East Side,White,2016,Percent,0.87919,SD1
+"Stuyvesant Town, Upper E. Side",White,2016,Percent,0.82414,SD2
+Upper West Side,White,2016,Percent,0.91005,SD3
+East Harlem,White,2016,Percent,0.75758,SD4
+Central Harlem,White,2016,Percent,0.90476,SD5
+Washington Heights,White,2016,Percent,0.59091,SD6
+Mott Haven,White,2016,Percent,0.55556,SD7
+"Hunts Point, Port Morris",White,2016,Percent,0.47727,SD8
+"East Tremont, Morris Heights",White,2016,Percent,0.57692,SD9
+"Riverdale, Kingsbridge, Fordham",White,2016,Percent,0.87538,SD10
+"Eastchester, Baychester, Co-op City",White,2016,Percent,0.64602,SD11
+"Crotona Park, Morrisania, Melrose",White,2016,Percent,0.46154,SD12
+"Brooklyn Hts, Downtown Brooklyn",White,2016,Percent,0.93537,SD13
+"Williamsburg, Greenpoint",White,2016,Percent,0.69231,SD14
+"S. Brooklyn, Park Slope, Sunset Park",White,2016,Percent,0.56552,SD15
+Bedford Stuyvesant,White,2016,Percent,0,SD16
+Crown Heights,White,2016,Percent,0.42424,SD17
+"East Flatbush, Canarsie",White,2016,Percent,0.29412,SD18
+East New York,White,2016,Percent,0.59091,SD19
+"Bay Ridge, Bensonhurst",White,2016,Percent,0.73684,SD20
+"Gravesend, Coney Island",White,2016,Percent,0.73533,SD21
+"Flatbush, Midwood, Sheepshead Bay",White,2016,Percent,0.81022,SD22
+"Brownsville, Ocean Hill",White,2016,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",White,2016,Percent,0.78936,SD24
+"Flushing, Whitestone",White,2016,Percent,0.74621,SD25
+"Bayside, Douglaston, Little Neck",White,2016,Percent,0.84631,SD26
+"Jamaica, Howard Beach, Rockaways",White,2016,Percent,0.68326,SD27
+"Jamaica, Forest Hills",White,2016,Percent,0.832,SD28
+"Queens Village, Rosedale, Hollis",White,2016,Percent,0.5,SD29
+"Long Island City, Astoria",White,2016,Percent,0.82633,SD30
+Staten Island,White,2016,Percent,0.84129,SD31
+Bushwick,White,2016,Percent,0.16667,SD32
+Lower East Side,Asian,2017,Percent,0.67018,SD1
+"Stuyvesant Town, Upper E. Side",Asian,2017,Percent,0.87508,SD2
+Upper West Side,Asian,2017,Percent,0.94416,SD3
+East Harlem,Asian,2017,Percent,0.95789,SD4
+Central Harlem,Asian,2017,Percent,0.92857,SD5
+Washington Heights,Asian,2017,Percent,0.82143,SD6
+Mott Haven,Asian,2017,Percent,0.84375,SD7
+"Hunts Point, Port Morris",Asian,2017,Percent,0.73469,SD8
+"East Tremont, Morris Heights",Asian,2017,Percent,0.875,SD9
+"Riverdale, Kingsbridge, Fordham",Asian,2017,Percent,0.95819,SD10
+"Eastchester, Baychester, Co-op City",Asian,2017,Percent,0.76106,SD11
+"Crotona Park, Morrisania, Melrose",Asian,2017,Percent,0.69231,SD12
+"Brooklyn Hts, Downtown Brooklyn",Asian,2017,Percent,0.94601,SD13
+"Williamsburg, Greenpoint",Asian,2017,Percent,0.98969,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2017,Percent,0.675,SD15
+Bedford Stuyvesant,Asian,2017,Percent,1,SD16
+Crown Heights,Asian,2017,Percent,0.72308,SD17
+"East Flatbush, Canarsie",Asian,2017,Percent,0.61538,SD18
+East New York,Asian,2017,Percent,0.72727,SD19
+"Bay Ridge, Bensonhurst",Asian,2017,Percent,0.76833,SD20
+"Gravesend, Coney Island",Asian,2017,Percent,0.75492,SD21
+"Flatbush, Midwood, Sheepshead Bay",Asian,2017,Percent,0.87838,SD22
+"Brownsville, Ocean Hill",Asian,2017,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Asian,2017,Percent,0.8565,SD24
+"Flushing, Whitestone",Asian,2017,Percent,0.79667,SD25
+"Bayside, Douglaston, Little Neck",Asian,2017,Percent,0.88957,SD26
+"Jamaica, Howard Beach, Rockaways",Asian,2017,Percent,0.75966,SD27
+"Jamaica, Forest Hills",Asian,2017,Percent,0.85942,SD28
+"Queens Village, Rosedale, Hollis",Asian,2017,Percent,0.75926,SD29
+"Long Island City, Astoria",Asian,2017,Percent,0.84486,SD30
+Staten Island,Asian,2017,Percent,0.91577,SD31
+Bushwick,Asian,2017,Percent,1,SD32
+Lower East Side,Black,2017,Percent,0.53571,SD1
+"Stuyvesant Town, Upper E. Side",Black,2017,Percent,0.67313,SD2
+Upper West Side,Black,2017,Percent,0.70916,SD3
+East Harlem,Black,2017,Percent,0.80695,SD4
+Central Harlem,Black,2017,Percent,0.62551,SD5
+Washington Heights,Black,2017,Percent,0.65464,SD6
+Mott Haven,Black,2017,Percent,0.56487,SD7
+"Hunts Point, Port Morris",Black,2017,Percent,0.53526,SD8
+"East Tremont, Morris Heights",Black,2017,Percent,0.67969,SD9
+"Riverdale, Kingsbridge, Fordham",Black,2017,Percent,0.69048,SD10
+"Eastchester, Baychester, Co-op City",Black,2017,Percent,0.68432,SD11
+"Crotona Park, Morrisania, Melrose",Black,2017,Percent,0.50756,SD12
+"Brooklyn Hts, Downtown Brooklyn",Black,2017,Percent,0.74014,SD13
+"Williamsburg, Greenpoint",Black,2017,Percent,0.75665,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Black,2017,Percent,0.69381,SD15
+Bedford Stuyvesant,Black,2017,Percent,0.49875,SD16
+Crown Heights,Black,2017,Percent,0.72704,SD17
+"East Flatbush, Canarsie",Black,2017,Percent,0.63295,SD18
+East New York,Black,2017,Percent,0.63087,SD19
+"Bay Ridge, Bensonhurst",Black,2017,Percent,0.69469,SD20
+"Gravesend, Coney Island",Black,2017,Percent,0.69693,SD21
+"Flatbush, Midwood, Sheepshead Bay",Black,2017,Percent,0.76625,SD22
+"Brownsville, Ocean Hill",Black,2017,Percent,0.4254,SD23
+"Sunnyside, Woodside, Jackson Hts",Black,2017,Percent,0.45087,SD24
+"Flushing, Whitestone",Black,2017,Percent,0.59584,SD25
+"Bayside, Douglaston, Little Neck",Black,2017,Percent,0.77994,SD26
+"Jamaica, Howard Beach, Rockaways",Black,2017,Percent,0.61034,SD27
+"Jamaica, Forest Hills",Black,2017,Percent,0.75647,SD28
+"Queens Village, Rosedale, Hollis",Black,2017,Percent,0.68652,SD29
+"Long Island City, Astoria",Black,2017,Percent,0.67257,SD30
+Staten Island,Black,2017,Percent,0.64454,SD31
+Bushwick,Black,2017,Percent,0.69178,SD32
+Lower East Side,Latino,2017,Percent,0.47859,SD1
+"Stuyvesant Town, Upper E. Side",Latino,2017,Percent,0.67164,SD2
+Upper West Side,Latino,2017,Percent,0.67469,SD3
+East Harlem,Latino,2017,Percent,0.83986,SD4
+Central Harlem,Latino,2017,Percent,0.60598,SD5
+Washington Heights,Latino,2017,Percent,0.60802,SD6
+Mott Haven,Latino,2017,Percent,0.55349,SD7
+"Hunts Point, Port Morris",Latino,2017,Percent,0.49354,SD8
+"East Tremont, Morris Heights",Latino,2017,Percent,0.64986,SD9
+"Riverdale, Kingsbridge, Fordham",Latino,2017,Percent,0.62906,SD10
+"Eastchester, Baychester, Co-op City",Latino,2017,Percent,0.6464,SD11
+"Crotona Park, Morrisania, Melrose",Latino,2017,Percent,0.55337,SD12
+"Brooklyn Hts, Downtown Brooklyn",Latino,2017,Percent,0.70359,SD13
+"Williamsburg, Greenpoint",Latino,2017,Percent,0.72891,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2017,Percent,0.60323,SD15
+Bedford Stuyvesant,Latino,2017,Percent,0.56,SD16
+Crown Heights,Latino,2017,Percent,0.53398,SD17
+"East Flatbush, Canarsie",Latino,2017,Percent,0.49107,SD18
+East New York,Latino,2017,Percent,0.57143,SD19
+"Bay Ridge, Bensonhurst",Latino,2017,Percent,0.62997,SD20
+"Gravesend, Coney Island",Latino,2017,Percent,0.61689,SD21
+"Flatbush, Midwood, Sheepshead Bay",Latino,2017,Percent,0.69935,SD22
+"Brownsville, Ocean Hill",Latino,2017,Percent,0.30588,SD23
+"Sunnyside, Woodside, Jackson Hts",Latino,2017,Percent,0.70946,SD24
+"Flushing, Whitestone",Latino,2017,Percent,0.56868,SD25
+"Bayside, Douglaston, Little Neck",Latino,2017,Percent,0.84594,SD26
+"Jamaica, Howard Beach, Rockaways",Latino,2017,Percent,0.67114,SD27
+"Jamaica, Forest Hills",Latino,2017,Percent,0.72856,SD28
+"Queens Village, Rosedale, Hollis",Latino,2017,Percent,0.65934,SD29
+"Long Island City, Astoria",Latino,2017,Percent,0.71739,SD30
+Staten Island,Latino,2017,Percent,0.66984,SD31
+Bushwick,Latino,2017,Percent,0.62195,SD32
+Lower East Side,White,2017,Percent,0.85246,SD1
+"Stuyvesant Town, Upper E. Side",White,2017,Percent,0.82305,SD2
+Upper West Side,White,2017,Percent,0.89555,SD3
+East Harlem,White,2017,Percent,0.8,SD4
+Central Harlem,White,2017,Percent,0.89474,SD5
+Washington Heights,White,2017,Percent,0.6,SD6
+Mott Haven,White,2017,Percent,0.67742,SD7
+"Hunts Point, Port Morris",White,2017,Percent,0.53922,SD8
+"East Tremont, Morris Heights",White,2017,Percent,0.36842,SD9
+"Riverdale, Kingsbridge, Fordham",White,2017,Percent,0.84196,SD10
+"Eastchester, Baychester, Co-op City",White,2017,Percent,0.8,SD11
+"Crotona Park, Morrisania, Melrose",White,2017,Percent,0.38462,SD12
+"Brooklyn Hts, Downtown Brooklyn",White,2017,Percent,0.92131,SD13
+"Williamsburg, Greenpoint",White,2017,Percent,0.73684,SD14
+"S. Brooklyn, Park Slope, Sunset Park",White,2017,Percent,0.72667,SD15
+Bedford Stuyvesant,White,2017,Percent,0.27273,SD16
+Crown Heights,White,2017,Percent,0.51724,SD17
+"East Flatbush, Canarsie",White,2017,Percent,0.47368,SD18
+East New York,White,2017,Percent,0.53846,SD19
+"Bay Ridge, Bensonhurst",White,2017,Percent,0.71517,SD20
+"Gravesend, Coney Island",White,2017,Percent,0.73971,SD21
+"Flatbush, Midwood, Sheepshead Bay",White,2017,Percent,0.82609,SD22
+"Brownsville, Ocean Hill",White,2017,Percent,0.25,SD23
+"Sunnyside, Woodside, Jackson Hts",White,2017,Percent,0.76778,SD24
+"Flushing, Whitestone",White,2017,Percent,0.73828,SD25
+"Bayside, Douglaston, Little Neck",White,2017,Percent,0.88358,SD26
+"Jamaica, Howard Beach, Rockaways",White,2017,Percent,0.75122,SD27
+"Jamaica, Forest Hills",White,2017,Percent,0.81102,SD28
+"Queens Village, Rosedale, Hollis",White,2017,Percent,0.61111,SD29
+"Long Island City, Astoria",White,2017,Percent,0.86124,SD30
+Staten Island,White,2017,Percent,0.86477,SD31
+Bushwick,White,2017,Percent,0.5,SD32
+New York City,Asian,2018,Percent,0.85407,3651000
+New York City,Black,2018,Percent,0.68451,3651000
+New York City,Latino,2018,Percent,0.6621,3651000
+New York City,White,2018,Percent,0.82276,3651000
+Bronx,Asian,2018,Percent,0.87707,36005
+Brooklyn,Asian,2018,Percent,0.8385,36047
+Manhattan,Asian,2018,Percent,0.88559,36061
+Queens,Asian,2018,Percent,0.84021,36081
+Staten Island,Asian,2018,Percent,0.93281,36085
+Bronx,Black,2018,Percent,0.64032,36005
+Brooklyn,Black,2018,Percent,0.70311,36047
+Manhattan,Black,2018,Percent,0.66473,36061
+Queens,Black,2018,Percent,0.71564,36081
+Staten Island,Black,2018,Percent,0.62119,36085
+Bronx,Latino,2018,Percent,0.59427,36005
+Brooklyn,Latino,2018,Percent,0.66821,36047
+Manhattan,Latino,2018,Percent,0.68831,36061
+Queens,Latino,2018,Percent,0.70815,36081
+Staten Island,Latino,2018,Percent,0.67262,36085
+Bronx,White,2018,Percent,0.76558,36005
+Brooklyn,White,2018,Percent,0.76928,36047
+Manhattan,White,2018,Percent,0.87042,36061
+Queens,White,2018,Percent,0.82192,36081
+Staten Island,White,2018,Percent,0.87472,36085
+Lower East Side,Asian,2018,Percent,0.67982,SD1
+"Stuyvesant Town, Upper E. Side",Asian,2018,Percent,0.896,SD2
+Upper West Side,Asian,2018,Percent,0.97738,SD3
+East Harlem,Asian,2018,Percent,0.93458,SD4
+Central Harlem,Asian,2018,Percent,0.90789,SD5
+Washington Heights,Asian,2018,Percent,1,SD6
+Mott Haven,Asian,2018,Percent,0.82759,SD7
+"Hunts Point, Port Morris",Asian,2018,Percent,0.63636,SD8
+"East Tremont, Morris Heights",Asian,2018,Percent,0.83333,SD9
+"Riverdale, Kingsbridge, Fordham",Asian,2018,Percent,0.95603,SD10
+"Eastchester, Baychester, Co-op City",Asian,2018,Percent,0.82787,SD11
+"Crotona Park, Morrisania, Melrose",Asian,2018,Percent,0.58824,SD12
+"Brooklyn Hts, Downtown Brooklyn",Asian,2018,Percent,0.94401,SD13
+"Williamsburg, Greenpoint",Asian,2018,Percent,0.93966,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2018,Percent,0.74227,SD15
+Bedford Stuyvesant,Asian,2018,Percent,0.8,SD16
+Crown Heights,Asian,2018,Percent,0.87273,SD17
+"East Flatbush, Canarsie",Asian,2018,Percent,0.625,SD18
+East New York,Asian,2018,Percent,0.67857,SD19
+"Bay Ridge, Bensonhurst",Asian,2018,Percent,0.74317,SD20
+"Gravesend, Coney Island",Asian,2018,Percent,0.83438,SD21
+"Flatbush, Midwood, Sheepshead Bay",Asian,2018,Percent,0.87392,SD22
+"Brownsville, Ocean Hill",Asian,2018,Percent,0.8,SD23
+"Sunnyside, Woodside, Jackson Hts",Asian,2018,Percent,0.8762,SD24
+"Flushing, Whitestone",Asian,2018,Percent,0.82924,SD25
+"Bayside, Douglaston, Little Neck",Asian,2018,Percent,0.88648,SD26
+"Jamaica, Howard Beach, Rockaways",Asian,2018,Percent,0.73635,SD27
+"Jamaica, Forest Hills",Asian,2018,Percent,0.84544,SD28
+"Queens Village, Rosedale, Hollis",Asian,2018,Percent,0.68293,SD29
+"Long Island City, Astoria",Asian,2018,Percent,0.80102,SD30
+Staten Island,Asian,2018,Percent,0.93281,SD31
+Bushwick,Asian,2018,Percent,0.92857,SD32
+Lower East Side,Black,2018,Percent,0.54867,SD1
+"Stuyvesant Town, Upper E. Side",Black,2018,Percent,0.68962,SD2
+Upper West Side,Black,2018,Percent,0.6572,SD3
+East Harlem,Black,2018,Percent,0.75,SD4
+Central Harlem,Black,2018,Percent,0.58405,SD5
+Washington Heights,Black,2018,Percent,0.65909,SD6
+Mott Haven,Black,2018,Percent,0.58272,SD7
+"Hunts Point, Port Morris",Black,2018,Percent,0.53909,SD8
+"East Tremont, Morris Heights",Black,2018,Percent,0.64984,SD9
+"Riverdale, Kingsbridge, Fordham",Black,2018,Percent,0.71749,SD10
+"Eastchester, Baychester, Co-op City",Black,2018,Percent,0.72439,SD11
+"Crotona Park, Morrisania, Melrose",Black,2018,Percent,0.50459,SD12
+"Brooklyn Hts, Downtown Brooklyn",Black,2018,Percent,0.74194,SD13
+"Williamsburg, Greenpoint",Black,2018,Percent,0.80915,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Black,2018,Percent,0.68309,SD15
+Bedford Stuyvesant,Black,2018,Percent,0.58355,SD16
+Crown Heights,Black,2018,Percent,0.76719,SD17
+"East Flatbush, Canarsie",Black,2018,Percent,0.60704,SD18
+East New York,Black,2018,Percent,0.70319,SD19
+"Bay Ridge, Bensonhurst",Black,2018,Percent,0.76256,SD20
+"Gravesend, Coney Island",Black,2018,Percent,0.73182,SD21
+"Flatbush, Midwood, Sheepshead Bay",Black,2018,Percent,0.7658,SD22
+"Brownsville, Ocean Hill",Black,2018,Percent,0.48694,SD23
+"Sunnyside, Woodside, Jackson Hts",Black,2018,Percent,0.5572,SD24
+"Flushing, Whitestone",Black,2018,Percent,0.59857,SD25
+"Bayside, Douglaston, Little Neck",Black,2018,Percent,0.8203,SD26
+"Jamaica, Howard Beach, Rockaways",Black,2018,Percent,0.65681,SD27
+"Jamaica, Forest Hills",Black,2018,Percent,0.76882,SD28
+"Queens Village, Rosedale, Hollis",Black,2018,Percent,0.73185,SD29
+"Long Island City, Astoria",Black,2018,Percent,0.75566,SD30
+Staten Island,Black,2018,Percent,0.62119,SD31
+Bushwick,Black,2018,Percent,0.56618,SD32
+Lower East Side,Latino,2018,Percent,0.57382,SD1
+"Stuyvesant Town, Upper E. Side",Latino,2018,Percent,0.70098,SD2
+Upper West Side,Latino,2018,Percent,0.64097,SD3
+East Harlem,Latino,2018,Percent,0.83216,SD4
+Central Harlem,Latino,2018,Percent,0.59133,SD5
+Washington Heights,Latino,2018,Percent,0.6701,SD6
+Mott Haven,Latino,2018,Percent,0.57352,SD7
+"Hunts Point, Port Morris",Latino,2018,Percent,0.51641,SD8
+"East Tremont, Morris Heights",Latino,2018,Percent,0.63604,SD9
+"Riverdale, Kingsbridge, Fordham",Latino,2018,Percent,0.64055,SD10
+"Eastchester, Baychester, Co-op City",Latino,2018,Percent,0.62393,SD11
+"Crotona Park, Morrisania, Melrose",Latino,2018,Percent,0.54088,SD12
+"Brooklyn Hts, Downtown Brooklyn",Latino,2018,Percent,0.68611,SD13
+"Williamsburg, Greenpoint",Latino,2018,Percent,0.76056,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2018,Percent,0.63355,SD15
+Bedford Stuyvesant,Latino,2018,Percent,0.64078,SD16
+Crown Heights,Latino,2018,Percent,0.60455,SD17
+"East Flatbush, Canarsie",Latino,2018,Percent,0.46875,SD18
+East New York,Latino,2018,Percent,0.64842,SD19
+"Bay Ridge, Bensonhurst",Latino,2018,Percent,0.65195,SD20
+"Gravesend, Coney Island",Latino,2018,Percent,0.68343,SD21
+"Flatbush, Midwood, Sheepshead Bay",Latino,2018,Percent,0.73151,SD22
+"Brownsville, Ocean Hill",Latino,2018,Percent,0.4,SD23
+"Sunnyside, Woodside, Jackson Hts",Latino,2018,Percent,0.70478,SD24
+"Flushing, Whitestone",Latino,2018,Percent,0.58661,SD25
+"Bayside, Douglaston, Little Neck",Latino,2018,Percent,0.81572,SD26
+"Jamaica, Howard Beach, Rockaways",Latino,2018,Percent,0.69751,SD27
+"Jamaica, Forest Hills",Latino,2018,Percent,0.75948,SD28
+"Queens Village, Rosedale, Hollis",Latino,2018,Percent,0.61157,SD29
+"Long Island City, Astoria",Latino,2018,Percent,0.72328,SD30
+Staten Island,Latino,2018,Percent,0.67262,SD31
+Bushwick,Latino,2018,Percent,0.65574,SD32
+Lower East Side,White,2018,Percent,0.904,SD1
+"Stuyvesant Town, Upper E. Side",White,2018,Percent,0.84431,SD2
+Upper West Side,White,2018,Percent,0.91873,SD3
+East Harlem,White,2018,Percent,0.93182,SD4
+Central Harlem,White,2018,Percent,0.87719,SD5
+Washington Heights,White,2018,Percent,0.61905,SD6
+Mott Haven,White,2018,Percent,0.40625,SD7
+"Hunts Point, Port Morris",White,2018,Percent,0.57843,SD8
+"East Tremont, Morris Heights",White,2018,Percent,0.41667,SD9
+"Riverdale, Kingsbridge, Fordham",White,2018,Percent,0.91281,SD10
+"Eastchester, Baychester, Co-op City",White,2018,Percent,0.71901,SD11
+"Crotona Park, Morrisania, Melrose",White,2018,Percent,0.42857,SD12
+"Brooklyn Hts, Downtown Brooklyn",White,2018,Percent,0.89711,SD13
+"Williamsburg, Greenpoint",White,2018,Percent,0.8125,SD14
+"S. Brooklyn, Park Slope, Sunset Park",White,2018,Percent,0.68681,SD15
+Bedford Stuyvesant,White,2018,Percent,0.58333,SD16
+Crown Heights,White,2018,Percent,0.55814,SD17
+"East Flatbush, Canarsie",White,2018,Percent,0.42308,SD18
+East New York,White,2018,Percent,0.47059,SD19
+"Bay Ridge, Bensonhurst",White,2018,Percent,0.76004,SD20
+"Gravesend, Coney Island",White,2018,Percent,0.73045,SD21
+"Flatbush, Midwood, Sheepshead Bay",White,2018,Percent,0.81459,SD22
+"Brownsville, Ocean Hill",White,2018,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",White,2018,Percent,0.83512,SD24
+"Flushing, Whitestone",White,2018,Percent,0.74205,SD25
+"Bayside, Douglaston, Little Neck",White,2018,Percent,0.86293,SD26
+"Jamaica, Howard Beach, Rockaways",White,2018,Percent,0.75107,SD27
+"Jamaica, Forest Hills",White,2018,Percent,0.83613,SD28
+"Queens Village, Rosedale, Hollis",White,2018,Percent,0.47826,SD29
+"Long Island City, Astoria",White,2018,Percent,0.84764,SD30
+Staten Island,White,2018,Percent,0.87472,SD31
+Bushwick,White,2018,Percent,0.58824,SD32
+Bronx,Asian,2019,Percent,0.91091,36005
+Bronx,Black,2019,Percent,0.64809,36005
+Bronx,Latino,2019,Percent,0.62964,36005
+Bronx,White,2019,Percent,0.79879,36005
+Brooklyn,Asian,2019,Percent,0.82735,36047
+Brooklyn,Black,2019,Percent,0.7015,36047
+Brooklyn,Latino,2019,Percent,0.66957,36047
+Brooklyn,White,2019,Percent,0.78237,36047
+Manhattan,Asian,2019,Percent,0.88334,36061
+Manhattan,Black,2019,Percent,0.69322,36061
+Manhattan,Latino,2019,Percent,0.70215,36061
+Manhattan,White,2019,Percent,0.87494,36061
+Queens,Asian,2019,Percent,0.84372,36081
+Queens,Black,2019,Percent,0.73281,36081
+Queens,Latino,2019,Percent,0.72924,36081
+Queens,White,2019,Percent,0.81189,36081
+Staten Island,Asian,2019,Percent,0.9434,36085
+Staten Island,Black,2019,Percent,0.70156,36085
+Staten Island,Latino,2019,Percent,0.68816,36085
+Staten Island,White,2019,Percent,0.88302,36085
+New York City,Asian,2019,Percent,0.85479,3651000
+New York City,Black,2019,Percent,0.69656,3651000
+New York City,Latino,2019,Percent,0.68173,3651000
+New York City,White,2019,Percent,0.82866,3651000
+Lower East Side,Asian,2019,Percent,0.74267,SD1
+Lower East Side,Black,2019,Percent,0.54839,SD1
+Lower East Side,Latino,2019,Percent,0.5919,SD1
+Lower East Side,White,2019,Percent,0.85135,SD1
+"Riverdale, Kingsbridge, Fordham",Asian,2019,Percent,0.9644,SD10
+"Riverdale, Kingsbridge, Fordham",Black,2019,Percent,0.75718,SD10
+"Riverdale, Kingsbridge, Fordham",Latino,2019,Percent,0.66527,SD10
+"Riverdale, Kingsbridge, Fordham",White,2019,Percent,0.90725,SD10
+"Eastchester, Baychester, Co-op City",Asian,2019,Percent,0.88793,SD11
+"Eastchester, Baychester, Co-op City",Black,2019,Percent,0.70126,SD11
+"Eastchester, Baychester, Co-op City",Latino,2019,Percent,0.65984,SD11
+"Eastchester, Baychester, Co-op City",White,2019,Percent,0.78151,SD11
+"Crotona Park, Morrisania, Melrose",Asian,2019,Percent,0.73684,SD12
+"Crotona Park, Morrisania, Melrose",Black,2019,Percent,0.51582,SD12
+"Crotona Park, Morrisania, Melrose",Latino,2019,Percent,0.58028,SD12
+"Crotona Park, Morrisania, Melrose",White,2019,Percent,0.66667,SD12
+"Brooklyn Hts, Downtown Brooklyn",Asian,2019,Percent,0.9288,SD13
+"Brooklyn Hts, Downtown Brooklyn",Black,2019,Percent,0.75619,SD13
+"Brooklyn Hts, Downtown Brooklyn",Latino,2019,Percent,0.80243,SD13
+"Brooklyn Hts, Downtown Brooklyn",White,2019,Percent,0.92895,SD13
+"Williamsburg, Greenpoint",Asian,2019,Percent,0.94059,SD14
+"Williamsburg, Greenpoint",Black,2019,Percent,0.78808,SD14
+"Williamsburg, Greenpoint",Latino,2019,Percent,0.75656,SD14
+"Williamsburg, Greenpoint",White,2019,Percent,0.84146,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Asian,2019,Percent,0.69048,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Black,2019,Percent,0.71361,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Latino,2019,Percent,0.64377,SD15
+"S. Brooklyn, Park Slope, Sunset Park",White,2019,Percent,0.61257,SD15
+Bedford Stuyvesant,Asian,2019,Percent,0.75,SD16
+Bedford Stuyvesant,Black,2019,Percent,0.56284,SD16
+Bedford Stuyvesant,Latino,2019,Percent,0.4382,SD16
+Bedford Stuyvesant,White,2019,Percent,0.25,SD16
+Crown Heights,Asian,2019,Percent,0.75,SD17
+Crown Heights,Black,2019,Percent,0.75659,SD17
+Crown Heights,Latino,2019,Percent,0.56067,SD17
+Crown Heights,White,2019,Percent,0.58974,SD17
+"East Flatbush, Canarsie",Asian,2019,Percent,0.63636,SD18
+"East Flatbush, Canarsie",Black,2019,Percent,0.59443,SD18
+"East Flatbush, Canarsie",Latino,2019,Percent,0.52991,SD18
+"East Flatbush, Canarsie",White,2019,Percent,0.54762,SD18
+East New York,Asian,2019,Percent,0.89063,SD19
+East New York,Black,2019,Percent,0.7437,SD19
+East New York,Latino,2019,Percent,0.7149,SD19
+East New York,White,2019,Percent,0.46154,SD19
+"Stuyvesant Town, Upper E. Side",Asian,2019,Percent,0.89146,SD2
+"Stuyvesant Town, Upper E. Side",Black,2019,Percent,0.71332,SD2
+"Stuyvesant Town, Upper E. Side",Latino,2019,Percent,0.70809,SD2
+"Stuyvesant Town, Upper E. Side",White,2019,Percent,0.86175,SD2
+"Bay Ridge, Bensonhurst",Asian,2019,Percent,0.73596,SD20
+"Bay Ridge, Bensonhurst",Black,2019,Percent,0.7341,SD20
+"Bay Ridge, Bensonhurst",Latino,2019,Percent,0.63925,SD20
+"Bay Ridge, Bensonhurst",White,2019,Percent,0.77546,SD20
+"Gravesend, Coney Island",Asian,2019,Percent,0.77984,SD21
+"Gravesend, Coney Island",Black,2019,Percent,0.70389,SD21
+"Gravesend, Coney Island",Latino,2019,Percent,0.67547,SD21
+"Gravesend, Coney Island",White,2019,Percent,0.78523,SD21
+"Flatbush, Midwood, Sheepshead Bay",Asian,2019,Percent,0.9,SD22
+"Flatbush, Midwood, Sheepshead Bay",Black,2019,Percent,0.81373,SD22
+"Flatbush, Midwood, Sheepshead Bay",Latino,2019,Percent,0.70523,SD22
+"Flatbush, Midwood, Sheepshead Bay",White,2019,Percent,0.79405,SD22
+"Brownsville, Ocean Hill",Asian,2019,Percent,0.28571,SD23
+"Brownsville, Ocean Hill",Black,2019,Percent,0.42984,SD23
+"Brownsville, Ocean Hill",Latino,2019,Percent,0.28205,SD23
+"Brownsville, Ocean Hill",White,2019,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Asian,2019,Percent,0.84375,SD24
+"Sunnyside, Woodside, Jackson Hts",Black,2019,Percent,0.55738,SD24
+"Sunnyside, Woodside, Jackson Hts",Latino,2019,Percent,0.74364,SD24
+"Sunnyside, Woodside, Jackson Hts",White,2019,Percent,0.79279,SD24
+"Flushing, Whitestone",Asian,2019,Percent,0.80941,SD25
+"Flushing, Whitestone",Black,2019,Percent,0.67801,SD25
+"Flushing, Whitestone",Latino,2019,Percent,0.63103,SD25
+"Flushing, Whitestone",White,2019,Percent,0.74914,SD25
+"Bayside, Douglaston, Little Neck",Asian,2019,Percent,0.88231,SD26
+"Bayside, Douglaston, Little Neck",Black,2019,Percent,0.85714,SD26
+"Bayside, Douglaston, Little Neck",Latino,2019,Percent,0.84604,SD26
+"Bayside, Douglaston, Little Neck",White,2019,Percent,0.86252,SD26
+"Jamaica, Howard Beach, Rockaways",Asian,2019,Percent,0.76812,SD27
+"Jamaica, Howard Beach, Rockaways",Black,2019,Percent,0.64324,SD27
+"Jamaica, Howard Beach, Rockaways",Latino,2019,Percent,0.70737,SD27
+"Jamaica, Howard Beach, Rockaways",White,2019,Percent,0.73191,SD27
+"Jamaica, Forest Hills",Asian,2019,Percent,0.88428,SD28
+"Jamaica, Forest Hills",Black,2019,Percent,0.77136,SD28
+"Jamaica, Forest Hills",Latino,2019,Percent,0.7453,SD28
+"Jamaica, Forest Hills",White,2019,Percent,0.83271,SD28
+"Queens Village, Rosedale, Hollis",Asian,2019,Percent,0.74286,SD29
+"Queens Village, Rosedale, Hollis",Black,2019,Percent,0.76238,SD29
+"Queens Village, Rosedale, Hollis",Latino,2019,Percent,0.63551,SD29
+"Queens Village, Rosedale, Hollis",White,2019,Percent,0.58333,SD29
+Upper West Side,Asian,2019,Percent,0.97183,SD3
+Upper West Side,Black,2019,Percent,0.69301,SD3
+Upper West Side,Latino,2019,Percent,0.67371,SD3
+Upper West Side,White,2019,Percent,0.91946,SD3
+"Long Island City, Astoria",Asian,2019,Percent,0.80723,SD30
+"Long Island City, Astoria",Black,2019,Percent,0.65385,SD30
+"Long Island City, Astoria",Latino,2019,Percent,0.73488,SD30
+"Long Island City, Astoria",White,2019,Percent,0.84352,SD30
+Staten Island,Asian,2019,Percent,0.9434,SD31
+Staten Island,Black,2019,Percent,0.70156,SD31
+Staten Island,Latino,2019,Percent,0.68816,SD31
+Staten Island,White,2019,Percent,0.88302,SD31
+Bushwick,Asian,2019,Percent,0.8,SD32
+Bushwick,Black,2019,Percent,0.6371,SD32
+Bushwick,Latino,2019,Percent,0.63975,SD32
+Bushwick,White,2019,Percent,0,SD32
+East Harlem,Asian,2019,Percent,0.98113,SD4
+East Harlem,Black,2019,Percent,0.82673,SD4
+East Harlem,Latino,2019,Percent,0.83784,SD4
+East Harlem,White,2019,Percent,0.87179,SD4
+Central Harlem,Asian,2019,Percent,0.92593,SD5
+Central Harlem,Black,2019,Percent,0.61337,SD5
+Central Harlem,Latino,2019,Percent,0.6209,SD5
+Central Harlem,White,2019,Percent,0.86567,SD5
+Washington Heights,Asian,2019,Percent,0.84615,SD6
+Washington Heights,Black,2019,Percent,0.69048,SD6
+Washington Heights,Latino,2019,Percent,0.69176,SD6
+Washington Heights,White,2019,Percent,0.61538,SD6
+Mott Haven,Asian,2019,Percent,0.91304,SD7
+Mott Haven,Black,2019,Percent,0.63319,SD7
+Mott Haven,Latino,2019,Percent,0.616,SD7
+Mott Haven,White,2019,Percent,0.63333,SD7
+"Hunts Point, Port Morris",Asian,2019,Percent,0.7377,SD8
+"Hunts Point, Port Morris",Black,2019,Percent,0.52456,SD8
+"Hunts Point, Port Morris",Latino,2019,Percent,0.55425,SD8
+"Hunts Point, Port Morris",White,2019,Percent,0.62832,SD8
+"East Tremont, Morris Heights",Asian,2019,Percent,0.83333,SD9
+"East Tremont, Morris Heights",Black,2019,Percent,0.6439,SD9
+"East Tremont, Morris Heights",Latino,2019,Percent,0.66553,SD9
+"East Tremont, Morris Heights",White,2019,Percent,0.55556,SD9

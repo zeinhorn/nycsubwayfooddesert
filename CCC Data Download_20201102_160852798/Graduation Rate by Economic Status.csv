@@ -1,0 +1,1070 @@
+"Name","Graduation Rate by Economic Status"
+"Description","New York City public high school students who graduated as of June after four years of instruction."
+"Source Notes","New York City Department of Education, Graduation Results (School Years 2004-05 to 2018-19); retrieved from&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a><a href=""https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results"">https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results</a>&nbsp;"
+"Notes","All data represent outcomes as of June after four years of instruction. In order to comply with FERPA regulations on public reporting of education outcomes, breakdowns where the number of students in the cohort is 5 or less are suppressed and maps and tables display ""no data"" or ""0""."
+
+Location,Economic Status,TimeFrame,DataFormat,Data,Fips
+New York City,Economically Disadvantaged,2009,Percent,0.59347,3651000
+New York City,Not Economically Disadvantaged,2009,Percent,0.58211,3651000
+Lower East Side,Economically Disadvantaged,2009,Percent,0.54961,SD1
+Lower East Side,Not Economically Disadvantaged,2009,Percent,0.68924,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2009,Percent,0.63261,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2009,Percent,0.60428,SD2
+Upper West Side,Economically Disadvantaged,2009,Percent,0.55418,SD3
+Upper West Side,Not Economically Disadvantaged,2009,Percent,0.81648,SD3
+East Harlem,Economically Disadvantaged,2009,Percent,0.69801,SD4
+East Harlem,Not Economically Disadvantaged,2009,Percent,0.57937,SD4
+Central Harlem,Economically Disadvantaged,2009,Percent,0.60595,SD5
+Central Harlem,Not Economically Disadvantaged,2009,Percent,0.67816,SD5
+Washington Heights,Economically Disadvantaged,2009,Percent,0.7405,SD6
+Washington Heights,Not Economically Disadvantaged,2009,Percent,0.54167,SD6
+Mott Haven,Economically Disadvantaged,2009,Percent,0.5259,SD7
+Mott Haven,Not Economically Disadvantaged,2009,Percent,0.43769,SD7
+"Hunts Point, Port Morris",Economically Disadvantaged,2009,Percent,0.44553,SD8
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2009,Percent,0.2425,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2009,Percent,0.6959,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2009,Percent,0.53618,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2009,Percent,0.61144,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2009,Percent,0.59768,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2009,Percent,0.59012,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2009,Percent,0.54472,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2009,Percent,0.50658,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2009,Percent,0.39241,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2009,Percent,0.75086,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2009,Percent,0.72642,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2009,Percent,0.6679,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2009,Percent,0.54098,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2009,Percent,0.51835,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2009,Percent,0.51163,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2009,Percent,0.4003,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2009,Percent,0.36934,SD16
+Crown Heights,Economically Disadvantaged,2009,Percent,0.61432,SD17
+Crown Heights,Not Economically Disadvantaged,2009,Percent,0.46024,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2009,Percent,0.3473,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2009,Percent,0.34538,SD18
+East New York,Economically Disadvantaged,2009,Percent,0.50829,SD19
+East New York,Not Economically Disadvantaged,2009,Percent,0.404,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2009,Percent,0.61357,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2009,Percent,0.52547,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2009,Percent,0.61672,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2009,Percent,0.48178,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2009,Percent,0.66022,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2009,Percent,0.69705,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2009,Percent,0.46404,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2009,Percent,0.3787,SD23
+Bushwick,Economically Disadvantaged,2009,Percent,0.48968,SD32
+Bushwick,Not Economically Disadvantaged,2009,Percent,0.43636,SD32
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2009,Percent,0.6095,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2009,Percent,0.50622,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2009,Percent,0.64971,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2009,Percent,0.3472,SD25
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2009,Percent,0.78475,SD26
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2009,Percent,0.74689,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2009,Percent,0.4836,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2009,Percent,0.3354,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2009,Percent,0.75667,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2009,Percent,0.67735,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2009,Percent,0.71069,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2009,Percent,0.48781,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2009,Percent,0.60564,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2009,Percent,0.32578,SD30
+Staten Island,Economically Disadvantaged,2009,Percent,0.63042,SD31
+Staten Island,Not Economically Disadvantaged,2009,Percent,0.73589,SD31
+Manhattan,Economically Disadvantaged,2009,Percent,0.6264,36061
+Bronx,Economically Disadvantaged,2009,Percent,0.56399,36005
+Brooklyn,Economically Disadvantaged,2009,Percent,0.58857,36047
+Queens,Economically Disadvantaged,2009,Percent,0.63261,36081
+Staten Island,Economically Disadvantaged,2009,Percent,0.63042,36085
+Manhattan,Not Economically Disadvantaged,2009,Percent,0.65204,36061
+Bronx,Not Economically Disadvantaged,2009,Percent,0.50693,36005
+Brooklyn,Not Economically Disadvantaged,2009,Percent,0.54606,36047
+Queens,Not Economically Disadvantaged,2009,Percent,0.59464,36081
+Staten Island,Not Economically Disadvantaged,2009,Percent,0.73589,36085
+Brooklyn,Economically Disadvantaged,2006,Percent,0.49049,36047
+Manhattan,Economically Disadvantaged,2006,Percent,0.60072,36061
+Staten Island,Economically Disadvantaged,2006,Percent,0.56892,36085
+Bronx,Economically Disadvantaged,2006,Percent,0.50079,36005
+Queens,Economically Disadvantaged,2006,Percent,0.54725,36081
+Manhattan,Economically Disadvantaged,2007,Percent,0.59529,36061
+Queens,Economically Disadvantaged,2007,Percent,0.64402,36081
+Brooklyn,Economically Disadvantaged,2007,Percent,0.60555,36047
+Staten Island,Economically Disadvantaged,2007,Percent,0.65987,36085
+Bronx,Economically Disadvantaged,2007,Percent,0.52514,36005
+Queens,Economically Disadvantaged,2008,Percent,0.5766,36081
+Bronx,Economically Disadvantaged,2008,Percent,0.54404,36005
+Manhattan,Economically Disadvantaged,2008,Percent,0.58014,36061
+Brooklyn,Economically Disadvantaged,2008,Percent,0.55855,36047
+Staten Island,Economically Disadvantaged,2008,Percent,0.59387,36085
+Queens,Not Economically Disadvantaged,2006,Percent,0.5645,36081
+Bronx,Not Economically Disadvantaged,2006,Percent,0.36769,36005
+Staten Island,Not Economically Disadvantaged,2006,Percent,0.71441,36085
+Manhattan,Not Economically Disadvantaged,2006,Percent,0.54825,36061
+Brooklyn,Not Economically Disadvantaged,2006,Percent,0.53985,36047
+Bronx,Not Economically Disadvantaged,2007,Percent,0.42068,36005
+Staten Island,Not Economically Disadvantaged,2007,Percent,0.70194,36085
+Manhattan,Not Economically Disadvantaged,2007,Percent,0.51473,36061
+Brooklyn,Not Economically Disadvantaged,2007,Percent,0.43822,36047
+Queens,Not Economically Disadvantaged,2007,Percent,0.52716,36081
+Brooklyn,Not Economically Disadvantaged,2008,Percent,0.58462,36047
+Queens,Not Economically Disadvantaged,2008,Percent,0.63016,36081
+Bronx,Not Economically Disadvantaged,2008,Percent,0.54072,36005
+Staten Island,Not Economically Disadvantaged,2008,Percent,0.73579,36085
+Manhattan,Not Economically Disadvantaged,2008,Percent,0.63434,36061
+Lower East Side,Economically Disadvantaged,2006,Percent,0.51154,SD1
+Lower East Side,Economically Disadvantaged,2007,Percent,0.51319,SD1
+Lower East Side,Economically Disadvantaged,2008,Percent,0.57486,SD1
+Lower East Side,Not Economically Disadvantaged,2006,Percent,0.65289,SD1
+Lower East Side,Not Economically Disadvantaged,2007,Percent,0.6129,SD1
+Lower East Side,Not Economically Disadvantaged,2008,Percent,0.73954,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2006,Percent,0.59915,SD2
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2007,Percent,0.56909,SD2
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2008,Percent,0.57218,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2006,Percent,0.54535,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2007,Percent,0.49581,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2008,Percent,0.60826,SD2
+Upper West Side,Economically Disadvantaged,2006,Percent,0.58719,SD3
+Upper West Side,Economically Disadvantaged,2007,Percent,0.54706,SD3
+Upper West Side,Economically Disadvantaged,2008,Percent,0.54989,SD3
+Upper West Side,Not Economically Disadvantaged,2006,Percent,0.74265,SD3
+Upper West Side,Not Economically Disadvantaged,2007,Percent,0.63862,SD3
+Upper West Side,Not Economically Disadvantaged,2008,Percent,0.72427,SD3
+East Harlem,Economically Disadvantaged,2006,Percent,0.70661,SD4
+East Harlem,Economically Disadvantaged,2007,Percent,0.74832,SD4
+East Harlem,Economically Disadvantaged,2008,Percent,0.65699,SD4
+East Harlem,Not Economically Disadvantaged,2006,Percent,0.26897,SD4
+East Harlem,Not Economically Disadvantaged,2007,Percent,0.23529,SD4
+East Harlem,Not Economically Disadvantaged,2008,Percent,0.5814,SD4
+Central Harlem,Economically Disadvantaged,2006,Percent,0.69122,SD5
+Central Harlem,Economically Disadvantaged,2007,Percent,0.68798,SD5
+Central Harlem,Economically Disadvantaged,2008,Percent,0.52442,SD5
+Central Harlem,Not Economically Disadvantaged,2006,Percent,0.12698,SD5
+Central Harlem,Not Economically Disadvantaged,2007,Percent,0.16279,SD5
+Central Harlem,Not Economically Disadvantaged,2008,Percent,0.63881,SD5
+Washington Heights,Economically Disadvantaged,2006,Percent,0.63665,SD6
+Washington Heights,Economically Disadvantaged,2007,Percent,0.68708,SD6
+Washington Heights,Economically Disadvantaged,2008,Percent,0.65459,SD6
+Washington Heights,Not Economically Disadvantaged,2006,Percent,0.17347,SD6
+Washington Heights,Not Economically Disadvantaged,2007,Percent,0.45753,SD6
+Washington Heights,Not Economically Disadvantaged,2008,Percent,0.44649,SD6
+Mott Haven,Economically Disadvantaged,2006,Percent,0.62591,SD7
+Mott Haven,Economically Disadvantaged,2007,Percent,0.58683,SD7
+Mott Haven,Economically Disadvantaged,2008,Percent,0.54423,SD7
+Mott Haven,Not Economically Disadvantaged,2006,Percent,0.20179,SD7
+Mott Haven,Not Economically Disadvantaged,2007,Percent,0.34768,SD7
+Mott Haven,Not Economically Disadvantaged,2008,Percent,0.48328,SD7
+"Hunts Point, Port Morris",Economically Disadvantaged,2006,Percent,0.4586,SD8
+"Hunts Point, Port Morris",Economically Disadvantaged,2007,Percent,0.41936,SD8
+"Hunts Point, Port Morris",Economically Disadvantaged,2008,Percent,0.4201,SD8
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2006,Percent,0.24383,SD8
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2007,Percent,0.29433,SD8
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2008,Percent,0.33538,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2006,Percent,0.4375,SD9
+"East Tremont, Morris Heights",Economically Disadvantaged,2007,Percent,0.51474,SD9
+"East Tremont, Morris Heights",Economically Disadvantaged,2008,Percent,0.62776,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2006,Percent,0.4127,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2007,Percent,0.335,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2008,Percent,0.46429,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2006,Percent,0.48699,SD10
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2007,Percent,0.52779,SD10
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2008,Percent,0.55456,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2006,Percent,0.43844,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2007,Percent,0.50613,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2008,Percent,0.63792,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2006,Percent,0.51041,SD11
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2007,Percent,0.54598,SD11
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2008,Percent,0.59788,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2006,Percent,0.33421,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2007,Percent,0.41684,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2008,Percent,0.54265,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2006,Percent,0.37002,SD12
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2007,Percent,0.45,SD12
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2008,Percent,0.45797,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2006,Percent,0.32889,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2007,Percent,0.11039,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2008,Percent,0.29452,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2006,Percent,0.72475,SD13
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2007,Percent,0.76471,SD13
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2008,Percent,0.76404,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2006,Percent,0.78749,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2007,Percent,0.7021,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2008,Percent,0.77726,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2006,Percent,0.56473,SD14
+"Williamsburg, Greenpoint",Economically Disadvantaged,2007,Percent,0.60029,SD14
+"Williamsburg, Greenpoint",Economically Disadvantaged,2008,Percent,0.65886,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2006,Percent,0.42779,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2007,Percent,0.3777,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2008,Percent,0.48029,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2006,Percent,0.41528,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2007,Percent,0.43989,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2008,Percent,0.47881,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2006,Percent,0.3467,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2007,Percent,0.35772,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2008,Percent,0.42588,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2006,Percent,0.29658,SD16
+Bedford Stuyvesant,Economically Disadvantaged,2007,Percent,0.49363,SD16
+Bedford Stuyvesant,Economically Disadvantaged,2008,Percent,0.43075,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2006,Percent,0.47035,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2007,Percent,0.20914,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2008,Percent,0.35294,SD16
+Crown Heights,Economically Disadvantaged,2006,Percent,0.48992,SD17
+Crown Heights,Economically Disadvantaged,2007,Percent,0.62621,SD17
+Crown Heights,Economically Disadvantaged,2008,Percent,0.6044,SD17
+Crown Heights,Not Economically Disadvantaged,2006,Percent,0.51122,SD17
+Crown Heights,Not Economically Disadvantaged,2007,Percent,0.46679,SD17
+Crown Heights,Not Economically Disadvantaged,2008,Percent,0.57205,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2006,Percent,0.21627,SD18
+"East Flatbush, Canarsie",Economically Disadvantaged,2007,Percent,0.37668,SD18
+"East Flatbush, Canarsie",Economically Disadvantaged,2008,Percent,0.34993,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2006,Percent,0.35289,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2007,Percent,0.29375,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2008,Percent,0.30483,SD18
+East New York,Economically Disadvantaged,2006,Percent,0.4401,SD19
+East New York,Economically Disadvantaged,2007,Percent,0.46497,SD19
+East New York,Economically Disadvantaged,2008,Percent,0.43997,SD19
+East New York,Not Economically Disadvantaged,2006,Percent,0.03344,SD19
+East New York,Not Economically Disadvantaged,2007,Percent,0.20125,SD19
+East New York,Not Economically Disadvantaged,2008,Percent,0.39234,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2006,Percent,0.49667,SD20
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2007,Percent,0.65394,SD20
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2008,Percent,0.54302,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2006,Percent,0.4808,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2007,Percent,0.26477,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2008,Percent,0.5854,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2006,Percent,0.51496,SD21
+"Gravesend, Coney Island",Economically Disadvantaged,2007,Percent,0.61016,SD21
+"Gravesend, Coney Island",Economically Disadvantaged,2008,Percent,0.48483,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2006,Percent,0.51709,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2007,Percent,0.33779,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2008,Percent,0.57582,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2006,Percent,0.45468,SD22
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2007,Percent,0.70197,SD22
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2008,Percent,0.56226,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2006,Percent,0.68448,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2007,Percent,0.62848,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2008,Percent,0.70293,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2006,Percent,0.46667,SD23
+"Brownsville, Ocean Hill",Economically Disadvantaged,2007,Percent,0.6,SD23
+"Brownsville, Ocean Hill",Economically Disadvantaged,2008,Percent,0.62847,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2006,Percent,0.45,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2007,Percent,0.14035,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2008,Percent,0.57391,SD23
+Bushwick,Economically Disadvantaged,2006,Percent,0.34694,SD32
+Bushwick,Economically Disadvantaged,2007,Percent,0.55766,SD32
+Bushwick,Economically Disadvantaged,2008,Percent,0.51759,SD32
+Bushwick,Not Economically Disadvantaged,2006,Percent,0.47782,SD32
+Bushwick,Not Economically Disadvantaged,2007,Percent,0.21333,SD32
+Bushwick,Not Economically Disadvantaged,2008,Percent,0.50365,SD32
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2006,Percent,0.5213,SD24
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2007,Percent,0.6099,SD24
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2008,Percent,0.55646,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2006,Percent,0.35771,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2007,Percent,0.27244,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2008,Percent,0.52365,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2006,Percent,0.5639,SD25
+"Flushing, Whitestone",Economically Disadvantaged,2007,Percent,0.60401,SD25
+"Flushing, Whitestone",Economically Disadvantaged,2008,Percent,0.59091,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2006,Percent,0.36269,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2007,Percent,0.37436,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2008,Percent,0.54664,SD25
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2006,Percent,0.68691,SD26
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2007,Percent,0.82016,SD26
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2008,Percent,0.72938,SD26
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2006,Percent,0.72126,SD26
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2007,Percent,0.71068,SD26
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2008,Percent,0.75996,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2006,Percent,0.44732,SD27
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2007,Percent,0.49173,SD27
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2008,Percent,0.44866,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2006,Percent,0.41036,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2007,Percent,0.19196,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2008,Percent,0.32582,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2006,Percent,0.60121,SD28
+"Jamaica, Forest Hills",Economically Disadvantaged,2007,Percent,0.74299,SD28
+"Jamaica, Forest Hills",Economically Disadvantaged,2008,Percent,0.63341,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2006,Percent,0.65116,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2007,Percent,0.59758,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2008,Percent,0.63509,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2006,Percent,0.46032,SD29
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2007,Percent,0.61487,SD29
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2008,Percent,0.64495,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2006,Percent,0.44257,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2007,Percent,0.36554,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2008,Percent,0.52265,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2006,Percent,0.5579,SD30
+"Long Island City, Astoria",Economically Disadvantaged,2007,Percent,0.66118,SD30
+"Long Island City, Astoria",Economically Disadvantaged,2008,Percent,0.58223,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2006,Percent,0.43918,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2007,Percent,0.44444,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2008,Percent,0.49954,SD30
+Staten Island,Economically Disadvantaged,2006,Percent,0.55586,SD31
+Staten Island,Economically Disadvantaged,2007,Percent,0.63936,SD31
+Staten Island,Economically Disadvantaged,2008,Percent,0.5784,SD31
+Staten Island,Not Economically Disadvantaged,2006,Percent,0.70262,SD31
+Staten Island,Not Economically Disadvantaged,2007,Percent,0.68712,SD31
+Staten Island,Not Economically Disadvantaged,2008,Percent,0.72521,SD31
+New York City,Economically Disadvantaged,2006,Percent,0.53466,3651000
+New York City,Economically Disadvantaged,2007,Percent,0.59535,3651000
+New York City,Economically Disadvantaged,2008,Percent,0.56485,3651000
+New York City,Not Economically Disadvantaged,2006,Percent,0.5476,3651000
+New York City,Not Economically Disadvantaged,2007,Percent,0.50218,3651000
+New York City,Not Economically Disadvantaged,2008,Percent,0.61573,3651000
+Lower East Side,Economically Disadvantaged,2010,Percent,0.57052,SD1
+Lower East Side,Not Economically Disadvantaged,2010,Percent,0.68978,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2010,Percent,0.65414,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2010,Percent,0.61201,SD2
+Upper West Side,Economically Disadvantaged,2010,Percent,0.54667,SD3
+Upper West Side,Not Economically Disadvantaged,2010,Percent,0.83542,SD3
+East Harlem,Economically Disadvantaged,2010,Percent,0.74234,SD4
+East Harlem,Not Economically Disadvantaged,2010,Percent,0.59474,SD4
+Central Harlem,Economically Disadvantaged,2010,Percent,0.62712,SD5
+Central Harlem,Not Economically Disadvantaged,2010,Percent,0.59337,SD5
+Washington Heights,Economically Disadvantaged,2010,Percent,0.69502,SD6
+Washington Heights,Not Economically Disadvantaged,2010,Percent,0.5625,SD6
+Mott Haven,Economically Disadvantaged,2010,Percent,0.5565,SD7
+Mott Haven,Not Economically Disadvantaged,2010,Percent,0.30799,SD7
+"Hunts Point, Port Morris",Economically Disadvantaged,2010,Percent,0.46182,SD8
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2010,Percent,0.2799,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2010,Percent,0.64235,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2010,Percent,0.44118,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2010,Percent,0.6066,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2010,Percent,0.62226,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2010,Percent,0.61534,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2010,Percent,0.52666,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2010,Percent,0.53942,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2010,Percent,0.28241,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2010,Percent,0.75,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2010,Percent,0.71447,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2010,Percent,0.67813,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2010,Percent,0.54839,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2010,Percent,0.5167,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2010,Percent,0.45342,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2010,Percent,0.4378,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2010,Percent,0.34061,SD16
+Crown Heights,Economically Disadvantaged,2010,Percent,0.6041,SD17
+Crown Heights,Not Economically Disadvantaged,2010,Percent,0.5123,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2010,Percent,0.36601,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2010,Percent,0.32751,SD18
+East New York,Economically Disadvantaged,2010,Percent,0.53659,SD19
+East New York,Not Economically Disadvantaged,2010,Percent,0.31591,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2010,Percent,0.63826,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2010,Percent,0.57002,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2010,Percent,0.64831,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2010,Percent,0.43158,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2010,Percent,0.72537,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2010,Percent,0.73363,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2010,Percent,0.45361,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2010,Percent,0.23239,SD23
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2010,Percent,0.62221,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2010,Percent,0.46639,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2010,Percent,0.66327,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2010,Percent,0.41015,SD25
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2010,Percent,0.77861,SD26
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2010,Percent,0.72307,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2010,Percent,0.57937,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2010,Percent,0.41517,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2010,Percent,0.78579,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2010,Percent,0.68117,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2010,Percent,0.66839,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2010,Percent,0.49102,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2010,Percent,0.64806,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2010,Percent,0.52174,SD30
+Staten Island,Economically Disadvantaged,2010,Percent,0.67144,SD31
+Staten Island,Not Economically Disadvantaged,2010,Percent,0.76956,SD31
+Bushwick,Economically Disadvantaged,2010,Percent,0.55078,SD32
+Bushwick,Not Economically Disadvantaged,2010,Percent,0.37705,SD32
+Manhattan,Not Economically Disadvantaged,2010,Percent,0.64868,36061
+Manhattan,Economically Disadvantaged,2010,Percent,0.63467,36061
+Bronx,Not Economically Disadvantaged,2010,Percent,0.48684,36005
+Bronx,Economically Disadvantaged,2010,Percent,0.57299,36005
+Brooklyn,Not Economically Disadvantaged,2010,Percent,0.55546,36047
+Brooklyn,Economically Disadvantaged,2010,Percent,0.61528,36047
+Queens,Not Economically Disadvantaged,2010,Percent,0.59315,36081
+Queens,Economically Disadvantaged,2010,Percent,0.67486,36081
+Staten Island,Not Economically Disadvantaged,2010,Percent,0.76956,36085
+Staten Island,Economically Disadvantaged,2010,Percent,0.67144,36085
+New York City,Not Economically Disadvantaged,2010,Percent,0.59124,3651000
+New York City,Economically Disadvantaged,2010,Percent,0.61867,3651000
+Manhattan,Economically Disadvantaged,2011,Percent,0.60783,36061
+Bronx,Economically Disadvantaged,2011,Percent,0.53447,36005
+Brooklyn,Economically Disadvantaged,2011,Percent,0.60696,36047
+Queens,Economically Disadvantaged,2011,Percent,0.68229,36081
+Staten Island,Economically Disadvantaged,2011,Percent,0.66309,36085
+Lower East Side,Economically Disadvantaged,2011,Percent,0.53387,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2011,Percent,0.64397,SD2
+Upper West Side,Economically Disadvantaged,2011,Percent,0.52094,SD3
+East Harlem,Economically Disadvantaged,2011,Percent,0.65349,SD4
+Central Harlem,Economically Disadvantaged,2011,Percent,0.59652,SD5
+Washington Heights,Economically Disadvantaged,2011,Percent,0.62553,SD6
+Mott Haven,Economically Disadvantaged,2011,Percent,0.52312,SD7
+"Hunts Point, Port Morris",Economically Disadvantaged,2011,Percent,0.46181,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2011,Percent,0.58166,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2011,Percent,0.5822,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2011,Percent,0.57831,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2011,Percent,0.42697,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2011,Percent,0.72737,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2011,Percent,0.65342,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2011,Percent,0.51776,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2011,Percent,0.46141,SD16
+Crown Heights,Economically Disadvantaged,2011,Percent,0.56218,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2011,Percent,0.45522,SD18
+East New York,Economically Disadvantaged,2011,Percent,0.58101,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2011,Percent,0.66464,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2011,Percent,0.62582,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2011,Percent,0.7281,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2011,Percent,0.40838,SD23
+Bushwick,Economically Disadvantaged,2011,Percent,0.48454,SD32
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2011,Percent,0.64836,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2011,Percent,0.67407,SD25
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2011,Percent,0.81247,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2011,Percent,0.58641,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2011,Percent,0.74533,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2011,Percent,0.62715,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2011,Percent,0.65245,SD30
+Staten Island,Economically Disadvantaged,2011,Percent,0.66309,SD31
+New York City,Economically Disadvantaged,2012,Percent,0.59835,3651000
+Manhattan,Economically Disadvantaged,2012,Percent,0.59816,36061
+Bronx,Economically Disadvantaged,2012,Percent,0.50786,36005
+Brooklyn,Economically Disadvantaged,2012,Percent,0.60345,36047
+Queens,Economically Disadvantaged,2012,Percent,0.66549,36081
+Staten Island,Economically Disadvantaged,2012,Percent,0.66824,36085
+Lower East Side,Economically Disadvantaged,2012,Percent,0.51508,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2012,Percent,0.6225,SD2
+Upper West Side,Economically Disadvantaged,2012,Percent,0.526,SD3
+East Harlem,Economically Disadvantaged,2012,Percent,0.71483,SD4
+Central Harlem,Economically Disadvantaged,2012,Percent,0.54328,SD5
+Washington Heights,Economically Disadvantaged,2012,Percent,0.60166,SD6
+Mott Haven,Economically Disadvantaged,2012,Percent,0.49248,SD7
+"Hunts Point, Port Morris",Economically Disadvantaged,2012,Percent,0.39971,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2012,Percent,0.57441,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2012,Percent,0.54089,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2012,Percent,0.54819,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2012,Percent,0.3954,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2012,Percent,0.7323,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2012,Percent,0.64744,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2012,Percent,0.53815,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2012,Percent,0.40257,SD16
+Crown Heights,Economically Disadvantaged,2012,Percent,0.59597,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2012,Percent,0.53142,SD18
+East New York,Economically Disadvantaged,2012,Percent,0.55952,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2012,Percent,0.65132,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2012,Percent,0.62475,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2012,Percent,0.6683,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2012,Percent,0.35028,SD23
+Bushwick,Economically Disadvantaged,2012,Percent,0.43995,SD32
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2012,Percent,0.655,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2012,Percent,0.6097,SD25
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2012,Percent,0.81463,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2012,Percent,0.54137,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2012,Percent,0.73687,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2012,Percent,0.58958,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2012,Percent,0.64934,SD30
+Staten Island,Economically Disadvantaged,2012,Percent,0.66824,SD31
+Manhattan,Not Economically Disadvantaged,2011,Percent,0.64681,36061
+Bronx,Not Economically Disadvantaged,2011,Percent,0.49889,36005
+Brooklyn,Not Economically Disadvantaged,2011,Percent,0.56695,36047
+Queens,Not Economically Disadvantaged,2011,Percent,0.58215,36081
+Staten Island,Not Economically Disadvantaged,2011,Percent,0.76638,36085
+Lower East Side,Not Economically Disadvantaged,2011,Percent,0.6519,SD1
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2011,Percent,0.61299,SD2
+Upper West Side,Not Economically Disadvantaged,2011,Percent,0.8204,SD3
+East Harlem,Not Economically Disadvantaged,2011,Percent,0.58049,SD4
+Central Harlem,Not Economically Disadvantaged,2011,Percent,0.65,SD5
+Washington Heights,Not Economically Disadvantaged,2011,Percent,0.54546,SD6
+Mott Haven,Not Economically Disadvantaged,2011,Percent,0.38312,SD7
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2011,Percent,0.21053,SD8
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2011,Percent,0.37447,SD9
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2011,Percent,0.64352,SD10
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2011,Percent,0.50453,SD11
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2011,Percent,0.25292,SD12
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2011,Percent,0.75092,SD13
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2011,Percent,0.52083,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2011,Percent,0.40404,SD15
+Bedford Stuyvesant,Not Economically Disadvantaged,2011,Percent,0.32836,SD16
+Crown Heights,Not Economically Disadvantaged,2011,Percent,0.5122,SD17
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2011,Percent,0.4,SD18
+East New York,Not Economically Disadvantaged,2011,Percent,0.38028,SD19
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2011,Percent,0.57769,SD20
+"Gravesend, Coney Island",Not Economically Disadvantaged,2011,Percent,0.5145,SD21
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2011,Percent,0.71871,SD22
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2011,Percent,0.28058,SD23
+Bushwick,Not Economically Disadvantaged,2011,Percent,0.40426,SD32
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2011,Percent,0.45483,SD24
+"Flushing, Whitestone",Not Economically Disadvantaged,2011,Percent,0.4175,SD25
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2011,Percent,0.72108,SD26
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2011,Percent,0.44046,SD27
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2011,Percent,0.65205,SD28
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2011,Percent,0.49658,SD29
+"Long Island City, Astoria",Not Economically Disadvantaged,2011,Percent,0.54811,SD30
+Staten Island,Not Economically Disadvantaged,2011,Percent,0.76638,SD31
+New York City,Not Economically Disadvantaged,2012,Percent,0.61807,3651000
+Manhattan,Not Economically Disadvantaged,2012,Percent,0.6786,36061
+Bronx,Not Economically Disadvantaged,2012,Percent,0.53024,36005
+Brooklyn,Not Economically Disadvantaged,2012,Percent,0.6004,36047
+Queens,Not Economically Disadvantaged,2012,Percent,0.57811,36081
+Staten Island,Not Economically Disadvantaged,2012,Percent,0.76386,36085
+Lower East Side,Not Economically Disadvantaged,2012,Percent,0.68976,SD1
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2012,Percent,0.69071,SD2
+Upper West Side,Not Economically Disadvantaged,2012,Percent,0.79476,SD3
+East Harlem,Not Economically Disadvantaged,2012,Percent,0.57014,SD4
+Central Harlem,Not Economically Disadvantaged,2012,Percent,0.53352,SD5
+Washington Heights,Not Economically Disadvantaged,2012,Percent,0.5125,SD6
+Mott Haven,Not Economically Disadvantaged,2012,Percent,0.46897,SD7
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2012,Percent,0.41348,SD8
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2012,Percent,0.39024,SD9
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2012,Percent,0.64575,SD10
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2012,Percent,0.53374,SD11
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2012,Percent,0.31,SD12
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2012,Percent,0.74893,SD13
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2012,Percent,0.61917,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2012,Percent,0.5121,SD15
+Bedford Stuyvesant,Not Economically Disadvantaged,2012,Percent,0.22843,SD16
+Crown Heights,Not Economically Disadvantaged,2012,Percent,0.5706,SD17
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2012,Percent,0.46809,SD18
+East New York,Not Economically Disadvantaged,2012,Percent,0.39928,SD19
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2012,Percent,0.5512,SD20
+"Gravesend, Coney Island",Not Economically Disadvantaged,2012,Percent,0.65409,SD21
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2012,Percent,0.6921,SD22
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2012,Percent,0.13462,SD23
+Bushwick,Not Economically Disadvantaged,2012,Percent,0.30509,SD32
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2012,Percent,0.43071,SD24
+"Flushing, Whitestone",Not Economically Disadvantaged,2012,Percent,0.55605,SD25
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2012,Percent,0.72235,SD26
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2012,Percent,0.46336,SD27
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2012,Percent,0.63436,SD28
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2012,Percent,0.46809,SD29
+"Long Island City, Astoria",Not Economically Disadvantaged,2012,Percent,0.58019,SD30
+Staten Island,Not Economically Disadvantaged,2012,Percent,0.76386,SD31
+New York City,Economically Disadvantaged,2011,Percent,0.61228,3651000
+New York City,Not Economically Disadvantaged,2011,Percent,0.60029,3651000
+New York City,Economically Disadvantaged,2013,Percent,0.60704,3651000
+New York City,Not Economically Disadvantaged,2013,Percent,0.61493,3651000
+Manhattan,Economically Disadvantaged,2013,Percent,0.61001,36061
+Manhattan,Not Economically Disadvantaged,2013,Percent,0.69665,36061
+Bronx,Economically Disadvantaged,2013,Percent,0.51993,36005
+Bronx,Not Economically Disadvantaged,2013,Percent,0.53938,36005
+Brooklyn,Economically Disadvantaged,2013,Percent,0.60875,36047
+Brooklyn,Not Economically Disadvantaged,2013,Percent,0.61261,36047
+Queens,Economically Disadvantaged,2013,Percent,0.66648,36081
+Queens,Not Economically Disadvantaged,2013,Percent,0.57425,36081
+Staten Island,Not Economically Disadvantaged,2013,Percent,0.67286,36085
+Staten Island,Economically Disadvantaged,2013,Percent,0.78039,36085
+Lower East Side,Economically Disadvantaged,2013,Percent,0.484,SD1
+Lower East Side,Not Economically Disadvantaged,2013,Percent,0.669,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2013,Percent,0.629,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2013,Percent,0.702,SD2
+Upper West Side,Economically Disadvantaged,2013,Percent,0.564,SD3
+Upper West Side,Not Economically Disadvantaged,2013,Percent,0.792,SD3
+East Harlem,Economically Disadvantaged,2013,Percent,0.751,SD4
+East Harlem,Not Economically Disadvantaged,2013,Percent,0.627,SD4
+Central Harlem,Economically Disadvantaged,2013,Percent,0.562,SD5
+Central Harlem,Not Economically Disadvantaged,2013,Percent,0.591,SD5
+Washington Heights,Economically Disadvantaged,2013,Percent,0.587,SD6
+Washington Heights,Not Economically Disadvantaged,2013,Percent,0.476,SD6
+Mott Haven,Economically Disadvantaged,2013,Percent,0.46,SD7
+Mott Haven,Not Economically Disadvantaged,2013,Percent,0.367,SD7
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2013,Percent,0.38,SD8
+"Hunts Point, Port Morris",Economically Disadvantaged,2013,Percent,0.428,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2013,Percent,0.574,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2013,Percent,0.469,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2013,Percent,0.557,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2013,Percent,0.695,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2013,Percent,0.594,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2013,Percent,0.558,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2013,Percent,0.449,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2013,Percent,0.335,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2013,Percent,0.739,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2013,Percent,0.804,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2013,Percent,0.577,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2013,Percent,0.517,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2013,Percent,0.619,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2013,Percent,0.559,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2013,Percent,0.427,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2013,Percent,0.287,SD16
+Crown Heights,Economically Disadvantaged,2013,Percent,0.615,SD17
+Crown Heights,Not Economically Disadvantaged,2013,Percent,0.553,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2013,Percent,0.52,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2013,Percent,0.43,SD18
+East New York,Economically Disadvantaged,2013,Percent,0.535,SD19
+East New York,Not Economically Disadvantaged,2013,Percent,0.457,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2013,Percent,0.615,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2013,Percent,0.602,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2013,Percent,0.673,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2013,Percent,0.618,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2013,Percent,0.663,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2013,Percent,0.698,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2013,Percent,0.338,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2013,Percent,0.341,SD23
+Bushwick,Economically Disadvantaged,2013,Percent,0.489,SD32
+Bushwick,Not Economically Disadvantaged,2013,Percent,0.345,SD32
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2013,Percent,0.656,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2013,Percent,0.353,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2013,Percent,0.614,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2013,Percent,0.531,SD25
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2013,Percent,0.747,SD26
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2013,Percent,0.78,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2013,Percent,0.525,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2013,Percent,0.474,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2013,Percent,0.747,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2013,Percent,0.69,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2013,Percent,0.623,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2013,Percent,0.519,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2013,Percent,0.655,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2013,Percent,0.612,SD30
+Staten Island,Economically Disadvantaged,2013,Percent,0.673,SD31
+Staten Island,Not Economically Disadvantaged,2013,Percent,0.78,SD31
+New York City,Economically Disadvantaged,2014,Percent,0.63436,3651000
+New York City,Not Economically Disadvantaged,2014,Percent,0.65764,3651000
+Manhattan,Economically Disadvantaged,2014,Percent,0.64034,36061
+Manhattan,Not Economically Disadvantaged,2014,Percent,0.72324,36061
+Bronx,Economically Disadvantaged,2014,Percent,0.54368,36005
+Bronx,Not Economically Disadvantaged,2014,Percent,0.55661,36005
+Brooklyn,Economically Disadvantaged,2014,Percent,0.63266,36047
+Brooklyn,Not Economically Disadvantaged,2014,Percent,0.65157,36047
+Queens,Economically Disadvantaged,2014,Percent,0.68946,36081
+Queens,Not Economically Disadvantaged,2014,Percent,0.61414,36081
+Staten Island,Not Economically Disadvantaged,2014,Percent,0.80313,36085
+Staten Island,Economically Disadvantaged,2014,Percent,0.72046,36085
+Lower East Side,Economically Disadvantaged,2014,Percent,0.42894,SD1
+Lower East Side,Not Economically Disadvantaged,2014,Percent,0.69733,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2014,Percent,0.6623,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2014,Percent,0.7274,SD2
+Upper West Side,Economically Disadvantaged,2014,Percent,0.61673,SD3
+Upper West Side,Not Economically Disadvantaged,2014,Percent,0.83884,SD3
+East Harlem,Economically Disadvantaged,2014,Percent,0.79376,SD4
+East Harlem,Not Economically Disadvantaged,2014,Percent,0.61582,SD4
+Central Harlem,Economically Disadvantaged,2014,Percent,0.58981,SD5
+Central Harlem,Not Economically Disadvantaged,2014,Percent,0.59661,SD5
+Washington Heights,Economically Disadvantaged,2014,Percent,0.62373,SD6
+Washington Heights,Not Economically Disadvantaged,2014,Percent,0.47619,SD6
+Mott Haven,Economically Disadvantaged,2014,Percent,0.50572,SD7
+Mott Haven,Not Economically Disadvantaged,2014,Percent,0.37162,SD7
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2014,Percent,0.48576,SD8
+"Hunts Point, Port Morris",Economically Disadvantaged,2014,Percent,0.43368,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2014,Percent,0.57919,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2014,Percent,0.45119,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2014,Percent,0.57626,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2014,Percent,0.67188,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2014,Percent,0.63103,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2014,Percent,0.6087,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2014,Percent,0.50425,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2014,Percent,0.42745,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2014,Percent,0.75133,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2014,Percent,0.82589,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2014,Percent,0.62643,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2014,Percent,0.59878,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2014,Percent,0.58943,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2014,Percent,0.53817,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2014,Percent,0.47183,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2014,Percent,0.33553,SD16
+Crown Heights,Economically Disadvantaged,2014,Percent,0.64099,SD17
+Crown Heights,Not Economically Disadvantaged,2014,Percent,0.59615,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2014,Percent,0.56968,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2014,Percent,0.38756,SD18
+East New York,Economically Disadvantaged,2014,Percent,0.52972,SD19
+East New York,Not Economically Disadvantaged,2014,Percent,0.46599,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2014,Percent,0.64653,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2014,Percent,0.59575,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2014,Percent,0.69351,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2014,Percent,0.69439,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2014,Percent,0.70117,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2014,Percent,0.75494,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2014,Percent,0.34211,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2014,Percent,0.44144,SD23
+Bushwick,Economically Disadvantaged,2014,Percent,0.4827,SD32
+Bushwick,Not Economically Disadvantaged,2014,Percent,0.45902,SD32
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2014,Percent,0.68155,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2014,Percent,0.49018,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2014,Percent,0.6368,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2014,Percent,0.56183,SD25
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2014,Percent,0.76018,SD26
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2014,Percent,0.77121,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2014,Percent,0.57484,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2014,Percent,0.49496,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2014,Percent,0.76705,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2014,Percent,0.73581,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2014,Percent,0.67287,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2014,Percent,0.51399,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2014,Percent,0.67462,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2014,Percent,0.628,SD30
+Staten Island,Economically Disadvantaged,2014,Percent,0.72046,SD31
+Staten Island,Not Economically Disadvantaged,2014,Percent,0.80313,SD31
+New York City,Economically Disadvantaged,2015,Percent,0.6651,3651000
+New York City,Not Economically Disadvantaged,2015,Percent,0.68035,3651000
+Manhattan,Economically Disadvantaged,2015,Percent,0.65649,36061
+Manhattan,Not Economically Disadvantaged,2015,Percent,0.73233,36061
+Bronx,Economically Disadvantaged,2015,Percent,0.59585,36005
+Bronx,Not Economically Disadvantaged,2015,Percent,0.58373,36005
+Brooklyn,Economically Disadvantaged,2015,Percent,0.66264,36047
+Brooklyn,Not Economically Disadvantaged,2015,Percent,0.66884,36047
+Queens,Economically Disadvantaged,2015,Percent,0.7262,36081
+Queens,Not Economically Disadvantaged,2015,Percent,0.65875,36081
+Staten Island,Not Economically Disadvantaged,2015,Percent,0.81072,36085
+Staten Island,Economically Disadvantaged,2015,Percent,0.70762,36085
+Lower East Side,Economically Disadvantaged,2015,Percent,0.5021,SD1
+Lower East Side,Not Economically Disadvantaged,2015,Percent,0.70121,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2015,Percent,0.69457,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2015,Percent,0.74593,SD2
+Upper West Side,Economically Disadvantaged,2015,Percent,0.6359,SD3
+Upper West Side,Not Economically Disadvantaged,2015,Percent,0.85033,SD3
+East Harlem,Economically Disadvantaged,2015,Percent,0.81279,SD4
+East Harlem,Not Economically Disadvantaged,2015,Percent,0.66321,SD4
+Central Harlem,Economically Disadvantaged,2015,Percent,0.62107,SD5
+Central Harlem,Not Economically Disadvantaged,2015,Percent,0.60886,SD5
+Washington Heights,Economically Disadvantaged,2015,Percent,0.62451,SD6
+Washington Heights,Not Economically Disadvantaged,2015,Percent,0.46696,SD6
+Mott Haven,Economically Disadvantaged,2015,Percent,0.54,SD7
+Mott Haven,Not Economically Disadvantaged,2015,Percent,0.39858,SD7
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2015,Percent,0.42784,SD8
+"Hunts Point, Port Morris",Economically Disadvantaged,2015,Percent,0.43403,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2015,Percent,0.64007,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2015,Percent,0.52019,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2015,Percent,0.61612,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2015,Percent,0.70461,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2015,Percent,0.66646,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2015,Percent,0.60417,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2015,Percent,0.5613,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2015,Percent,0.54035,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2015,Percent,0.75486,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2015,Percent,0.83737,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2015,Percent,0.69021,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2015,Percent,0.67112,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2015,Percent,0.64412,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2015,Percent,0.62467,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2015,Percent,0.48338,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2015,Percent,0.5,SD16
+Crown Heights,Economically Disadvantaged,2015,Percent,0.67277,SD17
+Crown Heights,Not Economically Disadvantaged,2015,Percent,0.60166,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2015,Percent,0.58895,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2015,Percent,0.55263,SD18
+East New York,Economically Disadvantaged,2015,Percent,0.554,SD19
+East New York,Not Economically Disadvantaged,2015,Percent,0.53872,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2015,Percent,0.71069,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2015,Percent,0.61222,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2015,Percent,0.69478,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2015,Percent,0.67628,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2015,Percent,0.75456,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2015,Percent,0.79175,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2015,Percent,0.39696,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2015,Percent,0.41221,SD23
+Bushwick,Economically Disadvantaged,2015,Percent,0.5625,SD32
+Bushwick,Not Economically Disadvantaged,2015,Percent,0.43166,SD32
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2015,Percent,0.74812,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2015,Percent,0.58761,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2015,Percent,0.68196,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2015,Percent,0.58771,SD25
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2015,Percent,0.80337,SD26
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2015,Percent,0.80449,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2015,Percent,0.59485,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2015,Percent,0.52967,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2015,Percent,0.78789,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2015,Percent,0.76425,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2015,Percent,0.66327,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2015,Percent,0.55056,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2015,Percent,0.7442,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2015,Percent,0.65985,SD30
+Staten Island,Economically Disadvantaged,2015,Percent,0.70762,SD31
+Staten Island,Not Economically Disadvantaged,2015,Percent,0.81072,SD31
+New York City,Economically Disadvantaged,2016,Percent,0.70209,3651000
+New York City,Not Economically Disadvantaged,2016,Percent,0.69435,3651000
+Manhattan,Economically Disadvantaged,2016,Percent,0.70149,36061
+Manhattan,Not Economically Disadvantaged,2016,Percent,0.74309,36061
+Bronx,Economically Disadvantaged,2016,Percent,0.63693,36005
+Bronx,Not Economically Disadvantaged,2016,Percent,0.61312,36005
+Brooklyn,Economically Disadvantaged,2016,Percent,0.69186,36047
+Brooklyn,Not Economically Disadvantaged,2016,Percent,0.68129,36047
+Queens,Economically Disadvantaged,2016,Percent,0.76494,36081
+Queens,Not Economically Disadvantaged,2016,Percent,0.66423,36081
+Staten Island,Economically Disadvantaged,2016,Percent,0.71326,36085
+Staten Island,Not Economically Disadvantaged,2016,Percent,0.83,36085
+Lower East Side,Economically Disadvantaged,2016,Percent,0.56132,SD1
+Lower East Side,Not Economically Disadvantaged,2016,Percent,0.62818,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2016,Percent,0.73318,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2016,Percent,0.75527,SD2
+Upper West Side,Economically Disadvantaged,2016,Percent,0.67682,SD3
+Upper West Side,Not Economically Disadvantaged,2016,Percent,0.85828,SD3
+East Harlem,Economically Disadvantaged,2016,Percent,0.82377,SD4
+East Harlem,Not Economically Disadvantaged,2016,Percent,0.64804,SD4
+Central Harlem,Economically Disadvantaged,2016,Percent,0.63429,SD5
+Central Harlem,Not Economically Disadvantaged,2016,Percent,0.64134,SD5
+Washington Heights,Economically Disadvantaged,2016,Percent,0.64132,SD6
+Washington Heights,Not Economically Disadvantaged,2016,Percent,0.53043,SD6
+Mott Haven,Economically Disadvantaged,2016,Percent,0.6,SD7
+Mott Haven,Not Economically Disadvantaged,2016,Percent,0.38372,SD7
+"Hunts Point, Port Morris",Economically Disadvantaged,2016,Percent,0.50512,SD8
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2016,Percent,0.49257,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2016,Percent,0.66222,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2016,Percent,0.56546,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2016,Percent,0.68401,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2016,Percent,0.71572,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2016,Percent,0.67048,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2016,Percent,0.64204,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2016,Percent,0.54786,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2016,Percent,0.49135,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2016,Percent,0.80984,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2016,Percent,0.84417,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2016,Percent,0.71958,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2016,Percent,0.71903,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2016,Percent,0.6617,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2016,Percent,0.62779,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2016,Percent,0.47765,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2016,Percent,0.42958,SD16
+Crown Heights,Economically Disadvantaged,2016,Percent,0.70308,SD17
+Crown Heights,Not Economically Disadvantaged,2016,Percent,0.59962,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2016,Percent,0.58261,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2016,Percent,0.51389,SD18
+East New York,Economically Disadvantaged,2016,Percent,0.64086,SD19
+East New York,Not Economically Disadvantaged,2016,Percent,0.60129,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2016,Percent,0.71328,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2016,Percent,0.6049,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2016,Percent,0.70624,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2016,Percent,0.66739,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2016,Percent,0.77236,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2016,Percent,0.81171,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2016,Percent,0.40171,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2016,Percent,0.375,SD23
+Bushwick,Economically Disadvantaged,2016,Percent,0.6475,SD32
+Bushwick,Not Economically Disadvantaged,2016,Percent,0.52586,SD32
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2016,Percent,0.79488,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2016,Percent,0.59299,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2016,Percent,0.70382,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2016,Percent,0.59543,SD25
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2016,Percent,0.84669,SD26
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2016,Percent,0.80402,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2016,Percent,0.6541,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2016,Percent,0.56836,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2016,Percent,0.80803,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2016,Percent,0.7502,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2016,Percent,0.73691,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2016,Percent,0.53947,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2016,Percent,0.75604,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2016,Percent,0.66225,SD30
+Staten Island,Economically Disadvantaged,2016,Percent,0.71714,SD31
+Staten Island,Not Economically Disadvantaged,2016,Percent,0.83148,SD31
+New York City,Economically Disadvantaged,2017,Percent,0.71868,3651000
+New York City,Not Economically Disadvantaged,2017,Percent,0.69354,3651000
+Manhattan,Economically Disadvantaged,2017,Percent,0.70395,36061
+Manhattan,Not Economically Disadvantaged,2017,Percent,0.74032,36061
+Bronx,Economically Disadvantaged,2017,Percent,0.64957,36005
+Bronx,Not Economically Disadvantaged,2017,Percent,0.6215,36005
+Brooklyn,Economically Disadvantaged,2017,Percent,0.72132,36047
+Brooklyn,Not Economically Disadvantaged,2017,Percent,0.67014,36047
+Queens,Economically Disadvantaged,2017,Percent,0.78155,36081
+Queens,Not Economically Disadvantaged,2017,Percent,0.67639,36081
+Staten Island,Economically Disadvantaged,2017,Percent,0.74587,36085
+Staten Island,Not Economically Disadvantaged,2017,Percent,0.81985,36085
+Lower East Side,Not Economically Disadvantaged,2017,Percent,0.55963,SD1
+Lower East Side,Economically Disadvantaged,2017,Percent,0.60791,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2017,Percent,0.71853,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2017,Percent,0.75702,SD2
+Upper West Side,Economically Disadvantaged,2017,Percent,0.69466,SD3
+Upper West Side,Not Economically Disadvantaged,2017,Percent,0.85185,SD3
+East Harlem,Not Economically Disadvantaged,2017,Percent,0.7043,SD4
+East Harlem,Economically Disadvantaged,2017,Percent,0.87548,SD4
+Central Harlem,Economically Disadvantaged,2017,Percent,0.65042,SD5
+Central Harlem,Not Economically Disadvantaged,2017,Percent,0.67376,SD5
+Washington Heights,Economically Disadvantaged,2017,Percent,0.64031,SD6
+Washington Heights,Not Economically Disadvantaged,2017,Percent,0.53219,SD6
+Mott Haven,Economically Disadvantaged,2017,Percent,0.57827,SD7
+Mott Haven,Not Economically Disadvantaged,2017,Percent,0.5,SD7
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2017,Percent,0.50642,SD8
+"Hunts Point, Port Morris",Economically Disadvantaged,2017,Percent,0.52945,SD8
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2017,Percent,0.54654,SD9
+"East Tremont, Morris Heights",Economically Disadvantaged,2017,Percent,0.68852,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2017,Percent,0.70232,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2017,Percent,0.71404,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2017,Percent,0.67802,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2017,Percent,0.66981,SD11
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2017,Percent,0.47119,SD12
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2017,Percent,0.55539,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2017,Percent,0.82014,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2017,Percent,0.84236,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2017,Percent,0.7663,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2017,Percent,0.72779,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2017,Percent,0.67047,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2017,Percent,0.63145,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2017,Percent,0.50721,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2017,Percent,0.51087,SD16
+Crown Heights,Not Economically Disadvantaged,2017,Percent,0.57985,SD17
+Crown Heights,Economically Disadvantaged,2017,Percent,0.73775,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2017,Percent,0.64398,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2017,Percent,0.51807,SD18
+East New York,Economically Disadvantaged,2017,Percent,0.63201,SD19
+East New York,Not Economically Disadvantaged,2017,Percent,0.54007,SD19
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2017,Percent,0.59422,SD20
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2017,Percent,0.74438,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2017,Percent,0.7258,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2017,Percent,0.64138,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2017,Percent,0.80762,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2017,Percent,0.80026,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2017,Percent,0.44583,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2017,Percent,0.2314,SD23
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2017,Percent,0.61778,SD24
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2017,Percent,0.78824,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2017,Percent,0.70273,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2017,Percent,0.58048,SD25
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2017,Percent,0.86861,SD26
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2017,Percent,0.82975,SD26
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2017,Percent,0.57534,SD27
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2017,Percent,0.71718,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2017,Percent,0.80665,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2017,Percent,0.73929,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2017,Percent,0.7294,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2017,Percent,0.57196,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2017,Percent,0.79794,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2017,Percent,0.70414,SD30
+Staten Island,Not Economically Disadvantaged,2017,Percent,0.82632,SD31
+Staten Island,Economically Disadvantaged,2017,Percent,0.75063,SD31
+Bushwick,Economically Disadvantaged,2017,Percent,0.68119,SD32
+Bushwick,Not Economically Disadvantaged,2017,Percent,0.51634,SD32
+Lower East Side,Economically Disadvantaged,2018,Percent,0.62047,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2018,Percent,0.73545,SD2
+Upper West Side,Economically Disadvantaged,2018,Percent,0.65975,SD3
+East Harlem,Economically Disadvantaged,2018,Percent,0.84519,SD4
+Central Harlem,Economically Disadvantaged,2018,Percent,0.60426,SD5
+Washington Heights,Economically Disadvantaged,2018,Percent,0.68864,SD6
+Mott Haven,Economically Disadvantaged,2018,Percent,0.58157,SD7
+"Hunts Point, Port Morris",Economically Disadvantaged,2018,Percent,0.52548,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2018,Percent,0.65363,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2018,Percent,0.70981,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2018,Percent,0.68587,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2018,Percent,0.54058,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2018,Percent,0.80497,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2018,Percent,0.79202,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2018,Percent,0.66695,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2018,Percent,0.60233,SD16
+Crown Heights,Economically Disadvantaged,2018,Percent,0.76129,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2018,Percent,0.60306,SD18
+East New York,Economically Disadvantaged,2018,Percent,0.69079,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2018,Percent,0.73457,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2018,Percent,0.74116,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2018,Percent,0.79245,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2018,Percent,0.47894,SD23
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2018,Percent,0.7776,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2018,Percent,0.69171,SD25
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2018,Percent,0.8642,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2018,Percent,0.73125,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2018,Percent,0.79797,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2018,Percent,0.7156,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2018,Percent,0.76413,SD30
+Staten Island,Economically Disadvantaged,2018,Percent,0.72842,SD31
+Bushwick,Economically Disadvantaged,2018,Percent,0.64899,SD32
+Lower East Side,Not Economically Disadvantaged,2018,Percent,0.68323,SD1
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2018,Percent,0.79564,SD2
+Upper West Side,Not Economically Disadvantaged,2018,Percent,0.87831,SD3
+East Harlem,Not Economically Disadvantaged,2018,Percent,0.74522,SD4
+Central Harlem,Not Economically Disadvantaged,2018,Percent,0.72083,SD5
+Washington Heights,Not Economically Disadvantaged,2018,Percent,0.55102,SD6
+Mott Haven,Not Economically Disadvantaged,2018,Percent,0.54959,SD7
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2018,Percent,0.57179,SD8
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2018,Percent,0.5798,SD9
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2018,Percent,0.77821,SD10
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2018,Percent,0.68075,SD11
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2018,Percent,0.4661,SD12
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2018,Percent,0.86079,SD13
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2018,Percent,0.81176,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2018,Percent,0.68169,SD15
+Bedford Stuyvesant,Not Economically Disadvantaged,2018,Percent,0.58442,SD16
+Crown Heights,Not Economically Disadvantaged,2018,Percent,0.67236,SD17
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2018,Percent,0.54701,SD18
+East New York,Not Economically Disadvantaged,2018,Percent,0.63063,SD19
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2018,Percent,0.68421,SD20
+"Gravesend, Coney Island",Not Economically Disadvantaged,2018,Percent,0.74966,SD21
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2018,Percent,0.83588,SD22
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2018,Percent,0.42029,SD23
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2018,Percent,0.67742,SD24
+"Flushing, Whitestone",Not Economically Disadvantaged,2018,Percent,0.66406,SD25
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2018,Percent,0.83965,SD26
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2018,Percent,0.63179,SD27
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2018,Percent,0.80833,SD28
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2018,Percent,0.7,SD29
+"Long Island City, Astoria",Not Economically Disadvantaged,2018,Percent,0.79289,SD30
+Staten Island,Not Economically Disadvantaged,2018,Percent,0.87355,SD31
+Bushwick,Not Economically Disadvantaged,2018,Percent,0.57692,SD32
+Bronx,Economically Disadvantaged,2018,Percent,0.62865,36005
+Bronx,Not Economically Disadvantaged,2018,Percent,0.66152,36005
+Brooklyn,Economically Disadvantaged,2018,Percent,0.72686,36047
+Brooklyn,Not Economically Disadvantaged,2018,Percent,0.73896,36047
+Manhattan,Economically Disadvantaged,2018,Percent,0.71427,36061
+Manhattan,Not Economically Disadvantaged,2018,Percent,0.79136,36061
+Queens,Economically Disadvantaged,2018,Percent,0.77347,36081
+Queens,Not Economically Disadvantaged,2018,Percent,0.73872,36081
+Staten Island,Economically Disadvantaged,2018,Percent,0.72842,36085
+Staten Island,Not Economically Disadvantaged,2018,Percent,0.87355,36085
+New York City,Economically Disadvantaged,2018,Percent,0.71727,3651000
+New York City,Not Economically Disadvantaged,2018,Percent,0.75368,3651000
+New York City,Economically Disadvantaged,2019,Percent,0.72528,3651000
+New York City,Not Economically Disadvantaged,2019,Percent,0.77599,3651000
+Bronx,Economically Disadvantaged,2019,Percent,0.65443,36005
+Bronx,Not Economically Disadvantaged,2019,Percent,0.69485,36005
+Brooklyn,Economically Disadvantaged,2019,Percent,0.72376,36047
+Brooklyn,Not Economically Disadvantaged,2019,Percent,0.75248,36047
+Manhattan,Economically Disadvantaged,2019,Percent,0.72986,36061
+Manhattan,Not Economically Disadvantaged,2019,Percent,0.8075,36061
+Queens,Economically Disadvantaged,2019,Percent,0.77296,36081
+Queens,Not Economically Disadvantaged,2019,Percent,0.77363,36081
+Staten Island,Economically Disadvantaged,2019,Percent,0.75494,36085
+Staten Island,Not Economically Disadvantaged,2019,Percent,0.88787,36085
+Lower East Side,Economically Disadvantaged,2019,Percent,0.6637,SD1
+Lower East Side,Not Economically Disadvantaged,2019,Percent,0.6858,SD1
+"Stuyvesant Town, Upper E. Side",Economically Disadvantaged,2019,Percent,0.74353,SD2
+"Stuyvesant Town, Upper E. Side",Not Economically Disadvantaged,2019,Percent,0.81009,SD2
+Upper West Side,Economically Disadvantaged,2019,Percent,0.70417,SD3
+Upper West Side,Not Economically Disadvantaged,2019,Percent,0.88662,SD3
+East Harlem,Economically Disadvantaged,2019,Percent,0.8583,SD4
+East Harlem,Not Economically Disadvantaged,2019,Percent,0.83146,SD4
+Central Harlem,Economically Disadvantaged,2019,Percent,0.62273,SD5
+Central Harlem,Not Economically Disadvantaged,2019,Percent,0.75104,SD5
+Washington Heights,Economically Disadvantaged,2019,Percent,0.70618,SD6
+Washington Heights,Not Economically Disadvantaged,2019,Percent,0.59259,SD6
+Mott Haven,Economically Disadvantaged,2019,Percent,0.62366,SD7
+Mott Haven,Not Economically Disadvantaged,2019,Percent,0.62617,SD7
+"Hunts Point, Port Morris",Economically Disadvantaged,2019,Percent,0.54493,SD8
+"Hunts Point, Port Morris",Not Economically Disadvantaged,2019,Percent,0.63702,SD8
+"East Tremont, Morris Heights",Economically Disadvantaged,2019,Percent,0.67156,SD9
+"East Tremont, Morris Heights",Not Economically Disadvantaged,2019,Percent,0.60424,SD9
+"Riverdale, Kingsbridge, Fordham",Economically Disadvantaged,2019,Percent,0.72839,SD10
+"Riverdale, Kingsbridge, Fordham",Not Economically Disadvantaged,2019,Percent,0.80739,SD10
+"Eastchester, Baychester, Co-op City",Economically Disadvantaged,2019,Percent,0.68704,SD11
+"Eastchester, Baychester, Co-op City",Not Economically Disadvantaged,2019,Percent,0.71022,SD11
+"Crotona Park, Morrisania, Melrose",Economically Disadvantaged,2019,Percent,0.59143,SD12
+"Crotona Park, Morrisania, Melrose",Not Economically Disadvantaged,2019,Percent,0.44398,SD12
+"Brooklyn Hts, Downtown Brooklyn",Economically Disadvantaged,2019,Percent,0.82669,SD13
+"Brooklyn Hts, Downtown Brooklyn",Not Economically Disadvantaged,2019,Percent,0.89102,SD13
+"Williamsburg, Greenpoint",Economically Disadvantaged,2019,Percent,0.77797,SD14
+"Williamsburg, Greenpoint",Not Economically Disadvantaged,2019,Percent,0.82154,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Economically Disadvantaged,2019,Percent,0.66366,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Not Economically Disadvantaged,2019,Percent,0.71348,SD15
+Bedford Stuyvesant,Economically Disadvantaged,2019,Percent,0.54478,SD16
+Bedford Stuyvesant,Not Economically Disadvantaged,2019,Percent,0.51136,SD16
+Crown Heights,Economically Disadvantaged,2019,Percent,0.72322,SD17
+Crown Heights,Not Economically Disadvantaged,2019,Percent,0.7327,SD17
+"East Flatbush, Canarsie",Economically Disadvantaged,2019,Percent,0.59212,SD18
+"East Flatbush, Canarsie",Not Economically Disadvantaged,2019,Percent,0.57197,SD18
+East New York,Economically Disadvantaged,2019,Percent,0.73951,SD19
+East New York,Not Economically Disadvantaged,2019,Percent,0.71179,SD19
+"Bay Ridge, Bensonhurst",Economically Disadvantaged,2019,Percent,0.73171,SD20
+"Bay Ridge, Bensonhurst",Not Economically Disadvantaged,2019,Percent,0.66988,SD20
+"Gravesend, Coney Island",Economically Disadvantaged,2019,Percent,0.72154,SD21
+"Gravesend, Coney Island",Not Economically Disadvantaged,2019,Percent,0.77333,SD21
+"Flatbush, Midwood, Sheepshead Bay",Economically Disadvantaged,2019,Percent,0.81529,SD22
+"Flatbush, Midwood, Sheepshead Bay",Not Economically Disadvantaged,2019,Percent,0.81858,SD22
+"Brownsville, Ocean Hill",Economically Disadvantaged,2019,Percent,0.40652,SD23
+"Brownsville, Ocean Hill",Not Economically Disadvantaged,2019,Percent,0.38095,SD23
+Bushwick,Economically Disadvantaged,2019,Percent,0.64643,SD32
+Bushwick,Not Economically Disadvantaged,2019,Percent,0.65385,SD32
+"Sunnyside, Woodside, Jackson Hts",Economically Disadvantaged,2019,Percent,0.77023,SD24
+"Sunnyside, Woodside, Jackson Hts",Not Economically Disadvantaged,2019,Percent,0.72753,SD24
+"Flushing, Whitestone",Economically Disadvantaged,2019,Percent,0.71574,SD25
+"Flushing, Whitestone",Not Economically Disadvantaged,2019,Percent,0.69139,SD25
+"Bayside, Douglaston, Little Neck",Economically Disadvantaged,2019,Percent,0.86472,SD26
+"Bayside, Douglaston, Little Neck",Not Economically Disadvantaged,2019,Percent,0.8683,SD26
+"Jamaica, Howard Beach, Rockaways",Economically Disadvantaged,2019,Percent,0.70996,SD27
+"Jamaica, Howard Beach, Rockaways",Not Economically Disadvantaged,2019,Percent,0.69524,SD27
+"Jamaica, Forest Hills",Economically Disadvantaged,2019,Percent,0.80266,SD28
+"Jamaica, Forest Hills",Not Economically Disadvantaged,2019,Percent,0.83103,SD28
+"Queens Village, Rosedale, Hollis",Economically Disadvantaged,2019,Percent,0.74434,SD29
+"Queens Village, Rosedale, Hollis",Not Economically Disadvantaged,2019,Percent,0.75,SD29
+"Long Island City, Astoria",Economically Disadvantaged,2019,Percent,0.75502,SD30
+"Long Island City, Astoria",Not Economically Disadvantaged,2019,Percent,0.78882,SD30
+Staten Island,Economically Disadvantaged,2019,Percent,0.75494,SD31
+Staten Island,Not Economically Disadvantaged,2019,Percent,0.88787,SD31

@@ -1,0 +1,1146 @@
+"Name","Graduation Rate by Gender"
+"Description","New York City public high school students who graduated as of June after four years of instruction."
+"Source Notes","New York City Department of Education, Graduation Results (School Years 2004-05 to 2018-19); retrieved from&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a><a href=""https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results"">https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results</a>&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a><a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a>"
+"Notes","All data represent outcomes as of June after four years of instruction. In order to comply with FERPA regulations on public reporting of education outcomes, breakdowns where the number of students in the cohort is 5 or less are suppressed and maps and tables display ""no data"" or ""0""."
+
+Location,Gender,TimeFrame,DataFormat,Data,Fips
+New York City,Female,2005,Percent,0.57432,3651000
+New York City,Female,2006,Percent,0.59101,3651000
+New York City,Female,2007,Percent,0.62554,3651000
+New York City,Female,2008,Percent,0.64957,3651000
+New York City,Female,2009,Percent,0.67061,3651000
+New York City,Female,2010,Percent,0.68399,3651000
+New York City,Female,2011,Percent,0.66563,3651000
+New York City,Female,2012,Percent,0.65585,3651000
+New York City,Female,2013,Percent,0.66536,3651000
+New York City,Female,2014,Percent,0.68907,3651000
+New York City,Male,2005,Percent,0.44069,3651000
+New York City,Male,2006,Percent,0.46428,3651000
+New York City,Male,2007,Percent,0.49063,3651000
+New York City,Male,2008,Percent,0.5204,3651000
+New York City,Male,2009,Percent,0.54115,3651000
+New York City,Male,2010,Percent,0.56605,3651000
+New York City,Male,2011,Percent,0.55702,3651000
+New York City,Male,2012,Percent,0.55551,3651000
+New York City,Male,2013,Percent,0.56217,3651000
+New York City,Male,2014,Percent,0.5962,3651000
+Bronx,Female,2005,Percent,0.50846,36005
+Bronx,Female,2006,Percent,0.52751,36005
+Bronx,Female,2007,Percent,0.55598,36005
+Bronx,Female,2008,Percent,0.59886,36005
+Bronx,Female,2009,Percent,0.62146,36005
+Bronx,Female,2010,Percent,0.60609,36005
+Bronx,Female,2011,Percent,0.57654,36005
+Bronx,Female,2012,Percent,0.54983,36005
+Bronx,Female,2013,Percent,0.55603,36005
+Bronx,Female,2014,Percent,0.57964,36005
+Bronx,Male,2005,Percent,0.39058,36005
+Bronx,Male,2006,Percent,0.41343,36005
+Bronx,Male,2007,Percent,0.44253,36005
+Bronx,Male,2008,Percent,0.48522,36005
+Bronx,Male,2009,Percent,0.49659,36005
+Bronx,Male,2010,Percent,0.51789,36005
+Bronx,Male,2011,Percent,0.48464,36005
+Bronx,Male,2012,Percent,0.46777,36005
+Bronx,Male,2013,Percent,0.49375,36005
+Bronx,Male,2014,Percent,0.51709,36005
+Brooklyn,Female,2005,Percent,0.57641,36047
+Brooklyn,Female,2006,Percent,0.57961,36047
+Brooklyn,Female,2007,Percent,0.6046,36047
+Brooklyn,Female,2008,Percent,0.63883,36047
+Brooklyn,Female,2009,Percent,0.64104,36047
+Brooklyn,Female,2010,Percent,0.66572,36047
+Brooklyn,Female,2011,Percent,0.65189,36047
+Brooklyn,Female,2012,Percent,0.65346,36047
+Brooklyn,Female,2013,Percent,0.6629,36047
+Brooklyn,Female,2014,Percent,0.68377,36047
+Brooklyn,Male,2005,Percent,0.4319,36047
+Brooklyn,Male,2006,Percent,0.456,36047
+Brooklyn,Male,2007,Percent,0.47209,36047
+Brooklyn,Male,2008,Percent,0.49665,36047
+Brooklyn,Male,2009,Percent,0.51864,36047
+Brooklyn,Male,2010,Percent,0.54151,36047
+Brooklyn,Male,2011,Percent,0.54535,36047
+Brooklyn,Male,2012,Percent,0.55377,36047
+Brooklyn,Male,2013,Percent,0.56087,36047
+Brooklyn,Male,2014,Percent,0.59652,36047
+Manhattan,Female,2005,Percent,0.68006,36061
+Manhattan,Female,2006,Percent,0.66999,36061
+Manhattan,Female,2007,Percent,0.65082,36061
+Manhattan,Female,2008,Percent,0.6678,36061
+Manhattan,Female,2009,Percent,0.70007,36061
+Manhattan,Female,2010,Percent,0.71651,36061
+Manhattan,Female,2011,Percent,0.68616,36061
+Manhattan,Female,2012,Percent,0.6738,36061
+Manhattan,Female,2013,Percent,0.68952,36061
+Manhattan,Female,2014,Percent,0.71245,36061
+Manhattan,Male,2005,Percent,0.53266,36061
+Manhattan,Male,2006,Percent,0.53325,36061
+Manhattan,Male,2007,Percent,0.49381,36061
+Manhattan,Male,2008,Percent,0.53746,36061
+Manhattan,Male,2009,Percent,0.57432,36061
+Manhattan,Male,2010,Percent,0.57764,36061
+Manhattan,Male,2011,Percent,0.5643,36061
+Manhattan,Male,2012,Percent,0.57511,36061
+Manhattan,Male,2013,Percent,0.56785,36061
+Manhattan,Male,2014,Percent,0.61311,36061
+Queens,Female,2005,Percent,0.6258,36081
+Queens,Female,2006,Percent,0.63499,36081
+Queens,Female,2007,Percent,0.66044,36081
+Queens,Female,2008,Percent,0.66826,36081
+Queens,Female,2009,Percent,0.69934,36081
+Queens,Female,2010,Percent,0.7156,36081
+Queens,Female,2011,Percent,0.70892,36081
+Queens,Female,2012,Percent,0.69902,36081
+Queens,Female,2013,Percent,0.70286,36081
+Queens,Female,2014,Percent,0.72502,36081
+Queens,Male,2005,Percent,0.48445,36081
+Queens,Male,2006,Percent,0.49063,36081
+Queens,Male,2007,Percent,0.51503,36081
+Queens,Male,2008,Percent,0.53848,36081
+Queens,Male,2009,Percent,0.55085,36081
+Queens,Male,2010,Percent,0.58972,36081
+Queens,Male,2011,Percent,0.5958,36081
+Queens,Male,2012,Percent,0.58117,36081
+Queens,Male,2013,Percent,0.58214,36081
+Queens,Male,2014,Percent,0.61176,36081
+Staten Island,Female,2005,Percent,0.7426,36085
+Staten Island,Female,2006,Percent,0.73077,36085
+Staten Island,Female,2007,Percent,0.7371,36085
+Staten Island,Female,2008,Percent,0.73456,36085
+Staten Island,Female,2009,Percent,0.74805,36085
+Staten Island,Female,2010,Percent,0.77508,36085
+Staten Island,Female,2011,Percent,0.77247,36085
+Staten Island,Female,2012,Percent,0.76689,36085
+Staten Island,Female,2013,Percent,0.77312,36085
+Staten Island,Female,2014,Percent,0.80532,36085
+Staten Island,Male,2005,Percent,0.62928,36085
+Staten Island,Male,2006,Percent,0.63785,36085
+Staten Island,Male,2007,Percent,0.63842,36085
+Staten Island,Male,2008,Percent,0.64494,36085
+Staten Island,Male,2009,Percent,0.66453,36085
+Staten Island,Male,2010,Percent,0.70703,36085
+Staten Island,Male,2011,Percent,0.67671,36085
+Staten Island,Male,2012,Percent,0.67741,36085
+Staten Island,Male,2013,Percent,0.68692,36085
+Staten Island,Male,2014,Percent,0.72359,36085
+Lower East Side,Female,2005,Percent,0.74346,SD1
+Lower East Side,Female,2006,Percent,0.65714,SD1
+Lower East Side,Female,2007,Percent,0.6732,SD1
+Lower East Side,Female,2008,Percent,0.68605,SD1
+Lower East Side,Female,2009,Percent,0.65587,SD1
+Lower East Side,Female,2010,Percent,0.68632,SD1
+Lower East Side,Female,2011,Percent,0.59429,SD1
+Lower East Side,Female,2012,Percent,0.57895,SD1
+Lower East Side,Female,2013,Percent,0.55515,SD1
+Lower East Side,Female,2014,Percent,0.53731,SD1
+Lower East Side,Male,2005,Percent,0.61582,SD1
+Lower East Side,Male,2006,Percent,0.47742,SD1
+Lower East Side,Male,2007,Percent,0.42657,SD1
+Lower East Side,Male,2008,Percent,0.55556,SD1
+Lower East Side,Male,2009,Percent,0.51169,SD1
+Lower East Side,Male,2010,Percent,0.52857,SD1
+Lower East Side,Male,2011,Percent,0.54917,SD1
+Lower East Side,Male,2012,Percent,0.55376,SD1
+Lower East Side,Male,2013,Percent,0.49715,SD1
+Lower East Side,Male,2014,Percent,0.47904,SD1
+"Stuyvesant Town, Upper E. Side",Female,2005,Percent,0.66326,SD2
+"Stuyvesant Town, Upper E. Side",Female,2006,Percent,0.65823,SD2
+"Stuyvesant Town, Upper E. Side",Female,2007,Percent,0.62208,SD2
+"Stuyvesant Town, Upper E. Side",Female,2008,Percent,0.64739,SD2
+"Stuyvesant Town, Upper E. Side",Female,2009,Percent,0.69194,SD2
+"Stuyvesant Town, Upper E. Side",Female,2010,Percent,0.70729,SD2
+"Stuyvesant Town, Upper E. Side",Female,2011,Percent,0.69181,SD2
+"Stuyvesant Town, Upper E. Side",Female,2012,Percent,0.67848,SD2
+"Stuyvesant Town, Upper E. Side",Female,2013,Percent,0.69526,SD2
+"Stuyvesant Town, Upper E. Side",Female,2014,Percent,0.72343,SD2
+"Stuyvesant Town, Upper E. Side",Male,2005,Percent,0.51525,SD2
+"Stuyvesant Town, Upper E. Side",Male,2006,Percent,0.53085,SD2
+"Stuyvesant Town, Upper E. Side",Male,2007,Percent,0.48189,SD2
+"Stuyvesant Town, Upper E. Side",Male,2008,Percent,0.53427,SD2
+"Stuyvesant Town, Upper E. Side",Male,2009,Percent,0.56465,SD2
+"Stuyvesant Town, Upper E. Side",Male,2010,Percent,0.57936,SD2
+"Stuyvesant Town, Upper E. Side",Male,2011,Percent,0.57605,SD2
+"Stuyvesant Town, Upper E. Side",Male,2012,Percent,0.59947,SD2
+"Stuyvesant Town, Upper E. Side",Male,2013,Percent,0.59275,SD2
+"Stuyvesant Town, Upper E. Side",Male,2014,Percent,0.63573,SD2
+Upper West Side,Female,2005,Percent,0.75,SD3
+Upper West Side,Female,2006,Percent,0.74551,SD3
+Upper West Side,Female,2007,Percent,0.68787,SD3
+Upper West Side,Female,2008,Percent,0.71547,SD3
+Upper West Side,Female,2009,Percent,0.72286,SD3
+Upper West Side,Female,2010,Percent,0.74352,SD3
+Upper West Side,Female,2011,Percent,0.69013,SD3
+Upper West Side,Female,2012,Percent,0.70902,SD3
+Upper West Side,Female,2013,Percent,0.72247,SD3
+Upper West Side,Female,2014,Percent,0.76614,SD3
+Upper West Side,Male,2005,Percent,0.57967,SD3
+Upper West Side,Male,2006,Percent,0.56946,SD3
+Upper West Side,Male,2007,Percent,0.49305,SD3
+Upper West Side,Male,2008,Percent,0.52678,SD3
+Upper West Side,Male,2009,Percent,0.57332,SD3
+Upper West Side,Male,2010,Percent,0.55642,SD3
+Upper West Side,Male,2011,Percent,0.5528,SD3
+Upper West Side,Male,2012,Percent,0.53965,SD3
+Upper West Side,Male,2013,Percent,0.55876,SD3
+Upper West Side,Male,2014,Percent,0.64193,SD3
+East Harlem,Female,2005,Percent,0.65,SD4
+East Harlem,Female,2006,Percent,0.73455,SD4
+East Harlem,Female,2007,Percent,0.75248,SD4
+East Harlem,Female,2008,Percent,0.72506,SD4
+East Harlem,Female,2009,Percent,0.74447,SD4
+East Harlem,Female,2010,Percent,0.775,SD4
+East Harlem,Female,2011,Percent,0.70906,SD4
+East Harlem,Female,2012,Percent,0.77656,SD4
+East Harlem,Female,2013,Percent,0.78984,SD4
+East Harlem,Female,2014,Percent,0.82885,SD4
+East Harlem,Male,2005,Percent,0.5,SD4
+East Harlem,Male,2006,Percent,0.57463,SD4
+East Harlem,Male,2007,Percent,0.54938,SD4
+East Harlem,Male,2008,Percent,0.56587,SD4
+East Harlem,Male,2009,Percent,0.5885,SD4
+East Harlem,Male,2010,Percent,0.65155,SD4
+East Harlem,Male,2011,Percent,0.55631,SD4
+East Harlem,Male,2012,Percent,0.57328,SD4
+East Harlem,Male,2013,Percent,0.63104,SD4
+East Harlem,Male,2014,Percent,0.66751,SD4
+Central Harlem,Female,2005,Percent,0.75598,SD5
+Central Harlem,Female,2006,Percent,0.70283,SD5
+Central Harlem,Female,2007,Percent,0.64769,SD5
+Central Harlem,Female,2008,Percent,0.64128,SD5
+Central Harlem,Female,2009,Percent,0.65057,SD5
+Central Harlem,Female,2010,Percent,0.66596,SD5
+Central Harlem,Female,2011,Percent,0.66992,SD5
+Central Harlem,Female,2012,Percent,0.56642,SD5
+Central Harlem,Female,2013,Percent,0.63056,SD5
+Central Harlem,Female,2014,Percent,0.59846,SD5
+Central Harlem,Male,2005,Percent,0.64789,SD5
+Central Harlem,Male,2006,Percent,0.55978,SD5
+Central Harlem,Male,2007,Percent,0.47368,SD5
+Central Harlem,Male,2008,Percent,0.5277,SD5
+Central Harlem,Male,2009,Percent,0.63122,SD5
+Central Harlem,Male,2010,Percent,0.57403,SD5
+Central Harlem,Male,2011,Percent,0.56184,SD5
+Central Harlem,Male,2012,Percent,0.51029,SD5
+Central Harlem,Male,2013,Percent,0.50415,SD5
+Central Harlem,Male,2014,Percent,0.58509,SD5
+Washington Heights,Female,2005,Percent,0.66667,SD6
+Washington Heights,Female,2006,Percent,0.5439,SD6
+Washington Heights,Female,2007,Percent,0.70777,SD6
+Washington Heights,Female,2008,Percent,0.68787,SD6
+Washington Heights,Female,2009,Percent,0.75248,SD6
+Washington Heights,Female,2010,Percent,0.75192,SD6
+Washington Heights,Female,2011,Percent,0.70506,SD6
+Washington Heights,Female,2012,Percent,0.64892,SD6
+Washington Heights,Female,2013,Percent,0.6514,SD6
+Washington Heights,Female,2014,Percent,0.6794,SD6
+Washington Heights,Male,2005,Percent,0.55599,SD6
+Washington Heights,Male,2006,Percent,0.46404,SD6
+Washington Heights,Male,2007,Percent,0.57561,SD6
+Washington Heights,Male,2008,Percent,0.55908,SD6
+Washington Heights,Male,2009,Percent,0.64668,SD6
+Washington Heights,Male,2010,Percent,0.5877,SD6
+Washington Heights,Male,2011,Percent,0.51966,SD6
+Washington Heights,Male,2012,Percent,0.53259,SD6
+Washington Heights,Male,2013,Percent,0.49809,SD6
+Washington Heights,Male,2014,Percent,0.52675,SD6
+Mott Haven,Female,2005,Percent,0.69186,SD7
+Mott Haven,Female,2006,Percent,0.66588,SD7
+Mott Haven,Female,2007,Percent,0.61717,SD7
+Mott Haven,Female,2008,Percent,0.62285,SD7
+Mott Haven,Female,2009,Percent,0.56522,SD7
+Mott Haven,Female,2010,Percent,0.56509,SD7
+Mott Haven,Female,2011,Percent,0.60926,SD7
+Mott Haven,Female,2012,Percent,0.52479,SD7
+Mott Haven,Female,2013,Percent,0.48769,SD7
+Mott Haven,Female,2014,Percent,0.50505,SD7
+Mott Haven,Male,2005,Percent,0.44228,SD7
+Mott Haven,Male,2006,Percent,0.51117,SD7
+Mott Haven,Male,2007,Percent,0.48808,SD7
+Mott Haven,Male,2008,Percent,0.48223,SD7
+Mott Haven,Male,2009,Percent,0.47844,SD7
+Mott Haven,Male,2010,Percent,0.4939,SD7
+Mott Haven,Male,2011,Percent,0.42462,SD7
+Mott Haven,Male,2012,Percent,0.46081,SD7
+Mott Haven,Male,2013,Percent,0.4179,SD7
+Mott Haven,Male,2014,Percent,0.4662,SD7
+"Hunts Point, Port Morris",Female,2005,Percent,0.51783,SD8
+"Hunts Point, Port Morris",Female,2006,Percent,0.45896,SD8
+"Hunts Point, Port Morris",Female,2007,Percent,0.45843,SD8
+"Hunts Point, Port Morris",Female,2008,Percent,0.45763,SD8
+"Hunts Point, Port Morris",Female,2009,Percent,0.48986,SD8
+"Hunts Point, Port Morris",Female,2010,Percent,0.49154,SD8
+"Hunts Point, Port Morris",Female,2011,Percent,0.50216,SD8
+"Hunts Point, Port Morris",Female,2012,Percent,0.45055,SD8
+"Hunts Point, Port Morris",Female,2013,Percent,0.4665,SD8
+"Hunts Point, Port Morris",Female,2014,Percent,0.49574,SD8
+"Hunts Point, Port Morris",Male,2005,Percent,0.38066,SD8
+"Hunts Point, Port Morris",Male,2006,Percent,0.34426,SD8
+"Hunts Point, Port Morris",Male,2007,Percent,0.33646,SD8
+"Hunts Point, Port Morris",Male,2008,Percent,0.35951,SD8
+"Hunts Point, Port Morris",Male,2009,Percent,0.35724,SD8
+"Hunts Point, Port Morris",Male,2010,Percent,0.38719,SD8
+"Hunts Point, Port Morris",Male,2011,Percent,0.38061,SD8
+"Hunts Point, Port Morris",Male,2012,Percent,0.35666,SD8
+"Hunts Point, Port Morris",Male,2013,Percent,0.3736,SD8
+"Hunts Point, Port Morris",Male,2014,Percent,0.39946,SD8
+"East Tremont, Morris Heights",Female,2005,Percent,0.44521,SD9
+"East Tremont, Morris Heights",Female,2006,Percent,0.50895,SD9
+"East Tremont, Morris Heights",Female,2007,Percent,0.59091,SD9
+"East Tremont, Morris Heights",Female,2008,Percent,0.68705,SD9
+"East Tremont, Morris Heights",Female,2009,Percent,0.74942,SD9
+"East Tremont, Morris Heights",Female,2010,Percent,0.6902,SD9
+"East Tremont, Morris Heights",Female,2011,Percent,0.60578,SD9
+"East Tremont, Morris Heights",Female,2012,Percent,0.61387,SD9
+"East Tremont, Morris Heights",Female,2013,Percent,0.5905,SD9
+"East Tremont, Morris Heights",Female,2014,Percent,0.62293,SD9
+"East Tremont, Morris Heights",Male,2005,Percent,0.29756,SD9
+"East Tremont, Morris Heights",Male,2006,Percent,0.39481,SD9
+"East Tremont, Morris Heights",Male,2007,Percent,0.39498,SD9
+"East Tremont, Morris Heights",Male,2008,Percent,0.53774,SD9
+"East Tremont, Morris Heights",Male,2009,Percent,0.59857,SD9
+"East Tremont, Morris Heights",Male,2010,Percent,0.55805,SD9
+"East Tremont, Morris Heights",Male,2011,Percent,0.51951,SD9
+"East Tremont, Morris Heights",Male,2012,Percent,0.49858,SD9
+"East Tremont, Morris Heights",Male,2013,Percent,0.53458,SD9
+"East Tremont, Morris Heights",Male,2014,Percent,0.49409,SD9
+"Riverdale, Kingsbridge, Fordham",Female,2005,Percent,0.52129,SD10
+"Riverdale, Kingsbridge, Fordham",Female,2006,Percent,0.54091,SD10
+"Riverdale, Kingsbridge, Fordham",Female,2007,Percent,0.58795,SD10
+"Riverdale, Kingsbridge, Fordham",Female,2008,Percent,0.63707,SD10
+"Riverdale, Kingsbridge, Fordham",Female,2009,Percent,0.66813,SD10
+"Riverdale, Kingsbridge, Fordham",Female,2010,Percent,0.64187,SD10
+"Riverdale, Kingsbridge, Fordham",Female,2011,Percent,0.63147,SD10
+"Riverdale, Kingsbridge, Fordham",Female,2012,Percent,0.60889,SD10
+"Riverdale, Kingsbridge, Fordham",Female,2013,Percent,0.62558,SD10
+"Riverdale, Kingsbridge, Fordham",Female,2014,Percent,0.6242,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2005,Percent,0.41597,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2006,Percent,0.4384,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2007,Percent,0.4955,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2008,Percent,0.54602,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2009,Percent,0.5558,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2010,Percent,0.58772,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2011,Percent,0.56936,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2012,Percent,0.52781,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2013,Percent,0.5522,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2014,Percent,0.58136,SD10
+"Eastchester, Baychester, Co-op City",Female,2005,Percent,0.45955,SD11
+"Eastchester, Baychester, Co-op City",Female,2006,Percent,0.5504,SD11
+"Eastchester, Baychester, Co-op City",Female,2007,Percent,0.57811,SD11
+"Eastchester, Baychester, Co-op City",Female,2008,Percent,0.65957,SD11
+"Eastchester, Baychester, Co-op City",Female,2009,Percent,0.64889,SD11
+"Eastchester, Baychester, Co-op City",Female,2010,Percent,0.65517,SD11
+"Eastchester, Baychester, Co-op City",Female,2011,Percent,0.61504,SD11
+"Eastchester, Baychester, Co-op City",Female,2012,Percent,0.59301,SD11
+"Eastchester, Baychester, Co-op City",Female,2013,Percent,0.60934,SD11
+"Eastchester, Baychester, Co-op City",Female,2014,Percent,0.6795,SD11
+"Eastchester, Baychester, Co-op City",Male,2005,Percent,0.36842,SD11
+"Eastchester, Baychester, Co-op City",Male,2006,Percent,0.39522,SD11
+"Eastchester, Baychester, Co-op City",Male,2007,Percent,0.47224,SD11
+"Eastchester, Baychester, Co-op City",Male,2008,Percent,0.52261,SD11
+"Eastchester, Baychester, Co-op City",Male,2009,Percent,0.52384,SD11
+"Eastchester, Baychester, Co-op City",Male,2010,Percent,0.54302,SD11
+"Eastchester, Baychester, Co-op City",Male,2011,Percent,0.51374,SD11
+"Eastchester, Baychester, Co-op City",Male,2012,Percent,0.5081,SD11
+"Eastchester, Baychester, Co-op City",Male,2013,Percent,0.56867,SD11
+"Eastchester, Baychester, Co-op City",Male,2014,Percent,0.58644,SD11
+"Crotona Park, Morrisania, Melrose",Female,2005,Percent,0.40569,SD12
+"Crotona Park, Morrisania, Melrose",Female,2006,Percent,0.44718,SD12
+"Crotona Park, Morrisania, Melrose",Female,2007,Percent,0.47775,SD12
+"Crotona Park, Morrisania, Melrose",Female,2008,Percent,0.50955,SD12
+"Crotona Park, Morrisania, Melrose",Female,2009,Percent,0.55305,SD12
+"Crotona Park, Morrisania, Melrose",Female,2010,Percent,0.56418,SD12
+"Crotona Park, Morrisania, Melrose",Female,2011,Percent,0.41605,SD12
+"Crotona Park, Morrisania, Melrose",Female,2012,Percent,0.41687,SD12
+"Crotona Park, Morrisania, Melrose",Female,2013,Percent,0.45283,SD12
+"Crotona Park, Morrisania, Melrose",Female,2014,Percent,0.49746,SD12
+"Crotona Park, Morrisania, Melrose",Male,2005,Percent,0.33103,SD12
+"Crotona Park, Morrisania, Melrose",Male,2006,Percent,0.32308,SD12
+"Crotona Park, Morrisania, Melrose",Male,2007,Percent,0.35388,SD12
+"Crotona Park, Morrisania, Melrose",Male,2008,Percent,0.38532,SD12
+"Crotona Park, Morrisania, Melrose",Male,2009,Percent,0.43505,SD12
+"Crotona Park, Morrisania, Melrose",Male,2010,Percent,0.44785,SD12
+"Crotona Park, Morrisania, Melrose",Male,2011,Percent,0.38601,SD12
+"Crotona Park, Morrisania, Melrose",Male,2012,Percent,0.3468,SD12
+"Crotona Park, Morrisania, Melrose",Male,2013,Percent,0.41138,SD12
+"Crotona Park, Morrisania, Melrose",Male,2014,Percent,0.48556,SD12
+"Brooklyn Hts, Downtown Brooklyn",Female,2005,Percent,0.79412,SD13
+"Brooklyn Hts, Downtown Brooklyn",Female,2006,Percent,0.79319,SD13
+"Brooklyn Hts, Downtown Brooklyn",Female,2007,Percent,0.77545,SD13
+"Brooklyn Hts, Downtown Brooklyn",Female,2008,Percent,0.80551,SD13
+"Brooklyn Hts, Downtown Brooklyn",Female,2009,Percent,0.79649,SD13
+"Brooklyn Hts, Downtown Brooklyn",Female,2010,Percent,0.81523,SD13
+"Brooklyn Hts, Downtown Brooklyn",Female,2011,Percent,0.78065,SD13
+"Brooklyn Hts, Downtown Brooklyn",Female,2012,Percent,0.77504,SD13
+"Brooklyn Hts, Downtown Brooklyn",Female,2013,Percent,0.76783,SD13
+"Brooklyn Hts, Downtown Brooklyn",Female,2014,Percent,0.79266,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2005,Percent,0.73176,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2006,Percent,0.76054,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2007,Percent,0.71795,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2008,Percent,0.74385,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2009,Percent,0.70023,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2010,Percent,0.6804,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2011,Percent,0.69677,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2012,Percent,0.70348,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2013,Percent,0.75032,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2014,Percent,0.75746,SD13
+"Williamsburg, Greenpoint",Female,2005,Percent,0.54717,SD14
+"Williamsburg, Greenpoint",Female,2006,Percent,0.59956,SD14
+"Williamsburg, Greenpoint",Female,2007,Percent,0.63084,SD14
+"Williamsburg, Greenpoint",Female,2008,Percent,0.67969,SD14
+"Williamsburg, Greenpoint",Female,2009,Percent,0.73016,SD14
+"Williamsburg, Greenpoint",Female,2010,Percent,0.72204,SD14
+"Williamsburg, Greenpoint",Female,2011,Percent,0.67922,SD14
+"Williamsburg, Greenpoint",Female,2012,Percent,0.67517,SD14
+"Williamsburg, Greenpoint",Female,2013,Percent,0.61958,SD14
+"Williamsburg, Greenpoint",Female,2014,Percent,0.66043,SD14
+"Williamsburg, Greenpoint",Male,2005,Percent,0.4413,SD14
+"Williamsburg, Greenpoint",Male,2006,Percent,0.47189,SD14
+"Williamsburg, Greenpoint",Male,2007,Percent,0.4819,SD14
+"Williamsburg, Greenpoint",Male,2008,Percent,0.58359,SD14
+"Williamsburg, Greenpoint",Male,2009,Percent,0.59379,SD14
+"Williamsburg, Greenpoint",Male,2010,Percent,0.61061,SD14
+"Williamsburg, Greenpoint",Male,2011,Percent,0.58956,SD14
+"Williamsburg, Greenpoint",Male,2012,Percent,0.61673,SD14
+"Williamsburg, Greenpoint",Male,2013,Percent,0.52425,SD14
+"Williamsburg, Greenpoint",Male,2014,Percent,0.58943,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Female,2005,Percent,0.53226,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Female,2006,Percent,0.47266,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Female,2007,Percent,0.48438,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Female,2008,Percent,0.54196,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Female,2009,Percent,0.57932,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Female,2010,Percent,0.59161,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Female,2011,Percent,0.56786,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Female,2012,Percent,0.60842,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Female,2013,Percent,0.67803,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Female,2014,Percent,0.61897,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2005,Percent,0.37179,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2006,Percent,0.3355,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2007,Percent,0.36157,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2008,Percent,0.38358,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2009,Percent,0.4532,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2010,Percent,0.4123,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2011,Percent,0.40582,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2012,Percent,0.45085,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2013,Percent,0.51807,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2014,Percent,0.53846,SD15
+Bedford Stuyvesant,Female,2005,Percent,0.54407,SD16
+Bedford Stuyvesant,Female,2006,Percent,0.5425,SD16
+Bedford Stuyvesant,Female,2007,Percent,0.44858,SD16
+Bedford Stuyvesant,Female,2008,Percent,0.49799,SD16
+Bedford Stuyvesant,Female,2009,Percent,0.47826,SD16
+Bedford Stuyvesant,Female,2010,Percent,0.4902,SD16
+Bedford Stuyvesant,Female,2011,Percent,0.52925,SD16
+Bedford Stuyvesant,Female,2012,Percent,0.40523,SD16
+Bedford Stuyvesant,Female,2013,Percent,0.46392,SD16
+Bedford Stuyvesant,Female,2014,Percent,0.41034,SD16
+Bedford Stuyvesant,Male,2005,Percent,0.34722,SD16
+Bedford Stuyvesant,Male,2006,Percent,0.26844,SD16
+Bedford Stuyvesant,Male,2007,Percent,0.31034,SD16
+Bedford Stuyvesant,Male,2008,Percent,0.33392,SD16
+Bedford Stuyvesant,Male,2009,Percent,0.33015,SD16
+Bedford Stuyvesant,Male,2010,Percent,0.35417,SD16
+Bedford Stuyvesant,Male,2011,Percent,0.34809,SD16
+Bedford Stuyvesant,Male,2012,Percent,0.32184,SD16
+Bedford Stuyvesant,Male,2013,Percent,0.34831,SD16
+Bedford Stuyvesant,Male,2014,Percent,0.38527,SD16
+Crown Heights,Female,2005,Percent,0.55241,SD17
+Crown Heights,Female,2006,Percent,0.58985,SD17
+Crown Heights,Female,2007,Percent,0.6648,SD17
+Crown Heights,Female,2008,Percent,0.66694,SD17
+Crown Heights,Female,2009,Percent,0.65554,SD17
+Crown Heights,Female,2010,Percent,0.6268,SD17
+Crown Heights,Female,2011,Percent,0.59493,SD17
+Crown Heights,Female,2012,Percent,0.63969,SD17
+Crown Heights,Female,2013,Percent,0.64789,SD17
+Crown Heights,Female,2014,Percent,0.67236,SD17
+Crown Heights,Male,2005,Percent,0.33854,SD17
+Crown Heights,Male,2006,Percent,0.41722,SD17
+Crown Heights,Male,2007,Percent,0.49402,SD17
+Crown Heights,Male,2008,Percent,0.51952,SD17
+Crown Heights,Male,2009,Percent,0.50418,SD17
+Crown Heights,Male,2010,Percent,0.54545,SD17
+Crown Heights,Male,2011,Percent,0.50133,SD17
+Crown Heights,Male,2012,Percent,0.53013,SD17
+Crown Heights,Male,2013,Percent,0.54218,SD17
+Crown Heights,Male,2014,Percent,0.6253,SD17
+"East Flatbush, Canarsie",Female,2005,Percent,0.47467,SD18
+"East Flatbush, Canarsie",Female,2006,Percent,0.35852,SD18
+"East Flatbush, Canarsie",Female,2007,Percent,0.39206,SD18
+"East Flatbush, Canarsie",Female,2008,Percent,0.4141,SD18
+"East Flatbush, Canarsie",Female,2009,Percent,0.39079,SD18
+"East Flatbush, Canarsie",Female,2010,Percent,0.40524,SD18
+"East Flatbush, Canarsie",Female,2011,Percent,0.49784,SD18
+"East Flatbush, Canarsie",Female,2012,Percent,0.57071,SD18
+"East Flatbush, Canarsie",Female,2013,Percent,0.57043,SD18
+"East Flatbush, Canarsie",Female,2014,Percent,0.59498,SD18
+"East Flatbush, Canarsie",Male,2005,Percent,0.30572,SD18
+"East Flatbush, Canarsie",Male,2006,Percent,0.29674,SD18
+"East Flatbush, Canarsie",Male,2007,Percent,0.28162,SD18
+"East Flatbush, Canarsie",Male,2008,Percent,0.26298,SD18
+"East Flatbush, Canarsie",Male,2009,Percent,0.31183,SD18
+"East Flatbush, Canarsie",Male,2010,Percent,0.30674,SD18
+"East Flatbush, Canarsie",Male,2011,Percent,0.38796,SD18
+"East Flatbush, Canarsie",Male,2012,Percent,0.46218,SD18
+"East Flatbush, Canarsie",Male,2013,Percent,0.43186,SD18
+"East Flatbush, Canarsie",Male,2014,Percent,0.47445,SD18
+East New York,Female,2005,Percent,0.41074,SD19
+East New York,Female,2006,Percent,0.43458,SD19
+East New York,Female,2007,Percent,0.45338,SD19
+East New York,Female,2008,Percent,0.48481,SD19
+East New York,Female,2009,Percent,0.54623,SD19
+East New York,Female,2010,Percent,0.53959,SD19
+East New York,Female,2011,Percent,0.55311,SD19
+East New York,Female,2012,Percent,0.5839,SD19
+East New York,Female,2013,Percent,0.55655,SD19
+East New York,Female,2014,Percent,0.53846,SD19
+East New York,Male,2005,Percent,0.33407,SD19
+East New York,Male,2006,Percent,0.33299,SD19
+East New York,Male,2007,Percent,0.37551,SD19
+East New York,Male,2008,Percent,0.3948,SD19
+East New York,Male,2009,Percent,0.42811,SD19
+East New York,Male,2010,Percent,0.4454,SD19
+East New York,Male,2011,Percent,0.53211,SD19
+East New York,Male,2012,Percent,0.49538,SD19
+East New York,Male,2013,Percent,0.48941,SD19
+East New York,Male,2014,Percent,0.50243,SD19
+"Bay Ridge, Bensonhurst",Female,2005,Percent,0.5559,SD20
+"Bay Ridge, Bensonhurst",Female,2006,Percent,0.56074,SD20
+"Bay Ridge, Bensonhurst",Female,2007,Percent,0.61381,SD20
+"Bay Ridge, Bensonhurst",Female,2008,Percent,0.6468,SD20
+"Bay Ridge, Bensonhurst",Female,2009,Percent,0.63852,SD20
+"Bay Ridge, Bensonhurst",Female,2010,Percent,0.68819,SD20
+"Bay Ridge, Bensonhurst",Female,2011,Percent,0.71865,SD20
+"Bay Ridge, Bensonhurst",Female,2012,Percent,0.68147,SD20
+"Bay Ridge, Bensonhurst",Female,2013,Percent,0.68047,SD20
+"Bay Ridge, Bensonhurst",Female,2014,Percent,0.71167,SD20
+"Bay Ridge, Bensonhurst",Male,2005,Percent,0.43084,SD20
+"Bay Ridge, Bensonhurst",Male,2006,Percent,0.43659,SD20
+"Bay Ridge, Bensonhurst",Male,2007,Percent,0.47375,SD20
+"Bay Ridge, Bensonhurst",Male,2008,Percent,0.50088,SD20
+"Bay Ridge, Bensonhurst",Male,2009,Percent,0.53337,SD20
+"Bay Ridge, Bensonhurst",Male,2010,Percent,0.55099,SD20
+"Bay Ridge, Bensonhurst",Male,2011,Percent,0.5654,SD20
+"Bay Ridge, Bensonhurst",Male,2012,Percent,0.56519,SD20
+"Bay Ridge, Bensonhurst",Male,2013,Percent,0.55858,SD20
+"Bay Ridge, Bensonhurst",Male,2014,Percent,0.56604,SD20
+"Gravesend, Coney Island",Female,2005,Percent,0.60597,SD21
+"Gravesend, Coney Island",Female,2006,Percent,0.61945,SD21
+"Gravesend, Coney Island",Female,2007,Percent,0.60751,SD21
+"Gravesend, Coney Island",Female,2008,Percent,0.61312,SD21
+"Gravesend, Coney Island",Female,2009,Percent,0.65631,SD21
+"Gravesend, Coney Island",Female,2010,Percent,0.68793,SD21
+"Gravesend, Coney Island",Female,2011,Percent,0.66687,SD21
+"Gravesend, Coney Island",Female,2012,Percent,0.6879,SD21
+"Gravesend, Coney Island",Female,2013,Percent,0.70615,SD21
+"Gravesend, Coney Island",Female,2014,Percent,0.74464,SD21
+"Gravesend, Coney Island",Male,2005,Percent,0.44515,SD21
+"Gravesend, Coney Island",Male,2006,Percent,0.43364,SD21
+"Gravesend, Coney Island",Male,2007,Percent,0.45255,SD21
+"Gravesend, Coney Island",Male,2008,Percent,0.46355,SD21
+"Gravesend, Coney Island",Male,2009,Percent,0.51148,SD21
+"Gravesend, Coney Island",Male,2010,Percent,0.52753,SD21
+"Gravesend, Coney Island",Male,2011,Percent,0.53925,SD21
+"Gravesend, Coney Island",Male,2012,Percent,0.58862,SD21
+"Gravesend, Coney Island",Male,2013,Percent,0.60902,SD21
+"Gravesend, Coney Island",Male,2014,Percent,0.64896,SD21
+"Flatbush, Midwood, Sheepshead Bay",Female,2005,Percent,0.68575,SD22
+"Flatbush, Midwood, Sheepshead Bay",Female,2006,Percent,0.69443,SD22
+"Flatbush, Midwood, Sheepshead Bay",Female,2007,Percent,0.73087,SD22
+"Flatbush, Midwood, Sheepshead Bay",Female,2008,Percent,0.75488,SD22
+"Flatbush, Midwood, Sheepshead Bay",Female,2009,Percent,0.75364,SD22
+"Flatbush, Midwood, Sheepshead Bay",Female,2010,Percent,0.79749,SD22
+"Flatbush, Midwood, Sheepshead Bay",Female,2011,Percent,0.77808,SD22
+"Flatbush, Midwood, Sheepshead Bay",Female,2012,Percent,0.74346,SD22
+"Flatbush, Midwood, Sheepshead Bay",Female,2013,Percent,0.76198,SD22
+"Flatbush, Midwood, Sheepshead Bay",Female,2014,Percent,0.79941,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2005,Percent,0.53465,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2006,Percent,0.58739,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2007,Percent,0.57974,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2008,Percent,0.58729,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2009,Percent,0.6234,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2010,Percent,0.66667,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2011,Percent,0.66413,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2012,Percent,0.60927,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2013,Percent,0.60279,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2014,Percent,0.65143,SD22
+"Brownsville, Ocean Hill",Female,2005,Percent,0.46377,SD23
+"Brownsville, Ocean Hill",Female,2006,Percent,0.57895,SD23
+"Brownsville, Ocean Hill",Female,2007,Percent,0.60169,SD23
+"Brownsville, Ocean Hill",Female,2008,Percent,0.71739,SD23
+"Brownsville, Ocean Hill",Female,2009,Percent,0.5142,SD23
+"Brownsville, Ocean Hill",Female,2010,Percent,0.47089,SD23
+"Brownsville, Ocean Hill",Female,2011,Percent,0.43532,SD23
+"Brownsville, Ocean Hill",Female,2012,Percent,0.36391,SD23
+"Brownsville, Ocean Hill",Female,2013,Percent,0.39769,SD23
+"Brownsville, Ocean Hill",Female,2014,Percent,0.39286,SD23
+"Brownsville, Ocean Hill",Male,2005,Percent,0.18182,SD23
+"Brownsville, Ocean Hill",Male,2006,Percent,0.39362,SD23
+"Brownsville, Ocean Hill",Male,2007,Percent,0.36735,SD23
+"Brownsville, Ocean Hill",Male,2008,Percent,0.49102,SD23
+"Brownsville, Ocean Hill",Male,2009,Percent,0.37037,SD23
+"Brownsville, Ocean Hill",Male,2010,Percent,0.35238,SD23
+"Brownsville, Ocean Hill",Male,2011,Percent,0.31922,SD23
+"Brownsville, Ocean Hill",Male,2012,Percent,0.25926,SD23
+"Brownsville, Ocean Hill",Male,2013,Percent,0.26054,SD23
+"Brownsville, Ocean Hill",Male,2014,Percent,0.32932,SD23
+"Sunnyside, Woodside, Jackson Hts",Female,2005,Percent,0.53987,SD24
+"Sunnyside, Woodside, Jackson Hts",Female,2006,Percent,0.52614,SD24
+"Sunnyside, Woodside, Jackson Hts",Female,2007,Percent,0.57992,SD24
+"Sunnyside, Woodside, Jackson Hts",Female,2008,Percent,0.59294,SD24
+"Sunnyside, Woodside, Jackson Hts",Female,2009,Percent,0.65233,SD24
+"Sunnyside, Woodside, Jackson Hts",Female,2010,Percent,0.64977,SD24
+"Sunnyside, Woodside, Jackson Hts",Female,2011,Percent,0.64364,SD24
+"Sunnyside, Woodside, Jackson Hts",Female,2012,Percent,0.64865,SD24
+"Sunnyside, Woodside, Jackson Hts",Female,2013,Percent,0.65319,SD24
+"Sunnyside, Woodside, Jackson Hts",Female,2014,Percent,0.67396,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2005,Percent,0.45675,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2006,Percent,0.46149,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2007,Percent,0.44899,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2008,Percent,0.51009,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2009,Percent,0.52963,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2010,Percent,0.54265,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2011,Percent,0.58718,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2012,Percent,0.55254,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2013,Percent,0.51252,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2014,Percent,0.55739,SD24
+"Flushing, Whitestone",Female,2005,Percent,0.63434,SD25
+"Flushing, Whitestone",Female,2006,Percent,0.5971,SD25
+"Flushing, Whitestone",Female,2007,Percent,0.62073,SD25
+"Flushing, Whitestone",Female,2008,Percent,0.66547,SD25
+"Flushing, Whitestone",Female,2009,Percent,0.64598,SD25
+"Flushing, Whitestone",Female,2010,Percent,0.67725,SD25
+"Flushing, Whitestone",Female,2011,Percent,0.67263,SD25
+"Flushing, Whitestone",Female,2012,Percent,0.66006,SD25
+"Flushing, Whitestone",Female,2013,Percent,0.66622,SD25
+"Flushing, Whitestone",Female,2014,Percent,0.68867,SD25
+"Flushing, Whitestone",Male,2005,Percent,0.42739,SD25
+"Flushing, Whitestone",Male,2006,Percent,0.3754,SD25
+"Flushing, Whitestone",Male,2007,Percent,0.44338,SD25
+"Flushing, Whitestone",Male,2008,Percent,0.48751,SD25
+"Flushing, Whitestone",Male,2009,Percent,0.48995,SD25
+"Flushing, Whitestone",Male,2010,Percent,0.50379,SD25
+"Flushing, Whitestone",Male,2011,Percent,0.53641,SD25
+"Flushing, Whitestone",Male,2012,Percent,0.52582,SD25
+"Flushing, Whitestone",Male,2013,Percent,0.50581,SD25
+"Flushing, Whitestone",Male,2014,Percent,0.54032,SD25
+"Bayside, Douglaston, Little Neck",Female,2005,Percent,0.76149,SD26
+"Bayside, Douglaston, Little Neck",Female,2006,Percent,0.79596,SD26
+"Bayside, Douglaston, Little Neck",Female,2007,Percent,0.80582,SD26
+"Bayside, Douglaston, Little Neck",Female,2008,Percent,0.80459,SD26
+"Bayside, Douglaston, Little Neck",Female,2009,Percent,0.82513,SD26
+"Bayside, Douglaston, Little Neck",Female,2010,Percent,0.82006,SD26
+"Bayside, Douglaston, Little Neck",Female,2011,Percent,0.82388,SD26
+"Bayside, Douglaston, Little Neck",Female,2012,Percent,0.82904,SD26
+"Bayside, Douglaston, Little Neck",Female,2013,Percent,0.81416,SD26
+"Bayside, Douglaston, Little Neck",Female,2014,Percent,0.79733,SD26
+"Bayside, Douglaston, Little Neck",Male,2005,Percent,0.64002,SD26
+"Bayside, Douglaston, Little Neck",Male,2006,Percent,0.64109,SD26
+"Bayside, Douglaston, Little Neck",Male,2007,Percent,0.6948,SD26
+"Bayside, Douglaston, Little Neck",Male,2008,Percent,0.71048,SD26
+"Bayside, Douglaston, Little Neck",Male,2009,Percent,0.69942,SD26
+"Bayside, Douglaston, Little Neck",Male,2010,Percent,0.67355,SD26
+"Bayside, Douglaston, Little Neck",Male,2011,Percent,0.71022,SD26
+"Bayside, Douglaston, Little Neck",Male,2012,Percent,0.72102,SD26
+"Bayside, Douglaston, Little Neck",Male,2013,Percent,0.72174,SD26
+"Bayside, Douglaston, Little Neck",Male,2014,Percent,0.73811,SD26
+"Jamaica, Howard Beach, Rockaways",Female,2005,Percent,0.47326,SD27
+"Jamaica, Howard Beach, Rockaways",Female,2006,Percent,0.53077,SD27
+"Jamaica, Howard Beach, Rockaways",Female,2007,Percent,0.50379,SD27
+"Jamaica, Howard Beach, Rockaways",Female,2008,Percent,0.51596,SD27
+"Jamaica, Howard Beach, Rockaways",Female,2009,Percent,0.54832,SD27
+"Jamaica, Howard Beach, Rockaways",Female,2010,Percent,0.58271,SD27
+"Jamaica, Howard Beach, Rockaways",Female,2011,Percent,0.6208,SD27
+"Jamaica, Howard Beach, Rockaways",Female,2012,Percent,0.58373,SD27
+"Jamaica, Howard Beach, Rockaways",Female,2013,Percent,0.54748,SD27
+"Jamaica, Howard Beach, Rockaways",Female,2014,Percent,0.60171,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2005,Percent,0.35326,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2006,Percent,0.37048,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2007,Percent,0.36507,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2008,Percent,0.37054,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2009,Percent,0.38772,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2010,Percent,0.51167,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2011,Percent,0.48262,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2012,Percent,0.47161,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2013,Percent,0.48325,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2014,Percent,0.5165,SD27
+"Jamaica, Forest Hills",Female,2005,Percent,0.69814,SD28
+"Jamaica, Forest Hills",Female,2006,Percent,0.70083,SD28
+"Jamaica, Forest Hills",Female,2007,Percent,0.71305,SD28
+"Jamaica, Forest Hills",Female,2008,Percent,0.70297,SD28
+"Jamaica, Forest Hills",Female,2009,Percent,0.76691,SD28
+"Jamaica, Forest Hills",Female,2010,Percent,0.7875,SD28
+"Jamaica, Forest Hills",Female,2011,Percent,0.74824,SD28
+"Jamaica, Forest Hills",Female,2012,Percent,0.74136,SD28
+"Jamaica, Forest Hills",Female,2013,Percent,0.7803,SD28
+"Jamaica, Forest Hills",Female,2014,Percent,0.80782,SD28
+"Jamaica, Forest Hills",Male,2005,Percent,0.57294,SD28
+"Jamaica, Forest Hills",Male,2006,Percent,0.59642,SD28
+"Jamaica, Forest Hills",Male,2007,Percent,0.58966,SD28
+"Jamaica, Forest Hills",Male,2008,Percent,0.5846,SD28
+"Jamaica, Forest Hills",Male,2009,Percent,0.66707,SD28
+"Jamaica, Forest Hills",Male,2010,Percent,0.7033,SD28
+"Jamaica, Forest Hills",Male,2011,Percent,0.67408,SD28
+"Jamaica, Forest Hills",Male,2012,Percent,0.6659,SD28
+"Jamaica, Forest Hills",Male,2013,Percent,0.68262,SD28
+"Jamaica, Forest Hills",Male,2014,Percent,0.7046,SD28
+"Queens Village, Rosedale, Hollis",Female,2005,Percent,0.53784,SD29
+"Queens Village, Rosedale, Hollis",Female,2006,Percent,0.55155,SD29
+"Queens Village, Rosedale, Hollis",Female,2007,Percent,0.57586,SD29
+"Queens Village, Rosedale, Hollis",Female,2008,Percent,0.65125,SD29
+"Queens Village, Rosedale, Hollis",Female,2009,Percent,0.69451,SD29
+"Queens Village, Rosedale, Hollis",Female,2010,Percent,0.68396,SD29
+"Queens Village, Rosedale, Hollis",Female,2011,Percent,0.63253,SD29
+"Queens Village, Rosedale, Hollis",Female,2012,Percent,0.61235,SD29
+"Queens Village, Rosedale, Hollis",Female,2013,Percent,0.63612,SD29
+"Queens Village, Rosedale, Hollis",Female,2014,Percent,0.67198,SD29
+"Queens Village, Rosedale, Hollis",Male,2005,Percent,0.32771,SD29
+"Queens Village, Rosedale, Hollis",Male,2006,Percent,0.39372,SD29
+"Queens Village, Rosedale, Hollis",Male,2007,Percent,0.42466,SD29
+"Queens Village, Rosedale, Hollis",Male,2008,Percent,0.54849,SD29
+"Queens Village, Rosedale, Hollis",Male,2009,Percent,0.53774,SD29
+"Queens Village, Rosedale, Hollis",Male,2010,Percent,0.54451,SD29
+"Queens Village, Rosedale, Hollis",Male,2011,Percent,0.51638,SD29
+"Queens Village, Rosedale, Hollis",Male,2012,Percent,0.49573,SD29
+"Queens Village, Rosedale, Hollis",Male,2013,Percent,0.55066,SD29
+"Queens Village, Rosedale, Hollis",Male,2014,Percent,0.5813,SD29
+"Long Island City, Astoria",Female,2005,Percent,0.59004,SD30
+"Long Island City, Astoria",Female,2006,Percent,0.57317,SD30
+"Long Island City, Astoria",Female,2007,Percent,0.63636,SD30
+"Long Island City, Astoria",Female,2008,Percent,0.63372,SD30
+"Long Island City, Astoria",Female,2009,Percent,0.65856,SD30
+"Long Island City, Astoria",Female,2010,Percent,0.70234,SD30
+"Long Island City, Astoria",Female,2011,Percent,0.70192,SD30
+"Long Island City, Astoria",Female,2012,Percent,0.69726,SD30
+"Long Island City, Astoria",Female,2013,Percent,0.70646,SD30
+"Long Island City, Astoria",Female,2014,Percent,0.73263,SD30
+"Long Island City, Astoria",Male,2005,Percent,0.43643,SD30
+"Long Island City, Astoria",Male,2006,Percent,0.43526,SD30
+"Long Island City, Astoria",Male,2007,Percent,0.4896,SD30
+"Long Island City, Astoria",Male,2008,Percent,0.47386,SD30
+"Long Island City, Astoria",Male,2009,Percent,0.45455,SD30
+"Long Island City, Astoria",Male,2010,Percent,0.55031,SD30
+"Long Island City, Astoria",Male,2011,Percent,0.56111,SD30
+"Long Island City, Astoria",Male,2012,Percent,0.55705,SD30
+"Long Island City, Astoria",Male,2013,Percent,0.57809,SD30
+"Long Island City, Astoria",Male,2014,Percent,0.59071,SD30
+Staten Island,Female,2005,Percent,0.7426,SD31
+Staten Island,Female,2006,Percent,0.73077,SD31
+Staten Island,Female,2007,Percent,0.7371,SD31
+Staten Island,Female,2008,Percent,0.73456,SD31
+Staten Island,Female,2009,Percent,0.74805,SD31
+Staten Island,Female,2010,Percent,0.77508,SD31
+Staten Island,Female,2011,Percent,0.77247,SD31
+Staten Island,Female,2012,Percent,0.76689,SD31
+Staten Island,Female,2013,Percent,0.77312,SD31
+Staten Island,Female,2014,Percent,0.80532,SD31
+Staten Island,Male,2005,Percent,0.62928,SD31
+Staten Island,Male,2006,Percent,0.63785,SD31
+Staten Island,Male,2007,Percent,0.63842,SD31
+Staten Island,Male,2008,Percent,0.64494,SD31
+Staten Island,Male,2009,Percent,0.66453,SD31
+Staten Island,Male,2010,Percent,0.70703,SD31
+Staten Island,Male,2011,Percent,0.67671,SD31
+Staten Island,Male,2012,Percent,0.67741,SD31
+Staten Island,Male,2013,Percent,0.68692,SD31
+Staten Island,Male,2014,Percent,0.72359,SD31
+Bushwick,Female,2005,Percent,0.33876,SD32
+Bushwick,Female,2006,Percent,0.44444,SD32
+Bushwick,Female,2007,Percent,0.56623,SD32
+Bushwick,Female,2008,Percent,0.58892,SD32
+Bushwick,Female,2009,Percent,0.53191,SD32
+Bushwick,Female,2010,Percent,0.57871,SD32
+Bushwick,Female,2011,Percent,0.50694,SD32
+Bushwick,Female,2012,Percent,0.45098,SD32
+Bushwick,Female,2013,Percent,0.49451,SD32
+Bushwick,Female,2014,Percent,0.52342,SD32
+Bushwick,Male,2005,Percent,0.21795,SD32
+Bushwick,Male,2006,Percent,0.37758,SD32
+Bushwick,Male,2007,Percent,0.44149,SD32
+Bushwick,Male,2008,Percent,0.46419,SD32
+Bushwick,Male,2009,Percent,0.4534,SD32
+Bushwick,Male,2010,Percent,0.5,SD32
+Bushwick,Male,2011,Percent,0.44931,SD32
+Bushwick,Male,2012,Percent,0.41176,SD32
+Bushwick,Male,2013,Percent,0.46272,SD32
+Bushwick,Male,2014,Percent,0.43443,SD32
+New York City,Female,2015,Percent,0.73093,3651000
+New York City,Male,2015,Percent,0.61698,3651000
+Bronx,Female,2015,Percent,0.64048,36005
+Bronx,Male,2015,Percent,0.53204,36005
+Brooklyn,Female,2015,Percent,0.72636,36047
+Brooklyn,Male,2015,Percent,0.61862,36047
+Manhattan,Female,2015,Percent,0.75009,36061
+Manhattan,Male,2015,Percent,0.62645,36061
+Queens,Female,2015,Percent,0.76805,36081
+Queens,Male,2015,Percent,0.64843,36081
+Staten Island,Female,2015,Percent,0.80141,36085
+Staten Island,Male,2015,Percent,0.71654,36085
+Lower East Side,Male,2015,Percent,0.54939,SD1
+"Stuyvesant Town, Upper E. Side",Male,2015,Percent,0.64726,SD2
+Upper West Side,Male,2015,Percent,0.65415,SD3
+East Harlem,Male,2015,Percent,0.74033,SD4
+Central Harlem,Male,2015,Percent,0.54406,SD5
+Washington Heights,Male,2015,Percent,0.52774,SD6
+Mott Haven,Male,2015,Percent,0.46694,SD7
+"Hunts Point, Port Morris",Male,2015,Percent,0.37422,SD8
+"East Tremont, Morris Heights",Male,2015,Percent,0.55077,SD9
+"Riverdale, Kingsbridge, Fordham",Male,2015,Percent,0.59815,SD10
+"Eastchester, Baychester, Co-op City",Male,2015,Percent,0.6023,SD11
+"Crotona Park, Morrisania, Melrose",Male,2015,Percent,0.51174,SD12
+"Brooklyn Hts, Downtown Brooklyn",Male,2015,Percent,0.7614,SD13
+"Williamsburg, Greenpoint",Male,2015,Percent,0.63368,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Male,2015,Percent,0.5697,SD15
+Bedford Stuyvesant,Male,2015,Percent,0.46048,SD16
+Crown Heights,Male,2015,Percent,0.59541,SD17
+"East Flatbush, Canarsie",Male,2015,Percent,0.53523,SD18
+East New York,Male,2015,Percent,0.49624,SD19
+"Bay Ridge, Bensonhurst",Male,2015,Percent,0.61974,SD20
+"Gravesend, Coney Island",Male,2015,Percent,0.62857,SD21
+"Flatbush, Midwood, Sheepshead Bay",Male,2015,Percent,0.70563,SD22
+"Brownsville, Ocean Hill",Male,2015,Percent,0.39145,SD23
+"Sunnyside, Woodside, Jackson Hts",Male,2015,Percent,0.6246,SD24
+"Flushing, Whitestone",Male,2015,Percent,0.58464,SD25
+"Bayside, Douglaston, Little Neck",Male,2015,Percent,0.75341,SD26
+"Jamaica, Howard Beach, Rockaways",Male,2015,Percent,0.53978,SD27
+"Jamaica, Forest Hills",Male,2015,Percent,0.72697,SD28
+"Queens Village, Rosedale, Hollis",Male,2015,Percent,0.5722,SD29
+"Long Island City, Astoria",Male,2015,Percent,0.67189,SD30
+Staten Island,Male,2015,Percent,0.71654,SD31
+Bushwick,Male,2015,Percent,0.48547,SD32
+Lower East Side,Female,2015,Percent,0.60254,SD1
+"Stuyvesant Town, Upper E. Side",Female,2015,Percent,0.7664,SD2
+Upper West Side,Female,2015,Percent,0.78202,SD3
+East Harlem,Female,2015,Percent,0.80738,SD4
+Central Harlem,Female,2015,Percent,0.69792,SD5
+Washington Heights,Female,2015,Percent,0.67483,SD6
+Mott Haven,Female,2015,Percent,0.5806,SD7
+"Hunts Point, Port Morris",Female,2015,Percent,0.5,SD8
+"East Tremont, Morris Heights",Female,2015,Percent,0.68959,SD9
+"Riverdale, Kingsbridge, Fordham",Female,2015,Percent,0.68604,SD10
+"Eastchester, Baychester, Co-op City",Female,2015,Percent,0.70332,SD11
+"Crotona Park, Morrisania, Melrose",Female,2015,Percent,0.60427,SD12
+"Brooklyn Hts, Downtown Brooklyn",Female,2015,Percent,0.80106,SD13
+"Williamsburg, Greenpoint",Female,2015,Percent,0.75364,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Female,2015,Percent,0.70623,SD15
+Bedford Stuyvesant,Female,2015,Percent,0.52049,SD16
+Crown Heights,Female,2015,Percent,0.70886,SD17
+"East Flatbush, Canarsie",Female,2015,Percent,0.62783,SD18
+East New York,Female,2015,Percent,0.62653,SD19
+"Bay Ridge, Bensonhurst",Female,2015,Percent,0.75923,SD20
+"Gravesend, Coney Island",Female,2015,Percent,0.75385,SD21
+"Flatbush, Midwood, Sheepshead Bay",Female,2015,Percent,0.83558,SD22
+"Brownsville, Ocean Hill",Female,2015,Percent,0.40972,SD23
+"Sunnyside, Woodside, Jackson Hts",Female,2015,Percent,0.76923,SD24
+"Flushing, Whitestone",Female,2015,Percent,0.72319,SD25
+"Bayside, Douglaston, Little Neck",Female,2015,Percent,0.85406,SD26
+"Jamaica, Howard Beach, Rockaways",Female,2015,Percent,0.6267,SD27
+"Jamaica, Forest Hills",Female,2015,Percent,0.83416,SD28
+"Queens Village, Rosedale, Hollis",Female,2015,Percent,0.70423,SD29
+"Long Island City, Astoria",Female,2015,Percent,0.76923,SD30
+Staten Island,Female,2015,Percent,0.80141,SD31
+Bushwick,Female,2015,Percent,0.58824,SD32
+New York City,Female,2017,Percent,0.76795,3651000
+New York City,Male,2017,Percent,0.65835,3651000
+New York City,Female,2016,Percent,0.75554,3651000
+New York City,Male,2016,Percent,0.64688,3651000
+Bronx,Female,2017,Percent,0.68354,36005
+Bronx,Male,2017,Percent,0.5819,36005
+Brooklyn,Female,2017,Percent,0.76728,36047
+Brooklyn,Male,2017,Percent,0.65346,36047
+Manhattan,Female,2017,Percent,0.77101,36061
+Manhattan,Male,2017,Percent,0.66092,36061
+Queens,Female,2017,Percent,0.81022,36081
+Queens,Male,2017,Percent,0.694,36081
+Staten Island,Female,2017,Percent,0.83108,36085
+Staten Island,Male,2017,Percent,0.75,36085
+Bronx,Female,2016,Percent,0.66876,36005
+Bronx,Male,2016,Percent,0.57674,36005
+Brooklyn,Female,2016,Percent,0.748,36047
+Brooklyn,Male,2016,Percent,0.64131,36047
+Manhattan,Female,2016,Percent,0.76805,36061
+Manhattan,Male,2016,Percent,0.66125,36061
+Queens,Female,2016,Percent,0.79889,36081
+Queens,Male,2016,Percent,0.67198,36081
+Staten Island,Female,2016,Percent,0.81864,36085
+Staten Island,Male,2016,Percent,0.73748,36085
+Lower East Side,Female,2017,Percent,0.62983,SD1
+"Stuyvesant Town, Upper E. Side",Female,2017,Percent,0.77591,SD2
+Upper West Side,Female,2017,Percent,0.81124,SD3
+East Harlem,Female,2017,Percent,0.90944,SD4
+Central Harlem,Female,2017,Percent,0.69831,SD5
+Washington Heights,Female,2017,Percent,0.70748,SD6
+Mott Haven,Female,2017,Percent,0.60943,SD7
+"Hunts Point, Port Morris",Female,2017,Percent,0.58621,SD8
+"East Tremont, Morris Heights",Female,2017,Percent,0.73139,SD9
+"Riverdale, Kingsbridge, Fordham",Female,2017,Percent,0.74878,SD10
+"Eastchester, Baychester, Co-op City",Female,2017,Percent,0.74044,SD11
+"Crotona Park, Morrisania, Melrose",Female,2017,Percent,0.59133,SD12
+"Brooklyn Hts, Downtown Brooklyn",Female,2017,Percent,0.85452,SD13
+"Williamsburg, Greenpoint",Female,2017,Percent,0.80194,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Female,2017,Percent,0.70619,SD15
+Bedford Stuyvesant,Female,2017,Percent,0.5297,SD16
+Crown Heights,Female,2017,Percent,0.75738,SD17
+"East Flatbush, Canarsie",Female,2017,Percent,0.69361,SD18
+East New York,Female,2017,Percent,0.65357,SD19
+"Bay Ridge, Bensonhurst",Female,2017,Percent,0.78412,SD20
+"Gravesend, Coney Island",Female,2017,Percent,0.78115,SD21
+"Flatbush, Midwood, Sheepshead Bay",Female,2017,Percent,0.87605,SD22
+"Brownsville, Ocean Hill",Female,2017,Percent,0.43154,SD23
+"Sunnyside, Woodside, Jackson Hts",Female,2017,Percent,0.7992,SD24
+"Flushing, Whitestone",Female,2017,Percent,0.72538,SD25
+"Bayside, Douglaston, Little Neck",Female,2017,Percent,0.89309,SD26
+"Jamaica, Howard Beach, Rockaways",Female,2017,Percent,0.75091,SD27
+"Jamaica, Forest Hills",Female,2017,Percent,0.8481,SD28
+"Queens Village, Rosedale, Hollis",Female,2017,Percent,0.74753,SD29
+"Long Island City, Astoria",Female,2017,Percent,0.82264,SD30
+Staten Island,Female,2017,Percent,0.83108,SD31
+Bushwick,Female,2017,Percent,0.69767,SD32
+Lower East Side,Male,2017,Percent,0.542,SD1
+"Stuyvesant Town, Upper E. Side",Male,2017,Percent,0.68035,SD2
+Upper West Side,Male,2017,Percent,0.6961,SD3
+East Harlem,Male,2017,Percent,0.76652,SD4
+Central Harlem,Male,2017,Percent,0.61977,SD5
+Washington Heights,Male,2017,Percent,0.54545,SD6
+Mott Haven,Male,2017,Percent,0.53059,SD7
+"Hunts Point, Port Morris",Male,2017,Percent,0.46239,SD8
+"East Tremont, Morris Heights",Male,2017,Percent,0.59965,SD9
+"Riverdale, Kingsbridge, Fordham",Male,2017,Percent,0.66634,SD10
+"Eastchester, Baychester, Co-op City",Male,2017,Percent,0.62577,SD11
+"Crotona Park, Morrisania, Melrose",Male,2017,Percent,0.49348,SD12
+"Brooklyn Hts, Downtown Brooklyn",Male,2017,Percent,0.80113,SD13
+"Williamsburg, Greenpoint",Male,2017,Percent,0.72203,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Male,2017,Percent,0.60673,SD15
+Bedford Stuyvesant,Male,2017,Percent,0.49346,SD16
+Crown Heights,Male,2017,Percent,0.64648,SD17
+"East Flatbush, Canarsie",Male,2017,Percent,0.55804,SD18
+East New York,Male,2017,Percent,0.57768,SD19
+"Bay Ridge, Bensonhurst",Male,2017,Percent,0.64576,SD20
+"Gravesend, Coney Island",Male,2017,Percent,0.63555,SD21
+"Flatbush, Midwood, Sheepshead Bay",Male,2017,Percent,0.73288,SD22
+"Brownsville, Ocean Hill",Male,2017,Percent,0.38333,SD23
+"Sunnyside, Woodside, Jackson Hts",Male,2017,Percent,0.66784,SD24
+"Flushing, Whitestone",Male,2017,Percent,0.60728,SD25
+"Bayside, Douglaston, Little Neck",Male,2017,Percent,0.8173,SD26
+"Jamaica, Howard Beach, Rockaways",Male,2017,Percent,0.6231,SD27
+"Jamaica, Forest Hills",Male,2017,Percent,0.72785,SD28
+"Queens Village, Rosedale, Hollis",Male,2017,Percent,0.63951,SD29
+"Long Island City, Astoria",Male,2017,Percent,0.72316,SD30
+Staten Island,Male,2017,Percent,0.75,SD31
+Bushwick,Male,2017,Percent,0.59664,SD32
+Lower East Side,Female,2016,Percent,0.61835,SD1
+"Stuyvesant Town, Upper E. Side",Female,2016,Percent,0.78625,SD2
+Upper West Side,Female,2016,Percent,0.81495,SD3
+East Harlem,Female,2016,Percent,0.83135,SD4
+Central Harlem,Female,2016,Percent,0.62931,SD5
+Washington Heights,Female,2016,Percent,0.70654,SD6
+Mott Haven,Female,2016,Percent,0.5912,SD7
+"Hunts Point, Port Morris",Female,2016,Percent,0.56119,SD8
+"East Tremont, Morris Heights",Female,2016,Percent,0.69929,SD9
+"Riverdale, Kingsbridge, Fordham",Female,2016,Percent,0.73719,SD10
+"Eastchester, Baychester, Co-op City",Female,2016,Percent,0.73199,SD11
+"Crotona Park, Morrisania, Melrose",Female,2016,Percent,0.5846,SD12
+"Brooklyn Hts, Downtown Brooklyn",Female,2016,Percent,0.83948,SD13
+"Williamsburg, Greenpoint",Female,2016,Percent,0.76679,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Female,2016,Percent,0.70747,SD15
+Bedford Stuyvesant,Female,2016,Percent,0.51376,SD16
+Crown Heights,Female,2016,Percent,0.72545,SD17
+"East Flatbush, Canarsie",Female,2016,Percent,0.60481,SD18
+East New York,Female,2016,Percent,0.70161,SD19
+"Bay Ridge, Bensonhurst",Female,2016,Percent,0.76384,SD20
+"Gravesend, Coney Island",Female,2016,Percent,0.77535,SD21
+"Flatbush, Midwood, Sheepshead Bay",Female,2016,Percent,0.84758,SD22
+"Brownsville, Ocean Hill",Female,2016,Percent,0.40809,SD23
+"Sunnyside, Woodside, Jackson Hts",Female,2016,Percent,0.81427,SD24
+"Flushing, Whitestone",Female,2016,Percent,0.74559,SD25
+"Bayside, Douglaston, Little Neck",Female,2016,Percent,0.88309,SD26
+"Jamaica, Howard Beach, Rockaways",Female,2016,Percent,0.67456,SD27
+"Jamaica, Forest Hills",Female,2016,Percent,0.83203,SD28
+"Queens Village, Rosedale, Hollis",Female,2016,Percent,0.74858,SD29
+"Long Island City, Astoria",Female,2016,Percent,0.8023,SD30
+Staten Island,Female,2016,Percent,0.81864,SD31
+Bushwick,Female,2016,Percent,0.67961,SD32
+Lower East Side,Male,2016,Percent,0.55725,SD1
+"Stuyvesant Town, Upper E. Side",Male,2016,Percent,0.6848,SD2
+Upper West Side,Male,2016,Percent,0.67704,SD3
+East Harlem,Male,2016,Percent,0.74292,SD4
+Central Harlem,Male,2016,Percent,0.64504,SD5
+Washington Heights,Male,2016,Percent,0.54924,SD6
+Mott Haven,Male,2016,Percent,0.54731,SD7
+"Hunts Point, Port Morris",Male,2016,Percent,0.44745,SD8
+"East Tremont, Morris Heights",Male,2016,Percent,0.59835,SD9
+"Riverdale, Kingsbridge, Fordham",Male,2016,Percent,0.65331,SD10
+"Eastchester, Baychester, Co-op City",Male,2016,Percent,0.60668,SD11
+"Crotona Park, Morrisania, Melrose",Male,2016,Percent,0.49159,SD12
+"Brooklyn Hts, Downtown Brooklyn",Male,2016,Percent,0.80488,SD13
+"Williamsburg, Greenpoint",Male,2016,Percent,0.68249,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Male,2016,Percent,0.59143,SD15
+Bedford Stuyvesant,Male,2016,Percent,0.42553,SD16
+Crown Heights,Male,2016,Percent,0.6236,SD17
+"East Flatbush, Canarsie",Male,2016,Percent,0.53035,SD18
+East New York,Male,2016,Percent,0.58389,SD19
+"Bay Ridge, Bensonhurst",Male,2016,Percent,0.61487,SD20
+"Gravesend, Coney Island",Male,2016,Percent,0.61951,SD21
+"Flatbush, Midwood, Sheepshead Bay",Male,2016,Percent,0.73038,SD22
+"Brownsville, Ocean Hill",Male,2016,Percent,0.38506,SD23
+"Sunnyside, Woodside, Jackson Hts",Male,2016,Percent,0.63683,SD24
+"Flushing, Whitestone",Male,2016,Percent,0.59551,SD25
+"Bayside, Douglaston, Little Neck",Male,2016,Percent,0.7806,SD26
+"Jamaica, Howard Beach, Rockaways",Male,2016,Percent,0.59768,SD27
+"Jamaica, Forest Hills",Male,2016,Percent,0.74526,SD28
+"Queens Village, Rosedale, Hollis",Male,2016,Percent,0.61828,SD29
+"Long Island City, Astoria",Male,2016,Percent,0.66326,SD30
+Staten Island,Male,2016,Percent,0.73748,SD31
+Bushwick,Male,2016,Percent,0.57803,SD32
+Lower East Side,Female,2018,Percent,0.66805,SD1
+"Stuyvesant Town, Upper E. Side",Female,2018,Percent,0.80493,SD2
+Upper West Side,Female,2018,Percent,0.82035,SD3
+East Harlem,Female,2018,Percent,0.89382,SD4
+Central Harlem,Female,2018,Percent,0.67416,SD5
+Washington Heights,Female,2018,Percent,0.73355,SD6
+Mott Haven,Female,2018,Percent,0.64887,SD7
+"Hunts Point, Port Morris",Female,2018,Percent,0.58542,SD8
+"East Tremont, Morris Heights",Female,2018,Percent,0.70772,SD9
+"Riverdale, Kingsbridge, Fordham",Female,2018,Percent,0.77838,SD10
+"Eastchester, Baychester, Co-op City",Female,2018,Percent,0.74597,SD11
+"Crotona Park, Morrisania, Melrose",Female,2018,Percent,0.57862,SD12
+"Brooklyn Hts, Downtown Brooklyn",Female,2018,Percent,0.84275,SD13
+"Williamsburg, Greenpoint",Female,2018,Percent,0.84604,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Female,2018,Percent,0.73961,SD15
+Bedford Stuyvesant,Female,2018,Percent,0.60952,SD16
+Crown Heights,Female,2018,Percent,0.78732,SD17
+"East Flatbush, Canarsie",Female,2018,Percent,0.65385,SD18
+East New York,Female,2018,Percent,0.76667,SD19
+"Bay Ridge, Bensonhurst",Female,2018,Percent,0.79142,SD20
+"Gravesend, Coney Island",Female,2018,Percent,0.80524,SD21
+"Flatbush, Midwood, Sheepshead Bay",Female,2018,Percent,0.85762,SD22
+"Brownsville, Ocean Hill",Female,2018,Percent,0.44681,SD23
+"Sunnyside, Woodside, Jackson Hts",Female,2018,Percent,0.81944,SD24
+"Flushing, Whitestone",Female,2018,Percent,0.75678,SD25
+"Bayside, Douglaston, Little Neck",Female,2018,Percent,0.89628,SD26
+"Jamaica, Howard Beach, Rockaways",Female,2018,Percent,0.77722,SD27
+"Jamaica, Forest Hills",Female,2018,Percent,0.84796,SD28
+"Queens Village, Rosedale, Hollis",Female,2018,Percent,0.7619,SD29
+"Long Island City, Astoria",Female,2018,Percent,0.83759,SD30
+Staten Island,Female,2018,Percent,0.82801,SD31
+Bushwick,Female,2018,Percent,0.69716,SD32
+Lower East Side,Male,2018,Percent,0.61474,SD1
+"Stuyvesant Town, Upper E. Side",Male,2018,Percent,0.6939,SD2
+Upper West Side,Male,2018,Percent,0.65789,SD3
+East Harlem,Male,2018,Percent,0.75227,SD4
+Central Harlem,Male,2018,Percent,0.598,SD5
+Washington Heights,Male,2018,Percent,0.61994,SD6
+Mott Haven,Male,2018,Percent,0.51741,SD7
+"Hunts Point, Port Morris",Male,2018,Percent,0.4882,SD8
+"East Tremont, Morris Heights",Male,2018,Percent,0.58273,SD9
+"Riverdale, Kingsbridge, Fordham",Male,2018,Percent,0.68268,SD10
+"Eastchester, Baychester, Co-op City",Male,2018,Percent,0.63328,SD11
+"Crotona Park, Morrisania, Melrose",Male,2018,Percent,0.48927,SD12
+"Brooklyn Hts, Downtown Brooklyn",Male,2018,Percent,0.80334,SD13
+"Williamsburg, Greenpoint",Male,2018,Percent,0.75987,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Male,2018,Percent,0.5929,SD15
+Bedford Stuyvesant,Male,2018,Percent,0.59259,SD16
+Crown Heights,Male,2018,Percent,0.69521,SD17
+"East Flatbush, Canarsie",Male,2018,Percent,0.54192,SD18
+East New York,Male,2018,Percent,0.61796,SD19
+"Bay Ridge, Bensonhurst",Male,2018,Percent,0.66375,SD20
+"Gravesend, Coney Island",Male,2018,Percent,0.68607,SD21
+"Flatbush, Midwood, Sheepshead Bay",Male,2018,Percent,0.75257,SD22
+"Brownsville, Ocean Hill",Male,2018,Percent,0.48494,SD23
+"Sunnyside, Woodside, Jackson Hts",Male,2018,Percent,0.6951,SD24
+"Flushing, Whitestone",Male,2018,Percent,0.613,SD25
+"Bayside, Douglaston, Little Neck",Male,2018,Percent,0.8209,SD26
+"Jamaica, Howard Beach, Rockaways",Male,2018,Percent,0.64887,SD27
+"Jamaica, Forest Hills",Male,2018,Percent,0.75282,SD28
+"Queens Village, Rosedale, Hollis",Male,2018,Percent,0.66564,SD29
+"Long Island City, Astoria",Male,2018,Percent,0.70879,SD30
+Staten Island,Male,2018,Percent,0.75532,SD31
+Bushwick,Male,2018,Percent,0.59701,SD32
+Bronx,Female,2018,Percent,0.69261,36005
+Bronx,Male,2018,Percent,0.58505,36005
+Brooklyn,Female,2018,Percent,0.78424,36047
+Brooklyn,Male,2018,Percent,0.68113,36047
+Manhattan,Female,2018,Percent,0.7927,36061
+Manhattan,Male,2018,Percent,0.67378,36061
+Queens,Female,2018,Percent,0.82423,36081
+Queens,Male,2018,Percent,0.71085,36081
+Staten Island,Female,2018,Percent,0.82801,36085
+Staten Island,Male,2018,Percent,0.75532,36085
+New York City,Female,2018,Percent,0.78287,3651000
+New York City,Male,2018,Percent,0.67424,3651000
+New York City,Female,2019,Percent,0.79344,3651000
+New York City,Male,2019,Percent,0.68666,3651000
+Bronx,Female,2019,Percent,0.71433,36005
+Bronx,Male,2019,Percent,0.61568,36005
+Brooklyn,Female,2019,Percent,0.78557,36047
+Brooklyn,Male,2019,Percent,0.68198,36047
+Manhattan,Female,2019,Percent,0.8063,36061
+Manhattan,Male,2019,Percent,0.69062,36061
+Queens,Female,2019,Percent,0.83019,36081
+Queens,Male,2019,Percent,0.72215,36081
+Staten Island,Female,2019,Percent,0.86135,36085
+Staten Island,Male,2019,Percent,0.76182,36085
+Lower East Side,Female,2019,Percent,0.7379,SD1
+Lower East Side,Male,2019,Percent,0.60588,SD1
+"Stuyvesant Town, Upper E. Side",Female,2019,Percent,0.81258,SD2
+"Stuyvesant Town, Upper E. Side",Male,2019,Percent,0.70603,SD2
+Upper West Side,Female,2019,Percent,0.84241,SD3
+Upper West Side,Male,2019,Percent,0.69174,SD3
+East Harlem,Female,2019,Percent,0.88889,SD4
+East Harlem,Male,2019,Percent,0.80788,SD4
+Central Harlem,Female,2019,Percent,0.681,SD5
+Central Harlem,Male,2019,Percent,0.63399,SD5
+Washington Heights,Female,2019,Percent,0.7568,SD6
+Washington Heights,Male,2019,Percent,0.63181,SD6
+Mott Haven,Female,2019,Percent,0.67384,SD7
+Mott Haven,Male,2019,Percent,0.58038,SD7
+"Hunts Point, Port Morris",Female,2019,Percent,0.61213,SD8
+"Hunts Point, Port Morris",Male,2019,Percent,0.52212,SD8
+"East Tremont, Morris Heights",Female,2019,Percent,0.72883,SD9
+"East Tremont, Morris Heights",Male,2019,Percent,0.595,SD9
+"Riverdale, Kingsbridge, Fordham",Female,2019,Percent,0.78233,SD10
+"Riverdale, Kingsbridge, Fordham",Male,2019,Percent,0.71869,SD10
+"Eastchester, Baychester, Co-op City",Female,2019,Percent,0.76004,SD11
+"Eastchester, Baychester, Co-op City",Male,2019,Percent,0.63902,SD11
+"Crotona Park, Morrisania, Melrose",Female,2019,Percent,0.635,SD12
+"Crotona Park, Morrisania, Melrose",Male,2019,Percent,0.50773,SD12
+"Brooklyn Hts, Downtown Brooklyn",Female,2019,Percent,0.85028,SD13
+"Brooklyn Hts, Downtown Brooklyn",Male,2019,Percent,0.84312,SD13
+"Williamsburg, Greenpoint",Female,2019,Percent,0.83255,SD14
+"Williamsburg, Greenpoint",Male,2019,Percent,0.75404,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Female,2019,Percent,0.75896,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Male,2019,Percent,0.58616,SD15
+Bedford Stuyvesant,Female,2019,Percent,0.60577,SD16
+Bedford Stuyvesant,Male,2019,Percent,0.48936,SD16
+Crown Heights,Female,2019,Percent,0.77107,SD17
+Crown Heights,Male,2019,Percent,0.6824,SD17
+"East Flatbush, Canarsie",Female,2019,Percent,0.63006,SD18
+"East Flatbush, Canarsie",Male,2019,Percent,0.55556,SD18
+East New York,Female,2019,Percent,0.78179,SD19
+East New York,Male,2019,Percent,0.69345,SD19
+"Bay Ridge, Bensonhurst",Female,2019,Percent,0.79308,SD20
+"Bay Ridge, Bensonhurst",Male,2019,Percent,0.6545,SD20
+"Gravesend, Coney Island",Female,2019,Percent,0.79206,SD21
+"Gravesend, Coney Island",Male,2019,Percent,0.68209,SD21
+"Flatbush, Midwood, Sheepshead Bay",Female,2019,Percent,0.88459,SD22
+"Flatbush, Midwood, Sheepshead Bay",Male,2019,Percent,0.74582,SD22
+"Brownsville, Ocean Hill",Female,2019,Percent,0.36279,SD23
+"Brownsville, Ocean Hill",Male,2019,Percent,0.42857,SD23
+Bushwick,Female,2019,Percent,0.73649,SD32
+Bushwick,Male,2019,Percent,0.57018,SD32
+"Sunnyside, Woodside, Jackson Hts",Female,2019,Percent,0.82289,SD24
+"Sunnyside, Woodside, Jackson Hts",Male,2019,Percent,0.71082,SD24
+"Flushing, Whitestone",Female,2019,Percent,0.7728,SD25
+"Flushing, Whitestone",Male,2019,Percent,0.64434,SD25
+"Bayside, Douglaston, Little Neck",Female,2019,Percent,0.90496,SD26
+"Bayside, Douglaston, Little Neck",Male,2019,Percent,0.82741,SD26
+"Jamaica, Howard Beach, Rockaways",Female,2019,Percent,0.77148,SD27
+"Jamaica, Howard Beach, Rockaways",Male,2019,Percent,0.65569,SD27
+"Jamaica, Forest Hills",Female,2019,Percent,0.86238,SD28
+"Jamaica, Forest Hills",Male,2019,Percent,0.75624,SD28
+"Queens Village, Rosedale, Hollis",Female,2019,Percent,0.78364,SD29
+"Queens Village, Rosedale, Hollis",Male,2019,Percent,0.7107,SD29
+"Long Island City, Astoria",Female,2019,Percent,0.82328,SD30
+"Long Island City, Astoria",Male,2019,Percent,0.71057,SD30
+Staten Island,Female,2019,Percent,0.86135,SD31
+Staten Island,Male,2019,Percent,0.76182,SD31

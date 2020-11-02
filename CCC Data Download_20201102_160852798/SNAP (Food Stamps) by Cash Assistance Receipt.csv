@@ -1,0 +1,2350 @@
+"Name","SNAP (Food Stamps) by Cash Assistance Receipt"
+"Description","Recipients of SNAP by Cash Assistance status.&nbsp;SNAP (Supplemental Nutrition Assistance Program) is a federal program that offers nutrition assistance to low-income individuals and families. It is commonly referred to as Food Stamps.&nbsp;"
+"Source Notes","New York City Human Resources Administration,&nbsp;<em>District Resource Statement Fiscal and Service Reports</em>&nbsp;(for Fiscal Years: 2002 and 2003; 2005 and 2006;&nbsp;2006 and 2007;&nbsp;2007 and 2008;&nbsp;2009 and 2010; 2011 and 2012;&nbsp;2016 and 2017; 2017 and 2018) retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/hra/about/facts.page"" target=""_blank"">https://www1.nyc.gov/site/hra/about/facts.page</a>&nbsp;<br />
+<br />
+New York City Human Resources Administration,&nbsp;Borough/Community District Report - CA Population (2018-2019). Retrieved from NYC Open Data:&nbsp;<a href=""https://data.cityofnewyork.us/Social-Services/Borough-Community-District-Report-CA-Population/kjcq-h8d9"" target=""_blank"">https://data.cityofnewyork.us/Social-Services/Borough-Community-District-Report-CA-Population/kjcq-h8d9</a>"
+"Notes","Figures represent data as of October for the given year, with the exception of 2018 and 2019 which represent data as of September.<br />
+&nbsp;Percentages presented by Cash Assistance Receipt refer to the number of individuals receiving SNAP.&nbsp;<br />
+*CCC is in the process of filling in data for missing years.&nbsp;<br />"
+
+Location,Cash Assistance Receipt,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,Receives Cash Assistance,2001,Number,604,101
+Battery Park/Tribeca,Receives Cash Assistance,2002,Number,598,101
+Greenwich Village,Receives Cash Assistance,2001,Number,1010,102
+Greenwich Village,Receives Cash Assistance,2002,Number,851,102
+Lower East Side,Receives Cash Assistance,2001,Number,7279,103
+Lower East Side,Receives Cash Assistance,2002,Number,6779,103
+Chelsea/Clinton,Receives Cash Assistance,2001,Number,2554,104
+Chelsea/Clinton,Receives Cash Assistance,2002,Number,2602,104
+Midtown Business District,Receives Cash Assistance,2001,Number,1497,105
+Midtown Business District,Receives Cash Assistance,2002,Number,1509,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2001,Number,913,106
+Murray Hill/Stuyvesant,Receives Cash Assistance,2002,Number,866,106
+Upper West Side,Receives Cash Assistance,2001,Number,5382,107
+Upper West Side,Receives Cash Assistance,2002,Number,5031,107
+Upper East Side,Receives Cash Assistance,2001,Number,853,108
+Upper East Side,Receives Cash Assistance,2002,Number,794,108
+Manhattanville,Receives Cash Assistance,2001,Number,9801,109
+Manhattanville,Receives Cash Assistance,2002,Number,8464,109
+Central Harlem,Receives Cash Assistance,2001,Number,13581,110
+Central Harlem,Receives Cash Assistance,2002,Number,11665,110
+East Harlem,Receives Cash Assistance,2001,Number,14932,111
+East Harlem,Receives Cash Assistance,2002,Number,13412,111
+Washington Heights,Receives Cash Assistance,2001,Number,16773,112
+Washington Heights,Receives Cash Assistance,2002,Number,14421,112
+Mott Haven,Receives Cash Assistance,2001,Number,15622,201
+Mott Haven,Receives Cash Assistance,2002,Number,14702,201
+Hunts Point,Receives Cash Assistance,2001,Number,8355,202
+Hunts Point,Receives Cash Assistance,2002,Number,8008,202
+Morrisania,Receives Cash Assistance,2001,Number,13552,203
+Morrisania,Receives Cash Assistance,2002,Number,12626,203
+Concourse/Highbridge,Receives Cash Assistance,2001,Number,22153,204
+Concourse/Highbridge,Receives Cash Assistance,2002,Number,20849,204
+University Heights,Receives Cash Assistance,2001,Number,22576,205
+University Heights,Receives Cash Assistance,2002,Number,21964,205
+East Tremont,Receives Cash Assistance,2001,Number,14889,206
+East Tremont,Receives Cash Assistance,2002,Number,14036,206
+Bedford Park,Receives Cash Assistance,2001,Number,17240,207
+Bedford Park,Receives Cash Assistance,2002,Number,15875,207
+Riverdale,Receives Cash Assistance,2001,Number,3985,208
+Riverdale,Receives Cash Assistance,2002,Number,3641,208
+Unionport/Soundview,Receives Cash Assistance,2001,Number,16955,209
+Unionport/Soundview,Receives Cash Assistance,2002,Number,16418,209
+Throgs Neck,Receives Cash Assistance,2001,Number,2384,210
+Throgs Neck,Receives Cash Assistance,2002,Number,2443,210
+Pelham Parkway,Receives Cash Assistance,2001,Number,4898,211
+Pelham Parkway,Receives Cash Assistance,2002,Number,4669,211
+Williamsbridge,Receives Cash Assistance,2001,Number,8518,212
+Williamsbridge,Receives Cash Assistance,2002,Number,8444,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2001,Number,10425,301
+Williamsburg/Greenpoint,Receives Cash Assistance,2002,Number,9026,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2001,Number,5536,302
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2002,Number,5152,302
+Bedford Stuyvesant,Receives Cash Assistance,2001,Number,19300,303
+Bedford Stuyvesant,Receives Cash Assistance,2002,Number,17774,303
+Bushwick,Receives Cash Assistance,2001,Number,14035,304
+Bushwick,Receives Cash Assistance,2002,Number,12975,304
+East New York,Receives Cash Assistance,2001,Number,20518,305
+East New York,Receives Cash Assistance,2002,Number,19282,305
+Park Slope,Receives Cash Assistance,2001,Number,4101,306
+Park Slope,Receives Cash Assistance,2002,Number,3600,306
+Sunset Park,Receives Cash Assistance,2001,Number,6134,307
+Sunset Park,Receives Cash Assistance,2002,Number,5332,307
+Crown Heights North,Receives Cash Assistance,2001,Number,9564,308
+Crown Heights North,Receives Cash Assistance,2002,Number,9167,308
+Crown Heights South,Receives Cash Assistance,2001,Number,5449,309
+Crown Heights South,Receives Cash Assistance,2002,Number,2344,309
+Bay Ridge,Receives Cash Assistance,2001,Number,2132,310
+Bay Ridge,Receives Cash Assistance,2002,Number,1807,310
+Bensonhurst,Receives Cash Assistance,2001,Number,3940,311
+Bensonhurst,Receives Cash Assistance,2002,Number,3316,311
+Borough Park,Receives Cash Assistance,2001,Number,6646,312
+Borough Park,Receives Cash Assistance,2002,Number,5800,312
+Coney Island,Receives Cash Assistance,2001,Number,7232,313
+Coney Island,Receives Cash Assistance,2002,Number,6155,313
+Flatbush/Midwood,Receives Cash Assistance,2001,Number,9303,314
+Flatbush/Midwood,Receives Cash Assistance,2002,Number,9029,314
+Sheepshead Bay,Receives Cash Assistance,2001,Number,4403,315
+Sheepshead Bay,Receives Cash Assistance,2002,Number,3780,315
+Brownsville,Receives Cash Assistance,2001,Number,13864,316
+Brownsville,Receives Cash Assistance,2002,Number,12640,316
+East Flatbush,Receives Cash Assistance,2001,Number,8296,317
+East Flatbush,Receives Cash Assistance,2002,Number,8177,317
+Canarsie,Receives Cash Assistance,2001,Number,4706,318
+Canarsie,Receives Cash Assistance,2002,Number,4544,318
+Astoria,Receives Cash Assistance,2001,Number,5573,401
+Astoria,Receives Cash Assistance,2002,Number,5412,401
+Sunnyside/Woodside,Receives Cash Assistance,2001,Number,1548,402
+Sunnyside/Woodside,Receives Cash Assistance,2002,Number,1441,402
+Jackson Heights,Receives Cash Assistance,2001,Number,4265,403
+Jackson Heights,Receives Cash Assistance,2002,Number,3974,403
+Elmhurst/Corona,Receives Cash Assistance,2001,Number,3901,404
+Elmhurst/Corona,Receives Cash Assistance,2002,Number,3614,404
+Ridgewood/Glendale,Receives Cash Assistance,2001,Number,3901,405
+Ridgewood/Glendale,Receives Cash Assistance,2002,Number,3370,405
+Rego Park/Forest Hills,Receives Cash Assistance,2001,Number,1995,406
+Rego Park/Forest Hills,Receives Cash Assistance,2002,Number,1752,406
+Flushing,Receives Cash Assistance,2001,Number,2498,407
+Flushing,Receives Cash Assistance,2002,Number,2280,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2001,Number,3634,408
+Fresh Meadows/Briarwood,Receives Cash Assistance,2002,Number,3771,408
+Woodhaven,Receives Cash Assistance,2001,Number,4000,409
+Woodhaven,Receives Cash Assistance,2002,Number,3450,409
+Howard Beach,Receives Cash Assistance,2001,Number,2454,410
+Howard Beach,Receives Cash Assistance,2002,Number,2299,410
+Bayside,Receives Cash Assistance,2001,Number,359,411
+Bayside,Receives Cash Assistance,2002,Number,326,411
+Jamaica/St. Albans,Receives Cash Assistance,2001,Number,10092,412
+Jamaica/St. Albans,Receives Cash Assistance,2002,Number,9592,412
+Queens Village,Receives Cash Assistance,2001,Number,3568,413
+Queens Village,Receives Cash Assistance,2002,Number,3323,413
+The Rockaways,Receives Cash Assistance,2001,Number,7406,414
+The Rockaways,Receives Cash Assistance,2002,Number,7041,414
+St. George,Receives Cash Assistance,2001,Number,8689,501
+St. George,Receives Cash Assistance,2002,Number,8172,501
+South Beach,Receives Cash Assistance,2001,Number,1678,502
+South Beach,Receives Cash Assistance,2002,Number,1600,502
+Tottenville,Receives Cash Assistance,2001,Number,738,503
+Tottenville,Receives Cash Assistance,2002,Number,724,503
+Bronx,Receives Cash Assistance,2001,Number,151127,36005
+Bronx,Receives Cash Assistance,2002,Number,143675,36005
+Brooklyn,Receives Cash Assistance,2001,Number,155584,36047
+Brooklyn,Receives Cash Assistance,2002,Number,142900,36047
+Manhattan,Receives Cash Assistance,2001,Number,75179,36061
+Manhattan,Receives Cash Assistance,2002,Number,66992,36061
+Queens,Receives Cash Assistance,2001,Number,55194,36081
+Queens,Receives Cash Assistance,2002,Number,51645,36081
+Staten Island,Receives Cash Assistance,2001,Number,11105,36085
+Staten Island,Receives Cash Assistance,2002,Number,10496,36085
+New York City,Receives Cash Assistance,2001,Number,448193,3651000
+New York City,Receives Cash Assistance,2002,Number,415710,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2005,Number,675,101
+Greenwich Village,Receives Cash Assistance,2005,Number,672,102
+Lower East Side,Receives Cash Assistance,2005,Number,7130,103
+Chelsea/Clinton,Receives Cash Assistance,2005,Number,4039,104
+Midtown Business District,Receives Cash Assistance,2005,Number,1300,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2005,Number,881,106
+Upper West Side,Receives Cash Assistance,2005,Number,5081,107
+Upper East Side,Receives Cash Assistance,2005,Number,877,108
+Manhattanville,Receives Cash Assistance,2005,Number,9503,109
+Central Harlem,Receives Cash Assistance,2005,Number,12050,110
+East Harlem,Receives Cash Assistance,2005,Number,14755,111
+Washington Heights,Receives Cash Assistance,2005,Number,14512,112
+Mott Haven,Receives Cash Assistance,2005,Number,17023,201
+Hunts Point,Receives Cash Assistance,2005,Number,8488,202
+Morrisania,Receives Cash Assistance,2005,Number,13733,203
+Concourse/Highbridge,Receives Cash Assistance,2005,Number,22939,204
+University Heights,Receives Cash Assistance,2005,Number,23310,205
+East Tremont,Receives Cash Assistance,2005,Number,15567,206
+Bedford Park,Receives Cash Assistance,2005,Number,17041,207
+Riverdale,Receives Cash Assistance,2005,Number,4249,208
+Unionport/Soundview,Receives Cash Assistance,2005,Number,17882,209
+Throgs Neck,Receives Cash Assistance,2005,Number,3285,210
+Pelham Parkway,Receives Cash Assistance,2005,Number,5869,211
+Williamsbridge,Receives Cash Assistance,2005,Number,11633,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2005,Number,8264,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2005,Number,4885,302
+Bedford Stuyvesant,Receives Cash Assistance,2005,Number,19939,303
+Bushwick,Receives Cash Assistance,2005,Number,13749,304
+East New York,Receives Cash Assistance,2005,Number,20491,305
+Park Slope,Receives Cash Assistance,2005,Number,3592,306
+Sunset Park,Receives Cash Assistance,2005,Number,4997,307
+Crown Heights North,Receives Cash Assistance,2005,Number,10600,308
+Crown Heights South,Receives Cash Assistance,2005,Number,5975,309
+Bay Ridge,Receives Cash Assistance,2005,Number,1893,310
+Bensonhurst,Receives Cash Assistance,2005,Number,3340,311
+Borough Park,Receives Cash Assistance,2005,Number,5277,312
+Coney Island,Receives Cash Assistance,2005,Number,5831,313
+Flatbush/Midwood,Receives Cash Assistance,2005,Number,8879,314
+Sheepshead Bay,Receives Cash Assistance,2005,Number,3426,315
+Brownsville,Receives Cash Assistance,2005,Number,14929,316
+East Flatbush,Receives Cash Assistance,2005,Number,8653,317
+Canarsie,Receives Cash Assistance,2005,Number,5584,318
+Astoria,Receives Cash Assistance,2005,Number,5479,401
+Sunnyside/Woodside,Receives Cash Assistance,2005,Number,1744,402
+Jackson Heights,Receives Cash Assistance,2005,Number,3972,403
+Elmhurst/Corona,Receives Cash Assistance,2005,Number,3575,404
+Ridgewood/Glendale,Receives Cash Assistance,2005,Number,3443,405
+Rego Park/Forest Hills,Receives Cash Assistance,2005,Number,1401,406
+Flushing,Receives Cash Assistance,2005,Number,2475,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2005,Number,3148,408
+Woodhaven,Receives Cash Assistance,2005,Number,3725,409
+Howard Beach,Receives Cash Assistance,2005,Number,2334,410
+Bayside,Receives Cash Assistance,2005,Number,424,411
+Jamaica/St. Albans,Receives Cash Assistance,2005,Number,10398,412
+Queens Village,Receives Cash Assistance,2005,Number,3881,413
+The Rockaways,Receives Cash Assistance,2005,Number,7219,414
+St. George,Receives Cash Assistance,2005,Number,9829,501
+South Beach,Receives Cash Assistance,2005,Number,1735,502
+Tottenville,Receives Cash Assistance,2005,Number,791,503
+Bronx,Receives Cash Assistance,2005,Number,161020,36005
+Brooklyn,Receives Cash Assistance,2005,Number,150303,36047
+Manhattan,Receives Cash Assistance,2005,Number,71475,36061
+Queens,Receives Cash Assistance,2005,Number,53218,36081
+Staten Island,Receives Cash Assistance,2005,Number,12355,36085
+New York City,Receives Cash Assistance,2005,Number,448387,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2006,Number,598,101
+Greenwich Village,Receives Cash Assistance,2006,Number,422,102
+Lower East Side,Receives Cash Assistance,2006,Number,6396,103
+Chelsea/Clinton,Receives Cash Assistance,2006,Number,3329,104
+Midtown Business District,Receives Cash Assistance,2006,Number,1359,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2006,Number,690,106
+Upper West Side,Receives Cash Assistance,2006,Number,4475,107
+Upper East Side,Receives Cash Assistance,2006,Number,797,108
+Manhattanville,Receives Cash Assistance,2006,Number,8416,109
+Central Harlem,Receives Cash Assistance,2006,Number,10586,110
+East Harlem,Receives Cash Assistance,2006,Number,13509,111
+Washington Heights,Receives Cash Assistance,2006,Number,12563,112
+Mott Haven,Receives Cash Assistance,2006,Number,15263,201
+Hunts Point,Receives Cash Assistance,2006,Number,7659,202
+Morrisania,Receives Cash Assistance,2006,Number,12610,203
+Concourse/Highbridge,Receives Cash Assistance,2006,Number,21644,204
+University Heights,Receives Cash Assistance,2006,Number,21929,205
+East Tremont,Receives Cash Assistance,2006,Number,15087,206
+Bedford Park,Receives Cash Assistance,2006,Number,16318,207
+Riverdale,Receives Cash Assistance,2006,Number,3715,208
+Unionport/Soundview,Receives Cash Assistance,2006,Number,16461,209
+Throgs Neck,Receives Cash Assistance,2006,Number,2924,210
+Pelham Parkway,Receives Cash Assistance,2006,Number,5630,211
+Williamsbridge,Receives Cash Assistance,2006,Number,11602,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2006,Number,7245,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2006,Number,4304,302
+Bedford Stuyvesant,Receives Cash Assistance,2006,Number,18301,303
+Bushwick,Receives Cash Assistance,2006,Number,12904,304
+East New York,Receives Cash Assistance,2006,Number,19223,305
+Park Slope,Receives Cash Assistance,2006,Number,3076,306
+Sunset Park,Receives Cash Assistance,2006,Number,4415,307
+Crown Heights North,Receives Cash Assistance,2006,Number,9348,308
+Crown Heights South,Receives Cash Assistance,2006,Number,5323,309
+Bay Ridge,Receives Cash Assistance,2006,Number,1792,310
+Bensonhurst,Receives Cash Assistance,2006,Number,3029,311
+Borough Park,Receives Cash Assistance,2006,Number,4544,312
+Coney Island,Receives Cash Assistance,2006,Number,5164,313
+Flatbush/Midwood,Receives Cash Assistance,2006,Number,7955,314
+Sheepshead Bay,Receives Cash Assistance,2006,Number,3102,315
+Brownsville,Receives Cash Assistance,2006,Number,13643,316
+East Flatbush,Receives Cash Assistance,2006,Number,8022,317
+Canarsie,Receives Cash Assistance,2006,Number,5239,318
+Astoria,Receives Cash Assistance,2006,Number,4753,401
+Sunnyside/Woodside,Receives Cash Assistance,2006,Number,1545,402
+Jackson Heights,Receives Cash Assistance,2006,Number,3635,403
+Elmhurst/Corona,Receives Cash Assistance,2006,Number,3274,404
+Ridgewood/Glendale,Receives Cash Assistance,2006,Number,3209,405
+Rego Park/Forest Hills,Receives Cash Assistance,2006,Number,1128,406
+Flushing,Receives Cash Assistance,2006,Number,2323,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2006,Number,2991,408
+Woodhaven,Receives Cash Assistance,2006,Number,3649,409
+Howard Beach,Receives Cash Assistance,2006,Number,2213,410
+Bayside,Receives Cash Assistance,2006,Number,403,411
+Jamaica/St. Albans,Receives Cash Assistance,2006,Number,9533,412
+Queens Village,Receives Cash Assistance,2006,Number,3791,413
+The Rockaways,Receives Cash Assistance,2006,Number,7152,414
+St. George,Receives Cash Assistance,2006,Number,9598,501
+South Beach,Receives Cash Assistance,2006,Number,1755,502
+Tottenville,Receives Cash Assistance,2006,Number,789,503
+Bronx,Receives Cash Assistance,2006,Number,111871,36005
+Brooklyn,Receives Cash Assistance,2006,Number,159662,36047
+Manhattan,Receives Cash Assistance,2006,Number,67090,36061
+Queens,Receives Cash Assistance,2006,Number,62018,36081
+Staten Island,Receives Cash Assistance,2006,Number,11711,36085
+New York City,Receives Cash Assistance,2006,Number,412354,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2007,Number,662,101
+Greenwich Village,Receives Cash Assistance,2007,Number,411,102
+Lower East Side,Receives Cash Assistance,2007,Number,6552,103
+Chelsea/Clinton,Receives Cash Assistance,2007,Number,3184,104
+Midtown Business District,Receives Cash Assistance,2007,Number,1385,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2007,Number,732,106
+Upper West Side,Receives Cash Assistance,2007,Number,4532,107
+Upper East Side,Receives Cash Assistance,2007,Number,768,108
+Manhattanville,Receives Cash Assistance,2007,Number,8027,109
+Central Harlem,Receives Cash Assistance,2007,Number,10498,110
+East Harlem,Receives Cash Assistance,2007,Number,13376,111
+Washington Heights,Receives Cash Assistance,2007,Number,11626,112
+Mott Haven,Receives Cash Assistance,2007,Number,10658,201
+Hunts Point,Receives Cash Assistance,2007,Number,5695,202
+Morrisania,Receives Cash Assistance,2007,Number,8767,203
+Concourse/Highbridge,Receives Cash Assistance,2007,Number,14990,204
+University Heights,Receives Cash Assistance,2007,Number,15200,205
+East Tremont,Receives Cash Assistance,2007,Number,10860,206
+Bedford Park,Receives Cash Assistance,2007,Number,11178,207
+Riverdale,Receives Cash Assistance,2007,Number,2457,208
+Unionport/Soundview,Receives Cash Assistance,2007,Number,11253,209
+Throgs Neck,Receives Cash Assistance,2007,Number,2135,210
+Pelham Parkway,Receives Cash Assistance,2007,Number,4057,211
+Williamsbridge,Receives Cash Assistance,2007,Number,8138,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2007,Number,7195,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2007,Number,4381,302
+Bedford Stuyvesant,Receives Cash Assistance,2007,Number,19663,303
+Bushwick,Receives Cash Assistance,2007,Number,13560,304
+East New York,Receives Cash Assistance,2007,Number,21119,305
+Park Slope,Receives Cash Assistance,2007,Number,3189,306
+Sunset Park,Receives Cash Assistance,2007,Number,4533,307
+Crown Heights North,Receives Cash Assistance,2007,Number,10047,308
+Crown Heights South,Receives Cash Assistance,2007,Number,5859,309
+Bay Ridge,Receives Cash Assistance,2007,Number,1982,310
+Bensonhurst,Receives Cash Assistance,2007,Number,3499,311
+Borough Park,Receives Cash Assistance,2007,Number,4741,312
+Coney Island,Receives Cash Assistance,2007,Number,5467,313
+Flatbush/Midwood,Receives Cash Assistance,2007,Number,8296,314
+Sheepshead Bay,Receives Cash Assistance,2007,Number,3316,315
+Brownsville,Receives Cash Assistance,2007,Number,14996,316
+East Flatbush,Receives Cash Assistance,2007,Number,9092,317
+Canarsie,Receives Cash Assistance,2007,Number,5815,318
+Astoria,Receives Cash Assistance,2007,Number,5272,401
+Sunnyside/Woodside,Receives Cash Assistance,2007,Number,1803,402
+Jackson Heights,Receives Cash Assistance,2007,Number,4343,403
+Elmhurst/Corona,Receives Cash Assistance,2007,Number,3793,404
+Ridgewood/Glendale,Receives Cash Assistance,2007,Number,3698,405
+Rego Park/Forest Hills,Receives Cash Assistance,2007,Number,1200,406
+Flushing,Receives Cash Assistance,2007,Number,2858,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2007,Number,3453,408
+Woodhaven,Receives Cash Assistance,2007,Number,4388,409
+Howard Beach,Receives Cash Assistance,2007,Number,2660,410
+Bayside,Receives Cash Assistance,2007,Number,574,411
+Jamaica/St. Albans,Receives Cash Assistance,2007,Number,11856,412
+Queens Village,Receives Cash Assistance,2007,Number,4616,413
+The Rockaways,Receives Cash Assistance,2007,Number,8965,414
+St. George,Receives Cash Assistance,2007,Number,9594,501
+South Beach,Receives Cash Assistance,2007,Number,1693,502
+Tottenville,Receives Cash Assistance,2007,Number,817,503
+Bronx,Receives Cash Assistance,2007,Number,105388,36005
+Brooklyn,Receives Cash Assistance,2007,Number,146750,36047
+Manhattan,Receives Cash Assistance,2007,Number,61753,36061
+Queens,Receives Cash Assistance,2007,Number,59479,36081
+Staten Island,Receives Cash Assistance,2007,Number,12104,36085
+New York City,Receives Cash Assistance,2007,Number,385474,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2009,Number,638,101
+Greenwich Village,Receives Cash Assistance,2009,Number,411,102
+Lower East Side,Receives Cash Assistance,2009,Number,6495,103
+Chelsea/Clinton,Receives Cash Assistance,2009,Number,3520,104
+Midtown Business District,Receives Cash Assistance,2009,Number,1471,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2009,Number,791,106
+Upper West Side,Receives Cash Assistance,2009,Number,4430,107
+Upper East Side,Receives Cash Assistance,2009,Number,745,108
+Manhattanville,Receives Cash Assistance,2009,Number,7139,109
+Central Harlem,Receives Cash Assistance,2009,Number,9957,110
+East Harlem,Receives Cash Assistance,2009,Number,12101,111
+Washington Heights,Receives Cash Assistance,2009,Number,9923,112
+Mott Haven,Receives Cash Assistance,2009,Number,11472,201
+Hunts Point,Receives Cash Assistance,2009,Number,6598,202
+Morrisania,Receives Cash Assistance,2009,Number,10108,203
+Concourse/Highbridge,Receives Cash Assistance,2009,Number,16978,204
+University Heights,Receives Cash Assistance,2009,Number,16583,205
+East Tremont,Receives Cash Assistance,2009,Number,12084,206
+Bedford Park,Receives Cash Assistance,2009,Number,12438,207
+Riverdale,Receives Cash Assistance,2009,Number,2666,208
+Unionport/Soundview,Receives Cash Assistance,2009,Number,12835,209
+Throgs Neck,Receives Cash Assistance,2009,Number,2738,210
+Pelham Parkway,Receives Cash Assistance,2009,Number,4739,211
+Williamsbridge,Receives Cash Assistance,2009,Number,9966,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2009,Number,6100,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2009,Number,3559,302
+Bedford Stuyvesant,Receives Cash Assistance,2009,Number,15852,303
+Bushwick,Receives Cash Assistance,2009,Number,9915,304
+East New York,Receives Cash Assistance,2009,Number,17490,305
+Park Slope,Receives Cash Assistance,2009,Number,2059,306
+Sunset Park,Receives Cash Assistance,2009,Number,3520,307
+Crown Heights North,Receives Cash Assistance,2009,Number,7817,308
+Crown Heights South,Receives Cash Assistance,2009,Number,4861,309
+Bay Ridge,Receives Cash Assistance,2009,Number,1799,310
+Bensonhurst,Receives Cash Assistance,2009,Number,2996,311
+Borough Park,Receives Cash Assistance,2009,Number,4062,312
+Coney Island,Receives Cash Assistance,2009,Number,4351,313
+Flatbush/Midwood,Receives Cash Assistance,2009,Number,6753,314
+Sheepshead Bay,Receives Cash Assistance,2009,Number,2752,315
+Brownsville,Receives Cash Assistance,2009,Number,13361,316
+East Flatbush,Receives Cash Assistance,2009,Number,8079,317
+Canarsie,Receives Cash Assistance,2009,Number,5108,318
+Astoria,Receives Cash Assistance,2009,Number,7609,401
+Sunnyside/Woodside,Receives Cash Assistance,2009,Number,2879,402
+Jackson Heights,Receives Cash Assistance,2009,Number,6706,403
+Elmhurst/Corona,Receives Cash Assistance,2009,Number,5859,404
+Ridgewood/Glendale,Receives Cash Assistance,2009,Number,5485,405
+Rego Park/Forest Hills,Receives Cash Assistance,2009,Number,1573,406
+Flushing,Receives Cash Assistance,2009,Number,4396,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2009,Number,5566,408
+Woodhaven,Receives Cash Assistance,2009,Number,7216,409
+Howard Beach,Receives Cash Assistance,2009,Number,4874,410
+Bayside,Receives Cash Assistance,2009,Number,957,411
+Jamaica/St. Albans,Receives Cash Assistance,2009,Number,20704,412
+Queens Village,Receives Cash Assistance,2009,Number,8418,413
+The Rockaways,Receives Cash Assistance,2009,Number,14311,414
+St. George,Receives Cash Assistance,2009,Number,11842,501
+South Beach,Receives Cash Assistance,2009,Number,2049,502
+Tottenville,Receives Cash Assistance,2009,Number,945,503
+Bronx,Receives Cash Assistance,2009,Number,119206,36005
+Brooklyn,Receives Cash Assistance,2009,Number,120433,36047
+Manhattan,Receives Cash Assistance,2009,Number,57622,36061
+Queens,Receives Cash Assistance,2009,Number,96552,36081
+Staten Island,Receives Cash Assistance,2009,Number,14836,36085
+New York City,Receives Cash Assistance,2009,Number,408757,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2011,Number,671,101
+Greenwich Village,Receives Cash Assistance,2011,Number,416,102
+Lower East Side,Receives Cash Assistance,2011,Number,7042,103
+Chelsea/Clinton,Receives Cash Assistance,2011,Number,2501,104
+Midtown Business District,Receives Cash Assistance,2011,Number,1315,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2011,Number,907,106
+Upper West Side,Receives Cash Assistance,2011,Number,4158,107
+Upper East Side,Receives Cash Assistance,2011,Number,812,108
+Manhattanville,Receives Cash Assistance,2011,Number,6769,109
+Central Harlem,Receives Cash Assistance,2011,Number,10828,110
+East Harlem,Receives Cash Assistance,2011,Number,11978,111
+Washington Heights,Receives Cash Assistance,2011,Number,10450,112
+Mott Haven,Receives Cash Assistance,2011,Number,10499,201
+Hunts Point,Receives Cash Assistance,2011,Number,6156,202
+Morrisania,Receives Cash Assistance,2011,Number,9365,203
+Concourse/Highbridge,Receives Cash Assistance,2011,Number,14715,204
+University Heights,Receives Cash Assistance,2011,Number,14864,205
+East Tremont,Receives Cash Assistance,2011,Number,11570,206
+Bedford Park,Receives Cash Assistance,2011,Number,11410,207
+Riverdale,Receives Cash Assistance,2011,Number,2631,208
+Unionport/Soundview,Receives Cash Assistance,2011,Number,11733,209
+Throgs Neck,Receives Cash Assistance,2011,Number,2526,210
+Pelham Parkway,Receives Cash Assistance,2011,Number,4511,211
+Williamsbridge,Receives Cash Assistance,2011,Number,9286,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2011,Number,5581,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2011,Number,2986,302
+Bedford Stuyvesant,Receives Cash Assistance,2011,Number,14372,303
+Bushwick,Receives Cash Assistance,2011,Number,8959,304
+East New York,Receives Cash Assistance,2011,Number,16432,305
+Park Slope,Receives Cash Assistance,2011,Number,1787,306
+Sunset Park,Receives Cash Assistance,2011,Number,3423,307
+Crown Heights North,Receives Cash Assistance,2011,Number,7272,308
+Crown Heights South,Receives Cash Assistance,2011,Number,4695,309
+Bay Ridge,Receives Cash Assistance,2011,Number,1788,310
+Bensonhurst,Receives Cash Assistance,2011,Number,3119,311
+Borough Park,Receives Cash Assistance,2011,Number,6258,312
+Coney Island,Receives Cash Assistance,2011,Number,4242,313
+Flatbush/Midwood,Receives Cash Assistance,2011,Number,6676,314
+Sheepshead Bay,Receives Cash Assistance,2011,Number,2675,315
+Brownsville,Receives Cash Assistance,2011,Number,11969,316
+East Flatbush,Receives Cash Assistance,2011,Number,8025,317
+Canarsie,Receives Cash Assistance,2011,Number,4772,318
+Astoria,Receives Cash Assistance,2011,Number,7567,401
+Sunnyside/Woodside,Receives Cash Assistance,2011,Number,3149,402
+Jackson Heights,Receives Cash Assistance,2011,Number,7312,403
+Elmhurst/Corona,Receives Cash Assistance,2011,Number,6515,404
+Ridgewood/Glendale,Receives Cash Assistance,2011,Number,5798,405
+Rego Park/Forest Hills,Receives Cash Assistance,2011,Number,1715,406
+Flushing,Receives Cash Assistance,2011,Number,5192,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2011,Number,5752,408
+Woodhaven,Receives Cash Assistance,2011,Number,7642,409
+Howard Beach,Receives Cash Assistance,2011,Number,4519,410
+Bayside,Receives Cash Assistance,2011,Number,1228,411
+Jamaica/St. Albans,Receives Cash Assistance,2011,Number,22155,412
+Queens Village,Receives Cash Assistance,2011,Number,9171,413
+The Rockaways,Receives Cash Assistance,2011,Number,14294,414
+St. George,Receives Cash Assistance,2011,Number,12573,501
+South Beach,Receives Cash Assistance,2011,Number,2244,502
+Tottenville,Receives Cash Assistance,2011,Number,909,503
+Bronx,Receives Cash Assistance,2011,Number,109266,36005
+Brooklyn,Receives Cash Assistance,2011,Number,115031,36047
+Manhattan,Receives Cash Assistance,2011,Number,57847,36061
+Queens,Receives Cash Assistance,2011,Number,102009,36081
+Staten Island,Receives Cash Assistance,2011,Number,15726,36085
+New York City,Receives Cash Assistance,2011,Number,399878,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2001,Percent,0.59449,101
+Battery Park/Tribeca,Receives Cash Assistance,2002,Percent,0.55014,101
+Greenwich Village,Receives Cash Assistance,2001,Percent,0.40891,102
+Greenwich Village,Receives Cash Assistance,2002,Percent,0.31944,102
+Lower East Side,Receives Cash Assistance,2001,Percent,0.50824,103
+Lower East Side,Receives Cash Assistance,2002,Percent,0.39408,103
+Chelsea/Clinton,Receives Cash Assistance,2001,Percent,0.47738,104
+Chelsea/Clinton,Receives Cash Assistance,2002,Percent,0.43871,104
+Midtown Business District,Receives Cash Assistance,2001,Percent,0.63974,105
+Midtown Business District,Receives Cash Assistance,2002,Percent,0.62099,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2001,Percent,0.49432,106
+Murray Hill/Stuyvesant,Receives Cash Assistance,2002,Percent,0.42203,106
+Upper West Side,Receives Cash Assistance,2001,Percent,0.53713,107
+Upper West Side,Receives Cash Assistance,2002,Percent,0.49773,107
+Upper East Side,Receives Cash Assistance,2001,Percent,0.38372,108
+Upper East Side,Receives Cash Assistance,2002,Percent,0.31811,108
+Manhattanville,Receives Cash Assistance,2001,Percent,0.59281,109
+Manhattanville,Receives Cash Assistance,2002,Percent,0.51879,109
+Central Harlem,Receives Cash Assistance,2001,Percent,0.67343,110
+Central Harlem,Receives Cash Assistance,2002,Percent,0.59555,110
+East Harlem,Receives Cash Assistance,2001,Percent,0.75666,111
+East Harlem,Receives Cash Assistance,2002,Percent,0.59678,111
+Washington Heights,Receives Cash Assistance,2001,Percent,0.44986,112
+Washington Heights,Receives Cash Assistance,2002,Percent,0.39361,112
+Mott Haven,Receives Cash Assistance,2001,Percent,0.73388,201
+Mott Haven,Receives Cash Assistance,2002,Percent,0.68512,201
+Hunts Point,Receives Cash Assistance,2001,Percent,0.72375,202
+Hunts Point,Receives Cash Assistance,2002,Percent,0.67328,202
+Morrisania,Receives Cash Assistance,2001,Percent,0.737,203
+Morrisania,Receives Cash Assistance,2002,Percent,0.679,203
+Concourse/Highbridge,Receives Cash Assistance,2001,Percent,0.72042,204
+Concourse/Highbridge,Receives Cash Assistance,2002,Percent,0.67199,204
+University Heights,Receives Cash Assistance,2001,Percent,0.73017,205
+University Heights,Receives Cash Assistance,2002,Percent,0.70364,205
+East Tremont,Receives Cash Assistance,2001,Percent,0.75004,206
+East Tremont,Receives Cash Assistance,2002,Percent,0.71318,206
+Bedford Park,Receives Cash Assistance,2001,Percent,0.71275,207
+Bedford Park,Receives Cash Assistance,2002,Percent,0.6629,207
+Riverdale,Receives Cash Assistance,2001,Percent,0.57938,208
+Riverdale,Receives Cash Assistance,2002,Percent,0.53215,208
+Unionport/Soundview,Receives Cash Assistance,2001,Percent,0.79048,209
+Unionport/Soundview,Receives Cash Assistance,2002,Percent,0.62009,209
+Throgs Neck,Receives Cash Assistance,2001,Percent,0.56426,210
+Throgs Neck,Receives Cash Assistance,2002,Percent,0.44867,210
+Pelham Parkway,Receives Cash Assistance,2001,Percent,0.62483,211
+Pelham Parkway,Receives Cash Assistance,2002,Percent,0.52273,211
+Williamsbridge,Receives Cash Assistance,2001,Percent,0.75952,212
+Williamsbridge,Receives Cash Assistance,2002,Percent,0.65351,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2001,Percent,0.3081,301
+Williamsburg/Greenpoint,Receives Cash Assistance,2002,Percent,0.26695,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2001,Percent,0.60762,302
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2002,Percent,0.5664,302
+Bedford Stuyvesant,Receives Cash Assistance,2001,Percent,0.67386,303
+Bedford Stuyvesant,Receives Cash Assistance,2002,Percent,0.61892,303
+Bushwick,Receives Cash Assistance,2001,Percent,0.62528,304
+Bushwick,Receives Cash Assistance,2002,Percent,0.57229,304
+East New York,Receives Cash Assistance,2001,Percent,0.64203,305
+East New York,Receives Cash Assistance,2002,Percent,0.59593,305
+Park Slope,Receives Cash Assistance,2001,Percent,0.5527,306
+Park Slope,Receives Cash Assistance,2002,Percent,0.49006,306
+Sunset Park,Receives Cash Assistance,2001,Percent,0.47236,307
+Sunset Park,Receives Cash Assistance,2002,Percent,0.39919,307
+Crown Heights North,Receives Cash Assistance,2001,Percent,0.65755,308
+Crown Heights North,Receives Cash Assistance,2002,Percent,0.60725,308
+Crown Heights South,Receives Cash Assistance,2001,Percent,0.50193,309
+Crown Heights South,Receives Cash Assistance,2002,Percent,0.27872,309
+Bay Ridge,Receives Cash Assistance,2001,Percent,0.34616,310
+Bay Ridge,Receives Cash Assistance,2002,Percent,0.28381,310
+Bensonhurst,Receives Cash Assistance,2001,Percent,0.23259,311
+Bensonhurst,Receives Cash Assistance,2002,Percent,0.19368,311
+Borough Park,Receives Cash Assistance,2001,Percent,0.21903,312
+Borough Park,Receives Cash Assistance,2002,Percent,0.1811,312
+Coney Island,Receives Cash Assistance,2001,Percent,0.33993,313
+Coney Island,Receives Cash Assistance,2002,Percent,0.29426,313
+Flatbush/Midwood,Receives Cash Assistance,2001,Percent,0.44476,314
+Flatbush/Midwood,Receives Cash Assistance,2002,Percent,0.41929,314
+Sheepshead Bay,Receives Cash Assistance,2001,Percent,0.26857,315
+Sheepshead Bay,Receives Cash Assistance,2002,Percent,0.23326,315
+Brownsville,Receives Cash Assistance,2001,Percent,0.72896,316
+Brownsville,Receives Cash Assistance,2002,Percent,0.66327,316
+East Flatbush,Receives Cash Assistance,2001,Percent,0.59847,317
+East Flatbush,Receives Cash Assistance,2002,Percent,0.55475,317
+Canarsie,Receives Cash Assistance,2001,Percent,0.48119,318
+Canarsie,Receives Cash Assistance,2002,Percent,0.44289,318
+Astoria,Receives Cash Assistance,2001,Percent,0.47886,401
+Astoria,Receives Cash Assistance,2002,Percent,0.45429,401
+Sunnyside/Woodside,Receives Cash Assistance,2001,Percent,0.32096,402
+Sunnyside/Woodside,Receives Cash Assistance,2002,Percent,0.28901,402
+Jackson Heights,Receives Cash Assistance,2001,Percent,0.39385,403
+Jackson Heights,Receives Cash Assistance,2002,Percent,0.36039,403
+Elmhurst/Corona,Receives Cash Assistance,2001,Percent,0.37651,404
+Elmhurst/Corona,Receives Cash Assistance,2002,Percent,0.34082,404
+Ridgewood/Glendale,Receives Cash Assistance,2001,Percent,0.46095,405
+Ridgewood/Glendale,Receives Cash Assistance,2002,Percent,0.40124,405
+Rego Park/Forest Hills,Receives Cash Assistance,2001,Percent,0.30328,406
+Rego Park/Forest Hills,Receives Cash Assistance,2002,Percent,0.271,406
+Flushing,Receives Cash Assistance,2001,Percent,0.26705,407
+Flushing,Receives Cash Assistance,2002,Percent,0.23656,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2001,Percent,0.49128,408
+Fresh Meadows/Briarwood,Receives Cash Assistance,2002,Percent,0.48235,408
+Woodhaven,Receives Cash Assistance,2001,Percent,0.46409,409
+Woodhaven,Receives Cash Assistance,2002,Percent,0.41052,409
+Howard Beach,Receives Cash Assistance,2001,Percent,0.46389,410
+Howard Beach,Receives Cash Assistance,2002,Percent,0.43807,410
+Bayside,Receives Cash Assistance,2001,Percent,0.22174,411
+Bayside,Receives Cash Assistance,2002,Percent,0.19279,411
+Jamaica/St. Albans,Receives Cash Assistance,2001,Percent,0.56959,412
+Jamaica/St. Albans,Receives Cash Assistance,2002,Percent,0.54447,412
+Queens Village,Receives Cash Assistance,2001,Percent,0.52286,413
+Queens Village,Receives Cash Assistance,2002,Percent,0.48426,413
+The Rockaways,Receives Cash Assistance,2001,Percent,0.52689,414
+The Rockaways,Receives Cash Assistance,2002,Percent,0.48998,414
+St. George,Receives Cash Assistance,2001,Percent,0.76962,501
+St. George,Receives Cash Assistance,2002,Percent,0.57179,501
+South Beach,Receives Cash Assistance,2001,Percent,0.52618,502
+South Beach,Receives Cash Assistance,2002,Percent,0.35979,502
+Tottenville,Receives Cash Assistance,2001,Percent,0.38518,503
+Tottenville,Receives Cash Assistance,2002,Percent,0.26318,503
+Bronx,Receives Cash Assistance,2001,Percent,0.72472,36005
+Bronx,Receives Cash Assistance,2002,Percent,0.65775,36005
+Brooklyn,Receives Cash Assistance,2001,Percent,0.47654,36047
+Brooklyn,Receives Cash Assistance,2002,Percent,0.43031,36047
+Manhattan,Receives Cash Assistance,2001,Percent,0.56395,36061
+Manhattan,Receives Cash Assistance,2002,Percent,0.48201,36061
+Queens,Receives Cash Assistance,2001,Percent,0.44667,36081
+Queens,Receives Cash Assistance,2002,Percent,0.41302,36081
+Staten Island,Receives Cash Assistance,2001,Percent,0.67734,36085
+Staten Island,Receives Cash Assistance,2002,Percent,0.20385,36085
+New York City,Receives Cash Assistance,2001,Percent,0.55449,3651000
+New York City,Receives Cash Assistance,2002,Percent,0.49724,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2005,Percent,0.47269,101
+Greenwich Village,Receives Cash Assistance,2005,Percent,0.20993,102
+Lower East Side,Receives Cash Assistance,2005,Percent,0.29545,103
+Chelsea/Clinton,Receives Cash Assistance,2005,Percent,0.39092,104
+Midtown Business District,Receives Cash Assistance,2005,Percent,0.51526,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2005,Percent,0.32402,106
+Upper West Side,Receives Cash Assistance,2005,Percent,0.40505,107
+Upper East Side,Receives Cash Assistance,2005,Percent,0.27683,108
+Manhattanville,Receives Cash Assistance,2005,Percent,0.44398,109
+Central Harlem,Receives Cash Assistance,2005,Percent,0.48934,110
+East Harlem,Receives Cash Assistance,2005,Percent,0.49077,111
+Washington Heights,Receives Cash Assistance,2005,Percent,0.32344,112
+Mott Haven,Receives Cash Assistance,2005,Percent,0.56295,201
+Hunts Point,Receives Cash Assistance,2005,Percent,0.54389,202
+Morrisania,Receives Cash Assistance,2005,Percent,0.57054,203
+Concourse/Highbridge,Receives Cash Assistance,2005,Percent,0.53704,204
+University Heights,Receives Cash Assistance,2005,Percent,0.56872,205
+East Tremont,Receives Cash Assistance,2005,Percent,0.62074,206
+Bedford Park,Receives Cash Assistance,2005,Percent,0.54733,207
+Riverdale,Receives Cash Assistance,2005,Percent,0.43437,208
+Unionport/Soundview,Receives Cash Assistance,2005,Percent,0.53645,209
+Throgs Neck,Receives Cash Assistance,2005,Percent,0.40416,210
+Pelham Parkway,Receives Cash Assistance,2005,Percent,0.47001,211
+Williamsbridge,Receives Cash Assistance,2005,Percent,0.59794,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2005,Percent,0.21,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2005,Percent,0.45607,302
+Bedford Stuyvesant,Receives Cash Assistance,2005,Percent,0.51198,303
+Bushwick,Receives Cash Assistance,2005,Percent,0.44984,304
+East New York,Receives Cash Assistance,2005,Percent,0.47947,305
+Park Slope,Receives Cash Assistance,2005,Percent,0.40524,306
+Sunset Park,Receives Cash Assistance,2005,Percent,0.28079,307
+Crown Heights North,Receives Cash Assistance,2005,Percent,0.54137,308
+Crown Heights South,Receives Cash Assistance,2005,Percent,0.40026,309
+Bay Ridge,Receives Cash Assistance,2005,Percent,0.21198,310
+Bensonhurst,Receives Cash Assistance,2005,Percent,0.15299,311
+Borough Park,Receives Cash Assistance,2005,Percent,0.14056,312
+Coney Island,Receives Cash Assistance,2005,Percent,0.24332,313
+Flatbush/Midwood,Receives Cash Assistance,2005,Percent,0.35748,314
+Sheepshead Bay,Receives Cash Assistance,2005,Percent,0.18637,315
+Brownsville,Receives Cash Assistance,2005,Percent,0.57677,316
+East Flatbush,Receives Cash Assistance,2005,Percent,0.45528,317
+Canarsie,Receives Cash Assistance,2005,Percent,0.37776,318
+Astoria,Receives Cash Assistance,2005,Percent,0.35596,401
+Sunnyside/Woodside,Receives Cash Assistance,2005,Percent,0.24858,402
+Jackson Heights,Receives Cash Assistance,2005,Percent,0.26221,403
+Elmhurst/Corona,Receives Cash Assistance,2005,Percent,0.23977,404
+Ridgewood/Glendale,Receives Cash Assistance,2005,Percent,0.30367,405
+Rego Park/Forest Hills,Receives Cash Assistance,2005,Percent,0.20089,406
+Flushing,Receives Cash Assistance,2005,Percent,0.20615,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2005,Percent,0.36545,408
+Woodhaven,Receives Cash Assistance,2005,Percent,0.34281,409
+Howard Beach,Receives Cash Assistance,2005,Percent,0.35428,410
+Bayside,Receives Cash Assistance,2005,Percent,0.17733,411
+Jamaica/St. Albans,Receives Cash Assistance,2005,Percent,0.45525,412
+Queens Village,Receives Cash Assistance,2005,Percent,0.42884,413
+The Rockaways,Receives Cash Assistance,2005,Percent,0.42762,414
+St. George,Receives Cash Assistance,2005,Percent,0.51345,501
+South Beach,Receives Cash Assistance,2005,Percent,0.28994,502
+Tottenville,Receives Cash Assistance,2005,Percent,0.20615,503
+Bronx,Receives Cash Assistance,2005,Percent,0.54953,36005
+Brooklyn,Receives Cash Assistance,2005,Percent,0.35903,36047
+Manhattan,Receives Cash Assistance,2005,Percent,0.39487,36061
+Queens,Receives Cash Assistance,2005,Percent,0.33258,36081
+Staten Island,Receives Cash Assistance,2005,Percent,0.42658,36085
+New York City,Receives Cash Assistance,2005,Percent,0.41452,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2006,Percent,0.44494,101
+Greenwich Village,Receives Cash Assistance,2006,Percent,0.13521,102
+Lower East Side,Receives Cash Assistance,2006,Percent,0.26433,103
+Chelsea/Clinton,Receives Cash Assistance,2006,Percent,0.33263,104
+Midtown Business District,Receives Cash Assistance,2006,Percent,0.50148,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2006,Percent,0.26048,106
+Upper West Side,Receives Cash Assistance,2006,Percent,0.37416,107
+Upper East Side,Receives Cash Assistance,2006,Percent,0.24798,108
+Manhattanville,Receives Cash Assistance,2006,Percent,0.41204,109
+Central Harlem,Receives Cash Assistance,2006,Percent,0.44569,110
+East Harlem,Receives Cash Assistance,2006,Percent,0.46292,111
+Washington Heights,Receives Cash Assistance,2006,Percent,0.29502,112
+Mott Haven,Receives Cash Assistance,2006,Percent,0.51601,201
+Hunts Point,Receives Cash Assistance,2006,Percent,0.49695,202
+Morrisania,Receives Cash Assistance,2006,Percent,0.53362,203
+Concourse/Highbridge,Receives Cash Assistance,2006,Percent,0.50853,204
+University Heights,Receives Cash Assistance,2006,Percent,0.53866,205
+East Tremont,Receives Cash Assistance,2006,Percent,0.59183,206
+Bedford Park,Receives Cash Assistance,2006,Percent,0.51543,207
+Riverdale,Receives Cash Assistance,2006,Percent,0.38354,208
+Unionport/Soundview,Receives Cash Assistance,2006,Percent,0.50281,209
+Throgs Neck,Receives Cash Assistance,2006,Percent,0.35952,210
+Pelham Parkway,Receives Cash Assistance,2006,Percent,0.44112,211
+Williamsbridge,Receives Cash Assistance,2006,Percent,0.57476,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2006,Percent,0.18304,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2006,Percent,0.41726,302
+Bedford Stuyvesant,Receives Cash Assistance,2006,Percent,0.47048,303
+Bushwick,Receives Cash Assistance,2006,Percent,0.41537,304
+East New York,Receives Cash Assistance,2006,Percent,0.44205,305
+Park Slope,Receives Cash Assistance,2006,Percent,0.36295,306
+Sunset Park,Receives Cash Assistance,2006,Percent,0.25409,307
+Crown Heights North,Receives Cash Assistance,2006,Percent,0.49385,308
+Crown Heights South,Receives Cash Assistance,2006,Percent,0.35879,309
+Bay Ridge,Receives Cash Assistance,2006,Percent,0.19419,310
+Bensonhurst,Receives Cash Assistance,2006,Percent,0.13586,311
+Borough Park,Receives Cash Assistance,2006,Percent,0.11929,312
+Coney Island,Receives Cash Assistance,2006,Percent,0.21598,313
+Flatbush/Midwood,Receives Cash Assistance,2006,Percent,0.32397,314
+Sheepshead Bay,Receives Cash Assistance,2006,Percent,0.16545,315
+Brownsville,Receives Cash Assistance,2006,Percent,0.52747,316
+East Flatbush,Receives Cash Assistance,2006,Percent,0.42525,317
+Canarsie,Receives Cash Assistance,2006,Percent,0.34663,318
+Astoria,Receives Cash Assistance,2006,Percent,0.30611,401
+Sunnyside/Woodside,Receives Cash Assistance,2006,Percent,0.21455,402
+Jackson Heights,Receives Cash Assistance,2006,Percent,0.2289,403
+Elmhurst/Corona,Receives Cash Assistance,2006,Percent,0.20812,404
+Ridgewood/Glendale,Receives Cash Assistance,2006,Percent,0.26987,405
+Rego Park/Forest Hills,Receives Cash Assistance,2006,Percent,0.15869,406
+Flushing,Receives Cash Assistance,2006,Percent,0.1854,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2006,Percent,0.33835,408
+Woodhaven,Receives Cash Assistance,2006,Percent,0.32694,409
+Howard Beach,Receives Cash Assistance,2006,Percent,0.3352,410
+Bayside,Receives Cash Assistance,2006,Percent,0.15942,411
+Jamaica/St. Albans,Receives Cash Assistance,2006,Percent,0.43077,412
+Queens Village,Receives Cash Assistance,2006,Percent,0.41632,413
+The Rockaways,Receives Cash Assistance,2006,Percent,0.41852,414
+St. George,Receives Cash Assistance,2006,Percent,0.47954,501
+South Beach,Receives Cash Assistance,2006,Percent,0.26688,502
+Tottenville,Receives Cash Assistance,2006,Percent,0.19315,503
+Bronx,Receives Cash Assistance,2006,Percent,0.38134,36005
+Brooklyn,Receives Cash Assistance,2006,Percent,0.38134,36047
+Manhattan,Receives Cash Assistance,2006,Percent,0.38134,36061
+Queens,Receives Cash Assistance,2006,Percent,0.38134,36081
+Staten Island,Receives Cash Assistance,2006,Percent,0.38134,36085
+New York City,Receives Cash Assistance,2006,Percent,0.38134,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2007,Percent,0.43696,101
+Greenwich Village,Receives Cash Assistance,2007,Percent,0.12615,102
+Lower East Side,Receives Cash Assistance,2007,Percent,0.2564,103
+Chelsea/Clinton,Receives Cash Assistance,2007,Percent,0.31228,104
+Midtown Business District,Receives Cash Assistance,2007,Percent,0.47546,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2007,Percent,0.26745,106
+Upper West Side,Receives Cash Assistance,2007,Percent,0.37343,107
+Upper East Side,Receives Cash Assistance,2007,Percent,0.23393,108
+Manhattanville,Receives Cash Assistance,2007,Percent,0.39694,109
+Central Harlem,Receives Cash Assistance,2007,Percent,0.43389,110
+East Harlem,Receives Cash Assistance,2007,Percent,0.44977,111
+Washington Heights,Receives Cash Assistance,2007,Percent,0.26961,112
+Mott Haven,Receives Cash Assistance,2007,Percent,0.34058,201
+Hunts Point,Receives Cash Assistance,2007,Percent,0.34305,202
+Morrisania,Receives Cash Assistance,2007,Percent,0.35863,203
+Concourse/Highbridge,Receives Cash Assistance,2007,Percent,0.34334,204
+University Heights,Receives Cash Assistance,2007,Percent,0.36969,205
+East Tremont,Receives Cash Assistance,2007,Percent,0.42119,206
+Bedford Park,Receives Cash Assistance,2007,Percent,0.33802,207
+Riverdale,Receives Cash Assistance,2007,Percent,0.22237,208
+Unionport/Soundview,Receives Cash Assistance,2007,Percent,0.33435,209
+Throgs Neck,Receives Cash Assistance,2007,Percent,0.22984,210
+Pelham Parkway,Receives Cash Assistance,2007,Percent,0.29137,211
+Williamsbridge,Receives Cash Assistance,2007,Percent,0.38076,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2007,Percent,0.18568,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2007,Percent,0.41871,302
+Bedford Stuyvesant,Receives Cash Assistance,2007,Percent,0.48607,303
+Bushwick,Receives Cash Assistance,2007,Percent,0.43515,304
+East New York,Receives Cash Assistance,2007,Percent,0.46204,305
+Park Slope,Receives Cash Assistance,2007,Percent,0.38055,306
+Sunset Park,Receives Cash Assistance,2007,Percent,0.25949,307
+Crown Heights North,Receives Cash Assistance,2007,Percent,0.51481,308
+Crown Heights South,Receives Cash Assistance,2007,Percent,0.38686,309
+Bay Ridge,Receives Cash Assistance,2007,Percent,0.21232,310
+Bensonhurst,Receives Cash Assistance,2007,Percent,0.16062,311
+Borough Park,Receives Cash Assistance,2007,Percent,0.12744,312
+Coney Island,Receives Cash Assistance,2007,Percent,0.23491,313
+Flatbush/Midwood,Receives Cash Assistance,2007,Percent,0.33882,314
+Sheepshead Bay,Receives Cash Assistance,2007,Percent,0.18071,315
+Brownsville,Receives Cash Assistance,2007,Percent,0.54904,316
+East Flatbush,Receives Cash Assistance,2007,Percent,0.44881,317
+Canarsie,Receives Cash Assistance,2007,Percent,0.36296,318
+Astoria,Receives Cash Assistance,2007,Percent,0.3368,401
+Sunnyside/Woodside,Receives Cash Assistance,2007,Percent,0.24221,402
+Jackson Heights,Receives Cash Assistance,2007,Percent,0.26868,403
+Elmhurst/Corona,Receives Cash Assistance,2007,Percent,0.22865,404
+Ridgewood/Glendale,Receives Cash Assistance,2007,Percent,0.30112,405
+Rego Park/Forest Hills,Receives Cash Assistance,2007,Percent,0.17608,406
+Flushing,Receives Cash Assistance,2007,Percent,0.2233,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2007,Percent,0.37512,408
+Woodhaven,Receives Cash Assistance,2007,Percent,0.364,409
+Howard Beach,Receives Cash Assistance,2007,Percent,0.36564,410
+Bayside,Receives Cash Assistance,2007,Percent,0.21842,411
+Jamaica/St. Albans,Receives Cash Assistance,2007,Percent,0.47576,412
+Queens Village,Receives Cash Assistance,2007,Percent,0.46631,413
+The Rockaways,Receives Cash Assistance,2007,Percent,0.48313,414
+St. George,Receives Cash Assistance,2007,Percent,0.41956,501
+South Beach,Receives Cash Assistance,2007,Percent,0.22894,502
+Tottenville,Receives Cash Assistance,2007,Percent,0.17028,503
+Bronx,Receives Cash Assistance,2007,Percent,0.34524,36005
+Brooklyn,Receives Cash Assistance,2007,Percent,0.34524,36047
+Manhattan,Receives Cash Assistance,2007,Percent,0.34524,36061
+Queens,Receives Cash Assistance,2007,Percent,0.34524,36081
+Staten Island,Receives Cash Assistance,2007,Percent,0.34524,36085
+New York City,Receives Cash Assistance,2007,Percent,0.34524,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2009,Percent,0.31031,101
+Greenwich Village,Receives Cash Assistance,2009,Percent,0.08807,102
+Lower East Side,Receives Cash Assistance,2009,Percent,0.17421,103
+Chelsea/Clinton,Receives Cash Assistance,2009,Percent,0.20017,104
+Midtown Business District,Receives Cash Assistance,2009,Percent,0.38977,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2009,Percent,0.19274,106
+Upper West Side,Receives Cash Assistance,2009,Percent,0.26347,107
+Upper East Side,Receives Cash Assistance,2009,Percent,0.14791,108
+Manhattanville,Receives Cash Assistance,2009,Percent,0.25522,109
+Central Harlem,Receives Cash Assistance,2009,Percent,0.27938,110
+East Harlem,Receives Cash Assistance,2009,Percent,0.27869,111
+Washington Heights,Receives Cash Assistance,2009,Percent,0.16348,112
+Mott Haven,Receives Cash Assistance,2009,Percent,0.29553,201
+Hunts Point,Receives Cash Assistance,2009,Percent,0.33204,202
+Morrisania,Receives Cash Assistance,2009,Percent,0.32136,203
+Concourse/Highbridge,Receives Cash Assistance,2009,Percent,0.31655,204
+University Heights,Receives Cash Assistance,2009,Percent,0.3342,205
+East Tremont,Receives Cash Assistance,2009,Percent,0.37151,206
+Bedford Park,Receives Cash Assistance,2009,Percent,0.2947,207
+Riverdale,Receives Cash Assistance,2009,Percent,0.19437,208
+Unionport/Soundview,Receives Cash Assistance,2009,Percent,0.28763,209
+Throgs Neck,Receives Cash Assistance,2009,Percent,0.21251,210
+Pelham Parkway,Receives Cash Assistance,2009,Percent,0.24643,211
+Williamsbridge,Receives Cash Assistance,2009,Percent,0.32675,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2009,Percent,0.11117,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2009,Percent,0.22459,302
+Bedford Stuyvesant,Receives Cash Assistance,2009,Percent,0.28482,303
+Bushwick,Receives Cash Assistance,2009,Percent,0.24237,304
+East New York,Receives Cash Assistance,2009,Percent,0.2666,305
+Park Slope,Receives Cash Assistance,2009,Percent,0.18785,306
+Sunset Park,Receives Cash Assistance,2009,Percent,0.14,307
+Crown Heights North,Receives Cash Assistance,2009,Percent,0.30824,308
+Crown Heights South,Receives Cash Assistance,2009,Percent,0.21821,309
+Bay Ridge,Receives Cash Assistance,2009,Percent,0.11977,310
+Bensonhurst,Receives Cash Assistance,2009,Percent,0.0908,311
+Borough Park,Receives Cash Assistance,2009,Percent,0.07248,312
+Coney Island,Receives Cash Assistance,2009,Percent,0.13943,313
+Flatbush/Midwood,Receives Cash Assistance,2009,Percent,0.19168,314
+Sheepshead Bay,Receives Cash Assistance,2009,Percent,0.10554,315
+Brownsville,Receives Cash Assistance,2009,Percent,0.3524,316
+East Flatbush,Receives Cash Assistance,2009,Percent,0.25132,317
+Canarsie,Receives Cash Assistance,2009,Percent,0.19487,318
+Astoria,Receives Cash Assistance,2009,Percent,0.32539,401
+Sunnyside/Woodside,Receives Cash Assistance,2009,Percent,0.24452,402
+Jackson Heights,Receives Cash Assistance,2009,Percent,0.2477,403
+Elmhurst/Corona,Receives Cash Assistance,2009,Percent,0.22419,404
+Ridgewood/Glendale,Receives Cash Assistance,2009,Percent,0.27388,405
+Rego Park/Forest Hills,Receives Cash Assistance,2009,Percent,0.17639,406
+Flushing,Receives Cash Assistance,2009,Percent,0.21798,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2009,Percent,0.35803,408
+Woodhaven,Receives Cash Assistance,2009,Percent,0.32239,409
+Howard Beach,Receives Cash Assistance,2009,Percent,0.3416,410
+Bayside,Receives Cash Assistance,2009,Percent,0.21182,411
+Jamaica/St. Albans,Receives Cash Assistance,2009,Percent,0.43909,412
+Queens Village,Receives Cash Assistance,2009,Percent,0.41644,413
+The Rockaways,Receives Cash Assistance,2009,Percent,0.4657,414
+St. George,Receives Cash Assistance,2009,Percent,0.32826,501
+South Beach,Receives Cash Assistance,2009,Percent,0.16863,502
+Tottenville,Receives Cash Assistance,2009,Percent,0.10872,503
+Bronx,Receives Cash Assistance,2009,Percent,0.30637,36005
+Brooklyn,Receives Cash Assistance,2009,Percent,0.1976,36047
+Manhattan,Receives Cash Assistance,2009,Percent,0.22244,36061
+Queens,Receives Cash Assistance,2009,Percent,0.33033,36081
+Staten Island,Receives Cash Assistance,2009,Percent,0.26066,36085
+New York City,Receives Cash Assistance,2009,Percent,0.25433,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2011,Percent,0.27466,101
+Greenwich Village,Receives Cash Assistance,2011,Percent,0.09117,102
+Lower East Side,Receives Cash Assistance,2011,Percent,0.14774,103
+Chelsea/Clinton,Receives Cash Assistance,2011,Percent,0.18961,104
+Midtown Business District,Receives Cash Assistance,2011,Percent,0.32397,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2011,Percent,0.16542,106
+Upper West Side,Receives Cash Assistance,2011,Percent,0.20908,107
+Upper East Side,Receives Cash Assistance,2011,Percent,0.12427,108
+Manhattanville,Receives Cash Assistance,2011,Percent,0.21672,109
+Central Harlem,Receives Cash Assistance,2011,Percent,0.25541,110
+East Harlem,Receives Cash Assistance,2011,Percent,0.23936,111
+Washington Heights,Receives Cash Assistance,2011,Percent,0.26561,112
+Mott Haven,Receives Cash Assistance,2011,Percent,0.22027,201
+Hunts Point,Receives Cash Assistance,2011,Percent,0.25516,202
+Morrisania,Receives Cash Assistance,2011,Percent,0.23174,203
+Concourse/Highbridge,Receives Cash Assistance,2011,Percent,0.22094,204
+University Heights,Receives Cash Assistance,2011,Percent,0.23413,205
+East Tremont,Receives Cash Assistance,2011,Percent,0.29539,206
+Bedford Park,Receives Cash Assistance,2011,Percent,0.2133,207
+Riverdale,Receives Cash Assistance,2011,Percent,0.14178,208
+Unionport/Soundview,Receives Cash Assistance,2011,Percent,0.20683,209
+Throgs Neck,Receives Cash Assistance,2011,Percent,0.14942,210
+Pelham Parkway,Receives Cash Assistance,2011,Percent,0.17855,211
+Williamsbridge,Receives Cash Assistance,2011,Percent,0.24106,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2011,Percent,0.09333,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2011,Percent,0.2037,302
+Bedford Stuyvesant,Receives Cash Assistance,2011,Percent,0.24717,303
+Bushwick,Receives Cash Assistance,2011,Percent,0.2097,304
+East New York,Receives Cash Assistance,2011,Percent,0.22555,305
+Park Slope,Receives Cash Assistance,2011,Percent,0.15125,306
+Sunset Park,Receives Cash Assistance,2011,Percent,0.10967,307
+Crown Heights North,Receives Cash Assistance,2011,Percent,0.26256,308
+Crown Heights South,Receives Cash Assistance,2011,Percent,0.17692,309
+Bay Ridge,Receives Cash Assistance,2011,Percent,0.09506,310
+Bensonhurst,Receives Cash Assistance,2011,Percent,0.07736,311
+Borough Park,Receives Cash Assistance,2011,Percent,0.09097,312
+Coney Island,Receives Cash Assistance,2011,Percent,0.12301,313
+Flatbush/Midwood,Receives Cash Assistance,2011,Percent,0.16063,314
+Sheepshead Bay,Receives Cash Assistance,2011,Percent,0.08845,315
+Brownsville,Receives Cash Assistance,2011,Percent,0.30035,316
+East Flatbush,Receives Cash Assistance,2011,Percent,0.21496,317
+Canarsie,Receives Cash Assistance,2011,Percent,0.15402,318
+Astoria,Receives Cash Assistance,2011,Percent,0.34322,401
+Sunnyside/Woodside,Receives Cash Assistance,2011,Percent,0.27461,402
+Jackson Heights,Receives Cash Assistance,2011,Percent,0.2742,403
+Elmhurst/Corona,Receives Cash Assistance,2011,Percent,0.2515,404
+Ridgewood/Glendale,Receives Cash Assistance,2011,Percent,0.29778,405
+Rego Park/Forest Hills,Receives Cash Assistance,2011,Percent,0.20162,406
+Flushing,Receives Cash Assistance,2011,Percent,0.24852,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2011,Percent,0.37965,408
+Woodhaven,Receives Cash Assistance,2011,Percent,0.3494,409
+Howard Beach,Receives Cash Assistance,2011,Percent,0.31979,410
+Bayside,Receives Cash Assistance,2011,Percent,0.26511,411
+Jamaica/St. Albans,Receives Cash Assistance,2011,Percent,0.47708,412
+Queens Village,Receives Cash Assistance,2011,Percent,0.46445,413
+The Rockaways,Receives Cash Assistance,2011,Percent,0.49826,414
+St. George,Receives Cash Assistance,2011,Percent,0.28585,501
+South Beach,Receives Cash Assistance,2011,Percent,0.14034,502
+Tottenville,Receives Cash Assistance,2011,Percent,0.07904,503
+Bronx,Receives Cash Assistance,2011,Percent,0.22257,36005
+Brooklyn,Receives Cash Assistance,2011,Percent,0.16724,36047
+Manhattan,Receives Cash Assistance,2011,Percent,0.19488,36061
+Queens,Receives Cash Assistance,2011,Percent,0.35716,36081
+Staten Island,Receives Cash Assistance,2011,Percent,0.22002,36085
+New York City,Receives Cash Assistance,2011,Percent,0.2182,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2001,Number,412,101
+Battery Park/Tribeca,Does not receive Cash Assistance,2002,Number,489,101
+Greenwich Village,Does not receive Cash Assistance,2001,Number,1460,102
+Greenwich Village,Does not receive Cash Assistance,2002,Number,1813,102
+Lower East Side,Does not receive Cash Assistance,2001,Number,7043,103
+Lower East Side,Does not receive Cash Assistance,2002,Number,10423,103
+Chelsea/Clinton,Does not receive Cash Assistance,2001,Number,2796,104
+Chelsea/Clinton,Does not receive Cash Assistance,2002,Number,3329,104
+Midtown Business District,Does not receive Cash Assistance,2001,Number,843,105
+Midtown Business District,Does not receive Cash Assistance,2002,Number,921,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2001,Number,934,106
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2002,Number,1186,106
+Upper West Side,Does not receive Cash Assistance,2001,Number,4638,107
+Upper West Side,Does not receive Cash Assistance,2002,Number,5077,107
+Upper East Side,Does not receive Cash Assistance,2001,Number,1370,108
+Upper East Side,Does not receive Cash Assistance,2002,Number,1702,108
+Manhattanville,Does not receive Cash Assistance,2001,Number,6732,109
+Manhattanville,Does not receive Cash Assistance,2002,Number,7851,109
+Central Harlem,Does not receive Cash Assistance,2001,Number,6586,110
+Central Harlem,Does not receive Cash Assistance,2002,Number,7922,110
+East Harlem,Does not receive Cash Assistance,2001,Number,4802,111
+East Harlem,Does not receive Cash Assistance,2002,Number,9062,111
+Washington Heights,Does not receive Cash Assistance,2001,Number,20512,112
+Washington Heights,Does not receive Cash Assistance,2002,Number,22217,112
+Mott Haven,Does not receive Cash Assistance,2001,Number,5665,201
+Mott Haven,Does not receive Cash Assistance,2002,Number,6757,201
+Hunts Point,Does not receive Cash Assistance,2001,Number,3189,202
+Hunts Point,Does not receive Cash Assistance,2002,Number,3886,202
+Morrisania,Does not receive Cash Assistance,2001,Number,4836,203
+Morrisania,Does not receive Cash Assistance,2002,Number,5969,203
+Concourse/Highbridge,Does not receive Cash Assistance,2001,Number,8597,204
+Concourse/Highbridge,Does not receive Cash Assistance,2002,Number,10177,204
+University Heights,Does not receive Cash Assistance,2001,Number,8343,205
+University Heights,Does not receive Cash Assistance,2002,Number,9251,205
+East Tremont,Does not receive Cash Assistance,2001,Number,4962,206
+East Tremont,Does not receive Cash Assistance,2002,Number,5645,206
+Bedford Park,Does not receive Cash Assistance,2001,Number,6948,207
+Bedford Park,Does not receive Cash Assistance,2002,Number,8073,207
+Riverdale,Does not receive Cash Assistance,2001,Number,2893,208
+Riverdale,Does not receive Cash Assistance,2002,Number,3201,208
+Unionport/Soundview,Does not receive Cash Assistance,2001,Number,4494,209
+Unionport/Soundview,Does not receive Cash Assistance,2002,Number,10059,209
+Throgs Neck,Does not receive Cash Assistance,2001,Number,1841,210
+Throgs Neck,Does not receive Cash Assistance,2002,Number,3002,210
+Pelham Parkway,Does not receive Cash Assistance,2001,Number,2941,211
+Pelham Parkway,Does not receive Cash Assistance,2002,Number,4263,211
+Williamsbridge,Does not receive Cash Assistance,2001,Number,2697,212
+Williamsbridge,Does not receive Cash Assistance,2002,Number,4477,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2001,Number,23412,301
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2002,Number,24786,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2001,Number,3575,302
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2002,Number,3944,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2001,Number,9341,303
+Bedford Stuyvesant,Does not receive Cash Assistance,2002,Number,10944,303
+Bushwick,Does not receive Cash Assistance,2001,Number,8411,304
+Bushwick,Does not receive Cash Assistance,2002,Number,9697,304
+East New York,Does not receive Cash Assistance,2001,Number,11440,305
+East New York,Does not receive Cash Assistance,2002,Number,13074,305
+Park Slope,Does not receive Cash Assistance,2001,Number,3319,306
+Park Slope,Does not receive Cash Assistance,2002,Number,3746,306
+Sunset Park,Does not receive Cash Assistance,2001,Number,6852,307
+Sunset Park,Does not receive Cash Assistance,2002,Number,8025,307
+Crown Heights North,Does not receive Cash Assistance,2001,Number,4981,308
+Crown Heights North,Does not receive Cash Assistance,2002,Number,5929,308
+Crown Heights South,Does not receive Cash Assistance,2001,Number,5407,309
+Crown Heights South,Does not receive Cash Assistance,2002,Number,6066,309
+Bay Ridge,Does not receive Cash Assistance,2001,Number,4027,310
+Bay Ridge,Does not receive Cash Assistance,2002,Number,4560,310
+Bensonhurst,Does not receive Cash Assistance,2001,Number,13000,311
+Bensonhurst,Does not receive Cash Assistance,2002,Number,13805,311
+Borough Park,Does not receive Cash Assistance,2001,Number,23697,312
+Borough Park,Does not receive Cash Assistance,2002,Number,26226,312
+Coney Island,Does not receive Cash Assistance,2001,Number,14043,313
+Coney Island,Does not receive Cash Assistance,2002,Number,14762,313
+Flatbush/Midwood,Does not receive Cash Assistance,2001,Number,11614,314
+Flatbush/Midwood,Does not receive Cash Assistance,2002,Number,12505,314
+Sheepshead Bay,Does not receive Cash Assistance,2001,Number,11991,315
+Sheepshead Bay,Does not receive Cash Assistance,2002,Number,12425,315
+Brownsville,Does not receive Cash Assistance,2001,Number,5155,316
+Brownsville,Does not receive Cash Assistance,2002,Number,6417,316
+East Flatbush,Does not receive Cash Assistance,2001,Number,5566,317
+East Flatbush,Does not receive Cash Assistance,2002,Number,6563,317
+Canarsie,Does not receive Cash Assistance,2001,Number,5074,318
+Canarsie,Does not receive Cash Assistance,2002,Number,5716,318
+Astoria,Does not receive Cash Assistance,2001,Number,6065,401
+Astoria,Does not receive Cash Assistance,2002,Number,6501,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2001,Number,3275,402
+Sunnyside/Woodside,Does not receive Cash Assistance,2002,Number,3545,402
+Jackson Heights,Does not receive Cash Assistance,2001,Number,6564,403
+Jackson Heights,Does not receive Cash Assistance,2002,Number,7053,403
+Elmhurst/Corona,Does not receive Cash Assistance,2001,Number,6460,404
+Elmhurst/Corona,Does not receive Cash Assistance,2002,Number,6990,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2001,Number,4562,405
+Ridgewood/Glendale,Does not receive Cash Assistance,2002,Number,5029,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2001,Number,4583,406
+Rego Park/Forest Hills,Does not receive Cash Assistance,2002,Number,4713,406
+Flushing,Does not receive Cash Assistance,2001,Number,6856,407
+Flushing,Does not receive Cash Assistance,2002,Number,7358,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2001,Number,3763,408
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2002,Number,4047,408
+Woodhaven,Does not receive Cash Assistance,2001,Number,4619,409
+Woodhaven,Does not receive Cash Assistance,2002,Number,4954,409
+Howard Beach,Does not receive Cash Assistance,2001,Number,2836,410
+Howard Beach,Does not receive Cash Assistance,2002,Number,2949,410
+Bayside,Does not receive Cash Assistance,2001,Number,1260,411
+Bayside,Does not receive Cash Assistance,2002,Number,1365,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2001,Number,7626,412
+Jamaica/St. Albans,Does not receive Cash Assistance,2002,Number,8025,412
+Queens Village,Does not receive Cash Assistance,2001,Number,3256,413
+Queens Village,Does not receive Cash Assistance,2002,Number,3539,413
+The Rockaways,Does not receive Cash Assistance,2001,Number,6650,414
+The Rockaways,Does not receive Cash Assistance,2002,Number,7329,414
+St. George,Does not receive Cash Assistance,2001,Number,2601,501
+St. George,Does not receive Cash Assistance,2002,Number,6120,501
+South Beach,Does not receive Cash Assistance,2001,Number,1511,502
+South Beach,Does not receive Cash Assistance,2002,Number,2847,502
+Tottenville,Does not receive Cash Assistance,2001,Number,1178,503
+Tottenville,Does not receive Cash Assistance,2002,Number,2027,503
+Bronx,Does not receive Cash Assistance,2001,Number,57406,36005
+Bronx,Does not receive Cash Assistance,2002,Number,74760,36005
+Brooklyn,Does not receive Cash Assistance,2001,Number,170905,36047
+Brooklyn,Does not receive Cash Assistance,2002,Number,189190,36047
+Manhattan,Does not receive Cash Assistance,2001,Number,58128,36061
+Manhattan,Does not receive Cash Assistance,2002,Number,71992,36061
+Queens,Does not receive Cash Assistance,2001,Number,68375,36081
+Queens,Does not receive Cash Assistance,2002,Number,73397,36081
+Staten Island,Does not receive Cash Assistance,2001,Number,5290,36085
+Staten Island,Does not receive Cash Assistance,2002,Number,40994,36085
+New York City,Does not receive Cash Assistance,2001,Number,360103,3651000
+New York City,Does not receive Cash Assistance,2002,Number,420334,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2005,Number,753,101
+Greenwich Village,Does not receive Cash Assistance,2005,Number,2529,102
+Lower East Side,Does not receive Cash Assistance,2005,Number,17003,103
+Chelsea/Clinton,Does not receive Cash Assistance,2005,Number,6293,104
+Midtown Business District,Does not receive Cash Assistance,2005,Number,1223,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2005,Number,1838,106
+Upper West Side,Does not receive Cash Assistance,2005,Number,7463,107
+Upper East Side,Does not receive Cash Assistance,2005,Number,2291,108
+Manhattanville,Does not receive Cash Assistance,2005,Number,11901,109
+Central Harlem,Does not receive Cash Assistance,2005,Number,12575,110
+East Harlem,Does not receive Cash Assistance,2005,Number,15310,111
+Washington Heights,Does not receive Cash Assistance,2005,Number,30356,112
+Mott Haven,Does not receive Cash Assistance,2005,Number,13216,201
+Hunts Point,Does not receive Cash Assistance,2005,Number,7118,202
+Morrisania,Does not receive Cash Assistance,2005,Number,10337,203
+Concourse/Highbridge,Does not receive Cash Assistance,2005,Number,19775,204
+University Heights,Does not receive Cash Assistance,2005,Number,17677,205
+East Tremont,Does not receive Cash Assistance,2005,Number,9511,206
+Bedford Park,Does not receive Cash Assistance,2005,Number,14094,207
+Riverdale,Does not receive Cash Assistance,2005,Number,5533,208
+Unionport/Soundview,Does not receive Cash Assistance,2005,Number,15452,209
+Throgs Neck,Does not receive Cash Assistance,2005,Number,4843,210
+Pelham Parkway,Does not receive Cash Assistance,2005,Number,6618,211
+Williamsbridge,Does not receive Cash Assistance,2005,Number,7822,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2005,Number,31089,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2005,Number,5826,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2005,Number,19006,303
+Bushwick,Does not receive Cash Assistance,2005,Number,16815,304
+East New York,Does not receive Cash Assistance,2005,Number,22246,305
+Park Slope,Does not receive Cash Assistance,2005,Number,5272,306
+Sunset Park,Does not receive Cash Assistance,2005,Number,12799,307
+Crown Heights North,Does not receive Cash Assistance,2005,Number,8980,308
+Crown Heights South,Does not receive Cash Assistance,2005,Number,8953,309
+Bay Ridge,Does not receive Cash Assistance,2005,Number,7037,310
+Bensonhurst,Does not receive Cash Assistance,2005,Number,18492,311
+Borough Park,Does not receive Cash Assistance,2005,Number,32267,312
+Coney Island,Does not receive Cash Assistance,2005,Number,18133,313
+Flatbush/Midwood,Does not receive Cash Assistance,2005,Number,15959,314
+Sheepshead Bay,Does not receive Cash Assistance,2005,Number,14957,315
+Brownsville,Does not receive Cash Assistance,2005,Number,10955,316
+East Flatbush,Does not receive Cash Assistance,2005,Number,10353,317
+Canarsie,Does not receive Cash Assistance,2005,Number,9198,318
+Astoria,Does not receive Cash Assistance,2005,Number,9913,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2005,Number,5272,402
+Jackson Heights,Does not receive Cash Assistance,2005,Number,11176,403
+Elmhurst/Corona,Does not receive Cash Assistance,2005,Number,11335,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2005,Number,7895,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2005,Number,5573,406
+Flushing,Does not receive Cash Assistance,2005,Number,9531,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2005,Number,5466,408
+Woodhaven,Does not receive Cash Assistance,2005,Number,7141,409
+Howard Beach,Does not receive Cash Assistance,2005,Number,4254,410
+Bayside,Does not receive Cash Assistance,2005,Number,1967,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2005,Number,12442,412
+Queens Village,Does not receive Cash Assistance,2005,Number,5169,413
+The Rockaways,Does not receive Cash Assistance,2005,Number,9663,414
+St. George,Does not receive Cash Assistance,2005,Number,9314,501
+South Beach,Does not receive Cash Assistance,2005,Number,4249,502
+Tottenville,Does not receive Cash Assistance,2005,Number,3046,503
+Bronx,Does not receive Cash Assistance,2005,Number,131996,36005
+Brooklyn,Does not receive Cash Assistance,2005,Number,268335,36047
+Manhattan,Does not receive Cash Assistance,2005,Number,109535,36061
+Queens,Does not receive Cash Assistance,2005,Number,106799,36081
+Staten Island,Does not receive Cash Assistance,2005,Number,16608,36085
+New York City,Does not receive Cash Assistance,2005,Number,633327,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2006,Number,746,101
+Greenwich Village,Does not receive Cash Assistance,2006,Number,2699,102
+Lower East Side,Does not receive Cash Assistance,2006,Number,17801,103
+Chelsea/Clinton,Does not receive Cash Assistance,2006,Number,6679,104
+Midtown Business District,Does not receive Cash Assistance,2006,Number,1351,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2006,Number,1959,106
+Upper West Side,Does not receive Cash Assistance,2006,Number,7485,107
+Upper East Side,Does not receive Cash Assistance,2006,Number,2417,108
+Manhattanville,Does not receive Cash Assistance,2006,Number,12009,109
+Central Harlem,Does not receive Cash Assistance,2006,Number,13166,110
+East Harlem,Does not receive Cash Assistance,2006,Number,15673,111
+Washington Heights,Does not receive Cash Assistance,2006,Number,30021,112
+Mott Haven,Does not receive Cash Assistance,2006,Number,14316,201
+Hunts Point,Does not receive Cash Assistance,2006,Number,7753,202
+Morrisania,Does not receive Cash Assistance,2006,Number,11021,203
+Concourse/Highbridge,Does not receive Cash Assistance,2006,Number,20918,204
+University Heights,Does not receive Cash Assistance,2006,Number,18781,205
+East Tremont,Does not receive Cash Assistance,2006,Number,10405,206
+Bedford Park,Does not receive Cash Assistance,2006,Number,15341,207
+Riverdale,Does not receive Cash Assistance,2006,Number,5971,208
+Unionport/Soundview,Does not receive Cash Assistance,2006,Number,16277,209
+Throgs Neck,Does not receive Cash Assistance,2006,Number,5209,210
+Pelham Parkway,Does not receive Cash Assistance,2006,Number,7133,211
+Williamsbridge,Does not receive Cash Assistance,2006,Number,8584,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2006,Number,32336,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2006,Number,6011,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2006,Number,20598,303
+Bushwick,Does not receive Cash Assistance,2006,Number,18162,304
+East New York,Does not receive Cash Assistance,2006,Number,24263,305
+Park Slope,Does not receive Cash Assistance,2006,Number,5399,306
+Sunset Park,Does not receive Cash Assistance,2006,Number,12961,307
+Crown Heights North,Does not receive Cash Assistance,2006,Number,9581,308
+Crown Heights South,Does not receive Cash Assistance,2006,Number,9513,309
+Bay Ridge,Does not receive Cash Assistance,2006,Number,7436,310
+Bensonhurst,Does not receive Cash Assistance,2006,Number,19266,311
+Borough Park,Does not receive Cash Assistance,2006,Number,33547,312
+Coney Island,Does not receive Cash Assistance,2006,Number,18746,313
+Flatbush/Midwood,Does not receive Cash Assistance,2006,Number,16600,314
+Sheepshead Bay,Does not receive Cash Assistance,2006,Number,15647,315
+Brownsville,Does not receive Cash Assistance,2006,Number,12222,316
+East Flatbush,Does not receive Cash Assistance,2006,Number,10842,317
+Canarsie,Does not receive Cash Assistance,2006,Number,9875,318
+Astoria,Does not receive Cash Assistance,2006,Number,10774,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2006,Number,5656,402
+Jackson Heights,Does not receive Cash Assistance,2006,Number,12245,403
+Elmhurst/Corona,Does not receive Cash Assistance,2006,Number,12457,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2006,Number,8682,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2006,Number,5980,406
+Flushing,Does not receive Cash Assistance,2006,Number,10207,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2006,Number,5849,408
+Woodhaven,Does not receive Cash Assistance,2006,Number,7512,409
+Howard Beach,Does not receive Cash Assistance,2006,Number,4389,410
+Bayside,Does not receive Cash Assistance,2006,Number,2125,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2006,Number,12597,412
+Queens Village,Does not receive Cash Assistance,2006,Number,5315,413
+The Rockaways,Does not receive Cash Assistance,2006,Number,9937,414
+St. George,Does not receive Cash Assistance,2006,Number,10417,501
+South Beach,Does not receive Cash Assistance,2006,Number,4821,502
+Tottenville,Does not receive Cash Assistance,2006,Number,3296,503
+Bronx,Does not receive Cash Assistance,2006,Number,181494,36005
+Brooklyn,Does not receive Cash Assistance,2006,Number,259029,36047
+Manhattan,Does not receive Cash Assistance,2006,Number,108843,36061
+Queens,Does not receive Cash Assistance,2006,Number,100614,36081
+Staten Island,Does not receive Cash Assistance,2006,Number,18999,36085
+New York City,Does not receive Cash Assistance,2006,Number,668980,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2007,Number,853,101
+Greenwich Village,Does not receive Cash Assistance,2007,Number,2847,102
+Lower East Side,Does not receive Cash Assistance,2007,Number,19002,103
+Chelsea/Clinton,Does not receive Cash Assistance,2007,Number,7012,104
+Midtown Business District,Does not receive Cash Assistance,2007,Number,1528,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2007,Number,2005,106
+Upper West Side,Does not receive Cash Assistance,2007,Number,7604,107
+Upper East Side,Does not receive Cash Assistance,2007,Number,2515,108
+Manhattanville,Does not receive Cash Assistance,2007,Number,12195,109
+Central Harlem,Does not receive Cash Assistance,2007,Number,13697,110
+East Harlem,Does not receive Cash Assistance,2007,Number,16364,111
+Washington Heights,Does not receive Cash Assistance,2007,Number,31495,112
+Mott Haven,Does not receive Cash Assistance,2007,Number,20636,201
+Hunts Point,Does not receive Cash Assistance,2007,Number,10906,202
+Morrisania,Does not receive Cash Assistance,2007,Number,15679,203
+Concourse/Highbridge,Does not receive Cash Assistance,2007,Number,28669,204
+University Heights,Does not receive Cash Assistance,2007,Number,25916,205
+East Tremont,Does not receive Cash Assistance,2007,Number,14924,206
+Bedford Park,Does not receive Cash Assistance,2007,Number,21891,207
+Riverdale,Does not receive Cash Assistance,2007,Number,8592,208
+Unionport/Soundview,Does not receive Cash Assistance,2007,Number,22403,209
+Throgs Neck,Does not receive Cash Assistance,2007,Number,7154,210
+Pelham Parkway,Does not receive Cash Assistance,2007,Number,9867,211
+Williamsbridge,Does not receive Cash Assistance,2007,Number,13235,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2007,Number,31554,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2007,Number,6082,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2007,Number,20790,303
+Bushwick,Does not receive Cash Assistance,2007,Number,17602,304
+East New York,Does not receive Cash Assistance,2007,Number,24589,305
+Park Slope,Does not receive Cash Assistance,2007,Number,5191,306
+Sunset Park,Does not receive Cash Assistance,2007,Number,12936,307
+Crown Heights North,Does not receive Cash Assistance,2007,Number,9469,308
+Crown Heights South,Does not receive Cash Assistance,2007,Number,9286,309
+Bay Ridge,Does not receive Cash Assistance,2007,Number,7353,310
+Bensonhurst,Does not receive Cash Assistance,2007,Number,18285,311
+Borough Park,Does not receive Cash Assistance,2007,Number,32462,312
+Coney Island,Does not receive Cash Assistance,2007,Number,17806,313
+Flatbush/Midwood,Does not receive Cash Assistance,2007,Number,16189,314
+Sheepshead Bay,Does not receive Cash Assistance,2007,Number,15034,315
+Brownsville,Does not receive Cash Assistance,2007,Number,12317,316
+East Flatbush,Does not receive Cash Assistance,2007,Number,11166,317
+Canarsie,Does not receive Cash Assistance,2007,Number,10206,318
+Astoria,Does not receive Cash Assistance,2007,Number,10381,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2007,Number,5641,402
+Jackson Heights,Does not receive Cash Assistance,2007,Number,11821,403
+Elmhurst/Corona,Does not receive Cash Assistance,2007,Number,12796,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2007,Number,8583,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2007,Number,5615,406
+Flushing,Does not receive Cash Assistance,2007,Number,9941,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2007,Number,5752,408
+Woodhaven,Does not receive Cash Assistance,2007,Number,7667,409
+Howard Beach,Does not receive Cash Assistance,2007,Number,4615,410
+Bayside,Does not receive Cash Assistance,2007,Number,2054,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2007,Number,13064,412
+Queens Village,Does not receive Cash Assistance,2007,Number,5283,413
+The Rockaways,Does not receive Cash Assistance,2007,Number,9591,414
+St. George,Does not receive Cash Assistance,2007,Number,13273,501
+South Beach,Does not receive Cash Assistance,2007,Number,5702,502
+Tottenville,Does not receive Cash Assistance,2007,Number,3981,503
+Bronx,Does not receive Cash Assistance,2007,Number,199873,36005
+Brooklyn,Does not receive Cash Assistance,2007,Number,278316,36047
+Manhattan,Does not receive Cash Assistance,2007,Number,117116,36061
+Queens,Does not receive Cash Assistance,2007,Number,112803,36081
+Staten Island,Does not receive Cash Assistance,2007,Number,22956,36085
+New York City,Does not receive Cash Assistance,2007,Number,731064,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2009,Number,1418,101
+Greenwich Village,Does not receive Cash Assistance,2009,Number,4256,102
+Lower East Side,Does not receive Cash Assistance,2009,Number,30787,103
+Chelsea/Clinton,Does not receive Cash Assistance,2009,Number,14065,104
+Midtown Business District,Does not receive Cash Assistance,2009,Number,2303,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2009,Number,3313,106
+Upper West Side,Does not receive Cash Assistance,2009,Number,12384,107
+Upper East Side,Does not receive Cash Assistance,2009,Number,4292,108
+Manhattanville,Does not receive Cash Assistance,2009,Number,20833,109
+Central Harlem,Does not receive Cash Assistance,2009,Number,25683,110
+East Harlem,Does not receive Cash Assistance,2009,Number,31320,111
+Washington Heights,Does not receive Cash Assistance,2009,Number,50775,112
+Mott Haven,Does not receive Cash Assistance,2009,Number,27347,201
+Hunts Point,Does not receive Cash Assistance,2009,Number,13273,202
+Morrisania,Does not receive Cash Assistance,2009,Number,21346,203
+Concourse/Highbridge,Does not receive Cash Assistance,2009,Number,36657,204
+University Heights,Does not receive Cash Assistance,2009,Number,33037,205
+East Tremont,Does not receive Cash Assistance,2009,Number,20443,206
+Bedford Park,Does not receive Cash Assistance,2009,Number,29768,207
+Riverdale,Does not receive Cash Assistance,2009,Number,11050,208
+Unionport/Soundview,Does not receive Cash Assistance,2009,Number,31789,209
+Throgs Neck,Does not receive Cash Assistance,2009,Number,10146,210
+Pelham Parkway,Does not receive Cash Assistance,2009,Number,14492,211
+Williamsbridge,Does not receive Cash Assistance,2009,Number,20534,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2009,Number,48772,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2009,Number,12288,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2009,Number,39805,303
+Bushwick,Does not receive Cash Assistance,2009,Number,30993,304
+East New York,Does not receive Cash Assistance,2009,Number,48115,305
+Park Slope,Does not receive Cash Assistance,2009,Number,8902,306
+Sunset Park,Does not receive Cash Assistance,2009,Number,21623,307
+Crown Heights North,Does not receive Cash Assistance,2009,Number,17543,308
+Crown Heights South,Does not receive Cash Assistance,2009,Number,17416,309
+Bay Ridge,Does not receive Cash Assistance,2009,Number,13221,310
+Bensonhurst,Does not receive Cash Assistance,2009,Number,30001,311
+Borough Park,Does not receive Cash Assistance,2009,Number,51980,312
+Coney Island,Does not receive Cash Assistance,2009,Number,26855,313
+Flatbush/Midwood,Does not receive Cash Assistance,2009,Number,28477,314
+Sheepshead Bay,Does not receive Cash Assistance,2009,Number,23324,315
+Brownsville,Does not receive Cash Assistance,2009,Number,24553,316
+East Flatbush,Does not receive Cash Assistance,2009,Number,24067,317
+Canarsie,Does not receive Cash Assistance,2009,Number,21105,318
+Astoria,Does not receive Cash Assistance,2009,Number,15775,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2009,Number,8895,402
+Jackson Heights,Does not receive Cash Assistance,2009,Number,20367,403
+Elmhurst/Corona,Does not receive Cash Assistance,2009,Number,20275,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2009,Number,14542,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2009,Number,7345,406
+Flushing,Does not receive Cash Assistance,2009,Number,15771,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2009,Number,9980,408
+Woodhaven,Does not receive Cash Assistance,2009,Number,15167,409
+Howard Beach,Does not receive Cash Assistance,2009,Number,9394,410
+Bayside,Does not receive Cash Assistance,2009,Number,3561,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2009,Number,26448,412
+Queens Village,Does not receive Cash Assistance,2009,Number,11796,413
+The Rockaways,Does not receive Cash Assistance,2009,Number,16419,414
+St. George,Does not receive Cash Assistance,2009,Number,24233,501
+South Beach,Does not receive Cash Assistance,2009,Number,10102,502
+Tottenville,Does not receive Cash Assistance,2009,Number,7747,503
+Bronx,Does not receive Cash Assistance,2009,Number,269884,36005
+Brooklyn,Does not receive Cash Assistance,2009,Number,489042,36047
+Manhattan,Does not receive Cash Assistance,2009,Number,201429,36061
+Queens,Does not receive Cash Assistance,2009,Number,195736,36081
+Staten Island,Does not receive Cash Assistance,2009,Number,42082,36085
+New York City,Does not receive Cash Assistance,2009,Number,1198455,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2011,Number,1772,101
+Greenwich Village,Does not receive Cash Assistance,2011,Number,4147,102
+Lower East Side,Does not receive Cash Assistance,2011,Number,40624,103
+Chelsea/Clinton,Does not receive Cash Assistance,2011,Number,10689,104
+Midtown Business District,Does not receive Cash Assistance,2011,Number,2744,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2011,Number,4576,106
+Upper West Side,Does not receive Cash Assistance,2011,Number,15729,107
+Upper East Side,Does not receive Cash Assistance,2011,Number,5722,108
+Manhattanville,Does not receive Cash Assistance,2011,Number,24465,109
+Central Harlem,Does not receive Cash Assistance,2011,Number,31566,110
+East Harlem,Does not receive Cash Assistance,2011,Number,38064,111
+Washington Heights,Does not receive Cash Assistance,2011,Number,28893,112
+Mott Haven,Does not receive Cash Assistance,2011,Number,37166,201
+Hunts Point,Does not receive Cash Assistance,2011,Number,17970,202
+Morrisania,Does not receive Cash Assistance,2011,Number,31046,203
+Concourse/Highbridge,Does not receive Cash Assistance,2011,Number,51888,204
+University Heights,Does not receive Cash Assistance,2011,Number,48621,205
+East Tremont,Does not receive Cash Assistance,2011,Number,27598,206
+Bedford Park,Does not receive Cash Assistance,2011,Number,42083,207
+Riverdale,Does not receive Cash Assistance,2011,Number,15926,208
+Unionport/Soundview,Does not receive Cash Assistance,2011,Number,44995,209
+Throgs Neck,Does not receive Cash Assistance,2011,Number,14379,210
+Pelham Parkway,Does not receive Cash Assistance,2011,Number,20753,211
+Williamsbridge,Does not receive Cash Assistance,2011,Number,29236,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2011,Number,54215,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2011,Number,11673,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2011,Number,43774,303
+Bushwick,Does not receive Cash Assistance,2011,Number,33764,304
+East New York,Does not receive Cash Assistance,2011,Number,56422,305
+Park Slope,Does not receive Cash Assistance,2011,Number,10028,306
+Sunset Park,Does not receive Cash Assistance,2011,Number,27790,307
+Crown Heights North,Does not receive Cash Assistance,2011,Number,20425,308
+Crown Heights South,Does not receive Cash Assistance,2011,Number,21842,309
+Bay Ridge,Does not receive Cash Assistance,2011,Number,17022,310
+Bensonhurst,Does not receive Cash Assistance,2011,Number,37198,311
+Borough Park,Does not receive Cash Assistance,2011,Number,62534,312
+Coney Island,Does not receive Cash Assistance,2011,Number,30243,313
+Flatbush/Midwood,Does not receive Cash Assistance,2011,Number,34886,314
+Sheepshead Bay,Does not receive Cash Assistance,2011,Number,27567,315
+Brownsville,Does not receive Cash Assistance,2011,Number,27881,316
+East Flatbush,Does not receive Cash Assistance,2011,Number,29307,317
+Canarsie,Does not receive Cash Assistance,2011,Number,26212,318
+Astoria,Does not receive Cash Assistance,2011,Number,14480,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2011,Number,8318,402
+Jackson Heights,Does not receive Cash Assistance,2011,Number,19355,403
+Elmhurst/Corona,Does not receive Cash Assistance,2011,Number,19390,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2011,Number,13673,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2011,Number,6791,406
+Flushing,Does not receive Cash Assistance,2011,Number,15700,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2011,Number,9399,408
+Woodhaven,Does not receive Cash Assistance,2011,Number,14230,409
+Howard Beach,Does not receive Cash Assistance,2011,Number,9612,410
+Bayside,Does not receive Cash Assistance,2011,Number,3404,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2011,Number,24284,412
+Queens Village,Does not receive Cash Assistance,2011,Number,10575,413
+The Rockaways,Does not receive Cash Assistance,2011,Number,14394,414
+St. George,Does not receive Cash Assistance,2011,Number,31412,501
+South Beach,Does not receive Cash Assistance,2011,Number,13746,502
+Tottenville,Does not receive Cash Assistance,2011,Number,10591,503
+Bronx,Does not receive Cash Assistance,2011,Number,381661,36005
+Brooklyn,Does not receive Cash Assistance,2011,Number,572783,36047
+Manhattan,Does not receive Cash Assistance,2011,Number,238991,36061
+Queens,Does not receive Cash Assistance,2011,Number,183605,36081
+Staten Island,Does not receive Cash Assistance,2011,Number,55749,36085
+New York City,Does not receive Cash Assistance,2011,Number,1432789,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2001,Percent,0.40551,101
+Battery Park/Tribeca,Does not receive Cash Assistance,2002,Percent,0.44986,101
+Greenwich Village,Does not receive Cash Assistance,2001,Percent,0.59109,102
+Greenwich Village,Does not receive Cash Assistance,2002,Percent,0.68056,102
+Lower East Side,Does not receive Cash Assistance,2001,Percent,0.49176,103
+Lower East Side,Does not receive Cash Assistance,2002,Percent,0.60592,103
+Chelsea/Clinton,Does not receive Cash Assistance,2001,Percent,0.52262,104
+Chelsea/Clinton,Does not receive Cash Assistance,2002,Percent,0.56129,104
+Midtown Business District,Does not receive Cash Assistance,2001,Percent,0.36026,105
+Midtown Business District,Does not receive Cash Assistance,2002,Percent,0.37901,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2001,Percent,0.50569,106
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2002,Percent,0.57797,106
+Upper West Side,Does not receive Cash Assistance,2001,Percent,0.46287,107
+Upper West Side,Does not receive Cash Assistance,2002,Percent,0.50228,107
+Upper East Side,Does not receive Cash Assistance,2001,Percent,0.61628,108
+Upper East Side,Does not receive Cash Assistance,2002,Percent,0.68189,108
+Manhattanville,Does not receive Cash Assistance,2001,Percent,0.40719,109
+Manhattanville,Does not receive Cash Assistance,2002,Percent,0.48121,109
+Central Harlem,Does not receive Cash Assistance,2001,Percent,0.32657,110
+Central Harlem,Does not receive Cash Assistance,2002,Percent,0.40445,110
+East Harlem,Does not receive Cash Assistance,2001,Percent,0.24334,111
+East Harlem,Does not receive Cash Assistance,2002,Percent,0.40322,111
+Washington Heights,Does not receive Cash Assistance,2001,Percent,0.55014,112
+Washington Heights,Does not receive Cash Assistance,2002,Percent,0.60639,112
+Mott Haven,Does not receive Cash Assistance,2001,Percent,0.26613,201
+Mott Haven,Does not receive Cash Assistance,2002,Percent,0.31488,201
+Hunts Point,Does not receive Cash Assistance,2001,Percent,0.27625,202
+Hunts Point,Does not receive Cash Assistance,2002,Percent,0.32672,202
+Morrisania,Does not receive Cash Assistance,2001,Percent,0.263,203
+Morrisania,Does not receive Cash Assistance,2002,Percent,0.321,203
+Concourse/Highbridge,Does not receive Cash Assistance,2001,Percent,0.27958,204
+Concourse/Highbridge,Does not receive Cash Assistance,2002,Percent,0.32802,204
+University Heights,Does not receive Cash Assistance,2001,Percent,0.26983,205
+University Heights,Does not receive Cash Assistance,2002,Percent,0.29636,205
+East Tremont,Does not receive Cash Assistance,2001,Percent,0.24996,206
+East Tremont,Does not receive Cash Assistance,2002,Percent,0.28683,206
+Bedford Park,Does not receive Cash Assistance,2001,Percent,0.28725,207
+Bedford Park,Does not receive Cash Assistance,2002,Percent,0.33711,207
+Riverdale,Does not receive Cash Assistance,2001,Percent,0.42062,208
+Riverdale,Does not receive Cash Assistance,2002,Percent,0.46785,208
+Unionport/Soundview,Does not receive Cash Assistance,2001,Percent,0.20952,209
+Unionport/Soundview,Does not receive Cash Assistance,2002,Percent,0.37992,209
+Throgs Neck,Does not receive Cash Assistance,2001,Percent,0.43574,210
+Throgs Neck,Does not receive Cash Assistance,2002,Percent,0.55133,210
+Pelham Parkway,Does not receive Cash Assistance,2001,Percent,0.37518,211
+Pelham Parkway,Does not receive Cash Assistance,2002,Percent,0.47727,211
+Williamsbridge,Does not receive Cash Assistance,2001,Percent,0.24048,212
+Williamsbridge,Does not receive Cash Assistance,2002,Percent,0.34649,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2001,Percent,0.69191,301
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2002,Percent,0.73305,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2001,Percent,0.39238,302
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2002,Percent,0.4336,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2001,Percent,0.32614,303
+Bedford Stuyvesant,Does not receive Cash Assistance,2002,Percent,0.38109,303
+Bushwick,Does not receive Cash Assistance,2001,Percent,0.37472,304
+Bushwick,Does not receive Cash Assistance,2002,Percent,0.42771,304
+East New York,Does not receive Cash Assistance,2001,Percent,0.35797,305
+East New York,Does not receive Cash Assistance,2002,Percent,0.40407,305
+Park Slope,Does not receive Cash Assistance,2001,Percent,0.44731,306
+Park Slope,Does not receive Cash Assistance,2002,Percent,0.50994,306
+Sunset Park,Does not receive Cash Assistance,2001,Percent,0.52765,307
+Sunset Park,Does not receive Cash Assistance,2002,Percent,0.60081,307
+Crown Heights North,Does not receive Cash Assistance,2001,Percent,0.34245,308
+Crown Heights North,Does not receive Cash Assistance,2002,Percent,0.39275,308
+Crown Heights South,Does not receive Cash Assistance,2001,Percent,0.49807,309
+Crown Heights South,Does not receive Cash Assistance,2002,Percent,0.72128,309
+Bay Ridge,Does not receive Cash Assistance,2001,Percent,0.65384,310
+Bay Ridge,Does not receive Cash Assistance,2002,Percent,0.71619,310
+Bensonhurst,Does not receive Cash Assistance,2001,Percent,0.76741,311
+Bensonhurst,Does not receive Cash Assistance,2002,Percent,0.80632,311
+Borough Park,Does not receive Cash Assistance,2001,Percent,0.78097,312
+Borough Park,Does not receive Cash Assistance,2002,Percent,0.8189,312
+Coney Island,Does not receive Cash Assistance,2001,Percent,0.66007,313
+Coney Island,Does not receive Cash Assistance,2002,Percent,0.70574,313
+Flatbush/Midwood,Does not receive Cash Assistance,2001,Percent,0.55524,314
+Flatbush/Midwood,Does not receive Cash Assistance,2002,Percent,0.58071,314
+Sheepshead Bay,Does not receive Cash Assistance,2001,Percent,0.73143,315
+Sheepshead Bay,Does not receive Cash Assistance,2002,Percent,0.76674,315
+Brownsville,Does not receive Cash Assistance,2001,Percent,0.27105,316
+Brownsville,Does not receive Cash Assistance,2002,Percent,0.33673,316
+East Flatbush,Does not receive Cash Assistance,2001,Percent,0.40153,317
+East Flatbush,Does not receive Cash Assistance,2002,Percent,0.44525,317
+Canarsie,Does not receive Cash Assistance,2001,Percent,0.51881,318
+Canarsie,Does not receive Cash Assistance,2002,Percent,0.55712,318
+Astoria,Does not receive Cash Assistance,2001,Percent,0.52114,401
+Astoria,Does not receive Cash Assistance,2002,Percent,0.54571,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2001,Percent,0.67904,402
+Sunnyside/Woodside,Does not receive Cash Assistance,2002,Percent,0.71099,402
+Jackson Heights,Does not receive Cash Assistance,2001,Percent,0.60615,403
+Jackson Heights,Does not receive Cash Assistance,2002,Percent,0.63961,403
+Elmhurst/Corona,Does not receive Cash Assistance,2001,Percent,0.62349,404
+Elmhurst/Corona,Does not receive Cash Assistance,2002,Percent,0.65919,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2001,Percent,0.53905,405
+Ridgewood/Glendale,Does not receive Cash Assistance,2002,Percent,0.59876,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2001,Percent,0.69672,406
+Rego Park/Forest Hills,Does not receive Cash Assistance,2002,Percent,0.729,406
+Flushing,Does not receive Cash Assistance,2001,Percent,0.73295,407
+Flushing,Does not receive Cash Assistance,2002,Percent,0.76344,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2001,Percent,0.50872,408
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2002,Percent,0.51765,408
+Woodhaven,Does not receive Cash Assistance,2001,Percent,0.53591,409
+Woodhaven,Does not receive Cash Assistance,2002,Percent,0.58948,409
+Howard Beach,Does not receive Cash Assistance,2001,Percent,0.53611,410
+Howard Beach,Does not receive Cash Assistance,2002,Percent,0.56193,410
+Bayside,Does not receive Cash Assistance,2001,Percent,0.77826,411
+Bayside,Does not receive Cash Assistance,2002,Percent,0.80722,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2001,Percent,0.43041,412
+Jamaica/St. Albans,Does not receive Cash Assistance,2002,Percent,0.45553,412
+Queens Village,Does not receive Cash Assistance,2001,Percent,0.47714,413
+Queens Village,Does not receive Cash Assistance,2002,Percent,0.51574,413
+The Rockaways,Does not receive Cash Assistance,2001,Percent,0.47311,414
+The Rockaways,Does not receive Cash Assistance,2002,Percent,0.51002,414
+St. George,Does not receive Cash Assistance,2001,Percent,0.23038,501
+St. George,Does not receive Cash Assistance,2002,Percent,0.42821,501
+South Beach,Does not receive Cash Assistance,2001,Percent,0.47382,502
+South Beach,Does not receive Cash Assistance,2002,Percent,0.64021,502
+Tottenville,Does not receive Cash Assistance,2001,Percent,0.61482,503
+Tottenville,Does not receive Cash Assistance,2002,Percent,0.73682,503
+Bronx,Does not receive Cash Assistance,2001,Percent,0.27529,36005
+Bronx,Does not receive Cash Assistance,2002,Percent,0.34225,36005
+Brooklyn,Does not receive Cash Assistance,2001,Percent,0.52346,36047
+Brooklyn,Does not receive Cash Assistance,2002,Percent,0.5697,36047
+Manhattan,Does not receive Cash Assistance,2001,Percent,0.43605,36061
+Manhattan,Does not receive Cash Assistance,2002,Percent,0.51799,36061
+Queens,Does not receive Cash Assistance,2001,Percent,0.55334,36081
+Queens,Does not receive Cash Assistance,2002,Percent,0.58698,36081
+Staten Island,Does not receive Cash Assistance,2001,Percent,0.32266,36085
+Staten Island,Does not receive Cash Assistance,2002,Percent,0.79616,36085
+New York City,Does not receive Cash Assistance,2001,Percent,0.44551,3651000
+New York City,Does not receive Cash Assistance,2002,Percent,0.50277,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2005,Percent,0.52731,101
+Greenwich Village,Does not receive Cash Assistance,2005,Percent,0.79007,102
+Lower East Side,Does not receive Cash Assistance,2005,Percent,0.70455,103
+Chelsea/Clinton,Does not receive Cash Assistance,2005,Percent,0.60908,104
+Midtown Business District,Does not receive Cash Assistance,2005,Percent,0.48474,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2005,Percent,0.67598,106
+Upper West Side,Does not receive Cash Assistance,2005,Percent,0.59495,107
+Upper East Side,Does not receive Cash Assistance,2005,Percent,0.72317,108
+Manhattanville,Does not receive Cash Assistance,2005,Percent,0.55602,109
+Central Harlem,Does not receive Cash Assistance,2005,Percent,0.51066,110
+East Harlem,Does not receive Cash Assistance,2005,Percent,0.50923,111
+Washington Heights,Does not receive Cash Assistance,2005,Percent,0.67656,112
+Mott Haven,Does not receive Cash Assistance,2005,Percent,0.43705,201
+Hunts Point,Does not receive Cash Assistance,2005,Percent,0.45611,202
+Morrisania,Does not receive Cash Assistance,2005,Percent,0.42946,203
+Concourse/Highbridge,Does not receive Cash Assistance,2005,Percent,0.46296,204
+University Heights,Does not receive Cash Assistance,2005,Percent,0.43128,205
+East Tremont,Does not receive Cash Assistance,2005,Percent,0.37926,206
+Bedford Park,Does not receive Cash Assistance,2005,Percent,0.45267,207
+Riverdale,Does not receive Cash Assistance,2005,Percent,0.56563,208
+Unionport/Soundview,Does not receive Cash Assistance,2005,Percent,0.46355,209
+Throgs Neck,Does not receive Cash Assistance,2005,Percent,0.59584,210
+Pelham Parkway,Does not receive Cash Assistance,2005,Percent,0.52999,211
+Williamsbridge,Does not receive Cash Assistance,2005,Percent,0.40206,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2005,Percent,0.79,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2005,Percent,0.54393,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2005,Percent,0.48802,303
+Bushwick,Does not receive Cash Assistance,2005,Percent,0.55016,304
+East New York,Does not receive Cash Assistance,2005,Percent,0.52053,305
+Park Slope,Does not receive Cash Assistance,2005,Percent,0.59477,306
+Sunset Park,Does not receive Cash Assistance,2005,Percent,0.71921,307
+Crown Heights North,Does not receive Cash Assistance,2005,Percent,0.45863,308
+Crown Heights South,Does not receive Cash Assistance,2005,Percent,0.59975,309
+Bay Ridge,Does not receive Cash Assistance,2005,Percent,0.78802,310
+Bensonhurst,Does not receive Cash Assistance,2005,Percent,0.84701,311
+Borough Park,Does not receive Cash Assistance,2005,Percent,0.85945,312
+Coney Island,Does not receive Cash Assistance,2005,Percent,0.75668,313
+Flatbush/Midwood,Does not receive Cash Assistance,2005,Percent,0.64252,314
+Sheepshead Bay,Does not receive Cash Assistance,2005,Percent,0.81363,315
+Brownsville,Does not receive Cash Assistance,2005,Percent,0.42323,316
+East Flatbush,Does not receive Cash Assistance,2005,Percent,0.54472,317
+Canarsie,Does not receive Cash Assistance,2005,Percent,0.62224,318
+Astoria,Does not receive Cash Assistance,2005,Percent,0.64404,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2005,Percent,0.75143,402
+Jackson Heights,Does not receive Cash Assistance,2005,Percent,0.73779,403
+Elmhurst/Corona,Does not receive Cash Assistance,2005,Percent,0.76023,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2005,Percent,0.69633,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2005,Percent,0.79911,406
+Flushing,Does not receive Cash Assistance,2005,Percent,0.79385,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2005,Percent,0.63455,408
+Woodhaven,Does not receive Cash Assistance,2005,Percent,0.65719,409
+Howard Beach,Does not receive Cash Assistance,2005,Percent,0.64572,410
+Bayside,Does not receive Cash Assistance,2005,Percent,0.82267,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2005,Percent,0.54475,412
+Queens Village,Does not receive Cash Assistance,2005,Percent,0.57116,413
+The Rockaways,Does not receive Cash Assistance,2005,Percent,0.57239,414
+St. George,Does not receive Cash Assistance,2005,Percent,0.48655,501
+South Beach,Does not receive Cash Assistance,2005,Percent,0.71006,502
+Tottenville,Does not receive Cash Assistance,2005,Percent,0.79385,503
+Bronx,Does not receive Cash Assistance,2005,Percent,0.45047,36005
+Brooklyn,Does not receive Cash Assistance,2005,Percent,0.64097,36047
+Manhattan,Does not receive Cash Assistance,2005,Percent,0.60513,36061
+Queens,Does not receive Cash Assistance,2005,Percent,0.66742,36081
+Staten Island,Does not receive Cash Assistance,2005,Percent,0.57342,36085
+New York City,Does not receive Cash Assistance,2005,Percent,0.58549,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2006,Percent,0.55506,101
+Greenwich Village,Does not receive Cash Assistance,2006,Percent,0.86479,102
+Lower East Side,Does not receive Cash Assistance,2006,Percent,0.73567,103
+Chelsea/Clinton,Does not receive Cash Assistance,2006,Percent,0.66737,104
+Midtown Business District,Does not receive Cash Assistance,2006,Percent,0.49852,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2006,Percent,0.73952,106
+Upper West Side,Does not receive Cash Assistance,2006,Percent,0.62584,107
+Upper East Side,Does not receive Cash Assistance,2006,Percent,0.75202,108
+Manhattanville,Does not receive Cash Assistance,2006,Percent,0.58796,109
+Central Harlem,Does not receive Cash Assistance,2006,Percent,0.55431,110
+East Harlem,Does not receive Cash Assistance,2006,Percent,0.53708,111
+Washington Heights,Does not receive Cash Assistance,2006,Percent,0.70498,112
+Mott Haven,Does not receive Cash Assistance,2006,Percent,0.48399,201
+Hunts Point,Does not receive Cash Assistance,2006,Percent,0.50305,202
+Morrisania,Does not receive Cash Assistance,2006,Percent,0.46638,203
+Concourse/Highbridge,Does not receive Cash Assistance,2006,Percent,0.49147,204
+University Heights,Does not receive Cash Assistance,2006,Percent,0.46134,205
+East Tremont,Does not receive Cash Assistance,2006,Percent,0.40817,206
+Bedford Park,Does not receive Cash Assistance,2006,Percent,0.48457,207
+Riverdale,Does not receive Cash Assistance,2006,Percent,0.61646,208
+Unionport/Soundview,Does not receive Cash Assistance,2006,Percent,0.49719,209
+Throgs Neck,Does not receive Cash Assistance,2006,Percent,0.64048,210
+Pelham Parkway,Does not receive Cash Assistance,2006,Percent,0.55888,211
+Williamsbridge,Does not receive Cash Assistance,2006,Percent,0.42525,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2006,Percent,0.81696,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2006,Percent,0.58274,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2006,Percent,0.52953,303
+Bushwick,Does not receive Cash Assistance,2006,Percent,0.58463,304
+East New York,Does not receive Cash Assistance,2006,Percent,0.55795,305
+Park Slope,Does not receive Cash Assistance,2006,Percent,0.63705,306
+Sunset Park,Does not receive Cash Assistance,2006,Percent,0.74591,307
+Crown Heights North,Does not receive Cash Assistance,2006,Percent,0.50616,308
+Crown Heights South,Does not receive Cash Assistance,2006,Percent,0.64121,309
+Bay Ridge,Does not receive Cash Assistance,2006,Percent,0.80581,310
+Bensonhurst,Does not receive Cash Assistance,2006,Percent,0.86414,311
+Borough Park,Does not receive Cash Assistance,2006,Percent,0.88071,312
+Coney Island,Does not receive Cash Assistance,2006,Percent,0.78402,313
+Flatbush/Midwood,Does not receive Cash Assistance,2006,Percent,0.67603,314
+Sheepshead Bay,Does not receive Cash Assistance,2006,Percent,0.83455,315
+Brownsville,Does not receive Cash Assistance,2006,Percent,0.47253,316
+East Flatbush,Does not receive Cash Assistance,2006,Percent,0.57475,317
+Canarsie,Does not receive Cash Assistance,2006,Percent,0.65337,318
+Astoria,Does not receive Cash Assistance,2006,Percent,0.69389,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2006,Percent,0.78545,402
+Jackson Heights,Does not receive Cash Assistance,2006,Percent,0.7711,403
+Elmhurst/Corona,Does not receive Cash Assistance,2006,Percent,0.79188,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2006,Percent,0.73013,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2006,Percent,0.84131,406
+Flushing,Does not receive Cash Assistance,2006,Percent,0.81461,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2006,Percent,0.66165,408
+Woodhaven,Does not receive Cash Assistance,2006,Percent,0.67306,409
+Howard Beach,Does not receive Cash Assistance,2006,Percent,0.6648,410
+Bayside,Does not receive Cash Assistance,2006,Percent,0.84059,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2006,Percent,0.56923,412
+Queens Village,Does not receive Cash Assistance,2006,Percent,0.58368,413
+The Rockaways,Does not receive Cash Assistance,2006,Percent,0.58149,414
+St. George,Does not receive Cash Assistance,2006,Percent,0.52046,501
+South Beach,Does not receive Cash Assistance,2006,Percent,0.73312,502
+Tottenville,Does not receive Cash Assistance,2006,Percent,0.80685,503
+Bronx,Does not receive Cash Assistance,2006,Percent,0.61866,36005
+Brooklyn,Does not receive Cash Assistance,2006,Percent,0.61866,36047
+Manhattan,Does not receive Cash Assistance,2006,Percent,0.61866,36061
+Queens,Does not receive Cash Assistance,2006,Percent,0.61866,36081
+Staten Island,Does not receive Cash Assistance,2006,Percent,0.61866,36085
+New York City,Does not receive Cash Assistance,2006,Percent,0.61866,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2007,Percent,0.56304,101
+Greenwich Village,Does not receive Cash Assistance,2007,Percent,0.87385,102
+Lower East Side,Does not receive Cash Assistance,2007,Percent,0.7436,103
+Chelsea/Clinton,Does not receive Cash Assistance,2007,Percent,0.68772,104
+Midtown Business District,Does not receive Cash Assistance,2007,Percent,0.52455,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2007,Percent,0.73255,106
+Upper West Side,Does not receive Cash Assistance,2007,Percent,0.62657,107
+Upper East Side,Does not receive Cash Assistance,2007,Percent,0.76607,108
+Manhattanville,Does not receive Cash Assistance,2007,Percent,0.60306,109
+Central Harlem,Does not receive Cash Assistance,2007,Percent,0.56611,110
+East Harlem,Does not receive Cash Assistance,2007,Percent,0.55024,111
+Washington Heights,Does not receive Cash Assistance,2007,Percent,0.73039,112
+Mott Haven,Does not receive Cash Assistance,2007,Percent,0.65942,201
+Hunts Point,Does not receive Cash Assistance,2007,Percent,0.65695,202
+Morrisania,Does not receive Cash Assistance,2007,Percent,0.64137,203
+Concourse/Highbridge,Does not receive Cash Assistance,2007,Percent,0.65666,204
+University Heights,Does not receive Cash Assistance,2007,Percent,0.63031,205
+East Tremont,Does not receive Cash Assistance,2007,Percent,0.57881,206
+Bedford Park,Does not receive Cash Assistance,2007,Percent,0.66198,207
+Riverdale,Does not receive Cash Assistance,2007,Percent,0.77763,208
+Unionport/Soundview,Does not receive Cash Assistance,2007,Percent,0.66565,209
+Throgs Neck,Does not receive Cash Assistance,2007,Percent,0.77016,210
+Pelham Parkway,Does not receive Cash Assistance,2007,Percent,0.70863,211
+Williamsbridge,Does not receive Cash Assistance,2007,Percent,0.61924,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2007,Percent,0.81432,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2007,Percent,0.58129,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2007,Percent,0.51393,303
+Bushwick,Does not receive Cash Assistance,2007,Percent,0.56486,304
+East New York,Does not receive Cash Assistance,2007,Percent,0.53796,305
+Park Slope,Does not receive Cash Assistance,2007,Percent,0.61945,306
+Sunset Park,Does not receive Cash Assistance,2007,Percent,0.74051,307
+Crown Heights North,Does not receive Cash Assistance,2007,Percent,0.48519,308
+Crown Heights South,Does not receive Cash Assistance,2007,Percent,0.61314,309
+Bay Ridge,Does not receive Cash Assistance,2007,Percent,0.78768,310
+Bensonhurst,Does not receive Cash Assistance,2007,Percent,0.83938,311
+Borough Park,Does not receive Cash Assistance,2007,Percent,0.87256,312
+Coney Island,Does not receive Cash Assistance,2007,Percent,0.76509,313
+Flatbush/Midwood,Does not receive Cash Assistance,2007,Percent,0.66118,314
+Sheepshead Bay,Does not receive Cash Assistance,2007,Percent,0.81929,315
+Brownsville,Does not receive Cash Assistance,2007,Percent,0.45096,316
+East Flatbush,Does not receive Cash Assistance,2007,Percent,0.55119,317
+Canarsie,Does not receive Cash Assistance,2007,Percent,0.63704,318
+Astoria,Does not receive Cash Assistance,2007,Percent,0.6632,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2007,Percent,0.75779,402
+Jackson Heights,Does not receive Cash Assistance,2007,Percent,0.73132,403
+Elmhurst/Corona,Does not receive Cash Assistance,2007,Percent,0.77136,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2007,Percent,0.69888,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2007,Percent,0.82392,406
+Flushing,Does not receive Cash Assistance,2007,Percent,0.7767,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2007,Percent,0.62488,408
+Woodhaven,Does not receive Cash Assistance,2007,Percent,0.636,409
+Howard Beach,Does not receive Cash Assistance,2007,Percent,0.63436,410
+Bayside,Does not receive Cash Assistance,2007,Percent,0.78158,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2007,Percent,0.52424,412
+Queens Village,Does not receive Cash Assistance,2007,Percent,0.53369,413
+The Rockaways,Does not receive Cash Assistance,2007,Percent,0.51687,414
+St. George,Does not receive Cash Assistance,2007,Percent,0.58044,501
+South Beach,Does not receive Cash Assistance,2007,Percent,0.77106,502
+Tottenville,Does not receive Cash Assistance,2007,Percent,0.82972,503
+Bronx,Does not receive Cash Assistance,2007,Percent,0.65476,36005
+Brooklyn,Does not receive Cash Assistance,2007,Percent,0.65476,36047
+Manhattan,Does not receive Cash Assistance,2007,Percent,0.65476,36061
+Queens,Does not receive Cash Assistance,2007,Percent,0.65476,36081
+Staten Island,Does not receive Cash Assistance,2007,Percent,0.65476,36085
+New York City,Does not receive Cash Assistance,2007,Percent,0.65476,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2009,Percent,0.68969,101
+Greenwich Village,Does not receive Cash Assistance,2009,Percent,0.91194,102
+Lower East Side,Does not receive Cash Assistance,2009,Percent,0.82579,103
+Chelsea/Clinton,Does not receive Cash Assistance,2009,Percent,0.79983,104
+Midtown Business District,Does not receive Cash Assistance,2009,Percent,0.61023,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2009,Percent,0.80726,106
+Upper West Side,Does not receive Cash Assistance,2009,Percent,0.73653,107
+Upper East Side,Does not receive Cash Assistance,2009,Percent,0.85209,108
+Manhattanville,Does not receive Cash Assistance,2009,Percent,0.74478,109
+Central Harlem,Does not receive Cash Assistance,2009,Percent,0.72062,110
+East Harlem,Does not receive Cash Assistance,2009,Percent,0.72131,111
+Washington Heights,Does not receive Cash Assistance,2009,Percent,0.83652,112
+Mott Haven,Does not receive Cash Assistance,2009,Percent,0.70448,201
+Hunts Point,Does not receive Cash Assistance,2009,Percent,0.66796,202
+Morrisania,Does not receive Cash Assistance,2009,Percent,0.67864,203
+Concourse/Highbridge,Does not receive Cash Assistance,2009,Percent,0.68345,204
+University Heights,Does not receive Cash Assistance,2009,Percent,0.6658,205
+East Tremont,Does not receive Cash Assistance,2009,Percent,0.62849,206
+Bedford Park,Does not receive Cash Assistance,2009,Percent,0.7053,207
+Riverdale,Does not receive Cash Assistance,2009,Percent,0.80563,208
+Unionport/Soundview,Does not receive Cash Assistance,2009,Percent,0.71238,209
+Throgs Neck,Does not receive Cash Assistance,2009,Percent,0.78749,210
+Pelham Parkway,Does not receive Cash Assistance,2009,Percent,0.75358,211
+Williamsbridge,Does not receive Cash Assistance,2009,Percent,0.67325,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2009,Percent,0.88883,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2009,Percent,0.77542,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2009,Percent,0.71518,303
+Bushwick,Does not receive Cash Assistance,2009,Percent,0.75763,304
+East New York,Does not receive Cash Assistance,2009,Percent,0.7334,305
+Park Slope,Does not receive Cash Assistance,2009,Percent,0.81215,306
+Sunset Park,Does not receive Cash Assistance,2009,Percent,0.86,307
+Crown Heights North,Does not receive Cash Assistance,2009,Percent,0.69176,308
+Crown Heights South,Does not receive Cash Assistance,2009,Percent,0.78179,309
+Bay Ridge,Does not receive Cash Assistance,2009,Percent,0.88023,310
+Bensonhurst,Does not receive Cash Assistance,2009,Percent,0.9092,311
+Borough Park,Does not receive Cash Assistance,2009,Percent,0.92752,312
+Coney Island,Does not receive Cash Assistance,2009,Percent,0.86057,313
+Flatbush/Midwood,Does not receive Cash Assistance,2009,Percent,0.80832,314
+Sheepshead Bay,Does not receive Cash Assistance,2009,Percent,0.89446,315
+Brownsville,Does not receive Cash Assistance,2009,Percent,0.6476,316
+East Flatbush,Does not receive Cash Assistance,2009,Percent,0.74868,317
+Canarsie,Does not receive Cash Assistance,2009,Percent,0.80514,318
+Astoria,Does not receive Cash Assistance,2009,Percent,0.67461,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2009,Percent,0.75548,402
+Jackson Heights,Does not receive Cash Assistance,2009,Percent,0.7523,403
+Elmhurst/Corona,Does not receive Cash Assistance,2009,Percent,0.77581,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2009,Percent,0.72612,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2009,Percent,0.82362,406
+Flushing,Does not receive Cash Assistance,2009,Percent,0.78202,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2009,Percent,0.64197,408
+Woodhaven,Does not receive Cash Assistance,2009,Percent,0.67761,409
+Howard Beach,Does not receive Cash Assistance,2009,Percent,0.6584,410
+Bayside,Does not receive Cash Assistance,2009,Percent,0.78818,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2009,Percent,0.56091,412
+Queens Village,Does not receive Cash Assistance,2009,Percent,0.58356,413
+The Rockaways,Does not receive Cash Assistance,2009,Percent,0.5343,414
+St. George,Does not receive Cash Assistance,2009,Percent,0.67174,501
+South Beach,Does not receive Cash Assistance,2009,Percent,0.83137,502
+Tottenville,Does not receive Cash Assistance,2009,Percent,0.89128,503
+Bronx,Does not receive Cash Assistance,2009,Percent,0.69363,36005
+Brooklyn,Does not receive Cash Assistance,2009,Percent,0.8024,36047
+Manhattan,Does not receive Cash Assistance,2009,Percent,0.77757,36061
+Queens,Does not receive Cash Assistance,2009,Percent,0.66967,36081
+Staten Island,Does not receive Cash Assistance,2009,Percent,0.73934,36085
+New York City,Does not receive Cash Assistance,2009,Percent,0.74567,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2011,Percent,0.72534,101
+Greenwich Village,Does not receive Cash Assistance,2011,Percent,0.90883,102
+Lower East Side,Does not receive Cash Assistance,2011,Percent,0.85226,103
+Chelsea/Clinton,Does not receive Cash Assistance,2011,Percent,0.81039,104
+Midtown Business District,Does not receive Cash Assistance,2011,Percent,0.67603,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2011,Percent,0.83458,106
+Upper West Side,Does not receive Cash Assistance,2011,Percent,0.79092,107
+Upper East Side,Does not receive Cash Assistance,2011,Percent,0.87573,108
+Manhattanville,Does not receive Cash Assistance,2011,Percent,0.78328,109
+Central Harlem,Does not receive Cash Assistance,2011,Percent,0.74459,110
+East Harlem,Does not receive Cash Assistance,2011,Percent,0.76064,111
+Washington Heights,Does not receive Cash Assistance,2011,Percent,0.73439,112
+Mott Haven,Does not receive Cash Assistance,2011,Percent,0.77973,201
+Hunts Point,Does not receive Cash Assistance,2011,Percent,0.74484,202
+Morrisania,Does not receive Cash Assistance,2011,Percent,0.76826,203
+Concourse/Highbridge,Does not receive Cash Assistance,2011,Percent,0.77906,204
+University Heights,Does not receive Cash Assistance,2011,Percent,0.76587,205
+East Tremont,Does not receive Cash Assistance,2011,Percent,0.70461,206
+Bedford Park,Does not receive Cash Assistance,2011,Percent,0.7867,207
+Riverdale,Does not receive Cash Assistance,2011,Percent,0.85822,208
+Unionport/Soundview,Does not receive Cash Assistance,2011,Percent,0.79317,209
+Throgs Neck,Does not receive Cash Assistance,2011,Percent,0.85058,210
+Pelham Parkway,Does not receive Cash Assistance,2011,Percent,0.82145,211
+Williamsbridge,Does not receive Cash Assistance,2011,Percent,0.75894,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2011,Percent,0.90667,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2011,Percent,0.7963,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2011,Percent,0.75283,303
+Bushwick,Does not receive Cash Assistance,2011,Percent,0.7903,304
+East New York,Does not receive Cash Assistance,2011,Percent,0.77445,305
+Park Slope,Does not receive Cash Assistance,2011,Percent,0.84875,306
+Sunset Park,Does not receive Cash Assistance,2011,Percent,0.89033,307
+Crown Heights North,Does not receive Cash Assistance,2011,Percent,0.73744,308
+Crown Heights South,Does not receive Cash Assistance,2011,Percent,0.82308,309
+Bay Ridge,Does not receive Cash Assistance,2011,Percent,0.90494,310
+Bensonhurst,Does not receive Cash Assistance,2011,Percent,0.92264,311
+Borough Park,Does not receive Cash Assistance,2011,Percent,0.90903,312
+Coney Island,Does not receive Cash Assistance,2011,Percent,0.87699,313
+Flatbush/Midwood,Does not receive Cash Assistance,2011,Percent,0.83937,314
+Sheepshead Bay,Does not receive Cash Assistance,2011,Percent,0.91155,315
+Brownsville,Does not receive Cash Assistance,2011,Percent,0.69965,316
+East Flatbush,Does not receive Cash Assistance,2011,Percent,0.78504,317
+Canarsie,Does not receive Cash Assistance,2011,Percent,0.84599,318
+Astoria,Does not receive Cash Assistance,2011,Percent,0.65678,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2011,Percent,0.72539,402
+Jackson Heights,Does not receive Cash Assistance,2011,Percent,0.7258,403
+Elmhurst/Corona,Does not receive Cash Assistance,2011,Percent,0.7485,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2011,Percent,0.70222,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2011,Percent,0.79838,406
+Flushing,Does not receive Cash Assistance,2011,Percent,0.75148,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2011,Percent,0.62036,408
+Woodhaven,Does not receive Cash Assistance,2011,Percent,0.6506,409
+Howard Beach,Does not receive Cash Assistance,2011,Percent,0.68021,410
+Bayside,Does not receive Cash Assistance,2011,Percent,0.73489,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2011,Percent,0.52292,412
+Queens Village,Does not receive Cash Assistance,2011,Percent,0.53555,413
+The Rockaways,Does not receive Cash Assistance,2011,Percent,0.50174,414
+St. George,Does not receive Cash Assistance,2011,Percent,0.71415,501
+South Beach,Does not receive Cash Assistance,2011,Percent,0.85966,502
+Tottenville,Does not receive Cash Assistance,2011,Percent,0.92096,503
+Bronx,Does not receive Cash Assistance,2011,Percent,0.77743,36005
+Brooklyn,Does not receive Cash Assistance,2011,Percent,0.83276,36047
+Manhattan,Does not receive Cash Assistance,2011,Percent,0.80512,36061
+Queens,Does not receive Cash Assistance,2011,Percent,0.64284,36081
+Staten Island,Does not receive Cash Assistance,2011,Percent,0.77998,36085
+New York City,Does not receive Cash Assistance,2011,Percent,0.78181,3651000
+Mott Haven,Receives Cash Assistance,2016,Number,15512,201
+Hunts Point,Receives Cash Assistance,2016,Number,8290,202
+Morrisania,Receives Cash Assistance,2016,Number,15048,203
+Concourse/Highbridge,Receives Cash Assistance,2016,Number,19543,204
+University Heights,Receives Cash Assistance,2016,Number,20781,205
+East Tremont,Receives Cash Assistance,2016,Number,16394,206
+Bedford Park,Receives Cash Assistance,2016,Number,15017,207
+Riverdale,Receives Cash Assistance,2016,Number,3602,208
+Unionport/Soundview,Receives Cash Assistance,2016,Number,16148,209
+Throgs Neck,Receives Cash Assistance,2016,Number,3969,210
+Pelham Parkway,Receives Cash Assistance,2016,Number,6660,211
+Williamsbridge,Receives Cash Assistance,2016,Number,13869,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2016,Number,7390,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2016,Number,3781,302
+Bedford Stuyvesant,Receives Cash Assistance,2016,Number,12956,303
+Bushwick,Receives Cash Assistance,2016,Number,6285,304
+East New York,Receives Cash Assistance,2016,Number,17845,305
+Park Slope,Receives Cash Assistance,2016,Number,2155,306
+Sunset Park,Receives Cash Assistance,2016,Number,3378,307
+Crown Heights North,Receives Cash Assistance,2016,Number,6742,308
+Crown Heights South,Receives Cash Assistance,2016,Number,4310,309
+Bay Ridge,Receives Cash Assistance,2016,Number,2138,310
+Bensonhurst,Receives Cash Assistance,2016,Number,3364,311
+Borough Park,Receives Cash Assistance,2016,Number,11533,312
+Coney Island,Receives Cash Assistance,2016,Number,5749,313
+Flatbush/Midwood,Receives Cash Assistance,2016,Number,5762,314
+Sheepshead Bay,Receives Cash Assistance,2016,Number,3494,315
+Brownsville,Receives Cash Assistance,2016,Number,13977,316
+East Flatbush,Receives Cash Assistance,2016,Number,9086,317
+Canarsie,Receives Cash Assistance,2016,Number,6588,318
+Battery Park/Tribeca,Receives Cash Assistance,2016,Number,569,101
+Greenwich Village,Receives Cash Assistance,2016,Number,321,102
+Lower East Side,Receives Cash Assistance,2016,Number,7039,103
+Chelsea/Clinton,Receives Cash Assistance,2016,Number,2643,104
+Midtown Business District,Receives Cash Assistance,2016,Number,1288,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2016,Number,1221,106
+Upper West Side,Receives Cash Assistance,2016,Number,4163,107
+Upper East Side,Receives Cash Assistance,2016,Number,867,108
+Manhattanville,Receives Cash Assistance,2016,Number,6165,109
+Central Harlem,Receives Cash Assistance,2016,Number,10922,110
+East Harlem,Receives Cash Assistance,2016,Number,12553,111
+Washington Heights,Receives Cash Assistance,2016,Number,8034,112
+Astoria,Receives Cash Assistance,2016,Number,4431,401
+Sunnyside/Woodside,Receives Cash Assistance,2016,Number,1397,402
+Jackson Heights,Receives Cash Assistance,2016,Number,3336,403
+Elmhurst/Corona,Receives Cash Assistance,2016,Number,3210,404
+Ridgewood/Glendale,Receives Cash Assistance,2016,Number,2418,405
+Rego Park/Forest Hills,Receives Cash Assistance,2016,Number,902,406
+Flushing,Receives Cash Assistance,2016,Number,3313,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2016,Number,3505,408
+Woodhaven,Receives Cash Assistance,2016,Number,3509,409
+Howard Beach,Receives Cash Assistance,2016,Number,2460,410
+Bayside,Receives Cash Assistance,2016,Number,714,411
+Jamaica/St. Albans,Receives Cash Assistance,2016,Number,11951,412
+Queens Village,Receives Cash Assistance,2016,Number,4371,413
+The Rockaways,Receives Cash Assistance,2016,Number,9603,414
+St. George,Receives Cash Assistance,2016,Number,13472,501
+South Beach,Receives Cash Assistance,2016,Number,2328,502
+Tottenville,Receives Cash Assistance,2016,Number,1273,503
+Mott Haven,Does not receive Cash Assistance,2016,Number,30997,201
+Hunts Point,Does not receive Cash Assistance,2016,Number,14926,202
+Morrisania,Does not receive Cash Assistance,2016,Number,27243,203
+Concourse/Highbridge,Does not receive Cash Assistance,2016,Number,41324,204
+University Heights,Does not receive Cash Assistance,2016,Number,38808,205
+East Tremont,Does not receive Cash Assistance,2016,Number,23673,206
+Bedford Park,Does not receive Cash Assistance,2016,Number,34140,207
+Riverdale,Does not receive Cash Assistance,2016,Number,13216,208
+Unionport/Soundview,Does not receive Cash Assistance,2016,Number,38804,209
+Throgs Neck,Does not receive Cash Assistance,2016,Number,13474,210
+Pelham Parkway,Does not receive Cash Assistance,2016,Number,18200,211
+Williamsbridge,Does not receive Cash Assistance,2016,Number,23888,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2016,Number,46950,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2016,Number,10448,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2016,Number,35114,303
+Bushwick,Does not receive Cash Assistance,2016,Number,22386,304
+East New York,Does not receive Cash Assistance,2016,Number,47078,305
+Park Slope,Does not receive Cash Assistance,2016,Number,8136,306
+Sunset Park,Does not receive Cash Assistance,2016,Number,22378,307
+Crown Heights North,Does not receive Cash Assistance,2016,Number,15651,308
+Crown Heights South,Does not receive Cash Assistance,2016,Number,17399,309
+Bay Ridge,Does not receive Cash Assistance,2016,Number,16143,310
+Bensonhurst,Does not receive Cash Assistance,2016,Number,35667,311
+Borough Park,Does not receive Cash Assistance,2016,Number,54649,312
+Coney Island,Does not receive Cash Assistance,2016,Number,27562,313
+Flatbush/Midwood,Does not receive Cash Assistance,2016,Number,28803,314
+Sheepshead Bay,Does not receive Cash Assistance,2016,Number,25654,315
+Brownsville,Does not receive Cash Assistance,2016,Number,23263,316
+East Flatbush,Does not receive Cash Assistance,2016,Number,23156,317
+Canarsie,Does not receive Cash Assistance,2016,Number,21930,318
+Battery Park/Tribeca,Does not receive Cash Assistance,2016,Number,1438,101
+Greenwich Village,Does not receive Cash Assistance,2016,Number,2892,102
+Lower East Side,Does not receive Cash Assistance,2016,Number,31648,103
+Chelsea/Clinton,Does not receive Cash Assistance,2016,Number,8627,104
+Midtown Business District,Does not receive Cash Assistance,2016,Number,2121,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2016,Number,3744,106
+Upper West Side,Does not receive Cash Assistance,2016,Number,12450,107
+Upper East Side,Does not receive Cash Assistance,2016,Number,4688,108
+Manhattanville,Does not receive Cash Assistance,2016,Number,17271,109
+Central Harlem,Does not receive Cash Assistance,2016,Number,24475,110
+East Harlem,Does not receive Cash Assistance,2016,Number,31716,111
+Washington Heights,Does not receive Cash Assistance,2016,Number,42435,112
+Astoria,Does not receive Cash Assistance,2016,Number,18523,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2016,Number,9835,402
+Jackson Heights,Does not receive Cash Assistance,2016,Number,25258,403
+Elmhurst/Corona,Does not receive Cash Assistance,2016,Number,25560,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2016,Number,17490,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2016,Number,9521,406
+Flushing,Does not receive Cash Assistance,2016,Number,23569,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2016,Number,14470,408
+Woodhaven,Does not receive Cash Assistance,2016,Number,19713,409
+Howard Beach,Does not receive Cash Assistance,2016,Number,13762,410
+Bayside,Does not receive Cash Assistance,2016,Number,5611,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2016,Number,34227,412
+Queens Village,Does not receive Cash Assistance,2016,Number,15146,413
+The Rockaways,Does not receive Cash Assistance,2016,Number,20617,414
+St. George,Does not receive Cash Assistance,2016,Number,25612,501
+South Beach,Does not receive Cash Assistance,2016,Number,11426,502
+Tottenville,Does not receive Cash Assistance,2016,Number,8542,503
+Mott Haven,Receives Cash Assistance,2016,Percent,0.33353,201
+Hunts Point,Receives Cash Assistance,2016,Percent,0.35708,202
+Morrisania,Receives Cash Assistance,2016,Percent,0.35582,203
+Concourse/Highbridge,Receives Cash Assistance,2016,Percent,0.32108,204
+University Heights,Receives Cash Assistance,2016,Percent,0.34874,205
+East Tremont,Receives Cash Assistance,2016,Percent,0.40916,206
+Bedford Park,Receives Cash Assistance,2016,Percent,0.30549,207
+Riverdale,Receives Cash Assistance,2016,Percent,0.21418,208
+Unionport/Soundview,Receives Cash Assistance,2016,Percent,0.29386,209
+Throgs Neck,Receives Cash Assistance,2016,Percent,0.22754,210
+Pelham Parkway,Receives Cash Assistance,2016,Percent,0.2679,211
+Williamsbridge,Receives Cash Assistance,2016,Percent,0.36732,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2016,Percent,0.136,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2016,Percent,0.26572,302
+Bedford Stuyvesant,Receives Cash Assistance,2016,Percent,0.26952,303
+Bushwick,Receives Cash Assistance,2016,Percent,0.21921,304
+East New York,Receives Cash Assistance,2016,Percent,0.27486,305
+Park Slope,Receives Cash Assistance,2016,Percent,0.20941,306
+Sunset Park,Receives Cash Assistance,2016,Percent,0.13115,307
+Crown Heights North,Receives Cash Assistance,2016,Percent,0.30108,308
+Crown Heights South,Receives Cash Assistance,2016,Percent,0.19854,309
+Bay Ridge,Receives Cash Assistance,2016,Percent,0.11695,310
+Bensonhurst,Receives Cash Assistance,2016,Percent,0.08619,311
+Borough Park,Receives Cash Assistance,2016,Percent,0.17426,312
+Coney Island,Receives Cash Assistance,2016,Percent,0.17259,313
+Flatbush/Midwood,Receives Cash Assistance,2016,Percent,0.1667,314
+Sheepshead Bay,Receives Cash Assistance,2016,Percent,0.11987,315
+Brownsville,Receives Cash Assistance,2016,Percent,0.37532,316
+East Flatbush,Receives Cash Assistance,2016,Percent,0.28181,317
+Canarsie,Receives Cash Assistance,2016,Percent,0.23101,318
+Battery Park/Tribeca,Receives Cash Assistance,2016,Percent,0.28351,101
+Greenwich Village,Receives Cash Assistance,2016,Percent,0.09991,102
+Lower East Side,Receives Cash Assistance,2016,Percent,0.18195,103
+Chelsea/Clinton,Receives Cash Assistance,2016,Percent,0.23452,104
+Midtown Business District,Receives Cash Assistance,2016,Percent,0.37782,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2016,Percent,0.24592,106
+Upper West Side,Receives Cash Assistance,2016,Percent,0.25059,107
+Upper East Side,Receives Cash Assistance,2016,Percent,0.15608,108
+Manhattanville,Receives Cash Assistance,2016,Percent,0.26306,109
+Central Harlem,Receives Cash Assistance,2016,Percent,0.30856,110
+East Harlem,Receives Cash Assistance,2016,Percent,0.28356,111
+Washington Heights,Receives Cash Assistance,2016,Percent,0.15919,112
+Astoria,Receives Cash Assistance,2016,Percent,0.19304,401
+Sunnyside/Woodside,Receives Cash Assistance,2016,Percent,0.12438,402
+Jackson Heights,Receives Cash Assistance,2016,Percent,0.11667,403
+Elmhurst/Corona,Receives Cash Assistance,2016,Percent,0.11157,404
+Ridgewood/Glendale,Receives Cash Assistance,2016,Percent,0.12146,405
+Rego Park/Forest Hills,Receives Cash Assistance,2016,Percent,0.08654,406
+Flushing,Receives Cash Assistance,2016,Percent,0.12324,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2016,Percent,0.19499,408
+Woodhaven,Receives Cash Assistance,2016,Percent,0.15111,409
+Howard Beach,Receives Cash Assistance,2016,Percent,0.15165,410
+Bayside,Receives Cash Assistance,2016,Percent,0.11289,411
+Jamaica/St. Albans,Receives Cash Assistance,2016,Percent,0.2588,412
+Queens Village,Receives Cash Assistance,2016,Percent,0.22396,413
+The Rockaways,Receives Cash Assistance,2016,Percent,0.31777,414
+St. George,Receives Cash Assistance,2016,Percent,0.34469,501
+South Beach,Receives Cash Assistance,2016,Percent,0.16926,502
+Tottenville,Receives Cash Assistance,2016,Percent,0.1297,503
+Mott Haven,Does not receive Cash Assistance,2016,Percent,0.66647,201
+Hunts Point,Does not receive Cash Assistance,2016,Percent,0.64292,202
+Morrisania,Does not receive Cash Assistance,2016,Percent,0.64418,203
+Concourse/Highbridge,Does not receive Cash Assistance,2016,Percent,0.67892,204
+University Heights,Does not receive Cash Assistance,2016,Percent,0.65126,205
+East Tremont,Does not receive Cash Assistance,2016,Percent,0.59084,206
+Bedford Park,Does not receive Cash Assistance,2016,Percent,0.69451,207
+Riverdale,Does not receive Cash Assistance,2016,Percent,0.78582,208
+Unionport/Soundview,Does not receive Cash Assistance,2016,Percent,0.70614,209
+Throgs Neck,Does not receive Cash Assistance,2016,Percent,0.77246,210
+Pelham Parkway,Does not receive Cash Assistance,2016,Percent,0.7321,211
+Williamsbridge,Does not receive Cash Assistance,2016,Percent,0.63268,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2016,Percent,0.864,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2016,Percent,0.73428,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2016,Percent,0.73048,303
+Bushwick,Does not receive Cash Assistance,2016,Percent,0.78079,304
+East New York,Does not receive Cash Assistance,2016,Percent,0.72514,305
+Park Slope,Does not receive Cash Assistance,2016,Percent,0.79059,306
+Sunset Park,Does not receive Cash Assistance,2016,Percent,0.86885,307
+Crown Heights North,Does not receive Cash Assistance,2016,Percent,0.69892,308
+Crown Heights South,Does not receive Cash Assistance,2016,Percent,0.80146,309
+Bay Ridge,Does not receive Cash Assistance,2016,Percent,0.88305,310
+Bensonhurst,Does not receive Cash Assistance,2016,Percent,0.91381,311
+Borough Park,Does not receive Cash Assistance,2016,Percent,0.82574,312
+Coney Island,Does not receive Cash Assistance,2016,Percent,0.82741,313
+Flatbush/Midwood,Does not receive Cash Assistance,2016,Percent,0.8333,314
+Sheepshead Bay,Does not receive Cash Assistance,2016,Percent,0.88013,315
+Brownsville,Does not receive Cash Assistance,2016,Percent,0.62468,316
+East Flatbush,Does not receive Cash Assistance,2016,Percent,0.71819,317
+Canarsie,Does not receive Cash Assistance,2016,Percent,0.76899,318
+Battery Park/Tribeca,Does not receive Cash Assistance,2016,Percent,0.71649,101
+Greenwich Village,Does not receive Cash Assistance,2016,Percent,0.90009,102
+Lower East Side,Does not receive Cash Assistance,2016,Percent,0.81805,103
+Chelsea/Clinton,Does not receive Cash Assistance,2016,Percent,0.76548,104
+Midtown Business District,Does not receive Cash Assistance,2016,Percent,0.62218,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2016,Percent,0.75408,106
+Upper West Side,Does not receive Cash Assistance,2016,Percent,0.74941,107
+Upper East Side,Does not receive Cash Assistance,2016,Percent,0.84392,108
+Manhattanville,Does not receive Cash Assistance,2016,Percent,0.73694,109
+Central Harlem,Does not receive Cash Assistance,2016,Percent,0.69144,110
+East Harlem,Does not receive Cash Assistance,2016,Percent,0.71644,111
+Washington Heights,Does not receive Cash Assistance,2016,Percent,0.84081,112
+Astoria,Does not receive Cash Assistance,2016,Percent,0.80696,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2016,Percent,0.87562,402
+Jackson Heights,Does not receive Cash Assistance,2016,Percent,0.88333,403
+Elmhurst/Corona,Does not receive Cash Assistance,2016,Percent,0.88843,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2016,Percent,0.87854,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2016,Percent,0.91346,406
+Flushing,Does not receive Cash Assistance,2016,Percent,0.87676,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2016,Percent,0.80501,408
+Woodhaven,Does not receive Cash Assistance,2016,Percent,0.84889,409
+Howard Beach,Does not receive Cash Assistance,2016,Percent,0.84835,410
+Bayside,Does not receive Cash Assistance,2016,Percent,0.88711,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2016,Percent,0.7412,412
+Queens Village,Does not receive Cash Assistance,2016,Percent,0.77604,413
+The Rockaways,Does not receive Cash Assistance,2016,Percent,0.68223,414
+St. George,Does not receive Cash Assistance,2016,Percent,0.65531,501
+South Beach,Does not receive Cash Assistance,2016,Percent,0.83074,502
+Tottenville,Does not receive Cash Assistance,2016,Percent,0.8703,503
+New York City,Receives Cash Assistance,2016,Number,409342,3651000
+New York City,Does not receive Cash Assistance,2016,Number,1283447,3651000
+New York City,Receives Cash Assistance,2016,Percent,0.24182,3651000
+New York City,Does not receive Cash Assistance,2016,Percent,0.75818,3651000
+Bronx,Receives Cash Assistance,2016,Number,154833,36005
+Brooklyn,Receives Cash Assistance,2016,Number,126533,36047
+Manhattan,Receives Cash Assistance,2016,Number,55785,36061
+Queens,Receives Cash Assistance,2016,Number,55120,36081
+Staten Island,Receives Cash Assistance,2016,Number,17073,36085
+Bronx,Does not receive Cash Assistance,2016,Number,318693,36005
+Brooklyn,Does not receive Cash Assistance,2016,Number,482367,36047
+Manhattan,Does not receive Cash Assistance,2016,Number,183505,36061
+Queens,Does not receive Cash Assistance,2016,Number,253302,36081
+Staten Island,Does not receive Cash Assistance,2016,Number,45580,36085
+Bronx,Receives Cash Assistance,2016,Percent,0.32698,36005
+Brooklyn,Receives Cash Assistance,2016,Percent,0.20781,36047
+Manhattan,Receives Cash Assistance,2016,Percent,0.23313,36061
+Queens,Receives Cash Assistance,2016,Percent,0.17872,36081
+Staten Island,Receives Cash Assistance,2016,Percent,0.2725,36085
+Bronx,Does not receive Cash Assistance,2016,Percent,0.67302,36005
+Brooklyn,Does not receive Cash Assistance,2016,Percent,0.79219,36047
+Manhattan,Does not receive Cash Assistance,2016,Percent,0.76687,36061
+Queens,Does not receive Cash Assistance,2016,Percent,0.82128,36081
+Staten Island,Does not receive Cash Assistance,2016,Percent,0.7275,36085
+Battery Park/Tribeca,Receives Cash Assistance,2017,Number,784,101
+Greenwich Village,Receives Cash Assistance,2017,Number,324,102
+Lower East Side,Receives Cash Assistance,2017,Number,7003,103
+Chelsea/Clinton,Receives Cash Assistance,2017,Number,3080,104
+Midtown Business District,Receives Cash Assistance,2017,Number,2128,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2017,Number,1148,106
+Upper West Side,Receives Cash Assistance,2017,Number,4109,107
+Upper East Side,Receives Cash Assistance,2017,Number,837,108
+Manhattanville,Receives Cash Assistance,2017,Number,6146,109
+Central Harlem,Receives Cash Assistance,2017,Number,10582,110
+East Harlem,Receives Cash Assistance,2017,Number,12043,111
+Washington Heights,Receives Cash Assistance,2017,Number,7590,112
+Mott Haven,Receives Cash Assistance,2017,Number,15212,201
+Hunts Point,Receives Cash Assistance,2017,Number,8049,202
+Morrisania,Receives Cash Assistance,2017,Number,15169,203
+Concourse/Highbridge,Receives Cash Assistance,2017,Number,18803,204
+University Heights,Receives Cash Assistance,2017,Number,19878,205
+East Tremont,Receives Cash Assistance,2017,Number,16246,206
+Bedford Park,Receives Cash Assistance,2017,Number,14572,207
+Riverdale,Receives Cash Assistance,2017,Number,3458,208
+Unionport/Soundview,Receives Cash Assistance,2017,Number,15517,209
+Throgs Neck,Receives Cash Assistance,2017,Number,4016,210
+Pelham Parkway,Receives Cash Assistance,2017,Number,6360,211
+Williamsbridge,Receives Cash Assistance,2017,Number,13896,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2017,Number,7365,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2017,Number,3548,302
+Bedford Stuyvesant,Receives Cash Assistance,2017,Number,12145,303
+Bushwick,Receives Cash Assistance,2017,Number,5617,304
+East New York,Receives Cash Assistance,2017,Number,16921,305
+Park Slope,Receives Cash Assistance,2017,Number,2108,306
+Sunset Park,Receives Cash Assistance,2017,Number,3353,307
+Crown Heights North,Receives Cash Assistance,2017,Number,6755,308
+Crown Heights South,Receives Cash Assistance,2017,Number,4544,309
+Bay Ridge,Receives Cash Assistance,2017,Number,1991,310
+Bensonhurst,Receives Cash Assistance,2017,Number,3369,311
+Borough Park,Receives Cash Assistance,2017,Number,11402,312
+Coney Island,Receives Cash Assistance,2017,Number,5696,313
+Flatbush/Midwood,Receives Cash Assistance,2017,Number,5393,314
+Sheepshead Bay,Receives Cash Assistance,2017,Number,3447,315
+Brownsville,Receives Cash Assistance,2017,Number,13650,316
+East Flatbush,Receives Cash Assistance,2017,Number,8724,317
+Canarsie,Receives Cash Assistance,2017,Number,6383,318
+Astoria,Receives Cash Assistance,2017,Number,4585,401
+Sunnyside/Woodside,Receives Cash Assistance,2017,Number,1418,402
+Jackson Heights,Receives Cash Assistance,2017,Number,2937,403
+Elmhurst/Corona,Receives Cash Assistance,2017,Number,2910,404
+Ridgewood/Glendale,Receives Cash Assistance,2017,Number,2196,405
+Rego Park/Forest Hills,Receives Cash Assistance,2017,Number,850,406
+Flushing,Receives Cash Assistance,2017,Number,3463,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2017,Number,3288,408
+Woodhaven,Receives Cash Assistance,2017,Number,3578,409
+Howard Beach,Receives Cash Assistance,2017,Number,2691,410
+Bayside,Receives Cash Assistance,2017,Number,709,411
+Jamaica/St. Albans,Receives Cash Assistance,2017,Number,11841,412
+Queens Village,Receives Cash Assistance,2017,Number,4278,413
+The Rockaways,Receives Cash Assistance,2017,Number,9020,414
+St. George,Receives Cash Assistance,2017,Number,12589,501
+South Beach,Receives Cash Assistance,2017,Number,2322,502
+Tottenville,Receives Cash Assistance,2017,Number,1238,503
+Bronx,Receives Cash Assistance,2017,Number,151176,36005
+Brooklyn,Receives Cash Assistance,2017,Number,122411,36047
+Manhattan,Receives Cash Assistance,2017,Number,55774,36061
+Queens,Receives Cash Assistance,2017,Number,53764,36081
+Staten Island,Receives Cash Assistance,2017,Number,16149,36085
+New York City,Receives Cash Assistance,2017,Number,399274,3651000
+Battery Park/Tribeca,Receives Cash Assistance,2017,Percent,0.34706,101
+Greenwich Village,Receives Cash Assistance,2017,Percent,0.10375,102
+Lower East Side,Receives Cash Assistance,2017,Percent,0.18613,103
+Chelsea/Clinton,Receives Cash Assistance,2017,Percent,0.26713,104
+Midtown Business District,Receives Cash Assistance,2017,Percent,0.49202,105
+Murray Hill/Stuyvesant,Receives Cash Assistance,2017,Percent,0.23419,106
+Upper West Side,Receives Cash Assistance,2017,Percent,0.24912,107
+Upper East Side,Receives Cash Assistance,2017,Percent,0.15116,108
+Manhattanville,Receives Cash Assistance,2017,Percent,0.26733,109
+Central Harlem,Receives Cash Assistance,2017,Percent,0.30932,110
+East Harlem,Receives Cash Assistance,2017,Percent,0.27972,111
+Washington Heights,Receives Cash Assistance,2017,Percent,0.15545,112
+Mott Haven,Receives Cash Assistance,2017,Percent,0.33597,201
+Hunts Point,Receives Cash Assistance,2017,Percent,0.35261,202
+Morrisania,Receives Cash Assistance,2017,Percent,0.36149,203
+Concourse/Highbridge,Receives Cash Assistance,2017,Percent,0.32249,204
+University Heights,Receives Cash Assistance,2017,Percent,0.34591,205
+East Tremont,Receives Cash Assistance,2017,Percent,0.41084,206
+Bedford Park,Receives Cash Assistance,2017,Percent,0.30726,207
+Riverdale,Receives Cash Assistance,2017,Percent,0.20982,208
+Unionport/Soundview,Receives Cash Assistance,2017,Percent,0.29013,209
+Throgs Neck,Receives Cash Assistance,2017,Percent,0.22938,210
+Pelham Parkway,Receives Cash Assistance,2017,Percent,0.26454,211
+Williamsbridge,Receives Cash Assistance,2017,Percent,0.3731,212
+Williamsburg/Greenpoint,Receives Cash Assistance,2017,Percent,0.14198,301
+Fort Greene/Brooklyn Hts,Receives Cash Assistance,2017,Percent,0.25892,302
+Bedford Stuyvesant,Receives Cash Assistance,2017,Percent,0.26808,303
+Bushwick,Receives Cash Assistance,2017,Percent,0.21601,304
+East New York,Receives Cash Assistance,2017,Percent,0.26937,305
+Park Slope,Receives Cash Assistance,2017,Percent,0.21388,306
+Sunset Park,Receives Cash Assistance,2017,Percent,0.14511,307
+Crown Heights North,Receives Cash Assistance,2017,Percent,0.31555,308
+Crown Heights South,Receives Cash Assistance,2017,Percent,0.21517,309
+Bay Ridge,Receives Cash Assistance,2017,Percent,0.11645,310
+Bensonhurst,Receives Cash Assistance,2017,Percent,0.08991,311
+Borough Park,Receives Cash Assistance,2017,Percent,0.18177,312
+Coney Island,Receives Cash Assistance,2017,Percent,0.17464,313
+Flatbush/Midwood,Receives Cash Assistance,2017,Percent,0.16407,314
+Sheepshead Bay,Receives Cash Assistance,2017,Percent,0.12121,315
+Brownsville,Receives Cash Assistance,2017,Percent,0.37561,316
+East Flatbush,Receives Cash Assistance,2017,Percent,0.28317,317
+Canarsie,Receives Cash Assistance,2017,Percent,0.23077,318
+Astoria,Receives Cash Assistance,2017,Percent,0.20406,401
+Sunnyside/Woodside,Receives Cash Assistance,2017,Percent,0.13159,402
+Jackson Heights,Receives Cash Assistance,2017,Percent,0.11234,403
+Elmhurst/Corona,Receives Cash Assistance,2017,Percent,0.10706,404
+Ridgewood/Glendale,Receives Cash Assistance,2017,Percent,0.11738,405
+Rego Park/Forest Hills,Receives Cash Assistance,2017,Percent,0.0836,406
+Flushing,Receives Cash Assistance,2017,Percent,0.13181,407
+Fresh Meadows/Briarwood,Receives Cash Assistance,2017,Percent,0.1842,408
+Woodhaven,Receives Cash Assistance,2017,Percent,0.15779,409
+Howard Beach,Receives Cash Assistance,2017,Percent,0.16782,410
+Bayside,Receives Cash Assistance,2017,Percent,0.11136,411
+Jamaica/St. Albans,Receives Cash Assistance,2017,Percent,0.26543,412
+Queens Village,Receives Cash Assistance,2017,Percent,0.22176,413
+The Rockaways,Receives Cash Assistance,2017,Percent,0.31527,414
+St. George,Receives Cash Assistance,2017,Percent,0.33317,501
+South Beach,Receives Cash Assistance,2017,Percent,0.1656,502
+Tottenville,Receives Cash Assistance,2017,Percent,0.12635,503
+Bronx,Receives Cash Assistance,2017,Percent,0.32753,36005
+Brooklyn,Receives Cash Assistance,2017,Percent,0.21061,36047
+Manhattan,Receives Cash Assistance,2017,Percent,0.23746,36061
+Queens,Receives Cash Assistance,2017,Percent,0.18093,36081
+Staten Island,Receives Cash Assistance,2017,Percent,0.26214,36085
+New York City,Receives Cash Assistance,2017,Percent,0.24399,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2017,Number,1475,101
+Greenwich Village,Does not receive Cash Assistance,2017,Number,2799,102
+Lower East Side,Does not receive Cash Assistance,2017,Number,30621,103
+Chelsea/Clinton,Does not receive Cash Assistance,2017,Number,8450,104
+Midtown Business District,Does not receive Cash Assistance,2017,Number,2197,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2017,Number,3754,106
+Upper West Side,Does not receive Cash Assistance,2017,Number,12385,107
+Upper East Side,Does not receive Cash Assistance,2017,Number,4700,108
+Manhattanville,Does not receive Cash Assistance,2017,Number,16844,109
+Central Harlem,Does not receive Cash Assistance,2017,Number,23629,110
+East Harlem,Does not receive Cash Assistance,2017,Number,31011,111
+Washington Heights,Does not receive Cash Assistance,2017,Number,41236,112
+Mott Haven,Does not receive Cash Assistance,2017,Number,30066,201
+Hunts Point,Does not receive Cash Assistance,2017,Number,14778,202
+Morrisania,Does not receive Cash Assistance,2017,Number,26793,203
+Concourse/Highbridge,Does not receive Cash Assistance,2017,Number,39502,204
+University Heights,Does not receive Cash Assistance,2017,Number,37587,205
+East Tremont,Does not receive Cash Assistance,2017,Number,23297,206
+Bedford Park,Does not receive Cash Assistance,2017,Number,32853,207
+Riverdale,Does not receive Cash Assistance,2017,Number,13023,208
+Unionport/Soundview,Does not receive Cash Assistance,2017,Number,37965,209
+Throgs Neck,Does not receive Cash Assistance,2017,Number,13492,210
+Pelham Parkway,Does not receive Cash Assistance,2017,Number,17682,211
+Williamsbridge,Does not receive Cash Assistance,2017,Number,23349,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2017,Number,44507,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2017,Number,10155,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2017,Number,33159,303
+Bushwick,Does not receive Cash Assistance,2017,Number,20386,304
+East New York,Does not receive Cash Assistance,2017,Number,45896,305
+Park Slope,Does not receive Cash Assistance,2017,Number,7748,306
+Sunset Park,Does not receive Cash Assistance,2017,Number,19753,307
+Crown Heights North,Does not receive Cash Assistance,2017,Number,14652,308
+Crown Heights South,Does not receive Cash Assistance,2017,Number,16574,309
+Bay Ridge,Does not receive Cash Assistance,2017,Number,15107,310
+Bensonhurst,Does not receive Cash Assistance,2017,Number,34101,311
+Borough Park,Does not receive Cash Assistance,2017,Number,51325,312
+Coney Island,Does not receive Cash Assistance,2017,Number,26919,313
+Flatbush/Midwood,Does not receive Cash Assistance,2017,Number,27477,314
+Sheepshead Bay,Does not receive Cash Assistance,2017,Number,24992,315
+Brownsville,Does not receive Cash Assistance,2017,Number,22691,316
+East Flatbush,Does not receive Cash Assistance,2017,Number,22084,317
+Canarsie,Does not receive Cash Assistance,2017,Number,21277,318
+Astoria,Does not receive Cash Assistance,2017,Number,17884,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2017,Number,9358,402
+Jackson Heights,Does not receive Cash Assistance,2017,Number,23207,403
+Elmhurst/Corona,Does not receive Cash Assistance,2017,Number,24272,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2017,Number,16513,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2017,Number,9318,406
+Flushing,Does not receive Cash Assistance,2017,Number,22810,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2017,Number,14562,408
+Woodhaven,Does not receive Cash Assistance,2017,Number,19097,409
+Howard Beach,Does not receive Cash Assistance,2017,Number,13344,410
+Bayside,Does not receive Cash Assistance,2017,Number,5658,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2017,Number,32769,412
+Queens Village,Does not receive Cash Assistance,2017,Number,15013,413
+The Rockaways,Does not receive Cash Assistance,2017,Number,19590,414
+St. George,Does not receive Cash Assistance,2017,Number,25196,501
+South Beach,Does not receive Cash Assistance,2017,Number,11700,502
+Tottenville,Does not receive Cash Assistance,2017,Number,8560,503
+Bronx,Does not receive Cash Assistance,2017,Number,310387,36005
+Brooklyn,Does not receive Cash Assistance,2017,Number,458803,36047
+Manhattan,Does not receive Cash Assistance,2017,Number,179101,36061
+Queens,Does not receive Cash Assistance,2017,Number,243395,36081
+Staten Island,Does not receive Cash Assistance,2017,Number,45456,36085
+New York City,Does not receive Cash Assistance,2017,Number,1237142,3651000
+Battery Park/Tribeca,Does not receive Cash Assistance,2017,Percent,0.65294,101
+Greenwich Village,Does not receive Cash Assistance,2017,Percent,0.89625,102
+Lower East Side,Does not receive Cash Assistance,2017,Percent,0.81387,103
+Chelsea/Clinton,Does not receive Cash Assistance,2017,Percent,0.73287,104
+Midtown Business District,Does not receive Cash Assistance,2017,Percent,0.50798,105
+Murray Hill/Stuyvesant,Does not receive Cash Assistance,2017,Percent,0.76581,106
+Upper West Side,Does not receive Cash Assistance,2017,Percent,0.75088,107
+Upper East Side,Does not receive Cash Assistance,2017,Percent,0.84884,108
+Manhattanville,Does not receive Cash Assistance,2017,Percent,0.73267,109
+Central Harlem,Does not receive Cash Assistance,2017,Percent,0.69068,110
+East Harlem,Does not receive Cash Assistance,2017,Percent,0.72028,111
+Washington Heights,Does not receive Cash Assistance,2017,Percent,0.84455,112
+Mott Haven,Does not receive Cash Assistance,2017,Percent,0.66403,201
+Hunts Point,Does not receive Cash Assistance,2017,Percent,0.64739,202
+Morrisania,Does not receive Cash Assistance,2017,Percent,0.63851,203
+Concourse/Highbridge,Does not receive Cash Assistance,2017,Percent,0.67751,204
+University Heights,Does not receive Cash Assistance,2017,Percent,0.65409,205
+East Tremont,Does not receive Cash Assistance,2017,Percent,0.58916,206
+Bedford Park,Does not receive Cash Assistance,2017,Percent,0.69274,207
+Riverdale,Does not receive Cash Assistance,2017,Percent,0.79018,208
+Unionport/Soundview,Does not receive Cash Assistance,2017,Percent,0.70987,209
+Throgs Neck,Does not receive Cash Assistance,2017,Percent,0.77062,210
+Pelham Parkway,Does not receive Cash Assistance,2017,Percent,0.73546,211
+Williamsbridge,Does not receive Cash Assistance,2017,Percent,0.6269,212
+Williamsburg/Greenpoint,Does not receive Cash Assistance,2017,Percent,0.85802,301
+Fort Greene/Brooklyn Hts,Does not receive Cash Assistance,2017,Percent,0.74108,302
+Bedford Stuyvesant,Does not receive Cash Assistance,2017,Percent,0.73192,303
+Bushwick,Does not receive Cash Assistance,2017,Percent,0.78399,304
+East New York,Does not receive Cash Assistance,2017,Percent,0.73063,305
+Park Slope,Does not receive Cash Assistance,2017,Percent,0.78612,306
+Sunset Park,Does not receive Cash Assistance,2017,Percent,0.85489,307
+Crown Heights North,Does not receive Cash Assistance,2017,Percent,0.68445,308
+Crown Heights South,Does not receive Cash Assistance,2017,Percent,0.78483,309
+Bay Ridge,Does not receive Cash Assistance,2017,Percent,0.88355,310
+Bensonhurst,Does not receive Cash Assistance,2017,Percent,0.91009,311
+Borough Park,Does not receive Cash Assistance,2017,Percent,0.81823,312
+Coney Island,Does not receive Cash Assistance,2017,Percent,0.82536,313
+Flatbush/Midwood,Does not receive Cash Assistance,2017,Percent,0.83593,314
+Sheepshead Bay,Does not receive Cash Assistance,2017,Percent,0.87879,315
+Brownsville,Does not receive Cash Assistance,2017,Percent,0.62439,316
+East Flatbush,Does not receive Cash Assistance,2017,Percent,0.71683,317
+Canarsie,Does not receive Cash Assistance,2017,Percent,0.76923,318
+Astoria,Does not receive Cash Assistance,2017,Percent,0.79594,401
+Sunnyside/Woodside,Does not receive Cash Assistance,2017,Percent,0.86841,402
+Jackson Heights,Does not receive Cash Assistance,2017,Percent,0.88766,403
+Elmhurst/Corona,Does not receive Cash Assistance,2017,Percent,0.89294,404
+Ridgewood/Glendale,Does not receive Cash Assistance,2017,Percent,0.88262,405
+Rego Park/Forest Hills,Does not receive Cash Assistance,2017,Percent,0.9164,406
+Flushing,Does not receive Cash Assistance,2017,Percent,0.86819,407
+Fresh Meadows/Briarwood,Does not receive Cash Assistance,2017,Percent,0.8158,408
+Woodhaven,Does not receive Cash Assistance,2017,Percent,0.84221,409
+Howard Beach,Does not receive Cash Assistance,2017,Percent,0.83218,410
+Bayside,Does not receive Cash Assistance,2017,Percent,0.88864,411
+Jamaica/St. Albans,Does not receive Cash Assistance,2017,Percent,0.73457,412
+Queens Village,Does not receive Cash Assistance,2017,Percent,0.77824,413
+The Rockaways,Does not receive Cash Assistance,2017,Percent,0.68473,414
+St. George,Does not receive Cash Assistance,2017,Percent,0.66683,501
+South Beach,Does not receive Cash Assistance,2017,Percent,0.8344,502
+Tottenville,Does not receive Cash Assistance,2017,Percent,0.87365,503
+Bronx,Does not receive Cash Assistance,2017,Percent,0.67247,36005
+Brooklyn,Does not receive Cash Assistance,2017,Percent,0.78939,36047
+Manhattan,Does not receive Cash Assistance,2017,Percent,0.76254,36061
+Queens,Does not receive Cash Assistance,2017,Percent,0.81907,36081
+Staten Island,Does not receive Cash Assistance,2017,Percent,0.73786,36085
+New York City,Does not receive Cash Assistance,2017,Percent,0.75601,3651000

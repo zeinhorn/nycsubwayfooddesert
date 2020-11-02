@@ -1,0 +1,56 @@
+"Name","Homeless Shelter Population by Race/Ethnicity"
+"Description","<g class=""gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins doubleReplace replaceWithoutSep"" id=""3"" data-gr-id=""3"">Number</g>&nbsp;of unduplicated individuals served in the New York City Department of Homeless Services shelter system."
+"Source Notes","New York City Department of Homeless Services, DHS Data Dashboard (FY 2011 - FY 2014); retrieved&nbsp;from&nbsp;<a href=""https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page"">https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page</a>"
+"Notes","Race/ethnicity is reported for the head of the household for families with children and for adult families.&nbsp;"
+
+Location,Race/Ethnicity,TimeFrame,DataFormat,Data,Fips
+New York City,Asian,2011,Number,474,3651000
+New York City,Asian,2012,Number,334,3651000
+New York City,Asian,2013,Number,340,3651000
+New York City,Asian,2014,Number,440,3651000
+New York City,Asian,2015,Number,446,3651000
+New York City,Asian,2011,Percent,0.00803,3651000
+New York City,Asian,2012,Percent,0.00608,3651000
+New York City,Asian,2013,Percent,0.00594,3651000
+New York City,Asian,2014,Percent,0.00731,3651000
+New York City,Asian,2015,Percent,0.007,3651000
+New York City,Black,2011,Number,31858,3651000
+New York City,Black,2012,Number,30242,3651000
+New York City,Black,2013,Number,32403,3651000
+New York City,Black,2014,Number,34513,3651000
+New York City,Black,2015,Number,36446,3651000
+New York City,Black,2011,Percent,0.53955,3651000
+New York City,Black,2012,Percent,0.55035,3651000
+New York City,Black,2013,Percent,0.56594,3651000
+New York City,Black,2014,Percent,0.57302,3651000
+New York City,Black,2015,Percent,0.57189,3651000
+New York City,Latino,2011,Number,17868,3651000
+New York City,Latino,2012,Number,17283,3651000
+New York City,Latino,2013,Number,17809,3651000
+New York City,Latino,2014,Number,18540,3651000
+New York City,Latino,2015,Number,19997,3651000
+New York City,Latino,2011,Percent,0.30261,3651000
+New York City,Latino,2012,Percent,0.31452,3651000
+New York City,Latino,2013,Percent,0.31105,3651000
+New York City,Latino,2014,Percent,0.30782,3651000
+New York City,Latino,2015,Percent,0.31378,3651000
+New York City,White,2011,Number,3419,3651000
+New York City,White,2012,Number,3738,3651000
+New York City,White,2013,Number,4269,3651000
+New York City,White,2014,Number,4829,3651000
+New York City,White,2015,Number,4976,3651000
+New York City,White,2011,Percent,0.0579,3651000
+New York City,White,2012,Percent,0.06803,3651000
+New York City,White,2013,Percent,0.07456,3651000
+New York City,White,2014,Percent,0.08018,3651000
+New York City,White,2015,Percent,0.07808,3651000
+New York City,Other,2011,Number,5427,3651000
+New York City,Other,2012,Number,3353,3651000
+New York City,Other,2013,Number,2434,3651000
+New York City,Other,2014,Number,1908,3651000
+New York City,Other,2015,Number,1864,3651000
+New York City,Other,2011,Percent,0.09191,3651000
+New York City,Other,2012,Percent,0.06102,3651000
+New York City,Other,2013,Percent,0.04251,3651000
+New York City,Other,2014,Percent,0.03168,3651000
+New York City,Other,2015,Percent,0.02925,3651000

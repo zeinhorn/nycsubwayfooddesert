@@ -1,0 +1,260 @@
+"Name","Life Expectancy"
+"Description","Life expectancy at birth.&nbsp;"
+"Source Notes","New York City Department of Health and Mental Hygiene, Bureau of Vital Statistics, Summary of Vital Statistics (2000-2017); retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page"" target=""_blank""></a><a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page""></a><a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page"" target=""_blank"">https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page</a>"
+"Notes","DOHMH began reporting life expectancy by community district in 2014."
+
+Location,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,2017,Years,85.9,101
+Greenwich Village,2017,Years,86.7,102
+Lower East Side,2017,Years,83.2,103
+Chelsea/Clinton,2017,Years,84.1,104
+Midtown Business District,2017,Years,85.6,105
+Murray Hill/Stuyvesant,2017,Years,86.3,106
+Upper West Side,2017,Years,85.2,107
+Upper East Side,2017,Years,86.4,108
+Manhattanville,2017,Years,82.1,109
+Central Harlem,2017,Years,76.9,110
+East Harlem,2017,Years,77.9,111
+Washington Heights,2017,Years,84.4,112
+Mott Haven,2017,Years,78,201
+Hunts Point,2017,Years,79.8,202
+Morrisania,2017,Years,76.8,203
+Concourse/Highbridge,2017,Years,79.6,204
+University Heights,2017,Years,80.3,205
+East Tremont,2017,Years,78,206
+Bedford Park,2017,Years,79.9,207
+Riverdale,2017,Years,81.3,208
+Unionport/Soundview,2017,Years,80.4,209
+Throgs Neck,2017,Years,81.4,210
+Pelham Parkway,2017,Years,80.3,211
+Williamsbridge,2017,Years,81.4,212
+Williamsburg/Greenpoint,2017,Years,82.2,301
+Fort Greene/Brooklyn Hts,2017,Years,81.6,302
+Bedford Stuyvesant,2017,Years,78,303
+Bushwick,2017,Years,81.1,304
+East New York,2017,Years,79.1,305
+Park Slope,2017,Years,82,306
+Sunset Park,2017,Years,83.3,307
+Crown Heights North,2017,Years,80.2,308
+Crown Heights South,2017,Years,82,309
+Bay Ridge,2017,Years,83.7,310
+Bensonhurst,2017,Years,84.2,311
+Borough Park,2017,Years,84.4,312
+Coney Island,2017,Years,80.6,313
+Flatbush/Midwood,2017,Years,82.6,314
+Sheepshead Bay,2017,Years,83.9,315
+Brownsville,2017,Years,75.6,316
+East Flatbush,2017,Years,82.8,317
+Canarsie,2017,Years,82.1,318
+Astoria,2017,Years,83.6,401
+Sunnyside/Woodside,2017,Years,86.3,402
+Jackson Heights,2017,Years,85.7,403
+Elmhurst/Corona,2017,Years,86.3,404
+Ridgewood/Glendale,2017,Years,81.7,405
+Rego Park/Forest Hills,2017,Years,84.9,406
+Flushing,2017,Years,84.7,407
+Fresh Meadows/Briarwood,2017,Years,84.4,408
+Woodhaven,2017,Years,83.4,409
+Howard Beach,2017,Years,81.9,410
+Bayside,2017,Years,84.9,411
+Jamaica/St. Albans,2017,Years,81.1,412
+Queens Village,2017,Years,83.1,413
+The Rockaways,2017,Years,76.9,414
+St. George,2017,Years,79.4,501
+South Beach,2017,Years,81.6,502
+Tottenville,2017,Years,81.3,503
+New York City,2017,Years,81.2,3651000
+New York City,2008,Years,80.2,3651000
+New York City,2009,Years,80.6,3651000
+New York City,2010,Years,80.9,3651000
+New York City,2011,Years,80.9,3651000
+New York City,2012,Years,81.1,3651000
+New York City,2013,Years,81.1,3651000
+New York City,2014,Years,81.3,3651000
+New York City,2015,Years,81.2,3651000
+New York City,2016,Years,81.2,3651000
+Battery Park/Tribeca,2016,Years,85.9,101
+Greenwich Village,2016,Years,86.2,102
+Lower East Side,2016,Years,82.7,103
+Chelsea/Clinton,2016,Years,83.5,104
+Midtown Business District,2016,Years,85.2,105
+Murray Hill/Stuyvesant,2016,Years,86.2,106
+Upper West Side,2016,Years,85,107
+Upper East Side,2016,Years,86.1,108
+Manhattanville,2016,Years,81.7,109
+Central Harlem,2016,Years,76.7,110
+East Harlem,2016,Years,77.5,111
+Washington Heights,2016,Years,84.2,112
+Mott Haven,2016,Years,77.8,201
+Hunts Point,2016,Years,79.4,202
+Morrisania,2016,Years,76.6,203
+Concourse/Highbridge,2016,Years,79.1,204
+University Heights,2016,Years,80.2,205
+East Tremont,2016,Years,77.8,206
+Bedford Park,2016,Years,79.7,207
+Riverdale,2016,Years,81,208
+Unionport/Soundview,2016,Years,80.1,209
+Throgs Neck,2016,Years,81.2,210
+Pelham Parkway,2016,Years,80,211
+Williamsbridge,2016,Years,81.3,212
+Williamsburg/Greenpoint,2016,Years,81.6,301
+Fort Greene/Brooklyn Hts,2016,Years,81.2,302
+Bedford Stuyvesant,2016,Years,77.3,303
+Bushwick,2016,Years,80.8,304
+East New York,2016,Years,78.9,305
+Park Slope,2016,Years,81.8,306
+Sunset Park,2016,Years,83,307
+Crown Heights North,2016,Years,79.8,308
+Crown Heights South,2016,Years,81.6,309
+Bay Ridge,2016,Years,83.3,310
+Bensonhurst,2016,Years,84,311
+Borough Park,2016,Years,84.3,312
+Coney Island,2016,Years,80.5,313
+Flatbush/Midwood,2016,Years,82.5,314
+Sheepshead Bay,2016,Years,83.7,315
+Brownsville,2016,Years,75.3,316
+East Flatbush,2016,Years,82.6,317
+Canarsie,2016,Years,82,318
+Astoria,2016,Years,83.5,401
+Sunnyside/Woodside,2016,Years,85.7,402
+Jackson Heights,2016,Years,85.2,403
+Elmhurst/Corona,2016,Years,86,404
+Ridgewood/Glendale,2016,Years,81.6,405
+Rego Park/Forest Hills,2016,Years,84.6,406
+Flushing,2016,Years,84.4,407
+Fresh Meadows/Briarwood,2016,Years,84.1,408
+Woodhaven,2016,Years,83.1,409
+Howard Beach,2016,Years,81.7,410
+Bayside,2016,Years,84.7,411
+Jamaica/St. Albans,2016,Years,80.8,412
+Queens Village,2016,Years,83,413
+The Rockaways,2016,Years,76.7,414
+St. George,2016,Years,79.2,501
+South Beach,2016,Years,81.5,502
+Tottenville,2016,Years,81.4,503
+Battery Park/Tribeca,2015,Years,85.8,101
+Greenwich Village,2015,Years,85.8,102
+Lower East Side,2015,Years,82.2,103
+Chelsea/Clinton,2015,Years,83.1,104
+Midtown Business District,2015,Years,84.8,105
+Murray Hill/Stuyvesant,2015,Years,85.9,106
+Upper West Side,2015,Years,84.7,107
+Upper East Side,2015,Years,85.9,108
+Manhattanville,2015,Years,81.4,109
+Central Harlem,2015,Years,76.2,110
+East Harlem,2015,Years,77.3,111
+Washington Heights,2015,Years,84,112
+Mott Haven,2015,Years,77.6,201
+Hunts Point,2015,Years,78.9,202
+Morrisania,2015,Years,76.2,203
+Concourse/Highbridge,2015,Years,78.6,204
+University Heights,2015,Years,79.9,205
+East Tremont,2015,Years,77.7,206
+Bedford Park,2015,Years,79.4,207
+Riverdale,2015,Years,80.9,208
+Unionport/Soundview,2015,Years,79.7,209
+Throgs Neck,2015,Years,81.1,210
+Pelham Parkway,2015,Years,79.9,211
+Williamsbridge,2015,Years,81,212
+Williamsburg/Greenpoint,2015,Years,81.1,301
+Fort Greene/Brooklyn Hts,2015,Years,80.6,302
+Bedford Stuyvesant,2015,Years,76.8,303
+Bushwick,2015,Years,80.4,304
+East New York,2015,Years,78.6,305
+Park Slope,2015,Years,81.4,306
+Sunset Park,2015,Years,82.6,307
+Crown Heights North,2015,Years,79.3,308
+Crown Heights South,2015,Years,81.2,309
+Bay Ridge,2015,Years,83.1,310
+Bensonhurst,2015,Years,83.8,311
+Borough Park,2015,Years,84.2,312
+Coney Island,2015,Years,80.4,313
+Flatbush/Midwood,2015,Years,82.4,314
+Sheepshead Bay,2015,Years,83.7,315
+Brownsville,2015,Years,75.1,316
+East Flatbush,2015,Years,82.6,317
+Canarsie,2015,Years,82,318
+Astoria,2015,Years,83.4,401
+Sunnyside/Woodside,2015,Years,85.4,402
+Jackson Heights,2015,Years,84.7,403
+Elmhurst/Corona,2015,Years,85.6,404
+Ridgewood/Glendale,2015,Years,81.4,405
+Rego Park/Forest Hills,2015,Years,84.4,406
+Flushing,2015,Years,84.3,407
+Fresh Meadows/Briarwood,2015,Years,83.9,408
+Woodhaven,2015,Years,82.9,409
+Howard Beach,2015,Years,81.7,410
+Bayside,2015,Years,84.7,411
+Jamaica/St. Albans,2015,Years,80.5,412
+Queens Village,2015,Years,82.9,413
+The Rockaways,2015,Years,76.5,414
+St. George,2015,Years,79,501
+South Beach,2015,Years,81.2,502
+Tottenville,2015,Years,81.3,503
+Battery Park/Tribeca,2014,Years,85.9,101
+Greenwich Village,2014,Years,85,102
+Lower East Side,2014,Years,81.4,103
+Chelsea/Clinton,2014,Years,82.3,104
+Midtown Business District,2014,Years,83.9,105
+Murray Hill/Stuyvesant,2014,Years,85.6,106
+Upper West Side,2014,Years,84.2,107
+Upper East Side,2014,Years,85.4,108
+Manhattanville,2014,Years,80.7,109
+Central Harlem,2014,Years,75.6,110
+East Harlem,2014,Years,76.6,111
+Washington Heights,2014,Years,83.5,112
+Mott Haven,2014,Years,76.7,201
+Hunts Point,2014,Years,78.3,202
+Morrisania,2014,Years,75.6,203
+Concourse/Highbridge,2014,Years,77.5,204
+University Heights,2014,Years,79.3,205
+East Tremont,2014,Years,77,206
+Bedford Park,2014,Years,79,207
+Riverdale,2014,Years,80.7,208
+Unionport/Soundview,2014,Years,79.1,209
+Throgs Neck,2014,Years,80.7,210
+Pelham Parkway,2014,Years,79.5,211
+Williamsbridge,2014,Years,80.5,212
+Williamsburg/Greenpoint,2014,Years,80.3,301
+Fort Greene/Brooklyn Hts,2014,Years,79.8,302
+Bedford Stuyvesant,2014,Years,75.6,303
+Bushwick,2014,Years,79.1,304
+East New York,2014,Years,78,305
+Park Slope,2014,Years,80.6,306
+Sunset Park,2014,Years,81.9,307
+Crown Heights North,2014,Years,78.2,308
+Crown Heights South,2014,Years,80.3,309
+Bay Ridge,2014,Years,82.6,310
+Bensonhurst,2014,Years,83.2,311
+Borough Park,2014,Years,83.8,312
+Coney Island,2014,Years,80.2,313
+Flatbush/Midwood,2014,Years,81.9,314
+Sheepshead Bay,2014,Years,83.4,315
+Brownsville,2014,Years,74.4,316
+East Flatbush,2014,Years,82.4,317
+Canarsie,2014,Years,81.7,318
+Astoria,2014,Years,82.9,401
+Sunnyside/Woodside,2014,Years,84.5,402
+Jackson Heights,2014,Years,84.1,403
+Elmhurst/Corona,2014,Years,84.9,404
+Ridgewood/Glendale,2014,Years,81.1,405
+Rego Park/Forest Hills,2014,Years,84.2,406
+Flushing,2014,Years,83.8,407
+Fresh Meadows/Briarwood,2014,Years,83.5,408
+Woodhaven,2014,Years,82.4,409
+Howard Beach,2014,Years,81.4,410
+Bayside,2014,Years,84.3,411
+Jamaica/St. Albans,2014,Years,79.7,412
+Queens Village,2014,Years,82.5,413
+The Rockaways,2014,Years,76.1,414
+St. George,2014,Years,78.5,501
+South Beach,2014,Years,80.7,502
+Tottenville,2014,Years,81.2,503
+New York City,2000,Years,77.7,3651000
+New York City,2001,Years,77.9,3651000
+New York City,2002,Years,78.2,3651000
+New York City,2003,Years,78.5,3651000
+New York City,2004,Years,79,3651000
+New York City,2005,Years,79.2,3651000
+New York City,2006,Years,79.7,3651000
+New York City,2007,Years,80.1,3651000

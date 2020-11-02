@@ -1,0 +1,54 @@
+"Name","Walking Distance to a Park"
+"Description","The percentage of the population that potentially live within walking distance to a park. Walking distance to a park is defined as 1/4-mile or less to entrances of smaller sites, such as sitting areas and playgrounds, and 1/2-mile or less to entrances of larger parks. Parks and open space that are not under the NYC Parks Department jurisdiction are also included."
+"Source Notes","New York City Department of Health and Mental Hygiene NYC Tracking Program: Environment and Health Data Portal. [Active Design - Walking Distance to a Park]; retrieved from<a href=""http://a816-dohbesp.nyc.gov/IndicatorPublic/PublicTracking.aspx"" target=""_blank"">&nbsp;</a><a href=""http://a816-dohbesp.nyc.gov/IndicatorPublic/PublicTracking.aspx"" target=""_blank"">http://a816-dohbesp.nyc.gov/IndicatorPublic/PublicTracking.aspx</a>"
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+Kingsbridge - Riverdale,2017,Percent,0.88,uhf101
+Northeast Bronx,2017,Percent,0.54,uhf102
+Fordham - Bronx Park,2017,Percent,0.98,uhf103
+Pelham - Throgs Neck,2017,Percent,0.78,uhf104
+Crotona - Tremont,2017,Percent,0.99,uhf105
+High Bridge - Morrisania,2017,Percent,0.98,uhf106
+Hunts Point - Mott Haven,2017,Percent,0.96,uhf107
+Greenpoint,2017,Percent,0.94,uhf201
+Downtown  - Heights - Slope,2017,Percent,0.94,uhf202
+Bedford Stuyvesant - Crown Heights,2017,Percent,0.94,uhf203
+East New York,2017,Percent,0.84,uhf204
+Sunset Park,2017,Percent,0.87,uhf205
+Borough Park,2017,Percent,0.73,uhf206
+East Flatbush - Flatbush,2017,Percent,0.62,uhf207
+Canarsie - Flatlands,2017,Percent,0.76,uhf208
+Bensonhurst - Bay Ridge,2017,Percent,0.8,uhf209
+Coney Island - Sheepshead Bay,2017,Percent,0.78,uhf210
+Williamsburg - Bushwick,2017,Percent,0.93,uhf211
+Washington Heights - Inwood,2017,Percent,1,uhf301
+Central Harlem - Morningside Heights,2017,Percent,0.99,uhf302
+East Harlem,2017,Percent,0.99,uhf303
+Upper West Side,2017,Percent,0.99,uhf304
+Upper East Side,2017,Percent,0.95,uhf305
+Chelsea - Clinton,2017,Percent,0.94,uhf306
+Gramercy Park -  Murray Hill,2017,Percent,0.91,uhf307
+Greenwich Village - Soho,2017,Percent,0.99,uhf308
+Union Square - Lower East Side,2017,Percent,1,uhf309
+Lower Manhattan,2017,Percent,0.99,uhf310
+Long Island City - Astoria,2017,Percent,0.66,uhf401
+West Queens,2017,Percent,0.72,uhf402
+Flushing - Clearview,2017,Percent,0.77,uhf403
+Bayside - Little Neck,2017,Percent,0.74,uhf404
+Ridgewood - Forest Hills,2017,Percent,0.71,uhf405
+Fresh Meadows,2017,Percent,0.62,uhf406
+Southwest Queens,2017,Percent,0.65,uhf407
+Jamaica,2017,Percent,0.74,uhf408
+Southeast Queens,2017,Percent,0.4,uhf409
+Rockaway,2017,Percent,0.84,uhf410
+Port  Richmond,2017,Percent,0.55,uhf501
+Stapleton - St. George,2017,Percent,0.73,uhf502
+Willowbrook,2017,Percent,0.56,uhf503
+South Beach - Tottenville,2017,Percent,0.6,uhf504
+Bronx,2017,Percent,0.87,36005
+Brooklyn,2017,Percent,0.82,36047
+Manhattan,2017,Percent,0.97,36061
+Queens,2017,Percent,0.69,36081
+Staten Island,2017,Percent,0.62,36085
+New York City,2017,Percent,0.81,3651000

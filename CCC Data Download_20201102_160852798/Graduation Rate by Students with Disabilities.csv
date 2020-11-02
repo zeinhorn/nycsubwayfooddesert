@@ -1,0 +1,1146 @@
+"Name","Graduation Rate by Students with Disabilities"
+"Description","New York City public high school students who graduated as of June after four years of instruction."
+"Source Notes","New York City Department of Education, Graduation Results (School Years 2004-05 to 2018-19); retrieved from&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a><a href=""https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results"">https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results</a>&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a>"
+"Notes","All data represent outcomes as of June after four years of instruction. In order to comply with FERPA regulations on public reporting of education outcomes, breakdowns where the number of students in the cohort is 5 or less are suppressed and maps and tables display ""no data"" or ""0""."
+
+Location,Students with Disabilities,TimeFrame,DataFormat,Data,Fips
+New York City,General Education,2005,Percent,0.55547,3651000
+New York City,General Education,2006,Percent,0.56177,3651000
+New York City,General Education,2007,Percent,0.60876,3651000
+New York City,General Education,2008,Percent,0.63794,3651000
+New York City,General Education,2009,Percent,0.66066,3651000
+New York City,General Education,2010,Percent,0.68023,3651000
+New York City,General Education,2011,Percent,0.66987,3651000
+New York City,General Education,2012,Percent,0.66836,3651000
+New York City,General Education,2013,Percent,0.65737,3651000
+New York City,General Education,2014,Percent,0.69408,3651000
+New York City,Students with Disabilities,2005,Percent,0.171,3651000
+New York City,Students with Disabilities,2006,Percent,0.19903,3651000
+New York City,Students with Disabilities,2007,Percent,0.19534,3651000
+New York City,Students with Disabilities,2008,Percent,0.225,3651000
+New York City,Students with Disabilities,2009,Percent,0.24747,3651000
+New York City,Students with Disabilities,2010,Percent,0.28936,3651000
+New York City,Students with Disabilities,2011,Percent,0.27396,3651000
+New York City,Students with Disabilities,2012,Percent,0.27618,3651000
+New York City,Students with Disabilities,2013,Percent,0.33241,3651000
+New York City,Students with Disabilities,2014,Percent,0.36632,3651000
+Bronx,General Education,2005,Percent,0.52,36005
+Bronx,General Education,2006,Percent,0.51396,36005
+Bronx,General Education,2007,Percent,0.56302,36005
+Bronx,General Education,2008,Percent,0.60263,36005
+Bronx,General Education,2009,Percent,0.62583,36005
+Bronx,General Education,2010,Percent,0.62581,36005
+Bronx,General Education,2011,Percent,0.59817,36005
+Bronx,General Education,2012,Percent,0.58352,36005
+Bronx,General Education,2013,Percent,0.57588,36005
+Bronx,General Education,2014,Percent,0.61356,36005
+Bronx,Students with Disabilities,2005,Percent,0.14558,36005
+Bronx,Students with Disabilities,2006,Percent,0.17149,36005
+Bronx,Students with Disabilities,2007,Percent,0.17077,36005
+Bronx,Students with Disabilities,2008,Percent,0.23053,36005
+Bronx,Students with Disabilities,2009,Percent,0.22788,36005
+Bronx,Students with Disabilities,2010,Percent,0.26705,36005
+Bronx,Students with Disabilities,2011,Percent,0.2325,36005
+Bronx,Students with Disabilities,2012,Percent,0.22209,36005
+Bronx,Students with Disabilities,2013,Percent,0.27544,36005
+Bronx,Students with Disabilities,2014,Percent,0.29911,36005
+Brooklyn,General Education,2005,Percent,0.5554,36047
+Brooklyn,General Education,2006,Percent,0.55806,36047
+Brooklyn,General Education,2007,Percent,0.59033,36047
+Brooklyn,General Education,2008,Percent,0.62213,36047
+Brooklyn,General Education,2009,Percent,0.63277,36047
+Brooklyn,General Education,2010,Percent,0.65818,36047
+Brooklyn,General Education,2011,Percent,0.65797,36047
+Brooklyn,General Education,2012,Percent,0.66937,36047
+Brooklyn,General Education,2013,Percent,0.65552,36047
+Brooklyn,General Education,2014,Percent,0.6907,36047
+Brooklyn,Students with Disabilities,2005,Percent,0.15773,36047
+Brooklyn,Students with Disabilities,2006,Percent,0.15642,36047
+Brooklyn,Students with Disabilities,2007,Percent,0.17777,36047
+Brooklyn,Students with Disabilities,2008,Percent,0.20641,36047
+Brooklyn,Students with Disabilities,2009,Percent,0.22443,36047
+Brooklyn,Students with Disabilities,2010,Percent,0.25873,36047
+Brooklyn,Students with Disabilities,2011,Percent,0.2469,36047
+Brooklyn,Students with Disabilities,2012,Percent,0.25399,36047
+Brooklyn,Students with Disabilities,2013,Percent,0.32132,36047
+Brooklyn,Students with Disabilities,2014,Percent,0.35779,36047
+Manhattan,General Education,2005,Percent,0.66785,36061
+Manhattan,General Education,2006,Percent,0.64266,36061
+Manhattan,General Education,2007,Percent,0.62217,36061
+Manhattan,General Education,2008,Percent,0.65409,36061
+Manhattan,General Education,2009,Percent,0.69133,36061
+Manhattan,General Education,2010,Percent,0.70173,36061
+Manhattan,General Education,2011,Percent,0.68166,36061
+Manhattan,General Education,2012,Percent,0.68256,36061
+Manhattan,General Education,2013,Percent,0.67299,36061
+Manhattan,General Education,2014,Percent,0.7105,36061
+Manhattan,Students with Disabilities,2005,Percent,0.19699,36061
+Manhattan,Students with Disabilities,2006,Percent,0.2218,36061
+Manhattan,Students with Disabilities,2007,Percent,0.20436,36061
+Manhattan,Students with Disabilities,2008,Percent,0.26248,36061
+Manhattan,Students with Disabilities,2009,Percent,0.28058,36061
+Manhattan,Students with Disabilities,2010,Percent,0.32993,36061
+Manhattan,Students with Disabilities,2011,Percent,0.30521,36061
+Manhattan,Students with Disabilities,2012,Percent,0.30535,36061
+Manhattan,Students with Disabilities,2013,Percent,0.36085,36061
+Manhattan,Students with Disabilities,2014,Percent,0.39767,36061
+Queens,General Education,2005,Percent,0.59641,36081
+Queens,General Education,2006,Percent,0.58825,36081
+Queens,General Education,2007,Percent,0.62631,36081
+Queens,General Education,2008,Percent,0.64566,36081
+Queens,General Education,2009,Percent,0.6689,36081
+Queens,General Education,2010,Percent,0.69914,36081
+Queens,General Education,2011,Percent,0.69944,36081
+Queens,General Education,2012,Percent,0.68631,36081
+Queens,General Education,2013,Percent,0.67658,36081
+Queens,General Education,2014,Percent,0.70788,36081
+Queens,Students with Disabilities,2005,Percent,0.2221,36081
+Queens,Students with Disabilities,2006,Percent,0.22891,36081
+Queens,Students with Disabilities,2007,Percent,0.20215,36081
+Queens,Students with Disabilities,2008,Percent,0.24526,36081
+Queens,Students with Disabilities,2009,Percent,0.27249,36081
+Queens,Students with Disabilities,2010,Percent,0.28196,36081
+Queens,Students with Disabilities,2011,Percent,0.2958,36081
+Queens,Students with Disabilities,2012,Percent,0.31105,36081
+Queens,Students with Disabilities,2013,Percent,0.35004,36081
+Queens,Students with Disabilities,2014,Percent,0.38725,36081
+Staten Island,General Education,2005,Percent,0.74976,36085
+Staten Island,General Education,2006,Percent,0.72329,36085
+Staten Island,General Education,2007,Percent,0.75704,36085
+Staten Island,General Education,2008,Percent,0.7646,36085
+Staten Island,General Education,2009,Percent,0.77547,36085
+Staten Island,General Education,2010,Percent,0.80683,36085
+Staten Island,General Education,2011,Percent,0.79673,36085
+Staten Island,General Education,2012,Percent,0.80312,36085
+Staten Island,General Education,2013,Percent,0.78277,36085
+Staten Island,General Education,2014,Percent,0.83057,36085
+Staten Island,Students with Disabilities,2005,Percent,0.31434,36085
+Staten Island,Students with Disabilities,2006,Percent,0.36009,36085
+Staten Island,Students with Disabilities,2007,Percent,0.28904,36085
+Staten Island,Students with Disabilities,2008,Percent,0.31758,36085
+Staten Island,Students with Disabilities,2009,Percent,0.37166,36085
+Staten Island,Students with Disabilities,2010,Percent,0.40555,36085
+Staten Island,Students with Disabilities,2011,Percent,0.38841,36085
+Staten Island,Students with Disabilities,2012,Percent,0.37763,36085
+Staten Island,Students with Disabilities,2013,Percent,0.44565,36085
+Staten Island,Students with Disabilities,2014,Percent,0.48539,36085
+Lower East Side,General Education,2005,Percent,0.7893,SD1
+Lower East Side,General Education,2006,Percent,0.62179,SD1
+Lower East Side,General Education,2007,Percent,0.61067,SD1
+Lower East Side,General Education,2008,Percent,0.68246,SD1
+Lower East Side,General Education,2009,Percent,0.6336,SD1
+Lower East Side,General Education,2010,Percent,0.67013,SD1
+Lower East Side,General Education,2011,Percent,0.62,SD1
+Lower East Side,General Education,2012,Percent,0.61427,SD1
+Lower East Side,General Education,2013,Percent,0.55115,SD1
+Lower East Side,General Education,2014,Percent,0.5387,SD1
+Lower East Side,Students with Disabilities,2005,Percent,0.21739,SD1
+Lower East Side,Students with Disabilities,2006,Percent,0.33962,SD1
+Lower East Side,Students with Disabilities,2007,Percent,0.22093,SD1
+Lower East Side,Students with Disabilities,2008,Percent,0.33929,SD1
+Lower East Side,Students with Disabilities,2009,Percent,0.34146,SD1
+Lower East Side,Students with Disabilities,2010,Percent,0.256,SD1
+Lower East Side,Students with Disabilities,2011,Percent,0.30488,SD1
+Lower East Side,Students with Disabilities,2012,Percent,0.2795,SD1
+Lower East Side,Students with Disabilities,2013,Percent,0.33607,SD1
+Lower East Side,Students with Disabilities,2014,Percent,0.31111,SD1
+"Stuyvesant Town, Upper E. Side",General Education,2005,Percent,0.64525,SD2
+"Stuyvesant Town, Upper E. Side",General Education,2006,Percent,0.63195,SD2
+"Stuyvesant Town, Upper E. Side",General Education,2007,Percent,0.59508,SD2
+"Stuyvesant Town, Upper E. Side",General Education,2008,Percent,0.63472,SD2
+"Stuyvesant Town, Upper E. Side",General Education,2009,Percent,0.67337,SD2
+"Stuyvesant Town, Upper E. Side",General Education,2010,Percent,0.68959,SD2
+"Stuyvesant Town, Upper E. Side",General Education,2011,Percent,0.67883,SD2
+"Stuyvesant Town, Upper E. Side",General Education,2012,Percent,0.68214,SD2
+"Stuyvesant Town, Upper E. Side",General Education,2013,Percent,0.6814,SD2
+"Stuyvesant Town, Upper E. Side",General Education,2014,Percent,0.71935,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2005,Percent,0.20426,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2006,Percent,0.22072,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2007,Percent,0.22222,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2008,Percent,0.27708,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2009,Percent,0.30707,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2010,Percent,0.36279,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2011,Percent,0.36082,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2012,Percent,0.37131,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2013,Percent,0.41674,SD2
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2014,Percent,0.44971,SD2
+Upper West Side,General Education,2005,Percent,0.73365,SD3
+Upper West Side,General Education,2006,Percent,0.70479,SD3
+Upper West Side,General Education,2007,Percent,0.64546,SD3
+Upper West Side,General Education,2008,Percent,0.68052,SD3
+Upper West Side,General Education,2009,Percent,0.71334,SD3
+Upper West Side,General Education,2010,Percent,0.71272,SD3
+Upper West Side,General Education,2011,Percent,0.67667,SD3
+Upper West Side,General Education,2012,Percent,0.69646,SD3
+Upper West Side,General Education,2013,Percent,0.70157,SD3
+Upper West Side,General Education,2014,Percent,0.77074,SD3
+Upper West Side,Students with Disabilities,2005,Percent,0.15476,SD3
+Upper West Side,Students with Disabilities,2006,Percent,0.2193,SD3
+Upper West Side,Students with Disabilities,2007,Percent,0.17347,SD3
+Upper West Side,Students with Disabilities,2008,Percent,0.24806,SD3
+Upper West Side,Students with Disabilities,2009,Percent,0.22826,SD3
+Upper West Side,Students with Disabilities,2010,Percent,0.33766,SD3
+Upper West Side,Students with Disabilities,2011,Percent,0.28803,SD3
+Upper West Side,Students with Disabilities,2012,Percent,0.27414,SD3
+Upper West Side,Students with Disabilities,2013,Percent,0.2972,SD3
+Upper West Side,Students with Disabilities,2014,Percent,0.35692,SD3
+East Harlem,General Education,2005,Percent,0.64834,SD4
+East Harlem,General Education,2006,Percent,0.70281,SD4
+East Harlem,General Education,2007,Percent,0.73752,SD4
+East Harlem,General Education,2008,Percent,0.73786,SD4
+East Harlem,General Education,2009,Percent,0.76036,SD4
+East Harlem,General Education,2010,Percent,0.81431,SD4
+East Harlem,General Education,2011,Percent,0.74446,SD4
+East Harlem,General Education,2012,Percent,0.80253,SD4
+East Harlem,General Education,2013,Percent,0.79044,SD4
+East Harlem,General Education,2014,Percent,0.84554,SD4
+East Harlem,Students with Disabilities,2005,Percent,0.22314,SD4
+East Harlem,Students with Disabilities,2006,Percent,0.29348,SD4
+East Harlem,Students with Disabilities,2007,Percent,0.2243,SD4
+East Harlem,Students with Disabilities,2008,Percent,0.24409,SD4
+East Harlem,Students with Disabilities,2009,Percent,0.27684,SD4
+East Harlem,Students with Disabilities,2010,Percent,0.30814,SD4
+East Harlem,Students with Disabilities,2011,Percent,0.22449,SD4
+East Harlem,Students with Disabilities,2012,Percent,0.25455,SD4
+East Harlem,Students with Disabilities,2013,Percent,0.36486,SD4
+East Harlem,Students with Disabilities,2014,Percent,0.36196,SD4
+Central Harlem,General Education,2005,Percent,0.81208,SD5
+Central Harlem,General Education,2006,Percent,0.71261,SD5
+Central Harlem,General Education,2007,Percent,0.64516,SD5
+Central Harlem,General Education,2008,Percent,0.64162,SD5
+Central Harlem,General Education,2009,Percent,0.70833,SD5
+Central Harlem,General Education,2010,Percent,0.69409,SD5
+Central Harlem,General Education,2011,Percent,0.71214,SD5
+Central Harlem,General Education,2012,Percent,0.64015,SD5
+Central Harlem,General Education,2013,Percent,0.62295,SD5
+Central Harlem,General Education,2014,Percent,0.64902,SD5
+Central Harlem,Students with Disabilities,2005,Percent,0.15094,SD5
+Central Harlem,Students with Disabilities,2006,Percent,0.16364,SD5
+Central Harlem,Students with Disabilities,2007,Percent,0.13333,SD5
+Central Harlem,Students with Disabilities,2008,Percent,0.18085,SD5
+Central Harlem,Students with Disabilities,2009,Percent,0.26316,SD5
+Central Harlem,Students with Disabilities,2010,Percent,0.20149,SD5
+Central Harlem,Students with Disabilities,2011,Percent,0.22105,SD5
+Central Harlem,Students with Disabilities,2012,Percent,0.15166,SD5
+Central Harlem,Students with Disabilities,2013,Percent,0.25517,SD5
+Central Harlem,Students with Disabilities,2014,Percent,0.30233,SD5
+Washington Heights,General Education,2005,Percent,0.66414,SD6
+Washington Heights,General Education,2006,Percent,0.54192,SD6
+Washington Heights,General Education,2007,Percent,0.69006,SD6
+Washington Heights,General Education,2008,Percent,0.68845,SD6
+Washington Heights,General Education,2009,Percent,0.77315,SD6
+Washington Heights,General Education,2010,Percent,0.72912,SD6
+Washington Heights,General Education,2011,Percent,0.69939,SD6
+Washington Heights,General Education,2012,Percent,0.66606,SD6
+Washington Heights,General Education,2013,Percent,0.62255,SD6
+Washington Heights,General Education,2014,Percent,0.64764,SD6
+Washington Heights,Students with Disabilities,2005,Percent,0.18018,SD6
+Washington Heights,Students with Disabilities,2006,Percent,0.10667,SD6
+Washington Heights,Students with Disabilities,2007,Percent,0.14545,SD6
+Washington Heights,Students with Disabilities,2008,Percent,0.20395,SD6
+Washington Heights,Students with Disabilities,2009,Percent,0.12963,SD6
+Washington Heights,Students with Disabilities,2010,Percent,0.2518,SD6
+Washington Heights,Students with Disabilities,2011,Percent,0.13333,SD6
+Washington Heights,Students with Disabilities,2012,Percent,0.19469,SD6
+Washington Heights,Students with Disabilities,2013,Percent,0.20321,SD6
+Washington Heights,Students with Disabilities,2014,Percent,0.31905,SD6
+Mott Haven,General Education,2005,Percent,0.6593,SD7
+Mott Haven,General Education,2006,Percent,0.64212,SD7
+Mott Haven,General Education,2007,Percent,0.61379,SD7
+Mott Haven,General Education,2008,Percent,0.61608,SD7
+Mott Haven,General Education,2009,Percent,0.58916,SD7
+Mott Haven,General Education,2010,Percent,0.60332,SD7
+Mott Haven,General Education,2011,Percent,0.57572,SD7
+Mott Haven,General Education,2012,Percent,0.57133,SD7
+Mott Haven,General Education,2013,Percent,0.48663,SD7
+Mott Haven,General Education,2014,Percent,0.53386,SD7
+Mott Haven,Students with Disabilities,2005,Percent,0.10744,SD7
+Mott Haven,Students with Disabilities,2006,Percent,0.16949,SD7
+Mott Haven,Students with Disabilities,2007,Percent,0.20188,SD7
+Mott Haven,Students with Disabilities,2008,Percent,0.20455,SD7
+Mott Haven,Students with Disabilities,2009,Percent,0.1806,SD7
+Mott Haven,Students with Disabilities,2010,Percent,0.20359,SD7
+Mott Haven,Students with Disabilities,2011,Percent,0.22111,SD7
+Mott Haven,Students with Disabilities,2012,Percent,0.21379,SD7
+Mott Haven,Students with Disabilities,2013,Percent,0.2819,SD7
+Mott Haven,Students with Disabilities,2014,Percent,0.30633,SD7
+"Hunts Point, Port Morris",General Education,2005,Percent,0.50759,SD8
+"Hunts Point, Port Morris",General Education,2006,Percent,0.44059,SD8
+"Hunts Point, Port Morris",General Education,2007,Percent,0.45811,SD8
+"Hunts Point, Port Morris",General Education,2008,Percent,0.45658,SD8
+"Hunts Point, Port Morris",General Education,2009,Percent,0.48758,SD8
+"Hunts Point, Port Morris",General Education,2010,Percent,0.4949,SD8
+"Hunts Point, Port Morris",General Education,2011,Percent,0.49211,SD8
+"Hunts Point, Port Morris",General Education,2012,Percent,0.46216,SD8
+"Hunts Point, Port Morris",General Education,2013,Percent,0.47001,SD8
+"Hunts Point, Port Morris",General Education,2014,Percent,0.51295,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2005,Percent,0.21466,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2006,Percent,0.14552,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2007,Percent,0.148,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2008,Percent,0.20229,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2009,Percent,0.16493,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2010,Percent,0.22913,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2011,Percent,0.23964,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2012,Percent,0.21256,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2013,Percent,0.22656,SD8
+"Hunts Point, Port Morris",Students with Disabilities,2014,Percent,0.24682,SD8
+"East Tremont, Morris Heights",General Education,2005,Percent,0.49418,SD9
+"East Tremont, Morris Heights",General Education,2006,Percent,0.52654,SD9
+"East Tremont, Morris Heights",General Education,2007,Percent,0.60209,SD9
+"East Tremont, Morris Heights",General Education,2008,Percent,0.69493,SD9
+"East Tremont, Morris Heights",General Education,2009,Percent,0.74508,SD9
+"East Tremont, Morris Heights",General Education,2010,Percent,0.69208,SD9
+"East Tremont, Morris Heights",General Education,2011,Percent,0.63887,SD9
+"East Tremont, Morris Heights",General Education,2012,Percent,0.65373,SD9
+"East Tremont, Morris Heights",General Education,2013,Percent,0.61516,SD9
+"East Tremont, Morris Heights",General Education,2014,Percent,0.63081,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2005,Percent,0.08097,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2006,Percent,0.16993,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2007,Percent,0.12376,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2008,Percent,0.2521,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2009,Percent,0.31159,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2010,Percent,0.3,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2011,Percent,0.25499,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2012,Percent,0.21656,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2013,Percent,0.30532,SD9
+"East Tremont, Morris Heights",Students with Disabilities,2014,Percent,0.30894,SD9
+"Riverdale, Kingsbridge, Fordham",General Education,2005,Percent,0.52849,SD10
+"Riverdale, Kingsbridge, Fordham",General Education,2006,Percent,0.52558,SD10
+"Riverdale, Kingsbridge, Fordham",General Education,2007,Percent,0.593,SD10
+"Riverdale, Kingsbridge, Fordham",General Education,2008,Percent,0.64673,SD10
+"Riverdale, Kingsbridge, Fordham",General Education,2009,Percent,0.67147,SD10
+"Riverdale, Kingsbridge, Fordham",General Education,2010,Percent,0.66999,SD10
+"Riverdale, Kingsbridge, Fordham",General Education,2011,Percent,0.66423,SD10
+"Riverdale, Kingsbridge, Fordham",General Education,2012,Percent,0.63164,SD10
+"Riverdale, Kingsbridge, Fordham",General Education,2013,Percent,0.63892,SD10
+"Riverdale, Kingsbridge, Fordham",General Education,2014,Percent,0.66658,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2005,Percent,0.15116,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2006,Percent,0.18941,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2007,Percent,0.19435,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2008,Percent,0.23167,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2009,Percent,0.25038,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2010,Percent,0.269,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2011,Percent,0.23282,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2012,Percent,0.22646,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2013,Percent,0.26877,SD10
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2014,Percent,0.27838,SD10
+"Eastchester, Baychester, Co-op City",General Education,2005,Percent,0.48,SD11
+"Eastchester, Baychester, Co-op City",General Education,2006,Percent,0.50883,SD11
+"Eastchester, Baychester, Co-op City",General Education,2007,Percent,0.58883,SD11
+"Eastchester, Baychester, Co-op City",General Education,2008,Percent,0.65147,SD11
+"Eastchester, Baychester, Co-op City",General Education,2009,Percent,0.66222,SD11
+"Eastchester, Baychester, Co-op City",General Education,2010,Percent,0.6677,SD11
+"Eastchester, Baychester, Co-op City",General Education,2011,Percent,0.65908,SD11
+"Eastchester, Baychester, Co-op City",General Education,2012,Percent,0.64662,SD11
+"Eastchester, Baychester, Co-op City",General Education,2013,Percent,0.6491,SD11
+"Eastchester, Baychester, Co-op City",General Education,2014,Percent,0.71121,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2005,Percent,0.12871,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2006,Percent,0.19048,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2007,Percent,0.19082,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2008,Percent,0.28475,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2009,Percent,0.23819,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2010,Percent,0.32348,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2011,Percent,0.22148,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2012,Percent,0.23539,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2013,Percent,0.32308,SD11
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2014,Percent,0.34375,SD11
+"Crotona Park, Morrisania, Melrose",General Education,2005,Percent,0.43519,SD12
+"Crotona Park, Morrisania, Melrose",General Education,2006,Percent,0.44835,SD12
+"Crotona Park, Morrisania, Melrose",General Education,2007,Percent,0.49267,SD12
+"Crotona Park, Morrisania, Melrose",General Education,2008,Percent,0.51366,SD12
+"Crotona Park, Morrisania, Melrose",General Education,2009,Percent,0.5523,SD12
+"Crotona Park, Morrisania, Melrose",General Education,2010,Percent,0.57558,SD12
+"Crotona Park, Morrisania, Melrose",General Education,2011,Percent,0.44594,SD12
+"Crotona Park, Morrisania, Melrose",General Education,2012,Percent,0.43438,SD12
+"Crotona Park, Morrisania, Melrose",General Education,2013,Percent,0.47593,SD12
+"Crotona Park, Morrisania, Melrose",General Education,2014,Percent,0.53749,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2005,Percent,0.15827,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2006,Percent,0.12,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2007,Percent,0.12568,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2008,Percent,0.18286,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2009,Percent,0.2567,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2010,Percent,0.26207,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2011,Percent,0.22222,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2012,Percent,0.22343,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2013,Percent,0.25949,SD12
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2014,Percent,0.34072,SD12
+"Brooklyn Hts, Downtown Brooklyn",General Education,2005,Percent,0.80275,SD13
+"Brooklyn Hts, Downtown Brooklyn",General Education,2006,Percent,0.80667,SD13
+"Brooklyn Hts, Downtown Brooklyn",General Education,2007,Percent,0.78579,SD13
+"Brooklyn Hts, Downtown Brooklyn",General Education,2008,Percent,0.81785,SD13
+"Brooklyn Hts, Downtown Brooklyn",General Education,2009,Percent,0.78326,SD13
+"Brooklyn Hts, Downtown Brooklyn",General Education,2010,Percent,0.78956,SD13
+"Brooklyn Hts, Downtown Brooklyn",General Education,2011,Percent,0.78018,SD13
+"Brooklyn Hts, Downtown Brooklyn",General Education,2012,Percent,0.78041,SD13
+"Brooklyn Hts, Downtown Brooklyn",General Education,2013,Percent,0.78994,SD13
+"Brooklyn Hts, Downtown Brooklyn",General Education,2014,Percent,0.81304,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2005,Percent,0.16981,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2006,Percent,0.19588,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2007,Percent,0.14504,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2008,Percent,0.16667,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2009,Percent,0.27717,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2010,Percent,0.26016,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2011,Percent,0.22523,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2012,Percent,0.27642,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2013,Percent,0.35484,SD13
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2014,Percent,0.36293,SD13
+"Williamsburg, Greenpoint",General Education,2005,Percent,0.55714,SD14
+"Williamsburg, Greenpoint",General Education,2006,Percent,0.58445,SD14
+"Williamsburg, Greenpoint",General Education,2007,Percent,0.61607,SD14
+"Williamsburg, Greenpoint",General Education,2008,Percent,0.68638,SD14
+"Williamsburg, Greenpoint",General Education,2009,Percent,0.71062,SD14
+"Williamsburg, Greenpoint",General Education,2010,Percent,0.712,SD14
+"Williamsburg, Greenpoint",General Education,2011,Percent,0.68339,SD14
+"Williamsburg, Greenpoint",General Education,2012,Percent,0.71128,SD14
+"Williamsburg, Greenpoint",General Education,2013,Percent,0.61425,SD14
+"Williamsburg, Greenpoint",General Education,2014,Percent,0.66549,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2005,Percent,0.22527,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2006,Percent,0.19685,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2007,Percent,0.23669,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2008,Percent,0.35545,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2009,Percent,0.28652,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2010,Percent,0.36885,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2011,Percent,0.34409,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2012,Percent,0.3526,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2013,Percent,0.30075,SD14
+"Williamsburg, Greenpoint",Students with Disabilities,2014,Percent,0.42056,SD14
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2005,Percent,0.51078,SD15
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2006,Percent,0.44934,SD15
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2007,Percent,0.48222,SD15
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2008,Percent,0.51563,SD15
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2009,Percent,0.57919,SD15
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2010,Percent,0.55005,SD15
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2011,Percent,0.51386,SD15
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2012,Percent,0.59451,SD15
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2013,Percent,0.64013,SD15
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2014,Percent,0.6358,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2005,Percent,0.14483,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2006,Percent,0.14815,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2007,Percent,0.125,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2008,Percent,0.23113,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2009,Percent,0.24454,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2010,Percent,0.3125,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2011,Percent,0.3814,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2012,Percent,0.28745,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2013,Percent,0.436,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2014,Percent,0.37591,SD15
+Bedford Stuyvesant,General Education,2005,Percent,0.55489,SD16
+Bedford Stuyvesant,General Education,2006,Percent,0.48418,SD16
+Bedford Stuyvesant,General Education,2007,Percent,0.43193,SD16
+Bedford Stuyvesant,General Education,2008,Percent,0.50538,SD16
+Bedford Stuyvesant,General Education,2009,Percent,0.49157,SD16
+Bedford Stuyvesant,General Education,2010,Percent,0.49487,SD16
+Bedford Stuyvesant,General Education,2011,Percent,0.52446,SD16
+Bedford Stuyvesant,General Education,2012,Percent,0.45873,SD16
+Bedford Stuyvesant,General Education,2013,Percent,0.46552,SD16
+Bedford Stuyvesant,General Education,2014,Percent,0.49231,SD16
+Bedford Stuyvesant,Students with Disabilities,2005,Percent,0.00862,SD16
+Bedford Stuyvesant,Students with Disabilities,2006,Percent,0.01869,SD16
+Bedford Stuyvesant,Students with Disabilities,2007,Percent,0.06338,SD16
+Bedford Stuyvesant,Students with Disabilities,2008,Percent,0.06167,SD16
+Bedford Stuyvesant,Students with Disabilities,2009,Percent,0.09292,SD16
+Bedford Stuyvesant,Students with Disabilities,2010,Percent,0.13158,SD16
+Bedford Stuyvesant,Students with Disabilities,2011,Percent,0.09901,SD16
+Bedford Stuyvesant,Students with Disabilities,2012,Percent,0.11364,SD16
+Bedford Stuyvesant,Students with Disabilities,2013,Percent,0.12821,SD16
+Bedford Stuyvesant,Students with Disabilities,2014,Percent,0.16489,SD16
+Crown Heights,General Education,2005,Percent,0.50194,SD17
+Crown Heights,General Education,2006,Percent,0.55432,SD17
+Crown Heights,General Education,2007,Percent,0.65392,SD17
+Crown Heights,General Education,2008,Percent,0.65251,SD17
+Crown Heights,General Education,2009,Percent,0.63489,SD17
+Crown Heights,General Education,2010,Percent,0.64511,SD17
+Crown Heights,General Education,2011,Percent,0.61121,SD17
+Crown Heights,General Education,2012,Percent,0.67546,SD17
+Crown Heights,General Education,2013,Percent,0.65131,SD17
+Crown Heights,General Education,2014,Percent,0.7026,SD17
+Crown Heights,Students with Disabilities,2005,Percent,0.12593,SD17
+Crown Heights,Students with Disabilities,2006,Percent,0.0989,SD17
+Crown Heights,Students with Disabilities,2007,Percent,0.12621,SD17
+Crown Heights,Students with Disabilities,2008,Percent,0.19913,SD17
+Crown Heights,Students with Disabilities,2009,Percent,0.22594,SD17
+Crown Heights,Students with Disabilities,2010,Percent,0.21404,SD17
+Crown Heights,Students with Disabilities,2011,Percent,0.1902,SD17
+Crown Heights,Students with Disabilities,2012,Percent,0.18011,SD17
+Crown Heights,Students with Disabilities,2013,Percent,0.27341,SD17
+Crown Heights,Students with Disabilities,2014,Percent,0.35379,SD17
+"East Flatbush, Canarsie",General Education,2005,Percent,0.43897,SD18
+"East Flatbush, Canarsie",General Education,2006,Percent,0.35237,SD18
+"East Flatbush, Canarsie",General Education,2007,Percent,0.38194,SD18
+"East Flatbush, Canarsie",General Education,2008,Percent,0.38025,SD18
+"East Flatbush, Canarsie",General Education,2009,Percent,0.39777,SD18
+"East Flatbush, Canarsie",General Education,2010,Percent,0.40214,SD18
+"East Flatbush, Canarsie",General Education,2011,Percent,0.51096,SD18
+"East Flatbush, Canarsie",General Education,2012,Percent,0.56729,SD18
+"East Flatbush, Canarsie",General Education,2013,Percent,0.53666,SD18
+"East Flatbush, Canarsie",General Education,2014,Percent,0.57474,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2005,Percent,0.07692,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2006,Percent,0.11282,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2007,Percent,0.10098,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2008,Percent,0.08015,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2009,Percent,0.12648,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2010,Percent,0.16129,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2011,Percent,0.10256,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2012,Percent,0.29596,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2013,Percent,0.33668,SD18
+"East Flatbush, Canarsie",Students with Disabilities,2014,Percent,0.39506,SD18
+East New York,General Education,2005,Percent,0.42534,SD19
+East New York,General Education,2006,Percent,0.43197,SD19
+East New York,General Education,2007,Percent,0.47032,SD19
+East New York,General Education,2008,Percent,0.50145,SD19
+East New York,General Education,2009,Percent,0.55256,SD19
+East New York,General Education,2010,Percent,0.55711,SD19
+East New York,General Education,2011,Percent,0.60808,SD19
+East New York,General Education,2012,Percent,0.62152,SD19
+East New York,General Education,2013,Percent,0.56472,SD19
+East New York,General Education,2014,Percent,0.56774,SD19
+East New York,Students with Disabilities,2005,Percent,0.10738,SD19
+East New York,Students with Disabilities,2006,Percent,0.07519,SD19
+East New York,Students with Disabilities,2007,Percent,0.11111,SD19
+East New York,Students with Disabilities,2008,Percent,0.13605,SD19
+East New York,Students with Disabilities,2009,Percent,0.15282,SD19
+East New York,Students with Disabilities,2010,Percent,0.19512,SD19
+East New York,Students with Disabilities,2011,Percent,0.26608,SD19
+East New York,Students with Disabilities,2012,Percent,0.22281,SD19
+East New York,Students with Disabilities,2013,Percent,0.32168,SD19
+East New York,Students with Disabilities,2014,Percent,0.33866,SD19
+"Bay Ridge, Bensonhurst",General Education,2005,Percent,0.53149,SD20
+"Bay Ridge, Bensonhurst",General Education,2006,Percent,0.52783,SD20
+"Bay Ridge, Bensonhurst",General Education,2007,Percent,0.57634,SD20
+"Bay Ridge, Bensonhurst",General Education,2008,Percent,0.60594,SD20
+"Bay Ridge, Bensonhurst",General Education,2009,Percent,0.61731,SD20
+"Bay Ridge, Bensonhurst",General Education,2010,Percent,0.65877,SD20
+"Bay Ridge, Bensonhurst",General Education,2011,Percent,0.69533,SD20
+"Bay Ridge, Bensonhurst",General Education,2012,Percent,0.6787,SD20
+"Bay Ridge, Bensonhurst",General Education,2013,Percent,0.65094,SD20
+"Bay Ridge, Bensonhurst",General Education,2014,Percent,0.68124,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2005,Percent,0.19668,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2006,Percent,0.21017,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2007,Percent,0.24286,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2008,Percent,0.28198,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2009,Percent,0.31728,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2010,Percent,0.31675,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2011,Percent,0.28541,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2012,Percent,0.27133,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2013,Percent,0.35035,SD20
+"Bay Ridge, Bensonhurst",Students with Disabilities,2014,Percent,0.35654,SD20
+"Gravesend, Coney Island",General Education,2005,Percent,0.57234,SD21
+"Gravesend, Coney Island",General Education,2006,Percent,0.55838,SD21
+"Gravesend, Coney Island",General Education,2007,Percent,0.58786,SD21
+"Gravesend, Coney Island",General Education,2008,Percent,0.59249,SD21
+"Gravesend, Coney Island",General Education,2009,Percent,0.63688,SD21
+"Gravesend, Coney Island",General Education,2010,Percent,0.66253,SD21
+"Gravesend, Coney Island",General Education,2011,Percent,0.65897,SD21
+"Gravesend, Coney Island",General Education,2012,Percent,0.69325,SD21
+"Gravesend, Coney Island",General Education,2013,Percent,0.69672,SD21
+"Gravesend, Coney Island",General Education,2014,Percent,0.73736,SD21
+"Gravesend, Coney Island",Students with Disabilities,2005,Percent,0.17213,SD21
+"Gravesend, Coney Island",Students with Disabilities,2006,Percent,0.22261,SD21
+"Gravesend, Coney Island",Students with Disabilities,2007,Percent,0.16585,SD21
+"Gravesend, Coney Island",Students with Disabilities,2008,Percent,0.18571,SD21
+"Gravesend, Coney Island",Students with Disabilities,2009,Percent,0.22922,SD21
+"Gravesend, Coney Island",Students with Disabilities,2010,Percent,0.25059,SD21
+"Gravesend, Coney Island",Students with Disabilities,2011,Percent,0.2766,SD21
+"Gravesend, Coney Island",Students with Disabilities,2012,Percent,0.31006,SD21
+"Gravesend, Coney Island",Students with Disabilities,2013,Percent,0.38329,SD21
+"Gravesend, Coney Island",Students with Disabilities,2014,Percent,0.44027,SD21
+"Flatbush, Midwood, Sheepshead Bay",General Education,2005,Percent,0.64052,SD22
+"Flatbush, Midwood, Sheepshead Bay",General Education,2006,Percent,0.67206,SD22
+"Flatbush, Midwood, Sheepshead Bay",General Education,2007,Percent,0.68871,SD22
+"Flatbush, Midwood, Sheepshead Bay",General Education,2008,Percent,0.71354,SD22
+"Flatbush, Midwood, Sheepshead Bay",General Education,2009,Percent,0.73075,SD22
+"Flatbush, Midwood, Sheepshead Bay",General Education,2010,Percent,0.77669,SD22
+"Flatbush, Midwood, Sheepshead Bay",General Education,2011,Percent,0.78013,SD22
+"Flatbush, Midwood, Sheepshead Bay",General Education,2012,Percent,0.73717,SD22
+"Flatbush, Midwood, Sheepshead Bay",General Education,2013,Percent,0.71783,SD22
+"Flatbush, Midwood, Sheepshead Bay",General Education,2014,Percent,0.76887,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2005,Percent,0.33333,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2006,Percent,0.23153,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2007,Percent,0.33452,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2008,Percent,0.30818,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2009,Percent,0.29455,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2010,Percent,0.31579,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2011,Percent,0.27597,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2012,Percent,0.27195,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2013,Percent,0.32685,SD22
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2014,Percent,0.35338,SD22
+"Brownsville, Ocean Hill",General Education,2005,Percent,0.4375,SD23
+"Brownsville, Ocean Hill",General Education,2006,Percent,0.60526,SD23
+"Brownsville, Ocean Hill",General Education,2007,Percent,0.6125,SD23
+"Brownsville, Ocean Hill",General Education,2008,Percent,0.71914,SD23
+"Brownsville, Ocean Hill",General Education,2009,Percent,0.50509,SD23
+"Brownsville, Ocean Hill",General Education,2010,Percent,0.4712,SD23
+"Brownsville, Ocean Hill",General Education,2011,Percent,0.45405,SD23
+"Brownsville, Ocean Hill",General Education,2012,Percent,0.37474,SD23
+"Brownsville, Ocean Hill",General Education,2013,Percent,0.38163,SD23
+"Brownsville, Ocean Hill",General Education,2014,Percent,0.40898,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2005,Percent,0.05128,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2006,Percent,0,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2007,Percent,0.16071,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2008,Percent,0.19178,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2009,Percent,0.15625,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2010,Percent,0.19708,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2011,Percent,0.13636,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2012,Percent,0.125,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2013,Percent,0.16102,SD23
+"Brownsville, Ocean Hill",Students with Disabilities,2014,Percent,0.17925,SD23
+"Sunnyside, Woodside, Jackson Hts",General Education,2005,Percent,0.53045,SD24
+"Sunnyside, Woodside, Jackson Hts",General Education,2006,Percent,0.5117,SD24
+"Sunnyside, Woodside, Jackson Hts",General Education,2007,Percent,0.54133,SD24
+"Sunnyside, Woodside, Jackson Hts",General Education,2008,Percent,0.58187,SD24
+"Sunnyside, Woodside, Jackson Hts",General Education,2009,Percent,0.61143,SD24
+"Sunnyside, Woodside, Jackson Hts",General Education,2010,Percent,0.61883,SD24
+"Sunnyside, Woodside, Jackson Hts",General Education,2011,Percent,0.65446,SD24
+"Sunnyside, Woodside, Jackson Hts",General Education,2012,Percent,0.6218,SD24
+"Sunnyside, Woodside, Jackson Hts",General Education,2013,Percent,0.59137,SD24
+"Sunnyside, Woodside, Jackson Hts",General Education,2014,Percent,0.6436,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2005,Percent,0.19048,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2006,Percent,0.19118,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2007,Percent,0.19588,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2008,Percent,0.25166,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2009,Percent,0.32773,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2010,Percent,0.33758,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2011,Percent,0.25989,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2012,Percent,0.3358,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2013,Percent,0.37143,SD24
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2014,Percent,0.34656,SD24
+"Flushing, Whitestone",General Education,2005,Percent,0.57143,SD25
+"Flushing, Whitestone",General Education,2006,Percent,0.5117,SD25
+"Flushing, Whitestone",General Education,2007,Percent,0.56036,SD25
+"Flushing, Whitestone",General Education,2008,Percent,0.61771,SD25
+"Flushing, Whitestone",General Education,2009,Percent,0.61489,SD25
+"Flushing, Whitestone",General Education,2010,Percent,0.64506,SD25
+"Flushing, Whitestone",General Education,2011,Percent,0.64394,SD25
+"Flushing, Whitestone",General Education,2012,Percent,0.64247,SD25
+"Flushing, Whitestone",General Education,2013,Percent,0.62124,SD25
+"Flushing, Whitestone",General Education,2014,Percent,0.6488,SD25
+"Flushing, Whitestone",Students with Disabilities,2005,Percent,0.17333,SD25
+"Flushing, Whitestone",Students with Disabilities,2006,Percent,0.208,SD25
+"Flushing, Whitestone",Students with Disabilities,2007,Percent,0.2069,SD25
+"Flushing, Whitestone",Students with Disabilities,2008,Percent,0.22449,SD25
+"Flushing, Whitestone",Students with Disabilities,2009,Percent,0.22072,SD25
+"Flushing, Whitestone",Students with Disabilities,2010,Percent,0.24188,SD25
+"Flushing, Whitestone",Students with Disabilities,2011,Percent,0.2724,SD25
+"Flushing, Whitestone",Students with Disabilities,2012,Percent,0.24058,SD25
+"Flushing, Whitestone",Students with Disabilities,2013,Percent,0.31058,SD25
+"Flushing, Whitestone",Students with Disabilities,2014,Percent,0.35976,SD25
+"Bayside, Douglaston, Little Neck",General Education,2005,Percent,0.73944,SD26
+"Bayside, Douglaston, Little Neck",General Education,2006,Percent,0.74312,SD26
+"Bayside, Douglaston, Little Neck",General Education,2007,Percent,0.78267,SD26
+"Bayside, Douglaston, Little Neck",General Education,2008,Percent,0.79027,SD26
+"Bayside, Douglaston, Little Neck",General Education,2009,Percent,0.79492,SD26
+"Bayside, Douglaston, Little Neck",General Education,2010,Percent,0.78916,SD26
+"Bayside, Douglaston, Little Neck",General Education,2011,Percent,0.80831,SD26
+"Bayside, Douglaston, Little Neck",General Education,2012,Percent,0.81572,SD26
+"Bayside, Douglaston, Little Neck",General Education,2013,Percent,0.80802,SD26
+"Bayside, Douglaston, Little Neck",General Education,2014,Percent,0.80222,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2005,Percent,0.34063,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2006,Percent,0.40097,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2007,Percent,0.34586,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2008,Percent,0.34839,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2009,Percent,0.44619,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2010,Percent,0.33062,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2011,Percent,0.43448,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2012,Percent,0.43794,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2013,Percent,0.42298,SD26
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2014,Percent,0.51627,SD26
+"Jamaica, Howard Beach, Rockaways",General Education,2005,Percent,0.46036,SD27
+"Jamaica, Howard Beach, Rockaways",General Education,2006,Percent,0.48329,SD27
+"Jamaica, Howard Beach, Rockaways",General Education,2007,Percent,0.48387,SD27
+"Jamaica, Howard Beach, Rockaways",General Education,2008,Percent,0.49284,SD27
+"Jamaica, Howard Beach, Rockaways",General Education,2009,Percent,0.51957,SD27
+"Jamaica, Howard Beach, Rockaways",General Education,2010,Percent,0.59952,SD27
+"Jamaica, Howard Beach, Rockaways",General Education,2011,Percent,0.60402,SD27
+"Jamaica, Howard Beach, Rockaways",General Education,2012,Percent,0.57499,SD27
+"Jamaica, Howard Beach, Rockaways",General Education,2013,Percent,0.55517,SD27
+"Jamaica, Howard Beach, Rockaways",General Education,2014,Percent,0.60227,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2005,Percent,0.16205,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2006,Percent,0.15625,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2007,Percent,0.10941,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2008,Percent,0.17647,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2009,Percent,0.19963,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2010,Percent,0.2419,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2011,Percent,0.22869,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2012,Percent,0.26186,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2013,Percent,0.27331,SD27
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2014,Percent,0.31072,SD27
+"Jamaica, Forest Hills",General Education,2005,Percent,0.66782,SD28
+"Jamaica, Forest Hills",General Education,2006,Percent,0.67495,SD28
+"Jamaica, Forest Hills",General Education,2007,Percent,0.68947,SD28
+"Jamaica, Forest Hills",General Education,2008,Percent,0.68766,SD28
+"Jamaica, Forest Hills",General Education,2009,Percent,0.75335,SD28
+"Jamaica, Forest Hills",General Education,2010,Percent,0.79241,SD28
+"Jamaica, Forest Hills",General Education,2011,Percent,0.7531,SD28
+"Jamaica, Forest Hills",General Education,2012,Percent,0.7547,SD28
+"Jamaica, Forest Hills",General Education,2013,Percent,0.76558,SD28
+"Jamaica, Forest Hills",General Education,2014,Percent,0.79665,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2005,Percent,0.3311,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2006,Percent,0.2654,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2007,Percent,0.23462,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2008,Percent,0.25,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2009,Percent,0.33681,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2010,Percent,0.28834,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2011,Percent,0.33426,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2012,Percent,0.35308,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2013,Percent,0.42,SD28
+"Jamaica, Forest Hills",Students with Disabilities,2014,Percent,0.46429,SD28
+"Queens Village, Rosedale, Hollis",General Education,2005,Percent,0.49185,SD29
+"Queens Village, Rosedale, Hollis",General Education,2006,Percent,0.50419,SD29
+"Queens Village, Rosedale, Hollis",General Education,2007,Percent,0.55635,SD29
+"Queens Village, Rosedale, Hollis",General Education,2008,Percent,0.68211,SD29
+"Queens Village, Rosedale, Hollis",General Education,2009,Percent,0.7114,SD29
+"Queens Village, Rosedale, Hollis",General Education,2010,Percent,0.69986,SD29
+"Queens Village, Rosedale, Hollis",General Education,2011,Percent,0.66667,SD29
+"Queens Village, Rosedale, Hollis",General Education,2012,Percent,0.65467,SD29
+"Queens Village, Rosedale, Hollis",General Education,2013,Percent,0.65147,SD29
+"Queens Village, Rosedale, Hollis",General Education,2014,Percent,0.70929,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2005,Percent,0.02727,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2006,Percent,0.18605,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2007,Percent,0.11458,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2008,Percent,0.21905,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2009,Percent,0.17333,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2010,Percent,0.22989,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2011,Percent,0.25541,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2012,Percent,0.19583,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2013,Percent,0.29655,SD29
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2014,Percent,0.28723,SD29
+"Long Island City, Astoria",General Education,2005,Percent,0.55626,SD30
+"Long Island City, Astoria",General Education,2006,Percent,0.52918,SD30
+"Long Island City, Astoria",General Education,2007,Percent,0.59759,SD30
+"Long Island City, Astoria",General Education,2008,Percent,0.58699,SD30
+"Long Island City, Astoria",General Education,2009,Percent,0.60776,SD30
+"Long Island City, Astoria",General Education,2010,Percent,0.67359,SD30
+"Long Island City, Astoria",General Education,2011,Percent,0.68219,SD30
+"Long Island City, Astoria",General Education,2012,Percent,0.67843,SD30
+"Long Island City, Astoria",General Education,2013,Percent,0.67815,SD30
+"Long Island City, Astoria",General Education,2014,Percent,0.70182,SD30
+"Long Island City, Astoria",Students with Disabilities,2005,Percent,0.20307,SD30
+"Long Island City, Astoria",Students with Disabilities,2006,Percent,0.1761,SD30
+"Long Island City, Astoria",Students with Disabilities,2007,Percent,0.1991,SD30
+"Long Island City, Astoria",Students with Disabilities,2008,Percent,0.26996,SD30
+"Long Island City, Astoria",Students with Disabilities,2009,Percent,0.15942,SD30
+"Long Island City, Astoria",Students with Disabilities,2010,Percent,0.28571,SD30
+"Long Island City, Astoria",Students with Disabilities,2011,Percent,0.25321,SD30
+"Long Island City, Astoria",Students with Disabilities,2012,Percent,0.30376,SD30
+"Long Island City, Astoria",Students with Disabilities,2013,Percent,0.32281,SD30
+"Long Island City, Astoria",Students with Disabilities,2014,Percent,0.35737,SD30
+Staten Island,General Education,2005,Percent,0.74976,SD31
+Staten Island,General Education,2006,Percent,0.72329,SD31
+Staten Island,General Education,2007,Percent,0.75704,SD31
+Staten Island,General Education,2008,Percent,0.7646,SD31
+Staten Island,General Education,2009,Percent,0.77547,SD31
+Staten Island,General Education,2010,Percent,0.80683,SD31
+Staten Island,General Education,2011,Percent,0.79673,SD31
+Staten Island,General Education,2012,Percent,0.80312,SD31
+Staten Island,General Education,2013,Percent,0.78277,SD31
+Staten Island,General Education,2014,Percent,0.83057,SD31
+Staten Island,Students with Disabilities,2005,Percent,0.31434,SD31
+Staten Island,Students with Disabilities,2006,Percent,0.36009,SD31
+Staten Island,Students with Disabilities,2007,Percent,0.28904,SD31
+Staten Island,Students with Disabilities,2008,Percent,0.31758,SD31
+Staten Island,Students with Disabilities,2009,Percent,0.37166,SD31
+Staten Island,Students with Disabilities,2010,Percent,0.40555,SD31
+Staten Island,Students with Disabilities,2011,Percent,0.38841,SD31
+Staten Island,Students with Disabilities,2012,Percent,0.37763,SD31
+Staten Island,Students with Disabilities,2013,Percent,0.44565,SD31
+Staten Island,Students with Disabilities,2014,Percent,0.48539,SD31
+Bushwick,General Education,2005,Percent,0.33958,SD32
+Bushwick,General Education,2006,Percent,0.45183,SD32
+Bushwick,General Education,2007,Percent,0.54588,SD32
+Bushwick,General Education,2008,Percent,0.57355,SD32
+Bushwick,General Education,2009,Percent,0.54304,SD32
+Bushwick,General Education,2010,Percent,0.58391,SD32
+Bushwick,General Education,2011,Percent,0.52804,SD32
+Bushwick,General Education,2012,Percent,0.48276,SD32
+Bushwick,General Education,2013,Percent,0.53279,SD32
+Bushwick,General Education,2014,Percent,0.52604,SD32
+Bushwick,Students with Disabilities,2005,Percent,0.06475,SD32
+Bushwick,Students with Disabilities,2006,Percent,0.18868,SD32
+Bushwick,Students with Disabilities,2007,Percent,0.27966,SD32
+Bushwick,Students with Disabilities,2008,Percent,0.26087,SD32
+Bushwick,Students with Disabilities,2009,Percent,0.24627,SD32
+Bushwick,Students with Disabilities,2010,Percent,0.32877,SD32
+Bushwick,Students with Disabilities,2011,Percent,0.20741,SD32
+Bushwick,Students with Disabilities,2012,Percent,0.19481,SD32
+Bushwick,Students with Disabilities,2013,Percent,0.24476,SD32
+Bushwick,Students with Disabilities,2014,Percent,0.30065,SD32
+New York City,General Education,2015,Percent,0.73201,3651000
+New York City,Students with Disabilities,2015,Percent,0.37624,3651000
+Bronx,General Education,2015,Percent,0.65807,36005
+Bronx,Students with Disabilities,2015,Percent,0.31328,36005
+Brooklyn,General Education,2015,Percent,0.7296,36047
+Brooklyn,Students with Disabilities,2015,Percent,0.36737,36047
+Manhattan,General Education,2015,Percent,0.74499,36061
+Manhattan,Students with Disabilities,2015,Percent,0.40504,36061
+Queens,General Education,2015,Percent,0.75357,36081
+Queens,Students with Disabilities,2015,Percent,0.40052,36081
+Staten Island,General Education,2015,Percent,0.82526,36085
+Staten Island,Students with Disabilities,2015,Percent,0.48027,36085
+Lower East Side,Students with Disabilities,2015,Percent,0.31609,SD1
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2015,Percent,0.47325,SD2
+Upper West Side,Students with Disabilities,2015,Percent,0.42486,SD3
+East Harlem,Students with Disabilities,2015,Percent,0.38065,SD4
+Central Harlem,Students with Disabilities,2015,Percent,0.26577,SD5
+Washington Heights,Students with Disabilities,2015,Percent,0.25746,SD6
+Mott Haven,Students with Disabilities,2015,Percent,0.28928,SD7
+"Hunts Point, Port Morris",Students with Disabilities,2015,Percent,0.26456,SD8
+"East Tremont, Morris Heights",Students with Disabilities,2015,Percent,0.33925,SD9
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2015,Percent,0.3104,SD10
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2015,Percent,0.35526,SD11
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2015,Percent,0.32727,SD12
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2015,Percent,0.40304,SD13
+"Williamsburg, Greenpoint",Students with Disabilities,2015,Percent,0.45143,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2015,Percent,0.41176,SD15
+Bedford Stuyvesant,Students with Disabilities,2015,Percent,0.17518,SD16
+Crown Heights,Students with Disabilities,2015,Percent,0.35276,SD17
+"East Flatbush, Canarsie",Students with Disabilities,2015,Percent,0.32328,SD18
+East New York,Students with Disabilities,2015,Percent,0.31157,SD19
+"Bay Ridge, Bensonhurst",Students with Disabilities,2015,Percent,0.38571,SD20
+"Gravesend, Coney Island",Students with Disabilities,2015,Percent,0.41099,SD21
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2015,Percent,0.38971,SD22
+"Brownsville, Ocean Hill",Students with Disabilities,2015,Percent,0.26429,SD23
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2015,Percent,0.35102,SD24
+"Flushing, Whitestone",Students with Disabilities,2015,Percent,0.36667,SD25
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2015,Percent,0.55972,SD26
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2015,Percent,0.31222,SD27
+"Jamaica, Forest Hills",Students with Disabilities,2015,Percent,0.47253,SD28
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2015,Percent,0.29464,SD29
+"Long Island City, Astoria",Students with Disabilities,2015,Percent,0.39241,SD30
+Staten Island,Students with Disabilities,2015,Percent,0.48027,SD31
+Bushwick,Students with Disabilities,2015,Percent,0.28358,SD32
+Lower East Side,General Education,2015,Percent,0.62264,SD1
+"Stuyvesant Town, Upper E. Side",General Education,2015,Percent,0.74977,SD2
+Upper West Side,General Education,2015,Percent,0.77922,SD3
+East Harlem,General Education,2015,Percent,0.86763,SD4
+Central Harlem,General Education,2015,Percent,0.71795,SD5
+Washington Heights,General Education,2015,Percent,0.68898,SD6
+Mott Haven,General Education,2015,Percent,0.58571,SD7
+"Hunts Point, Port Morris",General Education,2015,Percent,0.50068,SD8
+"East Tremont, Morris Heights",General Education,2015,Percent,0.69902,SD9
+"Riverdale, Kingsbridge, Fordham",General Education,2015,Percent,0.70501,SD10
+"Eastchester, Baychester, Co-op City",General Education,2015,Percent,0.73249,SD11
+"Crotona Park, Morrisania, Melrose",General Education,2015,Percent,0.62548,SD12
+"Brooklyn Hts, Downtown Brooklyn",General Education,2015,Percent,0.81654,SD13
+"Williamsburg, Greenpoint",General Education,2015,Percent,0.74033,SD14
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2015,Percent,0.6968,SD15
+Bedford Stuyvesant,General Education,2015,Percent,0.59548,SD16
+Crown Heights,General Education,2015,Percent,0.71305,SD17
+"East Flatbush, Canarsie",General Education,2015,Percent,0.6443,SD18
+East New York,General Education,2015,Percent,0.62863,SD19
+"Bay Ridge, Bensonhurst",General Education,2015,Percent,0.74338,SD20
+"Gravesend, Coney Island",General Education,2015,Percent,0.74202,SD21
+"Flatbush, Midwood, Sheepshead Bay",General Education,2015,Percent,0.82071,SD22
+"Brownsville, Ocean Hill",General Education,2015,Percent,0.44248,SD23
+"Sunnyside, Woodside, Jackson Hts",General Education,2015,Percent,0.73333,SD24
+"Flushing, Whitestone",General Education,2015,Percent,0.69469,SD25
+"Bayside, Douglaston, Little Neck",General Education,2015,Percent,0.83922,SD26
+"Jamaica, Howard Beach, Rockaways",General Education,2015,Percent,0.62961,SD27
+"Jamaica, Forest Hills",General Education,2015,Percent,0.8258,SD28
+"Queens Village, Rosedale, Hollis",General Education,2015,Percent,0.72672,SD29
+"Long Island City, Astoria",General Education,2015,Percent,0.76971,SD30
+Staten Island,General Education,2015,Percent,0.82526,SD31
+Bushwick,General Education,2015,Percent,0.5985,SD32
+New York City,General Education,2017,Percent,0.77125,3651000
+New York City,Students with Disabilities,2017,Percent,0.43357,3651000
+New York City,General Education,2016,Percent,0.7593,3651000
+New York City,Students with Disabilities,2016,Percent,0.41853,3651000
+Bronx,General Education,2017,Percent,0.70665,36005
+Bronx,Students with Disabilities,2017,Percent,0.3653,36005
+Brooklyn,General Education,2017,Percent,0.76721,36047
+Brooklyn,Students with Disabilities,2017,Percent,0.42841,36047
+Manhattan,General Education,2017,Percent,0.7721,36061
+Manhattan,Students with Disabilities,2017,Percent,0.45281,36061
+Queens,General Education,2017,Percent,0.79635,36081
+Queens,Students with Disabilities,2017,Percent,0.47114,36081
+Staten Island,General Education,2017,Percent,0.86007,36085
+Staten Island,Students with Disabilities,2017,Percent,0.51192,36085
+Bronx,General Education,2016,Percent,0.68985,36005
+Bronx,Students with Disabilities,2016,Percent,0.36931,36005
+Brooklyn,General Education,2016,Percent,0.75305,36047
+Brooklyn,Students with Disabilities,2016,Percent,0.40796,36047
+Manhattan,General Education,2016,Percent,0.77199,36061
+Manhattan,Students with Disabilities,2016,Percent,0.43564,36061
+Queens,General Education,2016,Percent,0.781,36081
+Queens,Students with Disabilities,2016,Percent,0.44979,36081
+Staten Island,General Education,2016,Percent,0.85135,36085
+Staten Island,Students with Disabilities,2016,Percent,0.4793,36085
+Lower East Side,General Education,2017,Percent,0.65233,SD1
+"Stuyvesant Town, Upper E. Side",General Education,2017,Percent,0.77194,SD2
+Upper West Side,General Education,2017,Percent,0.81846,SD3
+East Harlem,General Education,2017,Percent,0.92,SD4
+Central Harlem,General Education,2017,Percent,0.743,SD5
+Washington Heights,General Education,2017,Percent,0.69336,SD6
+Mott Haven,General Education,2017,Percent,0.63809,SD7
+"Hunts Point, Port Morris",General Education,2017,Percent,0.60729,SD8
+"East Tremont, Morris Heights",General Education,2017,Percent,0.74691,SD9
+"Riverdale, Kingsbridge, Fordham",General Education,2017,Percent,0.76428,SD10
+"Eastchester, Baychester, Co-op City",General Education,2017,Percent,0.77758,SD11
+"Crotona Park, Morrisania, Melrose",General Education,2017,Percent,0.59951,SD12
+"Brooklyn Hts, Downtown Brooklyn",General Education,2017,Percent,0.86555,SD13
+"Williamsburg, Greenpoint",General Education,2017,Percent,0.7954,SD14
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2017,Percent,0.73386,SD15
+Bedford Stuyvesant,General Education,2017,Percent,0.61143,SD16
+Crown Heights,General Education,2017,Percent,0.76165,SD17
+"East Flatbush, Canarsie",General Education,2017,Percent,0.68861,SD18
+East New York,General Education,2017,Percent,0.69486,SD19
+"Bay Ridge, Bensonhurst",General Education,2017,Percent,0.76042,SD20
+"Gravesend, Coney Island",General Education,2017,Percent,0.76094,SD21
+"Flatbush, Midwood, Sheepshead Bay",General Education,2017,Percent,0.84408,SD22
+"Brownsville, Ocean Hill",General Education,2017,Percent,0.47368,SD23
+"Sunnyside, Woodside, Jackson Hts",General Education,2017,Percent,0.76859,SD24
+"Flushing, Whitestone",General Education,2017,Percent,0.70475,SD25
+"Bayside, Douglaston, Little Neck",General Education,2017,Percent,0.89038,SD26
+"Jamaica, Howard Beach, Rockaways",General Education,2017,Percent,0.739,SD27
+"Jamaica, Forest Hills",General Education,2017,Percent,0.8304,SD28
+"Queens Village, Rosedale, Hollis",General Education,2017,Percent,0.78369,SD29
+"Long Island City, Astoria",General Education,2017,Percent,0.81539,SD30
+Staten Island,General Education,2017,Percent,0.86007,SD31
+Bushwick,General Education,2017,Percent,0.6996,SD32
+Lower East Side,Students with Disabilities,2017,Percent,0.28415,SD1
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2017,Percent,0.50761,SD2
+Upper West Side,Students with Disabilities,2017,Percent,0.48031,SD3
+East Harlem,Students with Disabilities,2017,Percent,0.48555,SD4
+Central Harlem,Students with Disabilities,2017,Percent,0.34112,SD5
+Washington Heights,Students with Disabilities,2017,Percent,0.31707,SD6
+Mott Haven,Students with Disabilities,2017,Percent,0.33556,SD7
+"Hunts Point, Port Morris",Students with Disabilities,2017,Percent,0.29545,SD8
+"East Tremont, Morris Heights",Students with Disabilities,2017,Percent,0.39658,SD9
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2017,Percent,0.41985,SD10
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2017,Percent,0.37607,SD11
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2017,Percent,0.34316,SD12
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2017,Percent,0.47794,SD13
+"Williamsburg, Greenpoint",Students with Disabilities,2017,Percent,0.59603,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2017,Percent,0.40426,SD15
+Bedford Stuyvesant,Students with Disabilities,2017,Percent,0.27848,SD16
+Crown Heights,Students with Disabilities,2017,Percent,0.43544,SD17
+"East Flatbush, Canarsie",Students with Disabilities,2017,Percent,0.34413,SD18
+East New York,Students with Disabilities,2017,Percent,0.37725,SD19
+"Bay Ridge, Bensonhurst",Students with Disabilities,2017,Percent,0.43133,SD20
+"Gravesend, Coney Island",Students with Disabilities,2017,Percent,0.43659,SD21
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2017,Percent,0.52113,SD22
+"Brownsville, Ocean Hill",Students with Disabilities,2017,Percent,0.21341,SD23
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2017,Percent,0.43068,SD24
+"Flushing, Whitestone",Students with Disabilities,2017,Percent,0.44186,SD25
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2017,Percent,0.62385,SD26
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2017,Percent,0.40319,SD27
+"Jamaica, Forest Hills",Students with Disabilities,2017,Percent,0.51852,SD28
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2017,Percent,0.35714,SD29
+"Long Island City, Astoria",Students with Disabilities,2017,Percent,0.46885,SD30
+Staten Island,Students with Disabilities,2017,Percent,0.51192,SD31
+Bushwick,Students with Disabilities,2017,Percent,0.46914,SD32
+Lower East Side,General Education,2016,Percent,0.63617,SD1
+"Stuyvesant Town, Upper E. Side",General Education,2016,Percent,0.78222,SD2
+Upper West Side,General Education,2016,Percent,0.82016,SD3
+East Harlem,General Education,2016,Percent,0.87821,SD4
+Central Harlem,General Education,2016,Percent,0.71623,SD5
+Washington Heights,General Education,2016,Percent,0.69916,SD6
+Mott Haven,General Education,2016,Percent,0.63253,SD7
+"Hunts Point, Port Morris",General Education,2016,Percent,0.56734,SD8
+"East Tremont, Morris Heights",General Education,2016,Percent,0.74086,SD9
+"Riverdale, Kingsbridge, Fordham",General Education,2016,Percent,0.74522,SD10
+"Eastchester, Baychester, Co-op City",General Education,2016,Percent,0.75137,SD11
+"Crotona Park, Morrisania, Melrose",General Education,2016,Percent,0.58192,SD12
+"Brooklyn Hts, Downtown Brooklyn",General Education,2016,Percent,0.85613,SD13
+"Williamsburg, Greenpoint",General Education,2016,Percent,0.77334,SD14
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2016,Percent,0.70957,SD15
+Bedford Stuyvesant,General Education,2016,Percent,0.54496,SD16
+Crown Heights,General Education,2016,Percent,0.74607,SD17
+"East Flatbush, Canarsie",General Education,2016,Percent,0.63901,SD18
+East New York,General Education,2016,Percent,0.72162,SD19
+"Bay Ridge, Bensonhurst",General Education,2016,Percent,0.73472,SD20
+"Gravesend, Coney Island",General Education,2016,Percent,0.74603,SD21
+"Flatbush, Midwood, Sheepshead Bay",General Education,2016,Percent,0.84262,SD22
+"Brownsville, Ocean Hill",General Education,2016,Percent,0.46138,SD23
+"Sunnyside, Woodside, Jackson Hts",General Education,2016,Percent,0.75852,SD24
+"Flushing, Whitestone",General Education,2016,Percent,0.71304,SD25
+"Bayside, Douglaston, Little Neck",General Education,2016,Percent,0.87058,SD26
+"Jamaica, Howard Beach, Rockaways",General Education,2016,Percent,0.68542,SD27
+"Jamaica, Forest Hills",General Education,2016,Percent,0.82841,SD28
+"Queens Village, Rosedale, Hollis",General Education,2016,Percent,0.77278,SD29
+"Long Island City, Astoria",General Education,2016,Percent,0.78193,SD30
+Staten Island,General Education,2016,Percent,0.85135,SD31
+Bushwick,General Education,2016,Percent,0.69136,SD32
+Lower East Side,Students with Disabilities,2016,Percent,0.29801,SD1
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2016,Percent,0.49377,SD2
+Upper West Side,Students with Disabilities,2016,Percent,0.44205,SD3
+East Harlem,Students with Disabilities,2016,Percent,0.44974,SD4
+Central Harlem,Students with Disabilities,2016,Percent,0.28729,SD5
+Washington Heights,Students with Disabilities,2016,Percent,0.31734,SD6
+Mott Haven,Students with Disabilities,2016,Percent,0.37028,SD7
+"Hunts Point, Port Morris",Students with Disabilities,2016,Percent,0.32157,SD8
+"East Tremont, Morris Heights",Students with Disabilities,2016,Percent,0.34538,SD9
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2016,Percent,0.41667,SD10
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2016,Percent,0.35821,SD11
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2016,Percent,0.39747,SD12
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2016,Percent,0.47794,SD13
+"Williamsburg, Greenpoint",Students with Disabilities,2016,Percent,0.52897,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2016,Percent,0.45092,SD15
+Bedford Stuyvesant,Students with Disabilities,2016,Percent,0.2406,SD16
+Crown Heights,Students with Disabilities,2016,Percent,0.35519,SD17
+"East Flatbush, Canarsie",Students with Disabilities,2016,Percent,0.325,SD18
+East New York,Students with Disabilities,2016,Percent,0.37538,SD19
+"Bay Ridge, Bensonhurst",Students with Disabilities,2016,Percent,0.41582,SD20
+"Gravesend, Coney Island",Students with Disabilities,2016,Percent,0.42539,SD21
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2016,Percent,0.44023,SD22
+"Brownsville, Ocean Hill",Students with Disabilities,2016,Percent,0.17021,SD23
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2016,Percent,0.42105,SD24
+"Flushing, Whitestone",Students with Disabilities,2016,Percent,0.41003,SD25
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2016,Percent,0.57143,SD26
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2016,Percent,0.39453,SD27
+"Jamaica, Forest Hills",Students with Disabilities,2016,Percent,0.52,SD28
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2016,Percent,0.36364,SD29
+"Long Island City, Astoria",Students with Disabilities,2016,Percent,0.41875,SD30
+Staten Island,Students with Disabilities,2016,Percent,0.4793,SD31
+Bushwick,Students with Disabilities,2016,Percent,0.43787,SD32
+Lower East Side,General Education,2018,Percent,0.65233,SD1
+"Stuyvesant Town, Upper E. Side",General Education,2018,Percent,0.77194,SD2
+Upper West Side,General Education,2018,Percent,0.81846,SD3
+East Harlem,General Education,2018,Percent,0.92,SD4
+Central Harlem,General Education,2018,Percent,0.743,SD5
+Washington Heights,General Education,2018,Percent,0.69336,SD6
+Mott Haven,General Education,2018,Percent,0.63809,SD7
+"Hunts Point, Port Morris",General Education,2018,Percent,0.60729,SD8
+"East Tremont, Morris Heights",General Education,2018,Percent,0.74691,SD9
+"Riverdale, Kingsbridge, Fordham",General Education,2018,Percent,0.76428,SD10
+"Eastchester, Baychester, Co-op City",General Education,2018,Percent,0.77758,SD11
+"Crotona Park, Morrisania, Melrose",General Education,2018,Percent,0.59951,SD12
+"Brooklyn Hts, Downtown Brooklyn",General Education,2018,Percent,0.86555,SD13
+"Williamsburg, Greenpoint",General Education,2018,Percent,0.7954,SD14
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2018,Percent,0.73386,SD15
+Bedford Stuyvesant,General Education,2018,Percent,0.61143,SD16
+Crown Heights,General Education,2018,Percent,0.76165,SD17
+"East Flatbush, Canarsie",General Education,2018,Percent,0.68861,SD18
+East New York,General Education,2018,Percent,0.69486,SD19
+"Bay Ridge, Bensonhurst",General Education,2018,Percent,0.76042,SD20
+"Gravesend, Coney Island",General Education,2018,Percent,0.76094,SD21
+"Flatbush, Midwood, Sheepshead Bay",General Education,2018,Percent,0.84408,SD22
+"Brownsville, Ocean Hill",General Education,2018,Percent,0.47368,SD23
+"Sunnyside, Woodside, Jackson Hts",General Education,2018,Percent,0.76859,SD24
+"Flushing, Whitestone",General Education,2018,Percent,0.70475,SD25
+"Bayside, Douglaston, Little Neck",General Education,2018,Percent,0.89038,SD26
+"Jamaica, Howard Beach, Rockaways",General Education,2018,Percent,0.739,SD27
+"Jamaica, Forest Hills",General Education,2018,Percent,0.8304,SD28
+"Queens Village, Rosedale, Hollis",General Education,2018,Percent,0.78369,SD29
+"Long Island City, Astoria",General Education,2018,Percent,0.81539,SD30
+Staten Island,General Education,2018,Percent,0.86007,SD31
+Bushwick,General Education,2018,Percent,0.6996,SD32
+Lower East Side,Students with Disabilities,2018,Percent,0.28415,SD1
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2018,Percent,0.50761,SD2
+Upper West Side,Students with Disabilities,2018,Percent,0.48031,SD3
+East Harlem,Students with Disabilities,2018,Percent,0.48555,SD4
+Central Harlem,Students with Disabilities,2018,Percent,0.34112,SD5
+Washington Heights,Students with Disabilities,2018,Percent,0.31707,SD6
+Mott Haven,Students with Disabilities,2018,Percent,0.33556,SD7
+"Hunts Point, Port Morris",Students with Disabilities,2018,Percent,0.29545,SD8
+"East Tremont, Morris Heights",Students with Disabilities,2018,Percent,0.39658,SD9
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2018,Percent,0.41985,SD10
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2018,Percent,0.37607,SD11
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2018,Percent,0.34316,SD12
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2018,Percent,0.47794,SD13
+"Williamsburg, Greenpoint",Students with Disabilities,2018,Percent,0.59603,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2018,Percent,0.40426,SD15
+Bedford Stuyvesant,Students with Disabilities,2018,Percent,0.27848,SD16
+Crown Heights,Students with Disabilities,2018,Percent,0.43544,SD17
+"East Flatbush, Canarsie",Students with Disabilities,2018,Percent,0.34413,SD18
+East New York,Students with Disabilities,2018,Percent,0.37725,SD19
+"Bay Ridge, Bensonhurst",Students with Disabilities,2018,Percent,0.43133,SD20
+"Gravesend, Coney Island",Students with Disabilities,2018,Percent,0.43659,SD21
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2018,Percent,0.52113,SD22
+"Brownsville, Ocean Hill",Students with Disabilities,2018,Percent,0.21341,SD23
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2018,Percent,0.43068,SD24
+"Flushing, Whitestone",Students with Disabilities,2018,Percent,0.44186,SD25
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2018,Percent,0.62385,SD26
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2018,Percent,0.40319,SD27
+"Jamaica, Forest Hills",Students with Disabilities,2018,Percent,0.51852,SD28
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2018,Percent,0.35714,SD29
+"Long Island City, Astoria",Students with Disabilities,2018,Percent,0.46885,SD30
+Staten Island,Students with Disabilities,2018,Percent,0.51192,SD31
+Bushwick,Students with Disabilities,2018,Percent,0.46914,SD32
+Bronx,General Education,2018,Percent,0.70876,36005
+Bronx,Students with Disabilities,2018,Percent,0.39157,36005
+Brooklyn,General Education,2018,Percent,0.78847,36047
+Brooklyn,Students with Disabilities,2018,Percent,0.46767,36047
+Manhattan,General Education,2018,Percent,0.78737,36061
+Manhattan,Students with Disabilities,2018,Percent,0.4924,36061
+Queens,General Education,2018,Percent,0.80775,36081
+Queens,Students with Disabilities,2018,Percent,0.51853,36081
+Staten Island,General Education,2018,Percent,0.86362,36085
+Staten Island,Students with Disabilities,2018,Percent,0.51423,36085
+New York City,General Education,2018,Percent,0.78421,3651000
+New York City,Students with Disabilities,2018,Percent,0.46915,3651000
+New York City,General Education,2019,Percent,0.7955,3651000
+Bronx,General Education,2019,Percent,0.74007,36005
+Brooklyn,General Education,2019,Percent,0.78559,36047
+Manhattan,General Education,2019,Percent,0.80008,36061
+Queens,General Education,2019,Percent,0.81967,36081
+Staten Island,General Education,2019,Percent,0.87816,36085
+Lower East Side,General Education,2019,Percent,0.7072,SD1
+"Stuyvesant Town, Upper E. Side",General Education,2019,Percent,0.80112,SD2
+Upper West Side,General Education,2019,Percent,0.83776,SD3
+East Harlem,General Education,2019,Percent,0.91779,SD4
+Central Harlem,General Education,2019,Percent,0.7562,SD5
+Washington Heights,General Education,2019,Percent,0.74845,SD6
+Mott Haven,General Education,2019,Percent,0.69243,SD7
+"Hunts Point, Port Morris",General Education,2019,Percent,0.64846,SD8
+"East Tremont, Morris Heights",General Education,2019,Percent,0.75488,SD9
+"Riverdale, Kingsbridge, Fordham",General Education,2019,Percent,0.80283,SD10
+"Eastchester, Baychester, Co-op City",General Education,2019,Percent,0.79528,SD11
+"Crotona Park, Morrisania, Melrose",General Education,2019,Percent,0.6348,SD12
+"Brooklyn Hts, Downtown Brooklyn",General Education,2019,Percent,0.87576,SD13
+"Williamsburg, Greenpoint",General Education,2019,Percent,0.83743,SD14
+"S. Brooklyn, Park Slope, Sunset Park",General Education,2019,Percent,0.74958,SD15
+Bedford Stuyvesant,General Education,2019,Percent,0.61994,SD16
+Crown Heights,General Education,2019,Percent,0.78849,SD17
+"East Flatbush, Canarsie",General Education,2019,Percent,0.64248,SD18
+East New York,General Education,2019,Percent,0.81789,SD19
+"Bay Ridge, Bensonhurst",General Education,2019,Percent,0.75217,SD20
+"Gravesend, Coney Island",General Education,2019,Percent,0.79131,SD21
+"Flatbush, Midwood, Sheepshead Bay",General Education,2019,Percent,0.85194,SD22
+"Brownsville, Ocean Hill",General Education,2019,Percent,0.48127,SD23
+"Sunnyside, Woodside, Jackson Hts",General Education,2019,Percent,0.80441,SD24
+"Flushing, Whitestone",General Education,2019,Percent,0.75212,SD25
+"Bayside, Douglaston, Little Neck",General Education,2019,Percent,0.89827,SD26
+"Jamaica, Howard Beach, Rockaways",General Education,2019,Percent,0.7603,SD27
+"Jamaica, Forest Hills",General Education,2019,Percent,0.85467,SD28
+"Queens Village, Rosedale, Hollis",General Education,2019,Percent,0.82838,SD29
+"Long Island City, Astoria",General Education,2019,Percent,0.80603,SD30
+Staten Island,General Education,2019,Percent,0.87816,SD31
+Bushwick,General Education,2019,Percent,0.69231,SD32
+New York City,Students with Disabilities,2019,Percent,0.49006,3651000
+Bronx,Students with Disabilities,2019,Percent,0.41811,36005
+Brooklyn,Students with Disabilities,2019,Percent,0.48875,36047
+Manhattan,Students with Disabilities,2019,Percent,0.52013,36061
+Queens,Students with Disabilities,2019,Percent,0.52184,36081
+Staten Island,Students with Disabilities,2019,Percent,0.56394,36085
+Lower East Side,Students with Disabilities,2019,Percent,0.47799,SD1
+"Stuyvesant Town, Upper E. Side",Students with Disabilities,2019,Percent,0.57761,SD2
+Upper West Side,Students with Disabilities,2019,Percent,0.47368,SD3
+East Harlem,Students with Disabilities,2019,Percent,0.58192,SD4
+Central Harlem,Students with Disabilities,2019,Percent,0.24571,SD5
+Washington Heights,Students with Disabilities,2019,Percent,0.41991,SD6
+Mott Haven,Students with Disabilities,2019,Percent,0.44057,SD7
+"Hunts Point, Port Morris",Students with Disabilities,2019,Percent,0.34019,SD8
+"East Tremont, Morris Heights",Students with Disabilities,2019,Percent,0.38798,SD9
+"Riverdale, Kingsbridge, Fordham",Students with Disabilities,2019,Percent,0.5,SD10
+"Eastchester, Baychester, Co-op City",Students with Disabilities,2019,Percent,0.42726,SD11
+"Crotona Park, Morrisania, Melrose",Students with Disabilities,2019,Percent,0.3789,SD12
+"Brooklyn Hts, Downtown Brooklyn",Students with Disabilities,2019,Percent,0.56126,SD13
+"Williamsburg, Greenpoint",Students with Disabilities,2019,Percent,0.60494,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Students with Disabilities,2019,Percent,0.43767,SD15
+Bedford Stuyvesant,Students with Disabilities,2019,Percent,0.38462,SD16
+Crown Heights,Students with Disabilities,2019,Percent,0.47826,SD17
+"East Flatbush, Canarsie",Students with Disabilities,2019,Percent,0.38095,SD18
+East New York,Students with Disabilities,2019,Percent,0.49693,SD19
+"Bay Ridge, Bensonhurst",Students with Disabilities,2019,Percent,0.51293,SD20
+"Gravesend, Coney Island",Students with Disabilities,2019,Percent,0.49819,SD21
+"Flatbush, Midwood, Sheepshead Bay",Students with Disabilities,2019,Percent,0.59259,SD22
+"Brownsville, Ocean Hill",Students with Disabilities,2019,Percent,0.26396,SD23
+"Sunnyside, Woodside, Jackson Hts",Students with Disabilities,2019,Percent,0.49628,SD24
+"Flushing, Whitestone",Students with Disabilities,2019,Percent,0.46701,SD25
+"Bayside, Douglaston, Little Neck",Students with Disabilities,2019,Percent,0.67843,SD26
+"Jamaica, Howard Beach, Rockaways",Students with Disabilities,2019,Percent,0.48084,SD27
+"Jamaica, Forest Hills",Students with Disabilities,2019,Percent,0.51683,SD28
+"Queens Village, Rosedale, Hollis",Students with Disabilities,2019,Percent,0.43096,SD29
+"Long Island City, Astoria",Students with Disabilities,2019,Percent,0.5248,SD30
+Staten Island,Students with Disabilities,2019,Percent,0.56394,SD31
+Bushwick,Students with Disabilities,2019,Percent,0.49306,SD32

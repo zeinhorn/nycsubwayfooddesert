@@ -1,0 +1,246 @@
+"Name","Obesity Among Public Elementary and Middle School Students"
+"Description","Children are classified as obese if they have a Body Mass Index (BMI) at or above the 95th percentile for their age."
+"Source Notes","NYC Department of Health and Mental Hygiene, Bureau of Epidemiology Services, FITNESSGRAM data (school years 2007, 2008, 2009, 2010, 2011); unpublished data."
+"Notes","Age specific BMI percentiles were calculated based on year 2000 CDC growth charts (<a href=""http://www.cdc.gov/growthcharts/html_charts/bmiagerev.htm"" target=""_blank"">http://www.cdc.gov/growthcharts/html_charts/bmiagerev.htm</a>). Data are based on the location of the student's school."
+
+Location,TimeFrame,DataFormat,Data,Fips
+Kingsbridge - Riverdale,2007,Percent,0.224,uhf101
+Northeast Bronx,2007,Percent,0.213,uhf102
+Fordham - Bronx Park,2007,Percent,0.239,uhf103
+Pelham - Throgs Neck,2007,Percent,0.226,uhf104
+Crotona - Tremont,2007,Percent,0.264,uhf105
+High Bridge - Morrisania,2007,Percent,0.231,uhf106
+Hunts Point - Mott Haven,2007,Percent,0.252,uhf107
+Greenpoint,2007,Percent,0.267,uhf201
+Downtown  - Heights - Slope,2007,Percent,0.224,uhf202
+Bedford Stuyvesant - Crown Heights,2007,Percent,0.218,uhf203
+East New York,2007,Percent,0.23,uhf204
+Sunset Park,2007,Percent,0.248,uhf205
+Borough Park,2007,Percent,0.214,uhf206
+East Flatbush - Flatbush,2007,Percent,0.216,uhf207
+Canarsie - Flatlands,2007,Percent,0.209,uhf208
+Bensonhurst - Bay Ridge,2007,Percent,0.194,uhf209
+Coney Island - Sheepshead Bay,2007,Percent,0.19,uhf210
+Williamsburg - Bushwick,2007,Percent,0.246,uhf211
+Washington Heights - Inwood,2007,Percent,0.262,uhf301
+Central Harlem - Morningside Heights,2007,Percent,0.242,uhf302
+East Harlem,2007,Percent,0.283,uhf303
+Upper West Side,2007,Percent,0.161,uhf304
+Upper East Side,2007,Percent,0.091,uhf305
+Chelsea - Clinton,2007,Percent,0.187,uhf306
+Gramercy Park -  Murray Hill,2007,Percent,0.149,uhf307
+Greenwich Village - Soho,2007,Percent,0.132,uhf308
+Union Square - Lower East Side,2007,Percent,0.185,uhf309
+Lower Manhattan,2007,Percent,0.197,uhf310
+Long Island City - Astoria,2007,Percent,0.221,uhf401
+West Queens,2007,Percent,0.234,uhf402
+Flushing - Clearview,2007,Percent,0.166,uhf403
+Bayside - Little Neck,2007,Percent,0.129,uhf404
+Ridgewood - Forest Hills,2007,Percent,0.208,uhf405
+Fresh Meadows,2007,Percent,0.172,uhf406
+Southwest Queens,2007,Percent,0.2,uhf407
+Jamaica,2007,Percent,0.216,uhf408
+Southeast Queens,2007,Percent,0.21,uhf409
+Rockaway,2007,Percent,0.214,uhf410
+Port  Richmond,2007,Percent,0.23,uhf501
+Stapleton - St. George,2007,Percent,0.225,uhf502
+Willowbrook,2007,Percent,0.214,uhf503
+South Beach - Tottenville,2007,Percent,0.204,uhf504
+Bronx,2007,Percent,0.237,36005
+Brooklyn,2007,Percent,0.219,36047
+Manhattan,2007,Percent,0.221,36061
+Queens,2007,Percent,0.205,36081
+Staten Island,2007,Percent,0.215,36085
+New York City,2007,Percent,0.219,3651000
+Kingsbridge - Riverdale,2008,Percent,0.223,uhf101
+Northeast Bronx,2008,Percent,0.232,uhf102
+Fordham - Bronx Park,2008,Percent,0.239,uhf103
+Pelham - Throgs Neck,2008,Percent,0.239,uhf104
+Crotona - Tremont,2008,Percent,0.23,uhf105
+High Bridge - Morrisania,2008,Percent,0.23,uhf106
+Hunts Point - Mott Haven,2008,Percent,0.239,uhf107
+Greenpoint,2008,Percent,0.261,uhf201
+Downtown  - Heights - Slope,2008,Percent,0.206,uhf202
+Bedford Stuyvesant - Crown Heights,2008,Percent,0.218,uhf203
+East New York,2008,Percent,0.23,uhf204
+Sunset Park,2008,Percent,0.238,uhf205
+Borough Park,2008,Percent,0.201,uhf206
+East Flatbush - Flatbush,2008,Percent,0.219,uhf207
+Canarsie - Flatlands,2008,Percent,0.213,uhf208
+Bensonhurst - Bay Ridge,2008,Percent,0.195,uhf209
+Coney Island - Sheepshead Bay,2008,Percent,0.191,uhf210
+Williamsburg - Bushwick,2008,Percent,0.241,uhf211
+Washington Heights - Inwood,2008,Percent,0.265,uhf301
+Central Harlem - Morningside Heights,2008,Percent,0.235,uhf302
+East Harlem,2008,Percent,0.256,uhf303
+Upper West Side,2008,Percent,0.158,uhf304
+Upper East Side,2008,Percent,0.122,uhf305
+Chelsea - Clinton,2008,Percent,0.175,uhf306
+Gramercy Park -  Murray Hill,2008,Percent,0.151,uhf307
+Greenwich Village - Soho,2008,Percent,0.118,uhf308
+Union Square - Lower East Side,2008,Percent,0.161,uhf309
+Lower Manhattan,2008,Percent,0.095,uhf310
+Long Island City - Astoria,2008,Percent,0.205,uhf401
+West Queens,2008,Percent,0.236,uhf402
+Flushing - Clearview,2008,Percent,0.163,uhf403
+Bayside - Little Neck,2008,Percent,0.123,uhf404
+Ridgewood - Forest Hills,2008,Percent,0.192,uhf405
+Fresh Meadows,2008,Percent,0.164,uhf406
+Southwest Queens,2008,Percent,0.193,uhf407
+Jamaica,2008,Percent,0.203,uhf408
+Southeast Queens,2008,Percent,0.209,uhf409
+Rockaway,2008,Percent,0.213,uhf410
+Port  Richmond,2008,Percent,0.225,uhf501
+Stapleton - St. George,2008,Percent,0.222,uhf502
+Willowbrook,2008,Percent,0.209,uhf503
+South Beach - Tottenville,2008,Percent,0.2,uhf504
+Bronx,2008,Percent,0.234,36005
+Brooklyn,2008,Percent,0.216,36047
+Manhattan,2008,Percent,0.206,36061
+Queens,2008,Percent,0.2,36081
+Staten Island,2008,Percent,0.211,36085
+New York City,2008,Percent,0.214,3651000
+Kingsbridge - Riverdale,2009,Percent,0.209,uhf101
+Northeast Bronx,2009,Percent,0.221,uhf102
+Fordham - Bronx Park,2009,Percent,0.23,uhf103
+Pelham - Throgs Neck,2009,Percent,0.226,uhf104
+Crotona - Tremont,2009,Percent,0.224,uhf105
+High Bridge - Morrisania,2009,Percent,0.232,uhf106
+Hunts Point - Mott Haven,2009,Percent,0.246,uhf107
+Greenpoint,2009,Percent,0.245,uhf201
+Downtown  - Heights - Slope,2009,Percent,0.186,uhf202
+Bedford Stuyvesant - Crown Heights,2009,Percent,0.227,uhf203
+East New York,2009,Percent,0.233,uhf204
+Sunset Park,2009,Percent,0.232,uhf205
+Borough Park,2009,Percent,0.19,uhf206
+East Flatbush - Flatbush,2009,Percent,0.227,uhf207
+Canarsie - Flatlands,2009,Percent,0.209,uhf208
+Bensonhurst - Bay Ridge,2009,Percent,0.175,uhf209
+Coney Island - Sheepshead Bay,2009,Percent,0.18,uhf210
+Williamsburg - Bushwick,2009,Percent,0.235,uhf211
+Washington Heights - Inwood,2009,Percent,0.26,uhf301
+Central Harlem - Morningside Heights,2009,Percent,0.247,uhf302
+East Harlem,2009,Percent,0.258,uhf303
+Upper West Side,2009,Percent,0.148,uhf304
+Upper East Side,2009,Percent,0.115,uhf305
+Chelsea - Clinton,2009,Percent,0.155,uhf306
+Gramercy Park -  Murray Hill,2009,Percent,0.157,uhf307
+Greenwich Village - Soho,2009,Percent,0.117,uhf308
+Union Square - Lower East Side,2009,Percent,0.155,uhf309
+Lower Manhattan,2009,Percent,0.098,uhf310
+Long Island City - Astoria,2009,Percent,0.221,uhf401
+West Queens,2009,Percent,0.231,uhf402
+Flushing - Clearview,2009,Percent,0.148,uhf403
+Bayside - Little Neck,2009,Percent,0.116,uhf404
+Ridgewood - Forest Hills,2009,Percent,0.195,uhf405
+Fresh Meadows,2009,Percent,0.152,uhf406
+Southwest Queens,2009,Percent,0.19,uhf407
+Jamaica,2009,Percent,0.214,uhf408
+Southeast Queens,2009,Percent,0.194,uhf409
+Rockaway,2009,Percent,0.203,uhf410
+Port  Richmond,2009,Percent,0.224,uhf501
+Stapleton - St. George,2009,Percent,0.209,uhf502
+Willowbrook,2009,Percent,0.206,uhf503
+South Beach - Tottenville,2009,Percent,0.193,uhf504
+Bronx,2009,Percent,0.228,36005
+Brooklyn,2009,Percent,0.211,36047
+Manhattan,2009,Percent,0.201,36061
+Queens,2009,Percent,0.197,36081
+Staten Island,2009,Percent,0.205,36085
+New York City,2009,Percent,0.209,3651000
+Kingsbridge - Riverdale,2010,Percent,0.216,uhf101
+Northeast Bronx,2010,Percent,0.215,uhf102
+Fordham - Bronx Park,2010,Percent,0.233,uhf103
+Pelham - Throgs Neck,2010,Percent,0.224,uhf104
+Crotona - Tremont,2010,Percent,0.243,uhf105
+High Bridge - Morrisania,2010,Percent,0.235,uhf106
+Hunts Point - Mott Haven,2010,Percent,0.243,uhf107
+Greenpoint,2010,Percent,0.263,uhf201
+Downtown  - Heights - Slope,2010,Percent,0.186,uhf202
+Bedford Stuyvesant - Crown Heights,2010,Percent,0.223,uhf203
+East New York,2010,Percent,0.242,uhf204
+Sunset Park,2010,Percent,0.222,uhf205
+Borough Park,2010,Percent,0.192,uhf206
+East Flatbush - Flatbush,2010,Percent,0.218,uhf207
+Canarsie - Flatlands,2010,Percent,0.215,uhf208
+Bensonhurst - Bay Ridge,2010,Percent,0.186,uhf209
+Coney Island - Sheepshead Bay,2010,Percent,0.178,uhf210
+Williamsburg - Bushwick,2010,Percent,0.255,uhf211
+Washington Heights - Inwood,2010,Percent,0.257,uhf301
+Central Harlem - Morningside Heights,2010,Percent,0.241,uhf302
+East Harlem,2010,Percent,0.242,uhf303
+Upper West Side,2010,Percent,0.149,uhf304
+Upper East Side,2010,Percent,0.12,uhf305
+Chelsea - Clinton,2010,Percent,0.14,uhf306
+Gramercy Park -  Murray Hill,2010,Percent,0.123,uhf307
+Greenwich Village - Soho,2010,Percent,0.107,uhf308
+Union Square - Lower East Side,2010,Percent,0.149,uhf309
+Lower Manhattan,2010,Percent,0.109,uhf310
+Long Island City - Astoria,2010,Percent,0.209,uhf401
+West Queens,2010,Percent,0.232,uhf402
+Flushing - Clearview,2010,Percent,0.157,uhf403
+Bayside - Little Neck,2010,Percent,0.12,uhf404
+Ridgewood - Forest Hills,2010,Percent,0.192,uhf405
+Fresh Meadows,2010,Percent,0.168,uhf406
+Southwest Queens,2010,Percent,0.2,uhf407
+Jamaica,2010,Percent,0.206,uhf408
+Southeast Queens,2010,Percent,0.191,uhf409
+Rockaway,2010,Percent,0.208,uhf410
+Port  Richmond,2010,Percent,0.223,uhf501
+Stapleton - St. George,2010,Percent,0.23,uhf502
+Willowbrook,2010,Percent,0.19,uhf503
+South Beach - Tottenville,2010,Percent,0.196,uhf504
+Bronx,2010,Percent,0.232,36005
+Brooklyn,2010,Percent,0.213,36047
+Manhattan,2010,Percent,0.194,36061
+Queens,2010,Percent,0.198,36081
+Staten Island,2010,Percent,0.207,36085
+New York City,2010,Percent,0.21,3651000
+Kingsbridge - Riverdale,2011,Percent,0.223,uhf101
+Northeast Bronx,2011,Percent,0.212,uhf102
+Fordham - Bronx Park,2011,Percent,0.243,uhf103
+Pelham - Throgs Neck,2011,Percent,0.221,uhf104
+Crotona - Tremont,2011,Percent,0.242,uhf105
+High Bridge - Morrisania,2011,Percent,0.237,uhf106
+Hunts Point - Mott Haven,2011,Percent,0.243,uhf107
+Greenpoint,2011,Percent,0.237,uhf201
+Downtown  - Heights - Slope,2011,Percent,0.168,uhf202
+Bedford Stuyvesant - Crown Heights,2011,Percent,0.221,uhf203
+East New York,2011,Percent,0.238,uhf204
+Sunset Park,2011,Percent,0.223,uhf205
+Borough Park,2011,Percent,0.177,uhf206
+East Flatbush - Flatbush,2011,Percent,0.212,uhf207
+Canarsie - Flatlands,2011,Percent,0.213,uhf208
+Bensonhurst - Bay Ridge,2011,Percent,0.181,uhf209
+Coney Island - Sheepshead Bay,2011,Percent,0.173,uhf210
+Williamsburg - Bushwick,2011,Percent,0.245,uhf211
+Washington Heights - Inwood,2011,Percent,0.265,uhf301
+Central Harlem - Morningside Heights,2011,Percent,0.23,uhf302
+East Harlem,2011,Percent,0.246,uhf303
+Upper West Side,2011,Percent,0.141,uhf304
+Upper East Side,2011,Percent,0.109,uhf305
+Chelsea - Clinton,2011,Percent,0.126,uhf306
+Gramercy Park -  Murray Hill,2011,Percent,0.13,uhf307
+Greenwich Village - Soho,2011,Percent,0.069,uhf308
+Union Square - Lower East Side,2011,Percent,0.148,uhf309
+Lower Manhattan,2011,Percent,0.112,uhf310
+Long Island City - Astoria,2011,Percent,0.213,uhf401
+West Queens,2011,Percent,0.228,uhf402
+Flushing - Clearview,2011,Percent,0.154,uhf403
+Bayside - Little Neck,2011,Percent,0.12,uhf404
+Ridgewood - Forest Hills,2011,Percent,0.185,uhf405
+Fresh Meadows,2011,Percent,0.161,uhf406
+Southwest Queens,2011,Percent,0.204,uhf407
+Jamaica,2011,Percent,0.204,uhf408
+Southeast Queens,2011,Percent,0.192,uhf409
+Rockaway,2011,Percent,0.215,uhf410
+Port  Richmond,2011,Percent,0.222,uhf501
+Stapleton - St. George,2011,Percent,0.225,uhf502
+Willowbrook,2011,Percent,0.218,uhf503
+South Beach - Tottenville,2011,Percent,0.192,uhf504
+Bronx,2011,Percent,0.233,36005
+Brooklyn,2011,Percent,0.206,36047
+Manhattan,2011,Percent,0.19,36061
+Queens,2011,Percent,0.197,36081
+Staten Island,2011,Percent,0.21,36085
+New York City,2011,Percent,0.207,3651000

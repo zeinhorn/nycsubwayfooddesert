@@ -1,0 +1,43 @@
+"Name","Life Expectancy by Neighborhood Poverty"
+"Description","Life expectancy at birth by the percent of residents in neighborhood poverty.&nbsp;<br />
+Neighborhood poverty is defined as the percent of respondents with incomes below 100% of the Federal Poverty Level by census tract, as follows:&nbsp;<normal style=""margin: 0px 0px 0px 40px; border: none; padding: 0px;""><normal><br />
+<span style=""white-space: pre;"">	</span><strong>Very high</strong> = 30% or more of people&nbsp;<br />
+<span style=""white-space: pre;"">	</span><strong>High </strong>= 20 to 30% of people&nbsp;<br />
+<span style=""white-space: pre;"">	</span><strong>Medium </strong>= 10 to 20% of people<br />
+<span style=""white-space: pre;"">	</span><strong>Low </strong>= Less than 10%&nbsp;</normal></normal>"
+"Source Notes","New York City Department of Health and Mental Hygiene, Bureau of Vital Statistics, Summary of Vital Statistics (2004, 2006-2008, 2013, 2015-2017); retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page"" target=""_blank""></a><a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page""></a><a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page"" target=""_blank"">https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page</a>"
+"Notes","Data on life expectancy by the percent of residents in poverty are unavailable in the public vital statistics tables for 2005, 2009, 2010-12, and 2014. CCC will update these data with these missing year if and when they are available."
+
+Location,Neighborhood Poverty,TimeFrame,DataFormat,Data,Fips
+New York City,Low,2017,Years,85.2,3651000
+New York City,Medium,2017,Years,84.4,3651000
+New York City,High,2017,Years,83.2,3651000
+New York City,Very High,2017,Years,80.7,3651000
+New York City,Low,2016,Years,84.6,3651000
+New York City,Medium,2016,Years,83.8,3651000
+New York City,High,2016,Years,82.8,3651000
+New York City,Very High,2016,Years,79.5,3651000
+New York City,Low,2015,Years,85.3,3651000
+New York City,Medium,2015,Years,84.3,3651000
+New York City,High,2015,Years,82.8,3651000
+New York City,Very High,2015,Years,80.3,3651000
+New York City,Low,2013,Years,85.7,3651000
+New York City,Medium,2013,Years,82.3,3651000
+New York City,High,2013,Years,81.9,3651000
+New York City,Very High,2013,Years,78.3,3651000
+New York City,Low,2008,Years,83,3651000
+New York City,Medium,2008,Years,81.8,3651000
+New York City,High,2008,Years,80.1,3651000
+New York City,Very High,2008,Years,77.7,3651000
+New York City,Low,2007,Years,83,3651000
+New York City,Medium,2007,Years,81.6,3651000
+New York City,High,2007,Years,80.2,3651000
+New York City,Very High,2007,Years,77.3,3651000
+New York City,Low,2006,Years,82.6,3651000
+New York City,Medium,2006,Years,81.1,3651000
+New York City,High,2006,Years,79.4,3651000
+New York City,Very High,2006,Years,76.7,3651000
+New York City,Low,2004,Years,81.9,3651000
+New York City,Medium,2004,Years,81,3651000
+New York City,High,2004,Years,79.4,3651000
+New York City,Very High,2004,Years,76.1,3651000

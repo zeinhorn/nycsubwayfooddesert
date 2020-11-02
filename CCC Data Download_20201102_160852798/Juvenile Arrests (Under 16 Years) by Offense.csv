@@ -1,0 +1,159 @@
+"Name","Juvenile Arrests (Under 16 Years) by Offense"
+"Description",""
+"Source Notes","Unpublished data provided to CCC by the New York State Division of Criminal Justice Services (2010-2012)<br />
+New York State Division of Criminal Justice Services, County Juvenile Justice Profiles (2011-2018); retrieved from:&nbsp;<a href=""https://www.criminaljustice.ny.gov/crimnet/ojsa/jj-profiles.htm"" target=""_blank"">https://www.criminaljustice.ny.gov/crimnet/ojsa/jj-profiles.htm</a>"
+"Notes","Percentages refer to the percentage of all juvenile arrests.&nbsp;"
+
+Location,Offense Type,TimeFrame,DataFormat,Data,Fips
+New York City,Felony,2011,Number,4293,3651000
+New York City,Felony,2012,Number,3710,3651000
+New York City,Felony,2013,Number,3712,3651000
+New York City,Felony,2014,Number,3236,3651000
+New York City,Felony,2015,Number,3171,3651000
+New York City,Misdemeanor,2011,Number,8078,3651000
+New York City,Misdemeanor,2012,Number,5965,3651000
+New York City,Misdemeanor,2013,Number,3892,3651000
+New York City,Misdemeanor,2014,Number,2850,3651000
+New York City,Misdemeanor,2015,Number,2533,3651000
+New York City,Felony,2011,Percent,0.34702,3651000
+New York City,Felony,2012,Percent,0.38346,3651000
+New York City,Felony,2013,Percent,0.48816,3651000
+New York City,Felony,2014,Percent,0.53171,3651000
+New York City,Felony,2015,Percent,0.55593,3651000
+New York City,Misdemeanor,2011,Percent,0.65298,3651000
+New York City,Misdemeanor,2012,Percent,0.61654,3651000
+New York City,Misdemeanor,2013,Percent,0.51184,3651000
+New York City,Misdemeanor,2014,Percent,0.46829,3651000
+New York City,Misdemeanor,2015,Percent,0.44407,3651000
+New York City,Misdemeanor,2017,Number,1397,3651000
+New York City,Felony,2017,Number,2702,3651000
+New York City,Misdemeanor,2017,Percent,0.34081,3651000
+New York City,Felony,2017,Percent,0.65919,3651000
+New York City,Misdemeanor,2016,Number,1815,3651000
+New York City,Felony,2016,Number,2800,3651000
+New York City,Misdemeanor,2016,Percent,0.39328,3651000
+New York City,Felony,2016,Percent,0.60672,3651000
+Bronx,Felony,2013,Number,946,36005
+Bronx,Felony,2014,Number,871,36005
+Bronx,Felony,2015,Number,834,36005
+Bronx,Felony,2016,Number,817,36005
+Bronx,Felony,2017,Number,664,36005
+Brooklyn,Felony,2013,Number,1209,36047
+Brooklyn,Felony,2014,Number,1017,36047
+Brooklyn,Felony,2015,Number,1108,36047
+Brooklyn,Felony,2016,Number,879,36047
+Brooklyn,Felony,2017,Number,910,36047
+Manhattan,Felony,2013,Number,625,36061
+Manhattan,Felony,2014,Number,594,36061
+Manhattan,Felony,2015,Number,561,36061
+Manhattan,Felony,2016,Number,532,36061
+Manhattan,Felony,2017,Number,463,36061
+Queens,Felony,2013,Number,743,36081
+Queens,Felony,2014,Number,582,36081
+Queens,Felony,2015,Number,525,36081
+Queens,Felony,2016,Number,431,36081
+Queens,Felony,2017,Number,550,36081
+Staten Island,Felony,2013,Number,189,36085
+Staten Island,Felony,2014,Number,172,36085
+Staten Island,Felony,2015,Number,143,36085
+Staten Island,Felony,2016,Number,141,36085
+Staten Island,Felony,2017,Number,115,36085
+Bronx,Misdemeanor,2013,Number,1125,36005
+Bronx,Misdemeanor,2014,Number,857,36005
+Bronx,Misdemeanor,2015,Number,748,36005
+Bronx,Misdemeanor,2016,Number,491,36005
+Bronx,Misdemeanor,2017,Number,371,36005
+Brooklyn,Misdemeanor,2013,Number,1137,36047
+Brooklyn,Misdemeanor,2014,Number,850,36047
+Brooklyn,Misdemeanor,2015,Number,745,36047
+Brooklyn,Misdemeanor,2016,Number,529,36047
+Brooklyn,Misdemeanor,2017,Number,420,36047
+Manhattan,Misdemeanor,2013,Number,685,36061
+Manhattan,Misdemeanor,2014,Number,520,36061
+Manhattan,Misdemeanor,2015,Number,525,36061
+Manhattan,Misdemeanor,2016,Number,359,36061
+Manhattan,Misdemeanor,2017,Number,252,36061
+Queens,Misdemeanor,2013,Number,672,36081
+Queens,Misdemeanor,2014,Number,449,36081
+Queens,Misdemeanor,2015,Number,369,36081
+Queens,Misdemeanor,2016,Number,309,36081
+Queens,Misdemeanor,2017,Number,258,36081
+Staten Island,Misdemeanor,2013,Number,273,36085
+Staten Island,Misdemeanor,2014,Number,174,36085
+Staten Island,Misdemeanor,2015,Number,146,36085
+Staten Island,Misdemeanor,2016,Number,127,36085
+Staten Island,Misdemeanor,2017,Number,96,36085
+Bronx,Felony,2013,Percent,0.45678,36005
+Bronx,Felony,2014,Percent,0.50405,36005
+Bronx,Felony,2015,Percent,0.52718,36005
+Bronx,Felony,2016,Percent,0.62462,36005
+Bronx,Felony,2017,Percent,0.64155,36005
+Brooklyn,Felony,2013,Percent,0.51535,36047
+Brooklyn,Felony,2014,Percent,0.54472,36047
+Brooklyn,Felony,2015,Percent,0.59795,36047
+Brooklyn,Felony,2016,Percent,0.62429,36047
+Brooklyn,Felony,2017,Percent,0.68421,36047
+Manhattan,Felony,2013,Percent,0.4771,36061
+Manhattan,Felony,2014,Percent,0.53321,36061
+Manhattan,Felony,2015,Percent,0.51657,36061
+Manhattan,Felony,2016,Percent,0.59708,36061
+Manhattan,Felony,2017,Percent,0.64755,36061
+Queens,Felony,2013,Percent,0.52509,36081
+Queens,Felony,2014,Percent,0.5645,36081
+Queens,Felony,2015,Percent,0.58725,36081
+Queens,Felony,2016,Percent,0.58243,36081
+Queens,Felony,2017,Percent,0.68069,36081
+Staten Island,Felony,2013,Percent,0.40909,36085
+Staten Island,Felony,2014,Percent,0.49711,36085
+Staten Island,Felony,2015,Percent,0.49481,36085
+Staten Island,Felony,2016,Percent,0.52612,36085
+Staten Island,Felony,2017,Percent,0.54502,36085
+Bronx,Misdemeanor,2013,Percent,0.54322,36005
+Bronx,Misdemeanor,2014,Percent,0.49595,36005
+Bronx,Misdemeanor,2015,Percent,0.47282,36005
+Bronx,Misdemeanor,2016,Percent,0.37538,36005
+Bronx,Misdemeanor,2017,Percent,0.35845,36005
+Brooklyn,Misdemeanor,2013,Percent,0.48465,36047
+Brooklyn,Misdemeanor,2014,Percent,0.45528,36047
+Brooklyn,Misdemeanor,2015,Percent,0.40205,36047
+Brooklyn,Misdemeanor,2016,Percent,0.37571,36047
+Brooklyn,Misdemeanor,2017,Percent,0.31579,36047
+Manhattan,Misdemeanor,2013,Percent,0.5229,36061
+Manhattan,Misdemeanor,2014,Percent,0.46679,36061
+Manhattan,Misdemeanor,2015,Percent,0.48343,36061
+Manhattan,Misdemeanor,2016,Percent,0.40292,36061
+Manhattan,Misdemeanor,2017,Percent,0.35245,36061
+Queens,Misdemeanor,2013,Percent,0.47491,36081
+Queens,Misdemeanor,2014,Percent,0.4355,36081
+Queens,Misdemeanor,2015,Percent,0.41275,36081
+Queens,Misdemeanor,2016,Percent,0.41757,36081
+Queens,Misdemeanor,2017,Percent,0.31931,36081
+Staten Island,Misdemeanor,2013,Percent,0.59091,36085
+Staten Island,Misdemeanor,2014,Percent,0.50289,36085
+Staten Island,Misdemeanor,2015,Percent,0.50519,36085
+Staten Island,Misdemeanor,2016,Percent,0.47388,36085
+Staten Island,Misdemeanor,2017,Percent,0.45498,36085
+Bronx,Misdemeanor,2018,Number,371,36005
+Brooklyn,Misdemeanor,2018,Number,310,36047
+Manhattan,Misdemeanor,2018,Number,258,36061
+Queens,Misdemeanor,2018,Number,232,36081
+Staten Island,Misdemeanor,2018,Number,83,36085
+New York City,Misdemeanor,2018,Number,1254,3651000
+Bronx,Felony,2018,Number,501,36005
+Brooklyn,Felony,2018,Number,644,36047
+Manhattan,Felony,2018,Number,484,36061
+Queens,Felony,2018,Number,429,36081
+Staten Island,Felony,2018,Number,118,36085
+New York City,Felony,2018,Number,2176,3651000
+Bronx,Misdemeanor,2018,Percent,0.42546,36005
+Brooklyn,Misdemeanor,2018,Percent,0.32495,36047
+Manhattan,Misdemeanor,2018,Percent,0.34771,36061
+Queens,Misdemeanor,2018,Percent,0.35098,36081
+Staten Island,Misdemeanor,2018,Percent,0.41294,36085
+New York City,Misdemeanor,2018,Percent,0.3656,3651000
+Bronx,Felony,2018,Percent,0.57454,36005
+Brooklyn,Felony,2018,Percent,0.67505,36047
+Manhattan,Felony,2018,Percent,0.65229,36061
+Queens,Felony,2018,Percent,0.64902,36081
+Staten Island,Felony,2018,Percent,0.58706,36085
+New York City,Felony,2018,Percent,0.6344,3651000

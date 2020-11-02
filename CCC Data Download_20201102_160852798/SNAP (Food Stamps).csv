@@ -1,0 +1,2871 @@
+"Name","SNAP (Food Stamps)"
+"Description","Recipients of SNAP by individuals and households.&nbsp;SNAP (Supplemental Nutrition Assistance Program) is a federal program that offers nutrition assistance to low-income individuals and families. It is commonly referred to as Food Stamps.&nbsp;"
+"Source Notes","New York City Human Resources Administration,&nbsp;<em>District Resource Statement Fiscal and Service Reports</em>&nbsp;(for Fiscal Years: 2002 and 2003; 2005 and 2006;&nbsp;2006 and 2007;&nbsp;2007 and 2008;&nbsp;2009 and 2010; 2011 and 2012;&nbsp;2016 and 2017; 2017 and 2018) retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/hra/about/facts.page"" target=""_blank"">https://www1.nyc.gov/site/hra/about/facts.page</a>&nbsp;<br />
+<br />
+New York City Human Resources Administration,&nbsp;Borough/Community District Report - SNAP Population (2018-2019). Retrieved from NYC Open Data:&nbsp;<a href=""https://data.cityofnewyork.us/Social-Services/Borough-Community-District-Report-SNAP-Population/jye8-w4d7"" target=""_blank"">https://data.cityofnewyork.us/Social-Services/Borough-Community-District-Report-SNAP-Population/jye8-w4d7</a><br />"
+"Notes","Figures represent data as of October for the given year, with the exception of 2018 and 2019 which represent data as of September.<br />
+Percentages presented by Recipient refer to the percent of all individuals or <g class=""gr_ gr_7 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""7"" data-gr-id=""7""><g class=""gr_ gr_7 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""7"" data-gr-id=""7"">households,</g></g> and are calculated using U.S. Census Bureau counts and estimates. See <a href=""https://data.cccnewyork.org/data/map/97/total-population#97/a/3/147/62/a/a"" target=""_blank"">total population</a> and <a href=""https://data.cccnewyork.org/data/map/32/households-and-families#32/a/3/56/62/a/a"" target=""_blank"">household</a>&nbsp;indicators for estimates and complete citations.<br />
+<em>
+*CCC is in the process of filling in data for missing years.&nbsp;</em>"
+
+Location,Recipient,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,Households,2001,Number,906,101
+Battery Park/Tribeca,Households,2002,Number,935,101
+Greenwich Village,Households,2001,Number,2136,102
+Greenwich Village,Households,2002,Number,2199,102
+Lower East Side,Households,2001,Number,8739,103
+Lower East Side,Households,2002,Number,10194,103
+Chelsea/Clinton,Households,2001,Number,3837,104
+Chelsea/Clinton,Households,2002,Number,4157,104
+Midtown Business District,Households,2001,Number,2147,105
+Midtown Business District,Households,2002,Number,2226,105
+Murray Hill/Stuyvesant,Households,2001,Number,1563,106
+Murray Hill/Stuyvesant,Households,2002,Number,1674,106
+Upper West Side,Households,2001,Number,7212,107
+Upper West Side,Households,2002,Number,7415,107
+Upper East Side,Households,2001,Number,1689,108
+Upper East Side,Households,2002,Number,1887,108
+Manhattanville,Households,2001,Number,8885,109
+Manhattanville,Households,2002,Number,8998,109
+Central Harlem,Households,2001,Number,10728,110
+Central Harlem,Households,2002,Number,10621,110
+East Harlem,Households,2001,Number,10422,111
+East Harlem,Households,2002,Number,11787,111
+Washington Heights,Households,2001,Number,20623,112
+Washington Heights,Households,2002,Number,20734,112
+Mott Haven,Households,2001,Number,9765,201
+Mott Haven,Households,2002,Number,10154,201
+Hunts Point,Households,2001,Number,5401,202
+Hunts Point,Households,2002,Number,5604,202
+Morrisania,Households,2001,Number,8396,203
+Morrisania,Households,2002,Number,8634,203
+Concourse/Highbridge,Households,2001,Number,14687,204
+Concourse/Highbridge,Households,2002,Number,15148,204
+University Heights,Households,2001,Number,14260,205
+University Heights,Households,2002,Number,14673,205
+East Tremont,Households,2001,Number,9063,206
+East Tremont,Households,2002,Number,9308,206
+Bedford Park,Households,2001,Number,11447,207
+Bedford Park,Households,2002,Number,11692,207
+Riverdale,Households,2001,Number,3578,208
+Riverdale,Households,2002,Number,3676,208
+Unionport/Soundview,Households,2001,Number,10319,209
+Unionport/Soundview,Households,2002,Number,12741,209
+Throgs Neck,Households,2001,Number,2676,210
+Throgs Neck,Households,2002,Number,3374,210
+Pelham Parkway,Households,2001,Number,4286,211
+Pelham Parkway,Households,2002,Number,4883,211
+Williamsbridge,Households,2001,Number,5486,212
+Williamsbridge,Households,2002,Number,6435,212
+Williamsburg/Greenpoint,Households,2001,Number,12031,301
+Williamsburg/Greenpoint,Households,2002,Number,12176,301
+Fort Greene/Brooklyn Hts,Households,2001,Number,5004,302
+Fort Greene/Brooklyn Hts,Households,2002,Number,5195,302
+Bedford Stuyvesant,Households,2001,Number,13936,303
+Bedford Stuyvesant,Households,2002,Number,14165,303
+Bushwick,Households,2001,Number,10711,304
+Bushwick,Households,2002,Number,10994,304
+East New York,Households,2001,Number,14696,305
+East New York,Households,2002,Number,15281,305
+Park Slope,Households,2001,Number,3922,306
+Park Slope,Households,2002,Number,3990,306
+Sunset Park,Households,2001,Number,6905,307
+Sunset Park,Households,2002,Number,7214,307
+Crown Heights North,Households,2001,Number,7463,308
+Crown Heights North,Households,2002,Number,7797,308
+Crown Heights South,Households,2001,Number,5603,309
+Crown Heights South,Households,2002,Number,5948,309
+Bay Ridge,Households,2001,Number,3701,310
+Bay Ridge,Households,2002,Number,3801,310
+Bensonhurst,Households,2001,Number,10608,311
+Bensonhurst,Households,2002,Number,10683,311
+Borough Park,Households,2001,Number,11176,312
+Borough Park,Households,2002,Number,11585,312
+Coney Island,Households,2001,Number,12717,313
+Coney Island,Households,2002,Number,12800,313
+Flatbush/Midwood,Households,2001,Number,11321,314
+Flatbush/Midwood,Households,2002,Number,11637,314
+Sheepshead Bay,Households,2001,Number,9988,315
+Sheepshead Bay,Households,2002,Number,9981,315
+Brownsville,Households,2001,Number,8486,316
+Brownsville,Households,2002,Number,8686,316
+East Flatbush,Households,2001,Number,7393,317
+East Flatbush,Households,2002,Number,7896,317
+Canarsie,Households,2001,Number,5260,318
+Canarsie,Households,2002,Number,5609,318
+Astoria,Households,2001,Number,6325,401
+Astoria,Households,2002,Number,6521,401
+Sunnyside/Woodside,Households,2001,Number,3097,402
+Sunnyside/Woodside,Households,2002,Number,3205,402
+Jackson Heights,Households,2001,Number,6217,403
+Jackson Heights,Households,2002,Number,6415,403
+Elmhurst/Corona,Households,2001,Number,5984,404
+Elmhurst/Corona,Households,2002,Number,6207,404
+Ridgewood/Glendale,Households,2001,Number,4631,405
+Ridgewood/Glendale,Households,2002,Number,4652,405
+Rego Park/Forest Hills,Households,2001,Number,4167,406
+Rego Park/Forest Hills,Households,2002,Number,4226,406
+Flushing,Households,2001,Number,6114,407
+Flushing,Households,2002,Number,6323,407
+Fresh Meadows/Briarwood,Households,2001,Number,4539,408
+Fresh Meadows/Briarwood,Households,2002,Number,4642,408
+Woodhaven,Households,2001,Number,4671,409
+Woodhaven,Households,2002,Number,4695,409
+Howard Beach,Households,2001,Number,3053,410
+Howard Beach,Households,2002,Number,3119,410
+Bayside,Households,2001,Number,1144,411
+Bayside,Households,2002,Number,1223,411
+Jamaica/St. Albans,Households,2001,Number,9710,412
+Jamaica/St. Albans,Households,2002,Number,9891,412
+Queens Village,Households,2001,Number,4165,413
+Queens Village,Households,2002,Number,4311,413
+The Rockaways,Households,2001,Number,7008,414
+The Rockaways,Households,2002,Number,7285,414
+St. George,Households,2001,Number,8712,501
+St. George,Households,2002,Number,11057,501
+South Beach,Households,2001,Number,5369,502
+South Beach,Households,2002,Number,6704,502
+Tottenville,Households,2001,Number,2006,503
+Tottenville,Households,2002,Number,2640,503
+Bronx,Households,2001,Number,99364,36005
+Bronx,Households,2002,Number,106322,36005
+Brooklyn,Households,2001,Number,160921,36047
+Brooklyn,Households,2002,Number,165438,36047
+Manhattan,Households,2001,Number,78887,36061
+Manhattan,Households,2002,Number,82827,36061
+Queens,Households,2001,Number,70825,36081
+Queens,Households,2002,Number,72715,36081
+Staten Island,Households,2001,Number,1337,36085
+Staten Island,Households,2002,Number,1713,36085
+New York City,Households,2001,Number,418708,3651000
+New York City,Households,2002,Number,438360,3651000
+Battery Park/Tribeca,Households,2005,Number,1198,101
+Greenwich Village,Households,2005,Number,2525,102
+Lower East Side,Households,2005,Number,14828,103
+Chelsea/Clinton,Households,2005,Number,8107,104
+Midtown Business District,Households,2005,Number,2266,105
+Murray Hill/Stuyvesant,Households,2005,Number,2279,106
+Upper West Side,Households,2005,Number,9115,107
+Upper East Side,Households,2005,Number,2465,108
+Manhattanville,Households,2005,Number,11935,109
+Central Harlem,Households,2005,Number,14107,110
+East Harlem,Households,2005,Number,17273,111
+Washington Heights,Households,2005,Number,25211,112
+Mott Haven,Households,2005,Number,15022,201
+Hunts Point,Households,2005,Number,7486,202
+Morrisania,Households,2005,Number,11474,203
+Concourse/Highbridge,Households,2005,Number,20903,204
+University Heights,Households,2005,Number,19295,205
+East Tremont,Households,2005,Number,11847,206
+Bedford Park,Households,2005,Number,15227,207
+Riverdale,Households,2005,Number,5186,208
+Unionport/Soundview,Households,2005,Number,16560,209
+Throgs Neck,Households,2005,Number,4879,210
+Pelham Parkway,Households,2005,Number,6813,211
+Williamsbridge,Households,2005,Number,9436,212
+Williamsburg/Greenpoint,Households,2005,Number,14736,301
+Fort Greene/Brooklyn Hts,Households,2005,Number,7001,302
+Bedford Stuyvesant,Households,2005,Number,19993,303
+Bushwick,Households,2005,Number,15243,304
+East New York,Households,2005,Number,20757,305
+Park Slope,Households,2005,Number,5034,306
+Sunset Park,Households,2005,Number,9606,307
+Crown Heights North,Households,2005,Number,10465,308
+Crown Heights South,Households,2005,Number,7986,309
+Bay Ridge,Households,2005,Number,5107,310
+Bensonhurst,Households,2005,Number,12981,311
+Borough Park,Households,2005,Number,13190,312
+Coney Island,Households,2005,Number,14749,313
+Flatbush/Midwood,Households,2005,Number,13507,314
+Sheepshead Bay,Households,2005,Number,11181,315
+Brownsville,Households,2005,Number,12054,316
+East Flatbush,Households,2005,Number,10415,317
+Canarsie,Households,2005,Number,7977,318
+Astoria,Households,2005,Number,8629,401
+Sunnyside/Woodside,Households,2005,Number,4403,402
+Jackson Heights,Households,2005,Number,8660,403
+Elmhurst/Corona,Households,2005,Number,8599,404
+Ridgewood/Glendale,Households,2005,Number,6126,405
+Rego Park/Forest Hills,Households,2005,Number,4686,406
+Flushing,Households,2005,Number,7820,407
+Fresh Meadows/Briarwood,Households,2005,Number,5326,408
+Woodhaven,Households,2005,Number,5950,409
+Howard Beach,Households,2005,Number,3875,410
+Bayside,Households,2005,Number,1713,411
+Jamaica/St. Albans,Households,2005,Number,12767,412
+Queens Village,Households,2005,Number,5650,413
+The Rockaways,Households,2005,Number,8690,414
+St. George,Households,2005,Number,9544,501
+South Beach,Households,2005,Number,3627,502
+Tottenville,Households,2005,Number,2490,503
+Bronx,Households,2005,Number,144131,36005
+Brooklyn,Households,2005,Number,211982,36047
+Manhattan,Households,2005,Number,111310,36061
+Queens,Households,2005,Number,92894,36081
+Staten Island,Households,2005,Number,15662,36085
+New York City,Households,2005,Number,576026,3651000
+Battery Park/Tribeca,Households,2006,Number,1135,101
+Greenwich Village,Households,2006,Number,2419,102
+Lower East Side,Households,2006,Number,15063,103
+Chelsea/Clinton,Households,2006,Number,7939,104
+Midtown Business District,Households,2006,Number,2414,105
+Murray Hill/Stuyvesant,Households,2006,Number,2202,106
+Upper West Side,Households,2006,Number,8783,107
+Upper East Side,Households,2006,Number,2505,108
+Manhattanville,Households,2006,Number,11701,109
+Central Harlem,Households,2006,Number,13842,110
+East Harlem,Households,2006,Number,16977,111
+Washington Heights,Households,2006,Number,24714,112
+Mott Haven,Households,2006,Number,15044,201
+Hunts Point,Households,2006,Number,7579,202
+Morrisania,Households,2006,Number,11676,203
+Concourse/Highbridge,Households,2006,Number,21255,204
+University Heights,Households,2006,Number,19686,205
+East Tremont,Households,2006,Number,12311,206
+Bedford Park,Households,2006,Number,15718,207
+Riverdale,Households,2006,Number,5268,208
+Unionport/Soundview,Households,2006,Number,16478,209
+Throgs Neck,Households,2006,Number,5071,210
+Pelham Parkway,Households,2006,Number,7112,211
+Williamsbridge,Households,2006,Number,10026,212
+Williamsburg/Greenpoint,Households,2006,Number,15026,301
+Fort Greene/Brooklyn Hts,Households,2006,Number,6871,302
+Bedford Stuyvesant,Households,2006,Number,20293,303
+Bushwick,Households,2006,Number,15803,304
+East New York,Households,2006,Number,21595,305
+Park Slope,Households,2006,Number,4914,306
+Sunset Park,Households,2006,Number,9597,307
+Crown Heights North,Households,2006,Number,10500,308
+Crown Heights South,Households,2006,Number,8144,309
+Bay Ridge,Households,2006,Number,5260,310
+Bensonhurst,Households,2006,Number,13338,311
+Borough Park,Households,2006,Number,13405,312
+Coney Island,Households,2006,Number,15031,313
+Flatbush/Midwood,Households,2006,Number,13598,314
+Sheepshead Bay,Households,2006,Number,11482,315
+Brownsville,Households,2006,Number,12288,316
+East Flatbush,Households,2006,Number,10675,317
+Canarsie,Households,2006,Number,8410,318
+Astoria,Households,2006,Number,8843,401
+Sunnyside/Woodside,Households,2006,Number,4544,402
+Jackson Heights,Households,2006,Number,9216,403
+Elmhurst/Corona,Households,2006,Number,9180,404
+Ridgewood/Glendale,Households,2006,Number,6483,405
+Rego Park/Forest Hills,Households,2006,Number,4827,406
+Flushing,Households,2006,Number,8294,407
+Fresh Meadows/Briarwood,Households,2006,Number,5528,408
+Woodhaven,Households,2006,Number,6209,409
+Howard Beach,Households,2006,Number,3901,410
+Bayside,Households,2006,Number,1834,411
+Jamaica/St. Albans,Households,2006,Number,12669,412
+Queens Village,Households,2006,Number,5777,413
+The Rockaways,Households,2006,Number,8864,414
+St. George,Households,2006,Number,10002,501
+South Beach,Households,2006,Number,4013,502
+Tottenville,Households,2006,Number,2630,503
+Bronx,Households,2006,Number,147224,36005
+Brooklyn,Households,2006,Number,216230,36047
+Manhattan,Households,2006,Number,109694,36061
+Queens,Households,2006,Number,96169,36081
+Staten Island,Households,2006,Number,16645,36085
+New York City,Households,2006,Number,585962,3651000
+Battery Park/Tribeca,Households,2007,Number,1228,101
+Greenwich Village,Households,2007,Number,2596,102
+Lower East Side,Households,2007,Number,16040,103
+Chelsea/Clinton,Households,2007,Number,8150,104
+Midtown Business District,Households,2007,Number,2549,105
+Murray Hill/Stuyvesant,Households,2007,Number,2301,106
+Upper West Side,Households,2007,Number,8979,107
+Upper East Side,Households,2007,Number,2584,108
+Manhattanville,Households,2007,Number,11709,109
+Central Harlem,Households,2007,Number,14184,110
+East Harlem,Households,2007,Number,17176,111
+Washington Heights,Households,2007,Number,25497,112
+Mott Haven,Households,2007,Number,15921,201
+Hunts Point,Households,2007,Number,8148,202
+Morrisania,Households,2007,Number,12205,203
+Concourse/Highbridge,Households,2007,Number,21997,204
+University Heights,Households,2007,Number,20398,205
+East Tremont,Households,2007,Number,12974,206
+Bedford Park,Households,2007,Number,16649,207
+Riverdale,Households,2007,Number,5601,208
+Unionport/Soundview,Households,2007,Number,17021,209
+Throgs Neck,Households,2007,Number,5372,210
+Pelham Parkway,Households,2007,Number,7479,211
+Williamsbridge,Households,2007,Number,10807,212
+Williamsburg/Greenpoint,Households,2007,Number,15355,301
+Fort Greene/Brooklyn Hts,Households,2007,Number,7031,302
+Bedford Stuyvesant,Households,2007,Number,20863,303
+Bushwick,Households,2007,Number,15879,304
+East New York,Households,2007,Number,22455,305
+Park Slope,Households,2007,Number,4908,306
+Sunset Park,Households,2007,Number,9911,307
+Crown Heights North,Households,2007,Number,10624,308
+Crown Heights South,Households,2007,Number,8391,309
+Bay Ridge,Households,2007,Number,5483,310
+Bensonhurst,Households,2007,Number,13596,311
+Borough Park,Households,2007,Number,13726,312
+Coney Island,Households,2007,Number,15312,313
+Flatbush/Midwood,Households,2007,Number,13813,314
+Sheepshead Bay,Households,2007,Number,11703,315
+Brownsville,Households,2007,Number,12834,316
+East Flatbush,Households,2007,Number,11339,317
+Canarsie,Households,2007,Number,8913,318
+Astoria,Households,2007,Number,8989,401
+Sunnyside/Woodside,Households,2007,Number,4818,402
+Jackson Heights,Households,2007,Number,9548,403
+Elmhurst/Corona,Households,2007,Number,9986,404
+Ridgewood/Glendale,Households,2007,Number,6876,405
+Rego Park/Forest Hills,Households,2007,Number,4890,406
+Flushing,Households,2007,Number,8826,407
+Fresh Meadows/Briarwood,Households,2007,Number,5758,408
+Woodhaven,Households,2007,Number,6649,409
+Howard Beach,Households,2007,Number,4239,410
+Bayside,Households,2007,Number,1986,411
+Jamaica/St. Albans,Households,2007,Number,13744,412
+Queens Village,Households,2007,Number,5951,413
+The Rockaways,Households,2007,Number,9181,414
+St. George,Households,2007,Number,11474,501
+South Beach,Households,2007,Number,4379,502
+Tottenville,Households,2007,Number,2969,503
+Bronx,Households,2007,Number,154573,36005
+Brooklyn,Households,2007,Number,222137,36047
+Manhattan,Households,2007,Number,112993,36061
+Queens,Households,2007,Number,101442,36081
+Staten Island,Households,2007,Number,18823,36085
+New York City,Households,2007,Number,609968,3651000
+Battery Park/Tribeca,Households,2009,Number,1576,101
+Greenwich Village,Households,2009,Number,3498,102
+Lower East Side,Households,2009,Number,21650,103
+Chelsea/Clinton,Households,2009,Number,13680,104
+Midtown Business District,Households,2009,Number,3128,105
+Murray Hill/Stuyvesant,Households,2009,Number,3140,106
+Upper West Side,Households,2009,Number,11486,107
+Upper East Side,Households,2009,Number,3594,108
+Manhattanville,Households,2009,Number,15739,109
+Central Harlem,Households,2009,Number,20049,110
+East Harlem,Households,2009,Number,24541,111
+Washington Heights,Households,2009,Number,34166,112
+Mott Haven,Households,2009,Number,22238,201
+Hunts Point,Households,2009,Number,10558,202
+Morrisania,Households,2009,Number,16733,203
+Concourse/Highbridge,Households,2009,Number,29743,204
+University Heights,Households,2009,Number,26561,205
+East Tremont,Households,2009,Number,17212,206
+Bedford Park,Households,2009,Number,23037,207
+Riverdale,Households,2009,Number,7879,208
+Unionport/Soundview,Households,2009,Number,23773,209
+Throgs Neck,Households,2009,Number,7939,210
+Pelham Parkway,Households,2009,Number,10929,211
+Williamsbridge,Households,2009,Number,16008,212
+Williamsburg/Greenpoint,Households,2009,Number,22039,301
+Fort Greene/Brooklyn Hts,Households,2009,Number,11575,302
+Bedford Stuyvesant,Households,2009,Number,30866,303
+Bushwick,Households,2009,Number,22168,304
+East New York,Households,2009,Number,33412,305
+Park Slope,Households,2009,Number,6610,306
+Sunset Park,Households,2009,Number,14037,307
+Crown Heights North,Households,2009,Number,14864,308
+Crown Heights South,Households,2009,Number,12408,309
+Bay Ridge,Households,2009,Number,8296,310
+Bensonhurst,Households,2009,Number,18858,311
+Borough Park,Households,2009,Number,19378,312
+Coney Island,Households,2009,Number,19919,313
+Flatbush/Midwood,Households,2009,Number,19376,314
+Sheepshead Bay,Households,2009,Number,15410,315
+Brownsville,Households,2009,Number,19591,316
+East Flatbush,Households,2009,Number,18174,317
+Canarsie,Households,2009,Number,14425,318
+Astoria,Households,2009,Number,12604,401
+Sunnyside/Woodside,Households,2009,Number,6749,402
+Jackson Heights,Households,2009,Number,14676,403
+Elmhurst/Corona,Households,2009,Number,14239,404
+Ridgewood/Glendale,Households,2009,Number,10170,405
+Rego Park/Forest Hills,Households,2009,Number,5666,406
+Flushing,Households,2009,Number,12241,407
+Fresh Meadows/Briarwood,Households,2009,Number,8828,408
+Woodhaven,Households,2009,Number,11068,409
+Howard Beach,Households,2009,Number,7280,410
+Bayside,Households,2009,Number,2903,411
+Jamaica/St. Albans,Households,2009,Number,24046,412
+Queens Village,Households,2009,Number,10856,413
+The Rockaways,Households,2009,Number,14544,414
+St. George,Households,2009,Number,18479,501
+South Beach,Households,2009,Number,6877,502
+Tottenville,Households,2009,Number,4894,503
+Bronx,Households,2009,Number,212610,36005
+Brooklyn,Households,2009,Number,321408,36047
+Manhattan,Households,2009,Number,156247,36061
+Queens,Households,2009,Number,155868,36081
+Staten Island,Households,2009,Number,30250,36085
+New York City,Households,2009,Number,876657,3651000
+Battery Park/Tribeca,Households,2011,Number,1938,101
+Greenwich Village,Households,2011,Number,3409,102
+Lower East Side,Households,2011,Number,29032,103
+Chelsea/Clinton,Households,2011,Number,9554,104
+Midtown Business District,Households,2011,Number,3489,105
+Murray Hill/Stuyvesant,Households,2011,Number,4395,106
+Upper West Side,Households,2011,Number,14297,107
+Upper East Side,Households,2011,Number,4900,108
+Manhattanville,Households,2011,Number,18686,109
+Central Harlem,Households,2011,Number,24918,110
+East Harlem,Households,2011,Number,28691,111
+Washington Heights,Households,2011,Number,41873,112
+Mott Haven,Households,2011,Number,25378,201
+Hunts Point,Households,2011,Number,12662,202
+Morrisania,Households,2011,Number,21044,203
+Concourse/Highbridge,Households,2011,Number,35916,204
+University Heights,Households,2011,Number,33819,205
+East Tremont,Households,2011,Number,20285,206
+Bedford Park,Households,2011,Number,28937,207
+Riverdale,Households,2011,Number,10541,208
+Unionport/Soundview,Households,2011,Number,30260,209
+Throgs Neck,Households,2011,Number,10004,210
+Pelham Parkway,Households,2011,Number,14231,211
+Williamsbridge,Households,2011,Number,20078,212
+Williamsburg/Greenpoint,Households,2011,Number,23204,301
+Fort Greene/Brooklyn Hts,Households,2011,Number,9287,302
+Bedford Stuyvesant,Households,2011,Number,31145,303
+Bushwick,Households,2011,Number,23501,304
+East New York,Households,2011,Number,37866,305
+Park Slope,Households,2011,Number,7281,306
+Sunset Park,Households,2011,Number,16822,307
+Crown Heights North,Households,2011,Number,16496,308
+Crown Heights South,Households,2011,Number,14998,309
+Bay Ridge,Households,2011,Number,10309,310
+Bensonhurst,Households,2011,Number,22948,311
+Borough Park,Households,2011,Number,23524,312
+Coney Island,Households,2011,Number,21950,313
+Flatbush/Midwood,Households,2011,Number,22909,314
+Sheepshead Bay,Households,2011,Number,17865,315
+Brownsville,Households,2011,Number,21164,316
+East Flatbush,Households,2011,Number,21566,317
+Canarsie,Households,2011,Number,17364,318
+Astoria,Households,2011,Number,12193,401
+Sunnyside/Woodside,Households,2011,Number,6729,402
+Jackson Heights,Households,2011,Number,14970,403
+Elmhurst/Corona,Households,2011,Number,14639,404
+Ridgewood/Glendale,Households,2011,Number,10417,405
+Rego Park/Forest Hills,Households,2011,Number,5659,406
+Flushing,Households,2011,Number,13068,407
+Fresh Meadows/Briarwood,Households,2011,Number,8717,408
+Woodhaven,Households,2011,Number,11339,409
+Howard Beach,Households,2011,Number,7721,410
+Bayside,Households,2011,Number,3066,411
+Jamaica/St. Albans,Households,2011,Number,24010,412
+Queens Village,Households,2011,Number,10925,413
+The Rockaways,Households,2011,Number,13689,414
+St. George,Households,2011,Number,22581,501
+South Beach,Households,2011,Number,9225,502
+Tottenville,Households,2011,Number,6703,503
+Bronx,Households,2011,Number,263155,36005
+Brooklyn,Households,2011,Number,360199,36047
+Manhattan,Households,2011,Number,185182,36061
+Queens,Households,2011,Number,157142,36081
+Staten Island,Households,2011,Number,38509,36085
+New York City,Households,2011,Number,1004188,3651000
+Battery Park/Tribeca,Households,2001,Percent,0.05723,101
+Battery Park/Tribeca,Households,2002,Percent,0.05907,101
+Greenwich Village,Households,2001,Percent,0.04049,102
+Greenwich Village,Households,2002,Percent,0.04169,102
+Lower East Side,Households,2001,Percent,0.12566,103
+Lower East Side,Households,2002,Percent,0.14658,103
+Chelsea/Clinton,Households,2001,Percent,0.07461,104
+Chelsea/Clinton,Households,2002,Percent,0.08084,104
+Midtown Business District,Households,2001,Percent,0.0832,105
+Midtown Business District,Households,2002,Percent,0.08626,105
+Murray Hill/Stuyvesant,Households,2001,Percent,0.01867,106
+Murray Hill/Stuyvesant,Households,2002,Percent,0.01999,106
+Upper West Side,Households,2001,Percent,0.06381,107
+Upper West Side,Households,2002,Percent,0.0656,107
+Upper East Side,Households,2001,Percent,0.01359,108
+Upper East Side,Households,2002,Percent,0.01518,108
+Manhattanville,Households,2001,Percent,0.22368,109
+Manhattanville,Households,2002,Percent,0.22652,109
+Central Harlem,Households,2001,Percent,0.23457,110
+Central Harlem,Households,2002,Percent,0.23223,110
+East Harlem,Households,2001,Percent,0.24059,111
+East Harlem,Households,2002,Percent,0.2721,111
+Washington Heights,Households,2001,Percent,0.29221,112
+Washington Heights,Households,2002,Percent,0.29378,112
+Mott Haven,Households,2001,Percent,0.36289,201
+Mott Haven,Households,2002,Percent,0.37735,201
+Hunts Point,Households,2001,Percent,0.37388,202
+Hunts Point,Households,2002,Percent,0.38793,202
+Morrisania,Households,2001,Percent,0.37464,203
+Morrisania,Households,2002,Percent,0.38526,203
+Concourse/Highbridge,Households,2001,Percent,0.31948,204
+Concourse/Highbridge,Households,2002,Percent,0.32951,204
+University Heights,Households,2001,Percent,0.35455,205
+University Heights,Households,2002,Percent,0.36482,205
+East Tremont,Households,2001,Percent,0.36815,206
+East Tremont,Households,2002,Percent,0.3781,206
+Bedford Park,Households,2001,Percent,0.23764,207
+Bedford Park,Households,2002,Percent,0.24272,207
+Riverdale,Households,2001,Percent,0.08637,208
+Riverdale,Households,2002,Percent,0.08873,208
+Unionport/Soundview,Households,2001,Percent,0.17414,209
+Unionport/Soundview,Households,2002,Percent,0.21501,209
+Throgs Neck,Households,2001,Percent,0.0555,210
+Throgs Neck,Households,2002,Percent,0.06997,210
+Pelham Parkway,Households,2001,Percent,0.10324,211
+Pelham Parkway,Households,2002,Percent,0.11761,211
+Williamsbridge,Households,2001,Percent,0.10384,212
+Williamsbridge,Households,2002,Percent,0.12181,212
+Williamsburg/Greenpoint,Households,2001,Percent,0.21626,301
+Williamsburg/Greenpoint,Households,2002,Percent,0.21887,301
+Fort Greene/Brooklyn Hts,Households,2001,Percent,0.11594,302
+Fort Greene/Brooklyn Hts,Households,2002,Percent,0.12037,302
+Bedford Stuyvesant,Households,2001,Percent,0.27389,303
+Bedford Stuyvesant,Households,2002,Percent,0.27839,303
+Bushwick,Households,2001,Percent,0.34446,304
+Bushwick,Households,2002,Percent,0.35356,304
+East New York,Households,2001,Percent,0.267,305
+East New York,Households,2002,Percent,0.27762,305
+Park Slope,Households,2001,Percent,0.08404,306
+Park Slope,Households,2002,Percent,0.0855,306
+Sunset Park,Households,2001,Percent,0.17712,307
+Sunset Park,Households,2002,Percent,0.18505,307
+Crown Heights North,Households,2001,Percent,0.19954,308
+Crown Heights North,Households,2002,Percent,0.20847,308
+Crown Heights South,Households,2001,Percent,0.15253,309
+Crown Heights South,Households,2002,Percent,0.16192,309
+Bay Ridge,Households,2001,Percent,0.07191,310
+Bay Ridge,Households,2002,Percent,0.07385,310
+Bensonhurst,Households,2001,Percent,0.16508,311
+Bensonhurst,Households,2002,Percent,0.16625,311
+Borough Park,Households,2001,Percent,0.195,312
+Borough Park,Households,2002,Percent,0.20214,312
+Coney Island,Households,2001,Percent,0.29961,313
+Coney Island,Households,2002,Percent,0.30157,313
+Flatbush/Midwood,Households,2001,Percent,0.19635,314
+Flatbush/Midwood,Households,2002,Percent,0.20183,314
+Sheepshead Bay,Households,2001,Percent,0.16218,315
+Sheepshead Bay,Households,2002,Percent,0.16207,315
+Brownsville,Households,2001,Percent,0.29981,316
+Brownsville,Households,2002,Percent,0.30687,316
+East Flatbush,Households,2001,Percent,0.13181,317
+East Flatbush,Households,2002,Percent,0.14077,317
+Canarsie,Households,2001,Percent,0.0797,318
+Canarsie,Households,2002,Percent,0.08499,318
+Astoria,Households,2001,Percent,0.08047,401
+Astoria,Households,2002,Percent,0.08296,401
+Sunnyside/Woodside,Households,2001,Percent,0.07507,402
+Sunnyside/Woodside,Households,2002,Percent,0.07769,402
+Jackson Heights,Households,2001,Percent,0.11695,403
+Jackson Heights,Households,2002,Percent,0.12068,403
+Elmhurst/Corona,Households,2001,Percent,0.11851,404
+Elmhurst/Corona,Households,2002,Percent,0.12293,404
+Ridgewood/Glendale,Households,2001,Percent,0.07491,405
+Ridgewood/Glendale,Households,2002,Percent,0.07525,405
+Rego Park/Forest Hills,Households,2001,Percent,0.07787,406
+Rego Park/Forest Hills,Households,2002,Percent,0.07897,406
+Flushing,Households,2001,Percent,0.06875,407
+Flushing,Households,2002,Percent,0.0711,407
+Fresh Meadows/Briarwood,Households,2001,Percent,0.08371,408
+Fresh Meadows/Briarwood,Households,2002,Percent,0.08561,408
+Woodhaven,Households,2001,Percent,0.10311,409
+Woodhaven,Households,2002,Percent,0.10364,409
+Howard Beach,Households,2001,Percent,0.07484,410
+Howard Beach,Households,2002,Percent,0.07646,410
+Bayside,Households,2001,Percent,0.02567,411
+Bayside,Households,2002,Percent,0.02745,411
+Jamaica/St. Albans,Households,2001,Percent,0.13827,412
+Jamaica/St. Albans,Households,2002,Percent,0.14085,412
+Queens Village,Households,2001,Percent,0.06704,413
+Queens Village,Households,2002,Percent,0.0694,413
+The Rockaways,Households,2001,Percent,0.18941,414
+The Rockaways,Households,2002,Percent,0.19689,414
+St. George,Households,2001,Percent,0.15203,501
+St. George,Households,2002,Percent,0.19295,501
+South Beach,Households,2001,Percent,0.11797,502
+South Beach,Households,2002,Percent,0.1473,502
+Tottenville,Households,2001,Percent,0.03775,503
+Tottenville,Households,2002,Percent,0.04968,503
+Bronx,Households,2001,Percent,0.21451,36005
+Bronx,Households,2002,Percent,0.22953,36005
+Brooklyn,Households,2001,Percent,0.18271,36047
+Brooklyn,Households,2002,Percent,0.18784,36047
+Manhattan,Households,2001,Percent,0.1068,36061
+Manhattan,Households,2002,Percent,0.11213,36061
+Queens,Households,2001,Percent,0.09049,36081
+Queens,Households,2002,Percent,0.09291,36081
+Staten Island,Households,2001,Percent,0.00855,36085
+Staten Island,Households,2002,Percent,0.01096,36085
+New York City,Households,2001,Percent,0.13857,3651000
+New York City,Households,2002,Percent,0.14508,3651000
+Battery Park/Tribeca,Households,2005,Percent,0.04744,101
+Greenwich Village,Households,2005,Percent,0.05822,102
+Lower East Side,Households,2005,Percent,0.21802,103
+Chelsea/Clinton,Households,2005,Percent,0.15767,104
+Midtown Business District,Households,2005,Percent,0.09024,105
+Murray Hill/Stuyvesant,Households,2005,Percent,0.02679,106
+Upper West Side,Households,2005,Percent,0.08764,107
+Upper East Side,Households,2005,Percent,0.02173,108
+Manhattanville,Households,2005,Percent,0.25489,109
+Central Harlem,Households,2005,Percent,0.29621,110
+East Harlem,Households,2005,Percent,0.38088,111
+Washington Heights,Households,2005,Percent,0.33196,112
+Mott Haven,Households,2005,Percent,0.49176,201
+Hunts Point,Households,2005,Percent,0.44274,202
+Morrisania,Households,2005,Percent,0.47385,203
+Concourse/Highbridge,Households,2005,Percent,0.45774,204
+University Heights,Households,2005,Percent,0.43674,205
+East Tremont,Households,2005,Percent,0.4733,206
+Bedford Park,Households,2005,Percent,0.33793,207
+Riverdale,Households,2005,Percent,0.13048,208
+Unionport/Soundview,Households,2005,Percent,0.25844,209
+Throgs Neck,Households,2005,Percent,0.11775,210
+Pelham Parkway,Households,2005,Percent,0.15438,211
+Williamsbridge,Households,2005,Percent,0.19986,212
+Williamsburg/Greenpoint,Households,2005,Percent,0.29864,301
+Fort Greene/Brooklyn Hts,Households,2005,Percent,0.14095,302
+Bedford Stuyvesant,Households,2005,Percent,0.43613,303
+Bushwick,Households,2005,Percent,0.40112,304
+East New York,Households,2005,Percent,0.43101,305
+Park Slope,Households,2005,Percent,0.1042,306
+Sunset Park,Households,2005,Percent,0.21567,307
+Crown Heights North,Households,2005,Percent,0.2172,308
+Crown Heights South,Households,2005,Percent,0.20644,309
+Bay Ridge,Households,2005,Percent,0.10428,310
+Bensonhurst,Households,2005,Percent,0.19918,311
+Borough Park,Households,2005,Percent,0.28679,312
+Coney Island,Households,2005,Percent,0.314,313
+Flatbush/Midwood,Households,2005,Percent,0.23703,314
+Sheepshead Bay,Households,2005,Percent,0.21222,315
+Brownsville,Households,2005,Percent,0.29195,316
+East Flatbush,Households,2005,Percent,0.21274,317
+Canarsie,Households,2005,Percent,0.12386,318
+Astoria,Households,2005,Percent,0.11182,401
+Sunnyside/Woodside,Households,2005,Percent,0.08385,402
+Jackson Heights,Households,2005,Percent,0.14865,403
+Elmhurst/Corona,Households,2005,Percent,0.18946,404
+Ridgewood/Glendale,Households,2005,Percent,0.10254,405
+Rego Park/Forest Hills,Households,2005,Percent,0.08754,406
+Flushing,Households,2005,Percent,0.08773,407
+Fresh Meadows/Briarwood,Households,2005,Percent,0.10187,408
+Woodhaven,Households,2005,Percent,0.13583,409
+Howard Beach,Households,2005,Percent,0.10181,410
+Bayside,Households,2005,Percent,0.04196,411
+Jamaica/St. Albans,Households,2005,Percent,0.1832,412
+Queens Village,Households,2005,Percent,0.08918,413
+The Rockaways,Households,2005,Percent,0.22412,414
+St. George,Households,2005,Percent,0.15978,501
+South Beach,Households,2005,Percent,0.07301,502
+Tottenville,Households,2005,Percent,0.04748,503
+Bronx,Households,2005,Percent,0.30783,36005
+Brooklyn,Households,2005,Percent,0.2403,36047
+Manhattan,Households,2005,Percent,0.15218,36061
+Queens,Households,2005,Percent,0.11871,36081
+Staten Island,Households,2005,Percent,0.09676,36085
+New York City,Households,2005,Percent,0.19035,3651000
+Battery Park/Tribeca,Households,2006,Percent,0.04229,101
+Greenwich Village,Households,2006,Percent,0.05247,102
+Lower East Side,Households,2006,Percent,0.20385,103
+Chelsea/Clinton,Households,2006,Percent,0.15468,104
+Midtown Business District,Households,2006,Percent,0.0963,105
+Murray Hill/Stuyvesant,Households,2006,Percent,0.02778,106
+Upper West Side,Households,2006,Percent,0.08139,107
+Upper East Side,Households,2006,Percent,0.02187,108
+Manhattanville,Households,2006,Percent,0.25298,109
+Central Harlem,Households,2006,Percent,0.28486,110
+East Harlem,Households,2006,Percent,0.37163,111
+Washington Heights,Households,2006,Percent,0.35229,112
+Mott Haven,Households,2006,Percent,0.5534,201
+Hunts Point,Households,2006,Percent,0.50368,202
+Morrisania,Households,2006,Percent,0.45421,203
+Concourse/Highbridge,Households,2006,Percent,0.4617,204
+University Heights,Households,2006,Percent,0.4622,205
+East Tremont,Households,2006,Percent,0.4633,206
+Bedford Park,Households,2006,Percent,0.34755,207
+Riverdale,Households,2006,Percent,0.1225,208
+Unionport/Soundview,Households,2006,Percent,0.25256,209
+Throgs Neck,Households,2006,Percent,0.11649,210
+Pelham Parkway,Households,2006,Percent,0.163,211
+Williamsbridge,Households,2006,Percent,0.21306,212
+Williamsburg/Greenpoint,Households,2006,Percent,0.29007,301
+Fort Greene/Brooklyn Hts,Households,2006,Percent,0.1424,302
+Bedford Stuyvesant,Households,2006,Percent,0.47888,303
+Bushwick,Households,2006,Percent,0.40877,304
+East New York,Households,2006,Percent,0.43364,305
+Park Slope,Households,2006,Percent,0.10617,306
+Sunset Park,Households,2006,Percent,0.20816,307
+Crown Heights North,Households,2006,Percent,0.21773,308
+Crown Heights South,Households,2006,Percent,0.20465,309
+Bay Ridge,Households,2006,Percent,0.1123,310
+Bensonhurst,Households,2006,Percent,0.21791,311
+Borough Park,Households,2006,Percent,0.29761,312
+Coney Island,Households,2006,Percent,0.34782,313
+Flatbush/Midwood,Households,2006,Percent,0.23932,314
+Sheepshead Bay,Households,2006,Percent,0.20401,315
+Brownsville,Households,2006,Percent,0.31093,316
+East Flatbush,Households,2006,Percent,0.22288,317
+Canarsie,Households,2006,Percent,0.13127,318
+Astoria,Households,2006,Percent,0.11476,401
+Sunnyside/Woodside,Households,2006,Percent,0.09248,402
+Jackson Heights,Households,2006,Percent,0.1721,403
+Elmhurst/Corona,Households,2006,Percent,0.20524,404
+Ridgewood/Glendale,Households,2006,Percent,0.10341,405
+Rego Park/Forest Hills,Households,2006,Percent,0.09379,406
+Flushing,Households,2006,Percent,0.09476,407
+Fresh Meadows/Briarwood,Households,2006,Percent,0.10548,408
+Woodhaven,Households,2006,Percent,0.144,409
+Howard Beach,Households,2006,Percent,0.10495,410
+Bayside,Households,2006,Percent,0.03925,411
+Jamaica/St. Albans,Households,2006,Percent,0.19118,412
+Queens Village,Households,2006,Percent,0.08958,413
+The Rockaways,Households,2006,Percent,0.22856,414
+St. George,Households,2006,Percent,0.16462,501
+South Beach,Households,2006,Percent,0.08541,502
+Tottenville,Households,2006,Percent,0.04476,503
+Bronx,Households,2006,Percent,0.31268,36005
+Brooklyn,Households,2006,Percent,0.24792,36047
+Manhattan,Households,2006,Percent,0.14911,36061
+Queens,Households,2006,Percent,0.12407,36081
+Staten Island,Households,2006,Percent,0.09997,36085
+New York City,Households,2006,Percent,0.19401,3651000
+Battery Park/Tribeca,Households,2007,Percent,0.04717,101
+Greenwich Village,Households,2007,Percent,0.05806,102
+Lower East Side,Households,2007,Percent,0.22099,103
+Chelsea/Clinton,Households,2007,Percent,0.16298,104
+Midtown Business District,Households,2007,Percent,0.10437,105
+Murray Hill/Stuyvesant,Households,2007,Percent,0.02801,106
+Upper West Side,Households,2007,Percent,0.08326,107
+Upper East Side,Households,2007,Percent,0.02234,108
+Manhattanville,Households,2007,Percent,0.24449,109
+Central Harlem,Households,2007,Percent,0.28655,110
+East Harlem,Households,2007,Percent,0.39766,111
+Washington Heights,Households,2007,Percent,0.35559,112
+Mott Haven,Households,2007,Percent,0.55865,201
+Hunts Point,Households,2007,Percent,0.51652,202
+Morrisania,Households,2007,Percent,0.5021,203
+Concourse/Highbridge,Households,2007,Percent,0.47412,204
+University Heights,Households,2007,Percent,0.47743,205
+East Tremont,Households,2007,Percent,0.51634,206
+Bedford Park,Households,2007,Percent,0.38672,207
+Riverdale,Households,2007,Percent,0.12957,208
+Unionport/Soundview,Households,2007,Percent,0.28551,209
+Throgs Neck,Households,2007,Percent,0.10985,210
+Pelham Parkway,Households,2007,Percent,0.16525,211
+Williamsbridge,Households,2007,Percent,0.23212,212
+Williamsburg/Greenpoint,Households,2007,Percent,0.28741,301
+Fort Greene/Brooklyn Hts,Households,2007,Percent,0.15311,302
+Bedford Stuyvesant,Households,2007,Percent,0.46743,303
+Bushwick,Households,2007,Percent,0.38936,304
+East New York,Households,2007,Percent,0.45945,305
+Park Slope,Households,2007,Percent,0.10624,306
+Sunset Park,Households,2007,Percent,0.21397,307
+Crown Heights North,Households,2007,Percent,0.2204,308
+Crown Heights South,Households,2007,Percent,0.21719,309
+Bay Ridge,Households,2007,Percent,0.10871,310
+Bensonhurst,Households,2007,Percent,0.20994,311
+Borough Park,Households,2007,Percent,0.27832,312
+Coney Island,Households,2007,Percent,0.32509,313
+Flatbush/Midwood,Households,2007,Percent,0.24988,314
+Sheepshead Bay,Households,2007,Percent,0.22067,315
+Brownsville,Households,2007,Percent,0.32582,316
+East Flatbush,Households,2007,Percent,0.24872,317
+Canarsie,Households,2007,Percent,0.13591,318
+Astoria,Households,2007,Percent,0.12545,401
+Sunnyside/Woodside,Households,2007,Percent,0.09725,402
+Jackson Heights,Households,2007,Percent,0.17343,403
+Elmhurst/Corona,Households,2007,Percent,0.23178,404
+Ridgewood/Glendale,Households,2007,Percent,0.10545,405
+Rego Park/Forest Hills,Households,2007,Percent,0.09221,406
+Flushing,Households,2007,Percent,0.10262,407
+Fresh Meadows/Briarwood,Households,2007,Percent,0.10862,408
+Woodhaven,Households,2007,Percent,0.14755,409
+Howard Beach,Households,2007,Percent,0.10469,410
+Bayside,Households,2007,Percent,0.04325,411
+Jamaica/St. Albans,Households,2007,Percent,0.2013,412
+Queens Village,Households,2007,Percent,0.10147,413
+The Rockaways,Households,2007,Percent,0.23255,414
+St. George,Households,2007,Percent,0.18745,501
+South Beach,Households,2007,Percent,0.09052,502
+Tottenville,Households,2007,Percent,0.05115,503
+Bronx,Households,2007,Percent,0.32927,36005
+Brooklyn,Households,2007,Percent,0.25143,36047
+Manhattan,Households,2007,Percent,0.15358,36061
+Queens,Households,2007,Percent,0.13098,36081
+Staten Island,Households,2007,Percent,0.11228,36085
+New York City,Households,2007,Percent,0.20126,3651000
+Battery Park/Tribeca,Households,2009,Percent,0.05719,101
+Greenwich Village,Households,2009,Percent,0.07391,102
+Lower East Side,Households,2009,Percent,0.30908,103
+Chelsea/Clinton,Households,2009,Percent,0.2511,104
+Midtown Business District,Households,2009,Percent,0.11756,105
+Murray Hill/Stuyvesant,Households,2009,Percent,0.03737,106
+Upper West Side,Households,2009,Percent,0.10676,107
+Upper East Side,Households,2009,Percent,0.02878,108
+Manhattanville,Households,2009,Percent,0.34696,109
+Central Harlem,Households,2009,Percent,0.3991,110
+East Harlem,Households,2009,Percent,0.59923,111
+Washington Heights,Households,2009,Percent,0.48602,112
+Mott Haven,Households,2009,Percent,0.73883,201
+Hunts Point,Households,2009,Percent,0.63373,202
+Morrisania,Households,2009,Percent,0.66276,203
+Concourse/Highbridge,Households,2009,Percent,0.65656,204
+University Heights,Households,2009,Percent,0.58791,205
+East Tremont,Households,2009,Percent,0.6595,206
+Bedford Park,Households,2009,Percent,0.51795,207
+Riverdale,Households,2009,Percent,0.18622,208
+Unionport/Soundview,Households,2009,Percent,0.37476,209
+Throgs Neck,Households,2009,Percent,0.17213,210
+Pelham Parkway,Households,2009,Percent,0.24222,211
+Williamsbridge,Households,2009,Percent,0.33487,212
+Williamsburg/Greenpoint,Households,2009,Percent,0.40668,301
+Fort Greene/Brooklyn Hts,Households,2009,Percent,0.21787,302
+Bedford Stuyvesant,Households,2009,Percent,0.68672,303
+Bushwick,Households,2009,Percent,0.5345,304
+East New York,Households,2009,Percent,0.65909,305
+Park Slope,Households,2009,Percent,0.13554,306
+Sunset Park,Households,2009,Percent,0.29233,307
+Crown Heights North,Households,2009,Percent,0.29681,308
+Crown Heights South,Households,2009,Percent,0.31306,309
+Bay Ridge,Households,2009,Percent,0.17534,310
+Bensonhurst,Households,2009,Percent,0.31753,311
+Borough Park,Households,2009,Percent,0.4103,312
+Coney Island,Households,2009,Percent,0.42855,313
+Flatbush/Midwood,Households,2009,Percent,0.34993,314
+Sheepshead Bay,Households,2009,Percent,0.27581,315
+Brownsville,Households,2009,Percent,0.47126,316
+East Flatbush,Households,2009,Percent,0.37864,317
+Canarsie,Households,2009,Percent,0.21171,318
+Astoria,Households,2009,Percent,0.16313,401
+Sunnyside/Woodside,Households,2009,Percent,0.13389,402
+Jackson Heights,Households,2009,Percent,0.27264,403
+Elmhurst/Corona,Households,2009,Percent,0.32267,404
+Ridgewood/Glendale,Households,2009,Percent,0.15647,405
+Rego Park/Forest Hills,Households,2009,Percent,0.10791,406
+Flushing,Households,2009,Percent,0.12935,407
+Fresh Meadows/Briarwood,Households,2009,Percent,0.1547,408
+Woodhaven,Households,2009,Percent,0.24804,409
+Howard Beach,Households,2009,Percent,0.19121,410
+Bayside,Households,2009,Percent,0.06467,411
+Jamaica/St. Albans,Households,2009,Percent,0.35722,412
+Queens Village,Households,2009,Percent,0.17452,413
+The Rockaways,Households,2009,Percent,0.35713,414
+St. George,Households,2009,Percent,0.29842,501
+South Beach,Households,2009,Percent,0.13902,502
+Tottenville,Households,2009,Percent,0.08754,503
+Bronx,Households,2009,Percent,0.44493,36005
+Brooklyn,Households,2009,Percent,0.357,36047
+Manhattan,Households,2009,Percent,0.2085,36061
+Queens,Households,2009,Percent,0.19664,36081
+Staten Island,Households,2009,Percent,0.18082,36085
+New York City,Households,2009,Percent,0.28394,3651000
+Battery Park/Tribeca,Households,2011,Percent,0.06949,101
+Greenwich Village,Households,2011,Percent,0.07117,102
+Lower East Side,Households,2011,Percent,0.41114,103
+Chelsea/Clinton,Households,2011,Percent,0.17231,104
+Midtown Business District,Households,2011,Percent,0.12884,105
+Murray Hill/Stuyvesant,Households,2011,Percent,0.05468,106
+Upper West Side,Households,2011,Percent,0.14728,107
+Upper East Side,Households,2011,Percent,0.0447,108
+Manhattanville,Households,2011,Percent,0.40373,109
+Central Harlem,Households,2011,Percent,0.48054,110
+East Harlem,Households,2011,Percent,0.64127,111
+Washington Heights,Households,2011,Percent,0.60132,112
+Mott Haven,Households,2011,Percent,0.81931,201
+Hunts Point,Households,2011,Percent,0.73852,202
+Morrisania,Households,2011,Percent,0.81384,203
+Concourse/Highbridge,Households,2011,Percent,0.78194,204
+University Heights,Households,2011,Percent,0.769,205
+East Tremont,Households,2011,Percent,0.75891,206
+Bedford Park,Households,2011,Percent,0.73359,207
+Riverdale,Households,2011,Percent,0.26337,208
+Unionport/Soundview,Households,2011,Percent,0.49335,209
+Throgs Neck,Households,2011,Percent,0.21751,210
+Pelham Parkway,Households,2011,Percent,0.33553,211
+Williamsbridge,Households,2011,Percent,0.42441,212
+Williamsburg/Greenpoint,Households,2011,Percent,0.39574,301
+Fort Greene/Brooklyn Hts,Households,2011,Percent,0.17942,302
+Bedford Stuyvesant,Households,2011,Percent,0.67064,303
+Bushwick,Households,2011,Percent,0.5425,304
+East New York,Households,2011,Percent,0.77061,305
+Park Slope,Households,2011,Percent,0.15482,306
+Sunset Park,Households,2011,Percent,0.35527,307
+Crown Heights North,Households,2011,Percent,0.33658,308
+Crown Heights South,Households,2011,Percent,0.36598,309
+Bay Ridge,Households,2011,Percent,0.20745,310
+Bensonhurst,Households,2011,Percent,0.37856,311
+Borough Park,Households,2011,Percent,0.51555,312
+Coney Island,Households,2011,Percent,0.48903,313
+Flatbush/Midwood,Households,2011,Percent,0.39931,314
+Sheepshead Bay,Households,2011,Percent,0.3288,315
+Brownsville,Households,2011,Percent,0.49192,316
+East Flatbush,Households,2011,Percent,0.46189,317
+Canarsie,Households,2011,Percent,0.26652,318
+Astoria,Households,2011,Percent,0.17157,401
+Sunnyside/Woodside,Households,2011,Percent,0.13298,402
+Jackson Heights,Households,2011,Percent,0.27062,403
+Elmhurst/Corona,Households,2011,Percent,0.34805,404
+Ridgewood/Glendale,Households,2011,Percent,0.16589,405
+Rego Park/Forest Hills,Households,2011,Percent,0.10851,406
+Flushing,Households,2011,Percent,0.15178,407
+Fresh Meadows/Briarwood,Households,2011,Percent,0.16881,408
+Woodhaven,Households,2011,Percent,0.24298,409
+Howard Beach,Households,2011,Percent,0.19494,410
+Bayside,Households,2011,Percent,0.07117,411
+Jamaica/St. Albans,Households,2011,Percent,0.34609,412
+Queens Village,Households,2011,Percent,0.18626,413
+The Rockaways,Households,2011,Percent,0.38333,414
+St. George,Households,2011,Percent,0.39222,501
+South Beach,Households,2011,Percent,0.1987,502
+Tottenville,Households,2011,Percent,0.116,503
+Bronx,Households,2011,Percent,0.56334,36005
+Brooklyn,Households,2011,Percent,0.39975,36047
+Manhattan,Households,2011,Percent,0.25419,36061
+Queens,Households,2011,Percent,0.20546,36081
+Staten Island,Households,2011,Percent,0.23803,36085
+New York City,Households,2011,Percent,0.33215,3651000
+Battery Park/Tribeca,Individuals,2001,Number,1016,101
+Battery Park/Tribeca,Individuals,2002,Number,1087,101
+Greenwich Village,Individuals,2001,Number,2470,102
+Greenwich Village,Individuals,2002,Number,2664,102
+Lower East Side,Individuals,2001,Number,14322,103
+Lower East Side,Individuals,2002,Number,17202,103
+Chelsea/Clinton,Individuals,2001,Number,5350,104
+Chelsea/Clinton,Individuals,2002,Number,5931,104
+Midtown Business District,Individuals,2001,Number,2340,105
+Midtown Business District,Individuals,2002,Number,2430,105
+Murray Hill/Stuyvesant,Individuals,2001,Number,1847,106
+Murray Hill/Stuyvesant,Individuals,2002,Number,2052,106
+Upper West Side,Individuals,2001,Number,10020,107
+Upper West Side,Individuals,2002,Number,10108,107
+Upper East Side,Individuals,2001,Number,2223,108
+Upper East Side,Individuals,2002,Number,2496,108
+Manhattanville,Individuals,2001,Number,16533,109
+Manhattanville,Individuals,2002,Number,16315,109
+Central Harlem,Individuals,2001,Number,20167,110
+Central Harlem,Individuals,2002,Number,19587,110
+East Harlem,Individuals,2001,Number,19734,111
+East Harlem,Individuals,2002,Number,22474,111
+Washington Heights,Individuals,2001,Number,37285,112
+Washington Heights,Individuals,2002,Number,36638,112
+Mott Haven,Individuals,2001,Number,21287,201
+Mott Haven,Individuals,2002,Number,21459,201
+Hunts Point,Individuals,2001,Number,11544,202
+Hunts Point,Individuals,2002,Number,11894,202
+Morrisania,Individuals,2001,Number,18388,203
+Morrisania,Individuals,2002,Number,18595,203
+Concourse/Highbridge,Individuals,2001,Number,30750,204
+Concourse/Highbridge,Individuals,2002,Number,31026,204
+University Heights,Individuals,2001,Number,30919,205
+University Heights,Individuals,2002,Number,31215,205
+East Tremont,Individuals,2001,Number,19851,206
+East Tremont,Individuals,2002,Number,19681,206
+Bedford Park,Individuals,2001,Number,24188,207
+Bedford Park,Individuals,2002,Number,23948,207
+Riverdale,Individuals,2001,Number,6878,208
+Riverdale,Individuals,2002,Number,6842,208
+Unionport/Soundview,Individuals,2001,Number,21449,209
+Unionport/Soundview,Individuals,2002,Number,26477,209
+Throgs Neck,Individuals,2001,Number,4225,210
+Throgs Neck,Individuals,2002,Number,5445,210
+Pelham Parkway,Individuals,2001,Number,7839,211
+Pelham Parkway,Individuals,2002,Number,8932,211
+Williamsbridge,Individuals,2001,Number,11215,212
+Williamsbridge,Individuals,2002,Number,12921,212
+Williamsburg/Greenpoint,Individuals,2001,Number,33837,301
+Williamsburg/Greenpoint,Individuals,2002,Number,33812,301
+Fort Greene/Brooklyn Hts,Individuals,2001,Number,9111,302
+Fort Greene/Brooklyn Hts,Individuals,2002,Number,9096,302
+Bedford Stuyvesant,Individuals,2001,Number,28641,303
+Bedford Stuyvesant,Individuals,2002,Number,28718,303
+Bushwick,Individuals,2001,Number,22446,304
+Bushwick,Individuals,2002,Number,22672,304
+East New York,Individuals,2001,Number,31958,305
+East New York,Individuals,2002,Number,32356,305
+Park Slope,Individuals,2001,Number,7420,306
+Park Slope,Individuals,2002,Number,7346,306
+Sunset Park,Individuals,2001,Number,12986,307
+Sunset Park,Individuals,2002,Number,13357,307
+Crown Heights North,Individuals,2001,Number,14545,308
+Crown Heights North,Individuals,2002,Number,15096,308
+Crown Heights South,Individuals,2001,Number,10856,309
+Crown Heights South,Individuals,2002,Number,8410,309
+Bay Ridge,Individuals,2001,Number,6159,310
+Bay Ridge,Individuals,2002,Number,6367,310
+Bensonhurst,Individuals,2001,Number,16940,311
+Bensonhurst,Individuals,2002,Number,17121,311
+Borough Park,Individuals,2001,Number,30343,312
+Borough Park,Individuals,2002,Number,32026,312
+Coney Island,Individuals,2001,Number,21275,313
+Coney Island,Individuals,2002,Number,20917,313
+Flatbush/Midwood,Individuals,2001,Number,20917,314
+Flatbush/Midwood,Individuals,2002,Number,21534,314
+Sheepshead Bay,Individuals,2001,Number,16394,315
+Sheepshead Bay,Individuals,2002,Number,16205,315
+Brownsville,Individuals,2001,Number,19019,316
+Brownsville,Individuals,2002,Number,19057,316
+East Flatbush,Individuals,2001,Number,13862,317
+East Flatbush,Individuals,2002,Number,14740,317
+Canarsie,Individuals,2001,Number,9780,318
+Canarsie,Individuals,2002,Number,10260,318
+Astoria,Individuals,2001,Number,11638,401
+Astoria,Individuals,2002,Number,11913,401
+Sunnyside/Woodside,Individuals,2001,Number,4823,402
+Sunnyside/Woodside,Individuals,2002,Number,4986,402
+Jackson Heights,Individuals,2001,Number,10829,403
+Jackson Heights,Individuals,2002,Number,11027,403
+Elmhurst/Corona,Individuals,2001,Number,10361,404
+Elmhurst/Corona,Individuals,2002,Number,10604,404
+Ridgewood/Glendale,Individuals,2001,Number,8463,405
+Ridgewood/Glendale,Individuals,2002,Number,8399,405
+Rego Park/Forest Hills,Individuals,2001,Number,6578,406
+Rego Park/Forest Hills,Individuals,2002,Number,6465,406
+Flushing,Individuals,2001,Number,9354,407
+Flushing,Individuals,2002,Number,9638,407
+Fresh Meadows/Briarwood,Individuals,2001,Number,7397,408
+Fresh Meadows/Briarwood,Individuals,2002,Number,7818,408
+Woodhaven,Individuals,2001,Number,8619,409
+Woodhaven,Individuals,2002,Number,8404,409
+Howard Beach,Individuals,2001,Number,5290,410
+Howard Beach,Individuals,2002,Number,5248,410
+Bayside,Individuals,2001,Number,1619,411
+Bayside,Individuals,2002,Number,1691,411
+Jamaica/St. Albans,Individuals,2001,Number,17718,412
+Jamaica/St. Albans,Individuals,2002,Number,17617,412
+Queens Village,Individuals,2001,Number,6824,413
+Queens Village,Individuals,2002,Number,6862,413
+The Rockaways,Individuals,2001,Number,14056,414
+The Rockaways,Individuals,2002,Number,14370,414
+St. George,Individuals,2001,Number,11290,501
+St. George,Individuals,2002,Number,14292,501
+South Beach,Individuals,2001,Number,3189,502
+South Beach,Individuals,2002,Number,4447,502
+Tottenville,Individuals,2001,Number,1916,503
+Tottenville,Individuals,2002,Number,2751,503
+Bronx,Individuals,2001,Number,208533,36005
+Bronx,Individuals,2002,Number,218435,36005
+Brooklyn,Individuals,2001,Number,326489,36047
+Brooklyn,Individuals,2002,Number,332090,36047
+Manhattan,Individuals,2001,Number,133307,36061
+Manhattan,Individuals,2002,Number,138984,36061
+Queens,Individuals,2001,Number,123569,36081
+Queens,Individuals,2002,Number,125042,36081
+Staten Island,Individuals,2001,Number,16395,36085
+Staten Island,Individuals,2002,Number,51490,36085
+New York City,Individuals,2001,Number,808296,3651000
+New York City,Individuals,2002,Number,836044,3651000
+Battery Park/Tribeca,Individuals,2005,Number,1428,101
+Greenwich Village,Individuals,2005,Number,3201,102
+Lower East Side,Individuals,2005,Number,24133,103
+Chelsea/Clinton,Individuals,2005,Number,10332,104
+Midtown Business District,Individuals,2005,Number,2523,105
+Murray Hill/Stuyvesant,Individuals,2005,Number,2719,106
+Upper West Side,Individuals,2005,Number,12544,107
+Upper East Side,Individuals,2005,Number,3168,108
+Manhattanville,Individuals,2005,Number,21404,109
+Central Harlem,Individuals,2005,Number,24625,110
+East Harlem,Individuals,2005,Number,30065,111
+Washington Heights,Individuals,2005,Number,44868,112
+Mott Haven,Individuals,2005,Number,30239,201
+Hunts Point,Individuals,2005,Number,15606,202
+Morrisania,Individuals,2005,Number,24070,203
+Concourse/Highbridge,Individuals,2005,Number,42714,204
+University Heights,Individuals,2005,Number,40987,205
+East Tremont,Individuals,2005,Number,25078,206
+Bedford Park,Individuals,2005,Number,31135,207
+Riverdale,Individuals,2005,Number,9782,208
+Unionport/Soundview,Individuals,2005,Number,33334,209
+Throgs Neck,Individuals,2005,Number,8128,210
+Pelham Parkway,Individuals,2005,Number,12487,211
+Williamsbridge,Individuals,2005,Number,19455,212
+Williamsburg/Greenpoint,Individuals,2005,Number,39353,301
+Fort Greene/Brooklyn Hts,Individuals,2005,Number,10711,302
+Bedford Stuyvesant,Individuals,2005,Number,38945,303
+Bushwick,Individuals,2005,Number,30564,304
+East New York,Individuals,2005,Number,42737,305
+Park Slope,Individuals,2005,Number,8864,306
+Sunset Park,Individuals,2005,Number,17796,307
+Crown Heights North,Individuals,2005,Number,19580,308
+Crown Heights South,Individuals,2005,Number,14928,309
+Bay Ridge,Individuals,2005,Number,8930,310
+Bensonhurst,Individuals,2005,Number,21832,311
+Borough Park,Individuals,2005,Number,37544,312
+Coney Island,Individuals,2005,Number,23964,313
+Flatbush/Midwood,Individuals,2005,Number,24838,314
+Sheepshead Bay,Individuals,2005,Number,18383,315
+Brownsville,Individuals,2005,Number,25884,316
+East Flatbush,Individuals,2005,Number,19006,317
+Canarsie,Individuals,2005,Number,14782,318
+Astoria,Individuals,2005,Number,15392,401
+Sunnyside/Woodside,Individuals,2005,Number,7016,402
+Jackson Heights,Individuals,2005,Number,15148,403
+Elmhurst/Corona,Individuals,2005,Number,14910,404
+Ridgewood/Glendale,Individuals,2005,Number,11338,405
+Rego Park/Forest Hills,Individuals,2005,Number,6974,406
+Flushing,Individuals,2005,Number,12006,407
+Fresh Meadows/Briarwood,Individuals,2005,Number,8614,408
+Woodhaven,Individuals,2005,Number,10866,409
+Howard Beach,Individuals,2005,Number,6588,410
+Bayside,Individuals,2005,Number,2391,411
+Jamaica/St. Albans,Individuals,2005,Number,22840,412
+Queens Village,Individuals,2005,Number,9050,413
+The Rockaways,Individuals,2005,Number,16882,414
+St. George,Individuals,2005,Number,19143,501
+South Beach,Individuals,2005,Number,5984,502
+Tottenville,Individuals,2005,Number,3837,503
+Bronx,Individuals,2005,Number,293016,36005
+Brooklyn,Individuals,2005,Number,418638,36047
+Manhattan,Individuals,2005,Number,181010,36061
+Queens,Individuals,2005,Number,160017,36081
+Staten Island,Individuals,2005,Number,28963,36085
+New York City,Individuals,2005,Number,1081714,3651000
+Battery Park/Tribeca,Individuals,2006,Number,1344,101
+Greenwich Village,Individuals,2006,Number,3121,102
+Lower East Side,Individuals,2006,Number,24197,103
+Chelsea/Clinton,Individuals,2006,Number,10008,104
+Midtown Business District,Individuals,2006,Number,2710,105
+Murray Hill/Stuyvesant,Individuals,2006,Number,2649,106
+Upper West Side,Individuals,2006,Number,11960,107
+Upper East Side,Individuals,2006,Number,3214,108
+Manhattanville,Individuals,2006,Number,20425,109
+Central Harlem,Individuals,2006,Number,23752,110
+East Harlem,Individuals,2006,Number,29182,111
+Washington Heights,Individuals,2006,Number,42584,112
+Mott Haven,Individuals,2006,Number,29579,201
+Hunts Point,Individuals,2006,Number,15412,202
+Morrisania,Individuals,2006,Number,23631,203
+Concourse/Highbridge,Individuals,2006,Number,42562,204
+University Heights,Individuals,2006,Number,40710,205
+East Tremont,Individuals,2006,Number,25492,206
+Bedford Park,Individuals,2006,Number,31659,207
+Riverdale,Individuals,2006,Number,9686,208
+Unionport/Soundview,Individuals,2006,Number,32738,209
+Throgs Neck,Individuals,2006,Number,8133,210
+Pelham Parkway,Individuals,2006,Number,12763,211
+Williamsbridge,Individuals,2006,Number,20186,212
+Williamsburg/Greenpoint,Individuals,2006,Number,39581,301
+Fort Greene/Brooklyn Hts,Individuals,2006,Number,10315,302
+Bedford Stuyvesant,Individuals,2006,Number,38899,303
+Bushwick,Individuals,2006,Number,31066,304
+East New York,Individuals,2006,Number,43486,305
+Park Slope,Individuals,2006,Number,8475,306
+Sunset Park,Individuals,2006,Number,17376,307
+Crown Heights North,Individuals,2006,Number,18929,308
+Crown Heights South,Individuals,2006,Number,14836,309
+Bay Ridge,Individuals,2006,Number,9228,310
+Bensonhurst,Individuals,2006,Number,22295,311
+Borough Park,Individuals,2006,Number,38091,312
+Coney Island,Individuals,2006,Number,23910,313
+Flatbush/Midwood,Individuals,2006,Number,24555,314
+Sheepshead Bay,Individuals,2006,Number,18749,315
+Brownsville,Individuals,2006,Number,25865,316
+East Flatbush,Individuals,2006,Number,18864,317
+Canarsie,Individuals,2006,Number,15114,318
+Astoria,Individuals,2006,Number,15527,401
+Sunnyside/Woodside,Individuals,2006,Number,7201,402
+Jackson Heights,Individuals,2006,Number,15880,403
+Elmhurst/Corona,Individuals,2006,Number,15731,404
+Ridgewood/Glendale,Individuals,2006,Number,11891,405
+Rego Park/Forest Hills,Individuals,2006,Number,7108,406
+Flushing,Individuals,2006,Number,12530,407
+Fresh Meadows/Briarwood,Individuals,2006,Number,8840,408
+Woodhaven,Individuals,2006,Number,11161,409
+Howard Beach,Individuals,2006,Number,6602,410
+Bayside,Individuals,2006,Number,2528,411
+Jamaica/St. Albans,Individuals,2006,Number,22130,412
+Queens Village,Individuals,2006,Number,9106,413
+The Rockaways,Individuals,2006,Number,17089,414
+St. George,Individuals,2006,Number,20015,501
+South Beach,Individuals,2006,Number,6576,502
+Tottenville,Individuals,2006,Number,4085,503
+Bronx,Individuals,2006,Number,293365,36005
+Brooklyn,Individuals,2006,Number,418691,36047
+Manhattan,Individuals,2006,Number,175933,36061
+Queens,Individuals,2006,Number,162632,36081
+Staten Island,Individuals,2006,Number,30710,36085
+New York City,Individuals,2006,Number,1081334,3651000
+Battery Park/Tribeca,Individuals,2007,Number,1515,101
+Greenwich Village,Individuals,2007,Number,3258,102
+Lower East Side,Individuals,2007,Number,25554,103
+Chelsea/Clinton,Individuals,2007,Number,10196,104
+Midtown Business District,Individuals,2007,Number,2913,105
+Murray Hill/Stuyvesant,Individuals,2007,Number,2737,106
+Upper West Side,Individuals,2007,Number,12136,107
+Upper East Side,Individuals,2007,Number,3283,108
+Manhattanville,Individuals,2007,Number,20222,109
+Central Harlem,Individuals,2007,Number,24195,110
+East Harlem,Individuals,2007,Number,29740,111
+Washington Heights,Individuals,2007,Number,43121,112
+Mott Haven,Individuals,2007,Number,31294,201
+Hunts Point,Individuals,2007,Number,16601,202
+Morrisania,Individuals,2007,Number,24446,203
+Concourse/Highbridge,Individuals,2007,Number,43659,204
+University Heights,Individuals,2007,Number,41116,205
+East Tremont,Individuals,2007,Number,25784,206
+Bedford Park,Individuals,2007,Number,33069,207
+Riverdale,Individuals,2007,Number,11049,208
+Unionport/Soundview,Individuals,2007,Number,33656,209
+Throgs Neck,Individuals,2007,Number,9289,210
+Pelham Parkway,Individuals,2007,Number,13924,211
+Williamsbridge,Individuals,2007,Number,21373,212
+Williamsburg/Greenpoint,Individuals,2007,Number,38749,301
+Fort Greene/Brooklyn Hts,Individuals,2007,Number,10463,302
+Bedford Stuyvesant,Individuals,2007,Number,40453,303
+Bushwick,Individuals,2007,Number,31162,304
+East New York,Individuals,2007,Number,45708,305
+Park Slope,Individuals,2007,Number,8380,306
+Sunset Park,Individuals,2007,Number,17469,307
+Crown Heights North,Individuals,2007,Number,19516,308
+Crown Heights South,Individuals,2007,Number,15145,309
+Bay Ridge,Individuals,2007,Number,9335,310
+Bensonhurst,Individuals,2007,Number,21784,311
+Borough Park,Individuals,2007,Number,37203,312
+Coney Island,Individuals,2007,Number,23273,313
+Flatbush/Midwood,Individuals,2007,Number,24485,314
+Sheepshead Bay,Individuals,2007,Number,18350,315
+Brownsville,Individuals,2007,Number,27313,316
+East Flatbush,Individuals,2007,Number,20258,317
+Canarsie,Individuals,2007,Number,16021,318
+Astoria,Individuals,2007,Number,15653,401
+Sunnyside/Woodside,Individuals,2007,Number,7444,402
+Jackson Heights,Individuals,2007,Number,16164,403
+Elmhurst/Corona,Individuals,2007,Number,16589,404
+Ridgewood/Glendale,Individuals,2007,Number,12281,405
+Rego Park/Forest Hills,Individuals,2007,Number,6815,406
+Flushing,Individuals,2007,Number,12799,407
+Fresh Meadows/Briarwood,Individuals,2007,Number,9205,408
+Woodhaven,Individuals,2007,Number,12055,409
+Howard Beach,Individuals,2007,Number,7275,410
+Bayside,Individuals,2007,Number,2628,411
+Jamaica/St. Albans,Individuals,2007,Number,24920,412
+Queens Village,Individuals,2007,Number,9899,413
+The Rockaways,Individuals,2007,Number,18556,414
+St. George,Individuals,2007,Number,22867,501
+South Beach,Individuals,2007,Number,7395,502
+Tottenville,Individuals,2007,Number,4798,503
+Bronx,Individuals,2007,Number,305261,36005
+Brooklyn,Individuals,2007,Number,425066,36047
+Manhattan,Individuals,2007,Number,178869,36061
+Queens,Individuals,2007,Number,172282,36081
+Staten Island,Individuals,2007,Number,35060,36085
+New York City,Individuals,2007,Number,1116538,3651000
+Battery Park/Tribeca,Individuals,2009,Number,2056,101
+Greenwich Village,Individuals,2009,Number,4667,102
+Lower East Side,Individuals,2009,Number,37282,103
+Chelsea/Clinton,Individuals,2009,Number,17585,104
+Midtown Business District,Individuals,2009,Number,3774,105
+Murray Hill/Stuyvesant,Individuals,2009,Number,4104,106
+Upper West Side,Individuals,2009,Number,16814,107
+Upper East Side,Individuals,2009,Number,5037,108
+Manhattanville,Individuals,2009,Number,27972,109
+Central Harlem,Individuals,2009,Number,35640,110
+East Harlem,Individuals,2009,Number,43421,111
+Washington Heights,Individuals,2009,Number,60698,112
+Mott Haven,Individuals,2009,Number,38819,201
+Hunts Point,Individuals,2009,Number,19871,202
+Morrisania,Individuals,2009,Number,31454,203
+Concourse/Highbridge,Individuals,2009,Number,53635,204
+University Heights,Individuals,2009,Number,49620,205
+East Tremont,Individuals,2009,Number,32527,206
+Bedford Park,Individuals,2009,Number,42206,207
+Riverdale,Individuals,2009,Number,13716,208
+Unionport/Soundview,Individuals,2009,Number,44624,209
+Throgs Neck,Individuals,2009,Number,12884,210
+Pelham Parkway,Individuals,2009,Number,19231,211
+Williamsbridge,Individuals,2009,Number,30500,212
+Williamsburg/Greenpoint,Individuals,2009,Number,54872,301
+Fort Greene/Brooklyn Hts,Individuals,2009,Number,15847,302
+Bedford Stuyvesant,Individuals,2009,Number,55657,303
+Bushwick,Individuals,2009,Number,40908,304
+East New York,Individuals,2009,Number,65605,305
+Park Slope,Individuals,2009,Number,10961,306
+Sunset Park,Individuals,2009,Number,25143,307
+Crown Heights North,Individuals,2009,Number,25360,308
+Crown Heights South,Individuals,2009,Number,22277,309
+Bay Ridge,Individuals,2009,Number,15020,310
+Bensonhurst,Individuals,2009,Number,32997,311
+Borough Park,Individuals,2009,Number,56042,312
+Coney Island,Individuals,2009,Number,31206,313
+Flatbush/Midwood,Individuals,2009,Number,35230,314
+Sheepshead Bay,Individuals,2009,Number,26076,315
+Brownsville,Individuals,2009,Number,37914,316
+East Flatbush,Individuals,2009,Number,32146,317
+Canarsie,Individuals,2009,Number,26213,318
+Astoria,Individuals,2009,Number,23384,401
+Sunnyside/Woodside,Individuals,2009,Number,11774,402
+Jackson Heights,Individuals,2009,Number,27073,403
+Elmhurst/Corona,Individuals,2009,Number,26134,404
+Ridgewood/Glendale,Individuals,2009,Number,20027,405
+Rego Park/Forest Hills,Individuals,2009,Number,8918,406
+Flushing,Individuals,2009,Number,20167,407
+Fresh Meadows/Briarwood,Individuals,2009,Number,15546,408
+Woodhaven,Individuals,2009,Number,22383,409
+Howard Beach,Individuals,2009,Number,14268,410
+Bayside,Individuals,2009,Number,4518,411
+Jamaica/St. Albans,Individuals,2009,Number,47152,412
+Queens Village,Individuals,2009,Number,20214,413
+The Rockaways,Individuals,2009,Number,30730,414
+St. George,Individuals,2009,Number,36075,501
+South Beach,Individuals,2009,Number,12151,502
+Tottenville,Individuals,2009,Number,8692,503
+Bronx,Individuals,2009,Number,389090,36005
+Brooklyn,Individuals,2009,Number,609475,36047
+Manhattan,Individuals,2009,Number,259051,36061
+Queens,Individuals,2009,Number,292288,36081
+Staten Island,Individuals,2009,Number,56918,36085
+New York City,Individuals,2009,Number,1607212,3651000
+Battery Park/Tribeca,Individuals,2011,Number,2443,101
+Greenwich Village,Individuals,2011,Number,4563,102
+Lower East Side,Individuals,2011,Number,47666,103
+Chelsea/Clinton,Individuals,2011,Number,13190,104
+Midtown Business District,Individuals,2011,Number,4059,105
+Murray Hill/Stuyvesant,Individuals,2011,Number,5483,106
+Upper West Side,Individuals,2011,Number,19887,107
+Upper East Side,Individuals,2011,Number,6534,108
+Manhattanville,Individuals,2011,Number,31234,109
+Central Harlem,Individuals,2011,Number,42394,110
+East Harlem,Individuals,2011,Number,50042,111
+Washington Heights,Individuals,2011,Number,39343,112
+Mott Haven,Individuals,2011,Number,47665,201
+Hunts Point,Individuals,2011,Number,24126,202
+Morrisania,Individuals,2011,Number,40411,203
+Concourse/Highbridge,Individuals,2011,Number,66603,204
+University Heights,Individuals,2011,Number,63485,205
+East Tremont,Individuals,2011,Number,39168,206
+Bedford Park,Individuals,2011,Number,53493,207
+Riverdale,Individuals,2011,Number,18557,208
+Unionport/Soundview,Individuals,2011,Number,56728,209
+Throgs Neck,Individuals,2011,Number,16905,210
+Pelham Parkway,Individuals,2011,Number,25264,211
+Williamsbridge,Individuals,2011,Number,38522,212
+Williamsburg/Greenpoint,Individuals,2011,Number,59796,301
+Fort Greene/Brooklyn Hts,Individuals,2011,Number,14659,302
+Bedford Stuyvesant,Individuals,2011,Number,58146,303
+Bushwick,Individuals,2011,Number,42723,304
+East New York,Individuals,2011,Number,72854,305
+Park Slope,Individuals,2011,Number,11815,306
+Sunset Park,Individuals,2011,Number,31213,307
+Crown Heights North,Individuals,2011,Number,27697,308
+Crown Heights South,Individuals,2011,Number,26537,309
+Bay Ridge,Individuals,2011,Number,18810,310
+Bensonhurst,Individuals,2011,Number,40317,311
+Borough Park,Individuals,2011,Number,68792,312
+Coney Island,Individuals,2011,Number,34485,313
+Flatbush/Midwood,Individuals,2011,Number,41562,314
+Sheepshead Bay,Individuals,2011,Number,30242,315
+Brownsville,Individuals,2011,Number,39850,316
+East Flatbush,Individuals,2011,Number,37332,317
+Canarsie,Individuals,2011,Number,30984,318
+Astoria,Individuals,2011,Number,22047,401
+Sunnyside/Woodside,Individuals,2011,Number,11467,402
+Jackson Heights,Individuals,2011,Number,26667,403
+Elmhurst/Corona,Individuals,2011,Number,25905,404
+Ridgewood/Glendale,Individuals,2011,Number,19471,405
+Rego Park/Forest Hills,Individuals,2011,Number,8506,406
+Flushing,Individuals,2011,Number,20892,407
+Fresh Meadows/Briarwood,Individuals,2011,Number,15151,408
+Woodhaven,Individuals,2011,Number,21872,409
+Howard Beach,Individuals,2011,Number,14131,410
+Bayside,Individuals,2011,Number,4632,411
+Jamaica/St. Albans,Individuals,2011,Number,46439,412
+Queens Village,Individuals,2011,Number,19746,413
+The Rockaways,Individuals,2011,Number,28688,414
+St. George,Individuals,2011,Number,43985,501
+South Beach,Individuals,2011,Number,15990,502
+Tottenville,Individuals,2011,Number,11500,503
+Bronx,Individuals,2011,Number,490927,36005
+Brooklyn,Individuals,2011,Number,687814,36047
+Manhattan,Individuals,2011,Number,296838,36061
+Queens,Individuals,2011,Number,285614,36081
+Staten Island,Individuals,2011,Number,71475,36085
+New York City,Individuals,2011,Number,1832667,3651000
+Battery Park/Tribeca,Individuals,2001,Percent,0.02952,101
+Battery Park/Tribeca,Individuals,2002,Percent,0.03158,101
+Greenwich Village,Individuals,2001,Percent,0.02653,102
+Greenwich Village,Individuals,2002,Percent,0.02861,102
+Lower East Side,Individuals,2001,Percent,0.08711,103
+Lower East Side,Individuals,2002,Percent,0.10463,103
+Chelsea/Clinton,Individuals,2001,Percent,0.06116,104
+Chelsea/Clinton,Individuals,2002,Percent,0.0678,104
+Midtown Business District,Individuals,2001,Percent,0.05315,105
+Midtown Business District,Individuals,2002,Percent,0.05519,105
+Murray Hill/Stuyvesant,Individuals,2001,Percent,0.01357,106
+Murray Hill/Stuyvesant,Individuals,2002,Percent,0.01507,106
+Upper West Side,Individuals,2001,Percent,0.04824,107
+Upper West Side,Individuals,2002,Percent,0.04867,107
+Upper East Side,Individuals,2001,Percent,0.01024,108
+Upper East Side,Individuals,2002,Percent,0.0115,108
+Manhattanville,Individuals,2001,Percent,0.14798,109
+Manhattanville,Individuals,2002,Percent,0.14603,109
+Central Harlem,Individuals,2001,Percent,0.18829,110
+Central Harlem,Individuals,2002,Percent,0.18287,110
+East Harlem,Individuals,2001,Percent,0.1676,111
+East Harlem,Individuals,2002,Percent,0.19087,111
+Washington Heights,Individuals,2001,Percent,0.1789,112
+Washington Heights,Individuals,2002,Percent,0.17579,112
+Mott Haven,Individuals,2001,Percent,0.2591,201
+Mott Haven,Individuals,2002,Percent,0.26119,201
+Hunts Point,Individuals,2001,Percent,0.24654,202
+Hunts Point,Individuals,2002,Percent,0.25402,202
+Morrisania,Individuals,2001,Percent,0.26815,203
+Morrisania,Individuals,2002,Percent,0.27117,203
+Concourse/Highbridge,Individuals,2001,Percent,0.22033,204
+Concourse/Highbridge,Individuals,2002,Percent,0.22231,204
+University Heights,Individuals,2001,Percent,0.24097,205
+University Heights,Individuals,2002,Percent,0.24327,205
+East Tremont,Individuals,2001,Percent,0.26227,206
+East Tremont,Individuals,2002,Percent,0.26003,206
+Bedford Park,Individuals,2001,Percent,0.17105,207
+Bedford Park,Individuals,2002,Percent,0.16935,207
+Riverdale,Individuals,2001,Percent,0.06788,208
+Riverdale,Individuals,2002,Percent,0.06752,208
+Unionport/Soundview,Individuals,2001,Percent,0.12778,209
+Unionport/Soundview,Individuals,2002,Percent,0.15773,209
+Throgs Neck,Individuals,2001,Percent,0.03644,210
+Throgs Neck,Individuals,2002,Percent,0.04696,210
+Pelham Parkway,Individuals,2001,Percent,0.07081,211
+Pelham Parkway,Individuals,2002,Percent,0.08068,211
+Williamsbridge,Individuals,2001,Percent,0.07523,212
+Williamsbridge,Individuals,2002,Percent,0.08667,212
+Williamsburg/Greenpoint,Individuals,2001,Percent,0.21104,301
+Williamsburg/Greenpoint,Individuals,2002,Percent,0.21088,301
+Fort Greene/Brooklyn Hts,Individuals,2001,Percent,0.09239,302
+Fort Greene/Brooklyn Hts,Individuals,2002,Percent,0.09223,302
+Bedford Stuyvesant,Individuals,2001,Percent,0.19908,303
+Bedford Stuyvesant,Individuals,2002,Percent,0.19962,303
+Bushwick,Individuals,2001,Percent,0.21509,304
+Bushwick,Individuals,2002,Percent,0.21725,304
+East New York,Individuals,2001,Percent,0.18452,305
+East New York,Individuals,2002,Percent,0.18682,305
+Park Slope,Individuals,2001,Percent,0.07131,306
+Park Slope,Individuals,2002,Percent,0.0706,306
+Sunset Park,Individuals,2001,Percent,0.10816,307
+Sunset Park,Individuals,2002,Percent,0.11125,307
+Crown Heights North,Individuals,2001,Percent,0.15139,308
+Crown Heights North,Individuals,2002,Percent,0.15713,308
+Crown Heights South,Individuals,2001,Percent,0.10437,309
+Crown Heights South,Individuals,2002,Percent,0.08085,309
+Bay Ridge,Individuals,2001,Percent,0.05026,310
+Bay Ridge,Individuals,2002,Percent,0.05196,310
+Bensonhurst,Individuals,2001,Percent,0.09842,311
+Bensonhurst,Individuals,2002,Percent,0.09947,311
+Borough Park,Individuals,2001,Percent,0.16398,312
+Borough Park,Individuals,2002,Percent,0.17307,312
+Coney Island,Individuals,2001,Percent,0.20048,313
+Coney Island,Individuals,2002,Percent,0.19711,313
+Flatbush/Midwood,Individuals,2001,Percent,0.12391,314
+Flatbush/Midwood,Individuals,2002,Percent,0.12757,314
+Sheepshead Bay,Individuals,2001,Percent,0.10226,315
+Sheepshead Bay,Individuals,2002,Percent,0.10108,315
+Brownsville,Individuals,2001,Percent,0.22285,316
+Brownsville,Individuals,2002,Percent,0.2233,316
+East Flatbush,Individuals,2001,Percent,0.08363,317
+East Flatbush,Individuals,2002,Percent,0.08893,317
+Canarsie,Individuals,2001,Percent,0.05024,318
+Canarsie,Individuals,2002,Percent,0.05271,318
+Astoria,Individuals,2001,Percent,0.0551,401
+Astoria,Individuals,2002,Percent,0.0564,401
+Sunnyside/Woodside,Individuals,2001,Percent,0.04388,402
+Sunnyside/Woodside,Individuals,2002,Percent,0.04536,402
+Jackson Heights,Individuals,2001,Percent,0.06405,403
+Jackson Heights,Individuals,2002,Percent,0.06522,403
+Elmhurst/Corona,Individuals,2001,Percent,0.06204,404
+Elmhurst/Corona,Individuals,2002,Percent,0.0635,404
+Ridgewood/Glendale,Individuals,2001,Percent,0.05101,405
+Ridgewood/Glendale,Individuals,2002,Percent,0.05062,405
+Rego Park/Forest Hills,Individuals,2001,Percent,0.05672,406
+Rego Park/Forest Hills,Individuals,2002,Percent,0.05575,406
+Flushing,Individuals,2001,Percent,0.0385,407
+Flushing,Individuals,2002,Percent,0.03967,407
+Fresh Meadows/Briarwood,Individuals,2001,Percent,0.05046,408
+Fresh Meadows/Briarwood,Individuals,2002,Percent,0.05333,408
+Woodhaven,Individuals,2001,Percent,0.06087,409
+Woodhaven,Individuals,2002,Percent,0.05935,409
+Howard Beach,Individuals,2001,Percent,0.04156,410
+Howard Beach,Individuals,2002,Percent,0.04123,410
+Bayside,Individuals,2001,Percent,0.01391,411
+Bayside,Individuals,2002,Percent,0.01453,411
+Jamaica/St. Albans,Individuals,2001,Percent,0.07924,412
+Jamaica/St. Albans,Individuals,2002,Percent,0.07879,412
+Queens Village,Individuals,2001,Percent,0.03477,413
+Queens Village,Individuals,2002,Percent,0.03496,413
+The Rockaways,Individuals,2001,Percent,0.13175,414
+The Rockaways,Individuals,2002,Percent,0.13469,414
+St. George,Individuals,2001,Percent,0.06943,501
+St. George,Individuals,2002,Percent,0.08789,501
+South Beach,Individuals,2001,Percent,0.0251,502
+South Beach,Individuals,2002,Percent,0.035,502
+Tottenville,Individuals,2001,Percent,0.01253,503
+Tottenville,Individuals,2002,Percent,0.01799,503
+Bronx,Individuals,2001,Percent,0.15648,36005
+Bronx,Individuals,2002,Percent,0.16391,36005
+Brooklyn,Individuals,2001,Percent,0.13243,36047
+Brooklyn,Individuals,2002,Percent,0.1347,36047
+Manhattan,Individuals,2001,Percent,0.08672,36061
+Manhattan,Individuals,2002,Percent,0.09041,36061
+Queens,Individuals,2001,Percent,0.05543,36081
+Queens,Individuals,2002,Percent,0.05609,36081
+Staten Island,Individuals,2001,Percent,0.03695,36085
+Staten Island,Individuals,2002,Percent,0.11604,36085
+New York City,Individuals,2001,Percent,0.10093,3651000
+New York City,Individuals,2002,Percent,0.1044,3651000
+Battery Park/Tribeca,Individuals,2005,Percent,0.02792,101
+Greenwich Village,Individuals,2005,Percent,0.04239,102
+Lower East Side,Individuals,2005,Percent,0.1658,103
+Chelsea/Clinton,Individuals,2005,Percent,0.11641,104
+Midtown Business District,Individuals,2005,Percent,0.0568,105
+Murray Hill/Stuyvesant,Individuals,2005,Percent,0.01859,106
+Upper West Side,Individuals,2005,Percent,0.0601,107
+Upper East Side,Individuals,2005,Percent,0.01496,108
+Manhattanville,Individuals,2005,Percent,0.18709,109
+Central Harlem,Individuals,2005,Percent,0.20817,110
+East Harlem,Individuals,2005,Percent,0.27389,111
+Washington Heights,Individuals,2005,Percent,0.20848,112
+Mott Haven,Individuals,2005,Percent,0.3516,201
+Hunts Point,Individuals,2005,Percent,0.31778,202
+Morrisania,Individuals,2005,Percent,0.34977,203
+Concourse/Highbridge,Individuals,2005,Percent,0.32161,204
+University Heights,Individuals,2005,Percent,0.31181,205
+East Tremont,Individuals,2005,Percent,0.34907,206
+Bedford Park,Individuals,2005,Percent,0.23671,207
+Riverdale,Individuals,2005,Percent,0.09767,208
+Unionport/Soundview,Individuals,2005,Percent,0.18628,209
+Throgs Neck,Individuals,2005,Percent,0.08279,210
+Pelham Parkway,Individuals,2005,Percent,0.1044,211
+Williamsbridge,Individuals,2005,Percent,0.1378,212
+Williamsburg/Greenpoint,Individuals,2005,Percent,0.29748,301
+Fort Greene/Brooklyn Hts,Individuals,2005,Percent,0.09754,302
+Bedford Stuyvesant,Individuals,2005,Percent,0.28729,303
+Bushwick,Individuals,2005,Percent,0.26443,304
+East New York,Individuals,2005,Percent,0.29773,305
+Park Slope,Individuals,2005,Percent,0.07892,306
+Sunset Park,Individuals,2005,Percent,0.12753,307
+Crown Heights North,Individuals,2005,Percent,0.15219,308
+Crown Heights South,Individuals,2005,Percent,0.13822,309
+Bay Ridge,Individuals,2005,Percent,0.07182,310
+Bensonhurst,Individuals,2005,Percent,0.12005,311
+Borough Park,Individuals,2005,Percent,0.24296,312
+Coney Island,Individuals,2005,Percent,0.2187,313
+Flatbush/Midwood,Individuals,2005,Percent,0.15852,314
+Sheepshead Bay,Individuals,2005,Percent,0.12159,315
+Brownsville,Individuals,2005,Percent,0.2329,316
+East Flatbush,Individuals,2005,Percent,0.13255,317
+Canarsie,Individuals,2005,Percent,0.07862,318
+Astoria,Individuals,2005,Percent,0.07819,401
+Sunnyside/Woodside,Individuals,2005,Percent,0.05053,402
+Jackson Heights,Individuals,2005,Percent,0.08368,403
+Elmhurst/Corona,Individuals,2005,Percent,0.10694,404
+Ridgewood/Glendale,Individuals,2005,Percent,0.06707,405
+Rego Park/Forest Hills,Individuals,2005,Percent,0.05987,406
+Flushing,Individuals,2005,Percent,0.04962,407
+Fresh Meadows/Briarwood,Individuals,2005,Percent,0.0625,408
+Woodhaven,Individuals,2005,Percent,0.08185,409
+Howard Beach,Individuals,2005,Percent,0.05309,410
+Bayside,Individuals,2005,Percent,0.02143,411
+Jamaica/St. Albans,Individuals,2005,Percent,0.10161,412
+Queens Village,Individuals,2005,Percent,0.04789,413
+The Rockaways,Individuals,2005,Percent,0.15115,414
+St. George,Individuals,2005,Percent,0.11358,501
+South Beach,Individuals,2005,Percent,0.04544,502
+Tottenville,Individuals,2005,Percent,0.02474,503
+Bronx,Individuals,2005,Percent,0.22374,36005
+Brooklyn,Individuals,2005,Percent,0.17115,36047
+Manhattan,Individuals,2005,Percent,0.11833,36061
+Queens,Individuals,2005,Percent,0.07223,36081
+Staten Island,Individuals,2005,Percent,0.06361,36085
+New York City,Individuals,2005,Percent,0.13596,3651000
+Battery Park/Tribeca,Individuals,2006,Percent,0.02261,101
+Greenwich Village,Individuals,2006,Percent,0.03557,102
+Lower East Side,Individuals,2006,Percent,0.13543,103
+Chelsea/Clinton,Individuals,2006,Percent,0.11425,104
+Midtown Business District,Individuals,2006,Percent,0.06181,105
+Murray Hill/Stuyvesant,Individuals,2006,Percent,0.01906,106
+Upper West Side,Individuals,2006,Percent,0.05516,107
+Upper East Side,Individuals,2006,Percent,0.01499,108
+Manhattanville,Individuals,2006,Percent,0.16641,109
+Central Harlem,Individuals,2006,Percent,0.20104,110
+East Harlem,Individuals,2006,Percent,0.21731,111
+Washington Heights,Individuals,2006,Percent,0.20388,112
+Mott Haven,Individuals,2006,Percent,0.33698,201
+Hunts Point,Individuals,2006,Percent,0.30749,202
+Morrisania,Individuals,2006,Percent,0.30775,203
+Concourse/Highbridge,Individuals,2006,Percent,0.32041,204
+University Heights,Individuals,2006,Percent,0.30413,205
+East Tremont,Individuals,2006,Percent,0.318,206
+Bedford Park,Individuals,2006,Percent,0.25334,207
+Riverdale,Individuals,2006,Percent,0.08711,208
+Unionport/Soundview,Individuals,2006,Percent,0.18148,209
+Throgs Neck,Individuals,2006,Percent,0.07129,210
+Pelham Parkway,Individuals,2006,Percent,0.10508,211
+Williamsbridge,Individuals,2006,Percent,0.13656,212
+Williamsburg/Greenpoint,Individuals,2006,Percent,0.2797,301
+Fort Greene/Brooklyn Hts,Individuals,2006,Percent,0.09227,302
+Bedford Stuyvesant,Individuals,2006,Percent,0.2945,303
+Bushwick,Individuals,2006,Percent,0.25079,304
+East New York,Individuals,2006,Percent,0.26999,305
+Park Slope,Individuals,2006,Percent,0.07702,306
+Sunset Park,Individuals,2006,Percent,0.11352,307
+Crown Heights North,Individuals,2006,Percent,0.14903,308
+Crown Heights South,Individuals,2006,Percent,0.13447,309
+Bay Ridge,Individuals,2006,Percent,0.07475,310
+Bensonhurst,Individuals,2006,Percent,0.1277,311
+Borough Park,Individuals,2006,Percent,0.24494,312
+Coney Island,Individuals,2006,Percent,0.2306,313
+Flatbush/Midwood,Individuals,2006,Percent,0.15055,314
+Sheepshead Bay,Individuals,2006,Percent,0.12602,315
+Brownsville,Individuals,2006,Percent,0.22119,316
+East Flatbush,Individuals,2006,Percent,0.12799,317
+Canarsie,Individuals,2006,Percent,0.07387,318
+Astoria,Individuals,2006,Percent,0.08162,401
+Sunnyside/Woodside,Individuals,2006,Percent,0.05596,402
+Jackson Heights,Individuals,2006,Percent,0.09003,403
+Elmhurst/Corona,Individuals,2006,Percent,0.11351,404
+Ridgewood/Glendale,Individuals,2006,Percent,0.06615,405
+Rego Park/Forest Hills,Individuals,2006,Percent,0.06106,406
+Flushing,Individuals,2006,Percent,0.05082,407
+Fresh Meadows/Briarwood,Individuals,2006,Percent,0.05998,408
+Woodhaven,Individuals,2006,Percent,0.08048,409
+Howard Beach,Individuals,2006,Percent,0.05298,410
+Bayside,Individuals,2006,Percent,0.02146,411
+Jamaica/St. Albans,Individuals,2006,Percent,0.1024,412
+Queens Village,Individuals,2006,Percent,0.04261,413
+The Rockaways,Individuals,2006,Percent,0.14209,414
+St. George,Individuals,2006,Percent,0.11886,501
+South Beach,Individuals,2006,Percent,0.04917,502
+Tottenville,Individuals,2006,Percent,0.02331,503
+Bronx,Individuals,2006,Percent,0.21548,36005
+Brooklyn,Individuals,2006,Percent,0.16689,36047
+Manhattan,Individuals,2006,Percent,0.10917,36061
+Queens,Individuals,2006,Percent,0.07212,36081
+Staten Island,Individuals,2006,Percent,0.06433,36085
+New York City,Individuals,2006,Percent,0.13164,3651000
+Battery Park/Tribeca,Individuals,2007,Percent,0.02687,101
+Greenwich Village,Individuals,2007,Percent,0.03915,102
+Lower East Side,Individuals,2007,Percent,0.14822,103
+Chelsea/Clinton,Individuals,2007,Percent,0.11488,104
+Midtown Business District,Individuals,2007,Percent,0.06558,105
+Murray Hill/Stuyvesant,Individuals,2007,Percent,0.01895,106
+Upper West Side,Individuals,2007,Percent,0.05658,107
+Upper East Side,Individuals,2007,Percent,0.01504,108
+Manhattanville,Individuals,2007,Percent,0.15501,109
+Central Harlem,Individuals,2007,Percent,0.19374,110
+East Harlem,Individuals,2007,Percent,0.24486,111
+Washington Heights,Individuals,2007,Percent,0.19445,112
+Mott Haven,Individuals,2007,Percent,0.3263,201
+Hunts Point,Individuals,2007,Percent,0.30315,202
+Morrisania,Individuals,2007,Percent,0.32337,203
+Concourse/Highbridge,Individuals,2007,Percent,0.31309,204
+University Heights,Individuals,2007,Percent,0.31808,205
+East Tremont,Individuals,2007,Percent,0.32671,206
+Bedford Park,Individuals,2007,Percent,0.27187,207
+Riverdale,Individuals,2007,Percent,0.09763,208
+Unionport/Soundview,Individuals,2007,Percent,0.20215,209
+Throgs Neck,Individuals,2007,Percent,0.07534,210
+Pelham Parkway,Individuals,2007,Percent,0.10966,211
+Williamsbridge,Individuals,2007,Percent,0.14423,212
+Williamsburg/Greenpoint,Individuals,2007,Percent,0.26458,301
+Fort Greene/Brooklyn Hts,Individuals,2007,Percent,0.08962,302
+Bedford Stuyvesant,Individuals,2007,Percent,0.32182,303
+Bushwick,Individuals,2007,Percent,0.23975,304
+East New York,Individuals,2007,Percent,0.288,305
+Park Slope,Individuals,2007,Percent,0.07689,306
+Sunset Park,Individuals,2007,Percent,0.11903,307
+Crown Heights North,Individuals,2007,Percent,0.15027,308
+Crown Heights South,Individuals,2007,Percent,0.13516,309
+Bay Ridge,Individuals,2007,Percent,0.07366,310
+Bensonhurst,Individuals,2007,Percent,0.11823,311
+Borough Park,Individuals,2007,Percent,0.21114,312
+Coney Island,Individuals,2007,Percent,0.21453,313
+Flatbush/Midwood,Individuals,2007,Percent,0.15229,314
+Sheepshead Bay,Individuals,2007,Percent,0.13347,315
+Brownsville,Individuals,2007,Percent,0.2261,316
+East Flatbush,Individuals,2007,Percent,0.14934,317
+Canarsie,Individuals,2007,Percent,0.07916,318
+Astoria,Individuals,2007,Percent,0.08929,401
+Sunnyside/Woodside,Individuals,2007,Percent,0.0535,402
+Jackson Heights,Individuals,2007,Percent,0.08874,403
+Elmhurst/Corona,Individuals,2007,Percent,0.11834,404
+Ridgewood/Glendale,Individuals,2007,Percent,0.06561,405
+Rego Park/Forest Hills,Individuals,2007,Percent,0.05779,406
+Flushing,Individuals,2007,Percent,0.05461,407
+Fresh Meadows/Briarwood,Individuals,2007,Percent,0.06086,408
+Woodhaven,Individuals,2007,Percent,0.0825,409
+Howard Beach,Individuals,2007,Percent,0.0527,410
+Bayside,Individuals,2007,Percent,0.0213,411
+Jamaica/St. Albans,Individuals,2007,Percent,0.11425,412
+Queens Village,Individuals,2007,Percent,0.04899,413
+The Rockaways,Individuals,2007,Percent,0.16128,414
+St. George,Individuals,2007,Percent,0.12507,501
+South Beach,Individuals,2007,Percent,0.05511,502
+Tottenville,Individuals,2007,Percent,0.02915,503
+Bronx,Individuals,2007,Percent,0.22223,36005
+Brooklyn,Individuals,2007,Percent,0.16814,36047
+Manhattan,Individuals,2007,Percent,0.11035,36061
+Queens,Individuals,2007,Percent,0.07588,36081
+Staten Island,Individuals,2007,Percent,0.0728,36085
+New York City,Individuals,2007,Percent,0.13494,3651000
+Battery Park/Tribeca,Individuals,2009,Percent,0.03633,101
+Greenwich Village,Individuals,2009,Percent,0.05587,102
+Lower East Side,Individuals,2009,Percent,0.23012,103
+Chelsea/Clinton,Individuals,2009,Percent,0.17892,104
+Midtown Business District,Individuals,2009,Percent,0.07672,105
+Murray Hill/Stuyvesant,Individuals,2009,Percent,0.02639,106
+Upper West Side,Individuals,2009,Percent,0.07889,107
+Upper East Side,Individuals,2009,Percent,0.02151,108
+Manhattanville,Individuals,2009,Percent,0.21055,109
+Central Harlem,Individuals,2009,Percent,0.29133,110
+East Harlem,Individuals,2009,Percent,0.38315,111
+Washington Heights,Individuals,2009,Percent,0.29165,112
+Mott Haven,Individuals,2009,Percent,0.40127,201
+Hunts Point,Individuals,2009,Percent,0.35972,202
+Morrisania,Individuals,2009,Percent,0.42883,203
+Concourse/Highbridge,Individuals,2009,Percent,0.39216,204
+University Heights,Individuals,2009,Percent,0.32452,205
+East Tremont,Individuals,2009,Percent,0.42479,206
+Bedford Park,Individuals,2009,Percent,0.32394,207
+Riverdale,Individuals,2009,Percent,0.1305,208
+Unionport/Soundview,Individuals,2009,Percent,0.2442,209
+Throgs Neck,Individuals,2009,Percent,0.11215,210
+Pelham Parkway,Individuals,2009,Percent,0.15177,211
+Williamsbridge,Individuals,2009,Percent,0.20892,212
+Williamsburg/Greenpoint,Individuals,2009,Percent,0.39402,301
+Fort Greene/Brooklyn Hts,Individuals,2009,Percent,0.13065,302
+Bedford Stuyvesant,Individuals,2009,Percent,0.42001,303
+Bushwick,Individuals,2009,Percent,0.30332,304
+East New York,Individuals,2009,Percent,0.40049,305
+Park Slope,Individuals,2009,Percent,0.0922,306
+Sunset Park,Individuals,2009,Percent,0.1588,307
+Crown Heights North,Individuals,2009,Percent,0.20138,308
+Crown Heights South,Individuals,2009,Percent,0.20406,309
+Bay Ridge,Individuals,2009,Percent,0.11661,310
+Bensonhurst,Individuals,2009,Percent,0.20196,311
+Borough Park,Individuals,2009,Percent,0.34246,312
+Coney Island,Individuals,2009,Percent,0.28098,313
+Flatbush/Midwood,Individuals,2009,Percent,0.21574,314
+Sheepshead Bay,Individuals,2009,Percent,0.17407,315
+Brownsville,Individuals,2009,Percent,0.32024,316
+East Flatbush,Individuals,2009,Percent,0.21263,317
+Canarsie,Individuals,2009,Percent,0.12281,318
+Astoria,Individuals,2009,Percent,0.13257,401
+Sunnyside/Woodside,Individuals,2009,Percent,0.08987,402
+Jackson Heights,Individuals,2009,Percent,0.14408,403
+Elmhurst/Corona,Individuals,2009,Percent,0.17706,404
+Ridgewood/Glendale,Individuals,2009,Percent,0.10654,405
+Rego Park/Forest Hills,Individuals,2009,Percent,0.07759,406
+Flushing,Individuals,2009,Percent,0.07622,407
+Fresh Meadows/Briarwood,Individuals,2009,Percent,0.09653,408
+Woodhaven,Individuals,2009,Percent,0.15295,409
+Howard Beach,Individuals,2009,Percent,0.11387,410
+Bayside,Individuals,2009,Percent,0.03655,411
+Jamaica/St. Albans,Individuals,2009,Percent,0.21344,412
+Queens Village,Individuals,2009,Percent,0.1003,413
+The Rockaways,Individuals,2009,Percent,0.26148,414
+St. George,Individuals,2009,Percent,0.20111,501
+South Beach,Individuals,2009,Percent,0.08086,502
+Tottenville,Individuals,2009,Percent,0.05363,503
+Bronx,Individuals,2009,Percent,0.27846,36005
+Brooklyn,Individuals,2009,Percent,0.23742,36047
+Manhattan,Individuals,2009,Percent,0.15902,36061
+Queens,Individuals,2009,Percent,0.12671,36081
+Staten Island,Individuals,2009,Percent,0.11575,36085
+New York City,Individuals,2009,Percent,0.19152,3651000
+Battery Park/Tribeca,Individuals,2011,Percent,0.0413,101
+Greenwich Village,Individuals,2011,Percent,0.05225,102
+Lower East Side,Individuals,2011,Percent,0.28754,103
+Chelsea/Clinton,Individuals,2011,Percent,0.13835,104
+Midtown Business District,Individuals,2011,Percent,0.08507,105
+Murray Hill/Stuyvesant,Individuals,2011,Percent,0.03711,106
+Upper West Side,Individuals,2011,Percent,0.10268,107
+Upper East Side,Individuals,2011,Percent,0.03118,108
+Manhattanville,Individuals,2011,Percent,0.22549,109
+Central Harlem,Individuals,2011,Percent,0.34321,110
+East Harlem,Individuals,2011,Percent,0.40557,111
+Washington Heights,Individuals,2011,Percent,0.18713,112
+Mott Haven,Individuals,2011,Percent,0.49251,201
+Hunts Point,Individuals,2011,Percent,0.43657,202
+Morrisania,Individuals,2011,Percent,0.47898,203
+Concourse/Highbridge,Individuals,2011,Percent,0.47027,204
+University Heights,Individuals,2011,Percent,0.47607,205
+East Tremont,Individuals,2011,Percent,0.4447,206
+Bedford Park,Individuals,2011,Percent,0.4541,207
+Riverdale,Individuals,2011,Percent,0.1788,208
+Unionport/Soundview,Individuals,2011,Percent,0.31043,209
+Throgs Neck,Individuals,2011,Percent,0.13757,210
+Pelham Parkway,Individuals,2011,Percent,0.20736,211
+Williamsbridge,Individuals,2011,Percent,0.26847,212
+Williamsburg/Greenpoint,Individuals,2011,Percent,0.41357,301
+Fort Greene/Brooklyn Hts,Individuals,2011,Percent,0.12328,302
+Bedford Stuyvesant,Individuals,2011,Percent,0.43876,303
+Bushwick,Individuals,2011,Percent,0.30789,304
+East New York,Individuals,2011,Percent,0.4972,305
+Park Slope,Individuals,2011,Percent,0.10543,306
+Sunset Park,Individuals,2011,Percent,0.2053,307
+Crown Heights North,Individuals,2011,Percent,0.21919,308
+Crown Heights South,Individuals,2011,Percent,0.23289,309
+Bay Ridge,Individuals,2011,Percent,0.1415,310
+Bensonhurst,Individuals,2011,Percent,0.22247,311
+Borough Park,Individuals,2011,Percent,0.42441,312
+Coney Island,Individuals,2011,Percent,0.33693,313
+Flatbush/Midwood,Individuals,2011,Percent,0.25536,314
+Sheepshead Bay,Individuals,2011,Percent,0.21119,315
+Brownsville,Individuals,2011,Percent,0.31627,316
+East Flatbush,Individuals,2011,Percent,0.28438,317
+Canarsie,Individuals,2011,Percent,0.15107,318
+Astoria,Individuals,2011,Percent,0.12956,401
+Sunnyside/Woodside,Individuals,2011,Percent,0.08817,402
+Jackson Heights,Individuals,2011,Percent,0.14363,403
+Elmhurst/Corona,Individuals,2011,Percent,0.18788,404
+Ridgewood/Glendale,Individuals,2011,Percent,0.11232,405
+Rego Park/Forest Hills,Individuals,2011,Percent,0.07599,406
+Flushing,Individuals,2011,Percent,0.08454,407
+Fresh Meadows/Briarwood,Individuals,2011,Percent,0.1049,408
+Woodhaven,Individuals,2011,Percent,0.14082,409
+Howard Beach,Individuals,2011,Percent,0.10637,410
+Bayside,Individuals,2011,Percent,0.03903,411
+Jamaica/St. Albans,Individuals,2011,Percent,0.20033,412
+Queens Village,Individuals,2011,Percent,0.09842,413
+The Rockaways,Individuals,2011,Percent,0.26577,414
+St. George,Individuals,2011,Percent,0.25364,501
+South Beach,Individuals,2011,Percent,0.12766,502
+Tottenville,Individuals,2011,Percent,0.06694,503
+Bronx,Individuals,2011,Percent,0.35268,36005
+Brooklyn,Individuals,2011,Percent,0.27158,36047
+Manhattan,Individuals,2011,Percent,0.1853,36061
+Queens,Individuals,2011,Percent,0.12706,36081
+Staten Island,Individuals,2011,Percent,0.15192,36085
+New York City,Individuals,2011,Percent,0.22228,3651000
+Mott Haven,Individuals,2016,Number,46509,201
+Hunts Point,Individuals,2016,Number,23216,202
+Morrisania,Individuals,2016,Number,42291,203
+Concourse/Highbridge,Individuals,2016,Number,60867,204
+University Heights,Individuals,2016,Number,59589,205
+East Tremont,Individuals,2016,Number,40067,206
+Bedford Park,Individuals,2016,Number,49157,207
+Riverdale,Individuals,2016,Number,16818,208
+Unionport/Soundview,Individuals,2016,Number,54952,209
+Throgs Neck,Individuals,2016,Number,17443,210
+Pelham Parkway,Individuals,2016,Number,24860,211
+Williamsbridge,Individuals,2016,Number,37757,212
+Williamsburg/Greenpoint,Individuals,2016,Number,54340,301
+Fort Greene/Brooklyn Hts,Individuals,2016,Number,14229,302
+Bedford Stuyvesant,Individuals,2016,Number,48070,303
+Bushwick,Individuals,2016,Number,28671,304
+East New York,Individuals,2016,Number,64923,305
+Park Slope,Individuals,2016,Number,10291,306
+Sunset Park,Individuals,2016,Number,25756,307
+Crown Heights North,Individuals,2016,Number,22393,308
+Crown Heights South,Individuals,2016,Number,21709,309
+Bay Ridge,Individuals,2016,Number,18281,310
+Bensonhurst,Individuals,2016,Number,39031,311
+Borough Park,Individuals,2016,Number,66182,312
+Coney Island,Individuals,2016,Number,33311,313
+Flatbush/Midwood,Individuals,2016,Number,34565,314
+Sheepshead Bay,Individuals,2016,Number,29148,315
+Brownsville,Individuals,2016,Number,37240,316
+East Flatbush,Individuals,2016,Number,32242,317
+Canarsie,Individuals,2016,Number,28518,318
+Battery Park/Tribeca,Individuals,2016,Number,2007,101
+Greenwich Village,Individuals,2016,Number,3213,102
+Lower East Side,Individuals,2016,Number,38687,103
+Chelsea/Clinton,Individuals,2016,Number,11270,104
+Midtown Business District,Individuals,2016,Number,3409,105
+Murray Hill/Stuyvesant,Individuals,2016,Number,4965,106
+Upper West Side,Individuals,2016,Number,16613,107
+Upper East Side,Individuals,2016,Number,5555,108
+Manhattanville,Individuals,2016,Number,23436,109
+Central Harlem,Individuals,2016,Number,35397,110
+East Harlem,Individuals,2016,Number,44269,111
+Washington Heights,Individuals,2016,Number,50469,112
+Astoria,Individuals,2016,Number,22954,401
+Sunnyside/Woodside,Individuals,2016,Number,11232,402
+Jackson Heights,Individuals,2016,Number,28594,403
+Elmhurst/Corona,Individuals,2016,Number,28770,404
+Ridgewood/Glendale,Individuals,2016,Number,19908,405
+Rego Park/Forest Hills,Individuals,2016,Number,10423,406
+Flushing,Individuals,2016,Number,26882,407
+Fresh Meadows/Briarwood,Individuals,2016,Number,17975,408
+Woodhaven,Individuals,2016,Number,23222,409
+Howard Beach,Individuals,2016,Number,16222,410
+Bayside,Individuals,2016,Number,6325,411
+Jamaica/St. Albans,Individuals,2016,Number,46178,412
+Queens Village,Individuals,2016,Number,19517,413
+The Rockaways,Individuals,2016,Number,30220,414
+St. George,Individuals,2016,Number,39084,501
+South Beach,Individuals,2016,Number,13754,502
+Tottenville,Individuals,2016,Number,9815,503
+Mott Haven,Households,2016,Number,24264,201
+Hunts Point,Households,2016,Number,12283,202
+Morrisania,Households,2016,Number,22108,203
+Concourse/Highbridge,Households,2016,Number,32585,204
+University Heights,Households,2016,Number,31490,205
+East Tremont,Households,2016,Number,20918,206
+Bedford Park,Households,2016,Number,26688,207
+Riverdale,Households,2016,Number,9887,208
+Unionport/Soundview,Households,2016,Number,29380,209
+Throgs Neck,Households,2016,Number,10518,210
+Pelham Parkway,Households,2016,Number,14065,211
+Williamsbridge,Households,2016,Number,20218,212
+Williamsburg/Greenpoint,Households,2016,Number,20780,301
+Fort Greene/Brooklyn Hts,Households,2016,Number,9282,302
+Bedford Stuyvesant,Households,2016,Number,25285,303
+Bushwick,Households,2016,Number,16690,304
+East New York,Households,2016,Number,35513,305
+Park Slope,Households,2016,Number,6516,306
+Sunset Park,Households,2016,Number,14191,307
+Crown Heights North,Households,2016,Number,13776,308
+Crown Heights South,Households,2016,Number,12651,309
+Bay Ridge,Households,2016,Number,10100,310
+Bensonhurst,Households,2016,Number,22065,311
+Borough Park,Households,2016,Number,21507,312
+Coney Island,Households,2016,Number,21295,313
+Flatbush/Midwood,Households,2016,Number,19317,314
+Sheepshead Bay,Households,2016,Number,17452,315
+Brownsville,Households,2016,Number,20199,316
+East Flatbush,Households,2016,Number,19416,317
+Canarsie,Households,2016,Number,16566,318
+Battery Park/Tribeca,Households,2016,Number,1625,101
+Greenwich Village,Households,2016,Number,2492,102
+Lower East Side,Households,2016,Number,25456,103
+Chelsea/Clinton,Households,2016,Number,8537,104
+Midtown Business District,Households,2016,Number,2927,105
+Murray Hill/Stuyvesant,Households,2016,Number,4274,106
+Upper West Side,Households,2016,Number,12376,107
+Upper East Side,Households,2016,Number,4382,108
+Manhattanville,Households,2016,Number,14956,109
+Central Harlem,Households,2016,Number,21904,110
+East Harlem,Households,2016,Number,26802,111
+Washington Heights,Households,2016,Number,33226,112
+Astoria,Households,2016,Number,13505,401
+Sunnyside/Woodside,Households,2016,Number,6883,402
+Jackson Heights,Households,2016,Number,15990,403
+Elmhurst/Corona,Households,2016,Number,16185,404
+Ridgewood/Glendale,Households,2016,Number,11172,405
+Rego Park/Forest Hills,Households,2016,Number,7033,406
+Flushing,Households,2016,Number,17235,407
+Fresh Meadows/Briarwood,Households,2016,Number,10571,408
+Woodhaven,Households,2016,Number,12843,409
+Howard Beach,Households,2016,Number,9520,410
+Bayside,Households,2016,Number,4260,411
+Jamaica/St. Albans,Households,2016,Number,27065,412
+Queens Village,Households,2016,Number,12222,413
+The Rockaways,Households,2016,Number,16099,414
+St. George,Households,2016,Number,20284,501
+South Beach,Households,2016,Number,8155,502
+Tottenville,Households,2016,Number,6197,503
+Mott Haven,Individuals,2016,Percent,0.43912,201
+Hunts Point,Individuals,2016,Percent,0.38464,202
+Morrisania,Individuals,2016,Percent,0.49493,203
+Concourse/Highbridge,Individuals,2016,Percent,0.40088,204
+University Heights,Individuals,2016,Percent,0.44102,205
+East Tremont,Individuals,2016,Percent,0.44872,206
+Bedford Park,Individuals,2016,Percent,0.3539,207
+Riverdale,Individuals,2016,Percent,0.15448,208
+Unionport/Soundview,Individuals,2016,Percent,0.28437,209
+Throgs Neck,Individuals,2016,Percent,0.15654,210
+Pelham Parkway,Individuals,2016,Percent,0.19947,211
+Williamsbridge,Individuals,2016,Percent,0.25056,212
+Williamsburg/Greenpoint,Individuals,2016,Percent,0.32664,301
+Fort Greene/Brooklyn Hts,Individuals,2016,Percent,0.09928,302
+Bedford Stuyvesant,Individuals,2016,Percent,0.32428,303
+Bushwick,Individuals,2016,Percent,0.20581,304
+East New York,Individuals,2016,Percent,0.40383,305
+Park Slope,Individuals,2016,Percent,0.09027,306
+Sunset Park,Individuals,2016,Percent,0.1724,307
+Crown Heights North,Individuals,2016,Percent,0.16613,308
+Crown Heights South,Individuals,2016,Percent,0.19667,309
+Bay Ridge,Individuals,2016,Percent,0.15388,310
+Bensonhurst,Individuals,2016,Percent,0.20605,311
+Borough Park,Individuals,2016,Percent,0.43757,312
+Coney Island,Individuals,2016,Percent,0.28508,313
+Flatbush/Midwood,Individuals,2016,Percent,0.21125,314
+Sheepshead Bay,Individuals,2016,Percent,0.1833,315
+Brownsville,Individuals,2016,Percent,0.3396,316
+East Flatbush,Individuals,2016,Percent,0.22105,317
+Canarsie,Individuals,2016,Percent,0.13705,318
+Battery Park/Tribeca,Individuals,2016,Percent,0.03251,101
+Greenwich Village,Individuals,2016,Percent,0.03528,102
+Lower East Side,Individuals,2016,Percent,0.24286,103
+Chelsea/Clinton,Individuals,2016,Percent,0.12066,104
+Midtown Business District,Individuals,2016,Percent,0.07278,105
+Murray Hill/Stuyvesant,Individuals,2016,Percent,0.03517,106
+Upper West Side,Individuals,2016,Percent,0.08767,107
+Upper East Side,Individuals,2016,Percent,0.02536,108
+Manhattanville,Individuals,2016,Percent,0.1872,109
+Central Harlem,Individuals,2016,Percent,0.24669,110
+East Harlem,Individuals,2016,Percent,0.32968,111
+Washington Heights,Individuals,2016,Percent,0.21138,112
+Astoria,Individuals,2016,Percent,0.13346,401
+Sunnyside/Woodside,Individuals,2016,Percent,0.08273,402
+Jackson Heights,Individuals,2016,Percent,0.1721,403
+Elmhurst/Corona,Individuals,2016,Percent,0.2038,404
+Ridgewood/Glendale,Individuals,2016,Percent,0.10336,405
+Rego Park/Forest Hills,Individuals,2016,Percent,0.09329,406
+Flushing,Individuals,2016,Percent,0.10934,407
+Fresh Meadows/Briarwood,Individuals,2016,Percent,0.10821,408
+Woodhaven,Individuals,2016,Percent,0.14152,409
+Howard Beach,Individuals,2016,Percent,0.11979,410
+Bayside,Individuals,2016,Percent,0.05388,411
+Jamaica/St. Albans,Individuals,2016,Percent,0.1898,412
+Queens Village,Individuals,2016,Percent,0.09113,413
+The Rockaways,Individuals,2016,Percent,0.23724,414
+St. George,Individuals,2016,Percent,0.22341,501
+South Beach,Individuals,2016,Percent,0.09631,502
+Tottenville,Individuals,2016,Percent,0.06202,503
+Mott Haven,Households,2016,Percent,0.72255,201
+Hunts Point,Households,2016,Percent,0.64057,202
+Morrisania,Households,2016,Percent,0.76972,203
+Concourse/Highbridge,Households,2016,Percent,0.64921,204
+University Heights,Households,2016,Percent,0.67497,205
+East Tremont,Households,2016,Percent,0.69764,206
+Bedford Park,Households,2016,Percent,0.57995,207
+Riverdale,Households,2016,Percent,0.23452,208
+Unionport/Soundview,Households,2016,Percent,0.46317,209
+Throgs Neck,Households,2016,Percent,0.23727,210
+Pelham Parkway,Households,2016,Percent,0.31624,211
+Williamsbridge,Households,2016,Percent,0.40585,212
+Williamsburg/Greenpoint,Households,2016,Percent,0.31467,301
+Fort Greene/Brooklyn Hts,Households,2016,Percent,0.15395,302
+Bedford Stuyvesant,Households,2016,Percent,0.48556,303
+Bushwick,Households,2016,Percent,0.34983,304
+East New York,Households,2016,Percent,0.65154,305
+Park Slope,Households,2016,Percent,0.14006,306
+Sunset Park,Households,2016,Percent,0.31102,307
+Crown Heights North,Households,2016,Percent,0.24598,308
+Crown Heights South,Households,2016,Percent,0.29996,309
+Bay Ridge,Households,2016,Percent,0.2235,310
+Bensonhurst,Households,2016,Percent,0.34497,311
+Borough Park,Households,2016,Percent,0.51069,312
+Coney Island,Households,2016,Percent,0.45282,313
+Flatbush/Midwood,Households,2016,Percent,0.34524,314
+Sheepshead Bay,Households,2016,Percent,0.29913,315
+Brownsville,Households,2016,Percent,0.47439,316
+East Flatbush,Households,2016,Percent,0.38819,317
+Canarsie,Households,2016,Percent,0.25201,318
+Battery Park/Tribeca,Households,2016,Percent,0.05491,101
+Greenwich Village,Households,2016,Percent,0.05704,102
+Lower East Side,Households,2016,Percent,0.33437,103
+Chelsea/Clinton,Households,2016,Percent,0.15709,104
+Midtown Business District,Households,2016,Percent,0.10761,105
+Murray Hill/Stuyvesant,Households,2016,Percent,0.05639,106
+Upper West Side,Households,2016,Percent,0.12508,107
+Upper East Side,Households,2016,Percent,0.0393,108
+Manhattanville,Households,2016,Percent,0.33391,109
+Central Harlem,Households,2016,Percent,0.37625,110
+East Harlem,Households,2016,Percent,0.51627,111
+Washington Heights,Households,2016,Percent,0.43619,112
+Astoria,Households,2016,Percent,0.18711,401
+Sunnyside/Woodside,Households,2016,Percent,0.13088,402
+Jackson Heights,Households,2016,Percent,0.32609,403
+Elmhurst/Corona,Households,2016,Percent,0.3999,404
+Ridgewood/Glendale,Households,2016,Percent,0.18145,405
+Rego Park/Forest Hills,Households,2016,Percent,0.13745,406
+Flushing,Households,2016,Percent,0.20517,407
+Fresh Meadows/Briarwood,Households,2016,Percent,0.19359,408
+Woodhaven,Households,2016,Percent,0.2866,409
+Howard Beach,Households,2016,Percent,0.25054,410
+Bayside,Households,2016,Percent,0.10142,411
+Jamaica/St. Albans,Households,2016,Percent,0.38061,412
+Queens Village,Households,2016,Percent,0.20742,413
+The Rockaways,Households,2016,Percent,0.38917,414
+St. George,Households,2016,Percent,0.3432,501
+South Beach,Households,2016,Percent,0.17186,502
+Tottenville,Households,2016,Percent,0.10734,503
+New York City,Individuals,2016,Number,1692789,3651000
+New York City,Households,2016,Number,951180,3651000
+New York City,Individuals,2016,Percent,0.19827,3651000
+New York City,Households,2016,Percent,0.30537,3651000
+Bronx,Individuals,2016,Number,473526,36005
+Brooklyn,Individuals,2016,Number,608900,36047
+Manhattan,Individuals,2016,Number,239290,36061
+Queens,Individuals,2016,Number,308422,36081
+Staten Island,Individuals,2016,Number,62653,36085
+Bronx,Households,2016,Number,254404,36005
+Brooklyn,Households,2016,Number,322601,36047
+Manhattan,Households,2016,Number,158957,36061
+Queens,Households,2016,Number,180583,36081
+Staten Island,Households,2016,Number,34636,36085
+Bronx,Individuals,2016,Percent,0.32529,36005
+Brooklyn,Individuals,2016,Percent,0.2316,36047
+Manhattan,Individuals,2016,Percent,0.14558,36061
+Queens,Individuals,2016,Percent,0.1322,36081
+Staten Island,Individuals,2016,Percent,0.13162,36085
+Bronx,Households,2016,Percent,0.5103,36005
+Brooklyn,Households,2016,Percent,0.34251,36047
+Manhattan,Households,2016,Percent,0.21243,36061
+Queens,Households,2016,Percent,0.23704,36081
+Staten Island,Households,2016,Percent,0.21082,36085
+Battery Park/Tribeca,Individuals,2017,Number,2259,101
+Greenwich Village,Individuals,2017,Number,3123,102
+Lower East Side,Individuals,2017,Number,37624,103
+Chelsea/Clinton,Individuals,2017,Number,11530,104
+Midtown Business District,Individuals,2017,Number,4325,105
+Murray Hill/Stuyvesant,Individuals,2017,Number,4902,106
+Upper West Side,Individuals,2017,Number,16494,107
+Upper East Side,Individuals,2017,Number,5537,108
+Manhattanville,Individuals,2017,Number,22990,109
+Central Harlem,Individuals,2017,Number,34211,110
+East Harlem,Individuals,2017,Number,43054,111
+Washington Heights,Individuals,2017,Number,48826,112
+Mott Haven,Individuals,2017,Number,45278,201
+Hunts Point,Individuals,2017,Number,22827,202
+Morrisania,Individuals,2017,Number,41962,203
+Concourse/Highbridge,Individuals,2017,Number,58305,204
+University Heights,Individuals,2017,Number,57465,205
+East Tremont,Individuals,2017,Number,39543,206
+Bedford Park,Individuals,2017,Number,47425,207
+Riverdale,Individuals,2017,Number,16481,208
+Unionport/Soundview,Individuals,2017,Number,53482,209
+Throgs Neck,Individuals,2017,Number,17508,210
+Pelham Parkway,Individuals,2017,Number,24042,211
+Williamsbridge,Individuals,2017,Number,37245,212
+Williamsburg/Greenpoint,Individuals,2017,Number,51872,301
+Fort Greene/Brooklyn Hts,Individuals,2017,Number,13703,302
+Bedford Stuyvesant,Individuals,2017,Number,45304,303
+Bushwick,Individuals,2017,Number,26003,304
+East New York,Individuals,2017,Number,62817,305
+Park Slope,Individuals,2017,Number,9856,306
+Sunset Park,Individuals,2017,Number,23106,307
+Crown Heights North,Individuals,2017,Number,21407,308
+Crown Heights South,Individuals,2017,Number,21118,309
+Bay Ridge,Individuals,2017,Number,17098,310
+Bensonhurst,Individuals,2017,Number,37470,311
+Borough Park,Individuals,2017,Number,62727,312
+Coney Island,Individuals,2017,Number,32615,313
+Flatbush/Midwood,Individuals,2017,Number,32870,314
+Sheepshead Bay,Individuals,2017,Number,28439,315
+Brownsville,Individuals,2017,Number,36341,316
+East Flatbush,Individuals,2017,Number,30808,317
+Canarsie,Individuals,2017,Number,27660,318
+Astoria,Individuals,2017,Number,22469,401
+Sunnyside/Woodside,Individuals,2017,Number,10776,402
+Jackson Heights,Individuals,2017,Number,26144,403
+Elmhurst/Corona,Individuals,2017,Number,27182,404
+Ridgewood/Glendale,Individuals,2017,Number,18709,405
+Rego Park/Forest Hills,Individuals,2017,Number,10168,406
+Flushing,Individuals,2017,Number,26273,407
+Fresh Meadows/Briarwood,Individuals,2017,Number,17850,408
+Woodhaven,Individuals,2017,Number,22675,409
+Howard Beach,Individuals,2017,Number,16035,410
+Bayside,Individuals,2017,Number,6367,411
+Jamaica/St. Albans,Individuals,2017,Number,44610,412
+Queens Village,Individuals,2017,Number,19291,413
+The Rockaways,Individuals,2017,Number,28610,414
+St. George,Individuals,2017,Number,37785,501
+South Beach,Individuals,2017,Number,14022,502
+Tottenville,Individuals,2017,Number,9798,503
+Bronx,Individuals,2017,Number,461563,36005
+Brooklyn,Individuals,2017,Number,581214,36047
+Manhattan,Individuals,2017,Number,234875,36061
+Queens,Individuals,2017,Number,297159,36081
+Staten Island,Individuals,2017,Number,61605,36085
+New York City,Individuals,2017,Number,1636416,3651000
+Battery Park/Tribeca,Individuals,2017,Percent,0.03755,101
+Greenwich Village,Individuals,2017,Percent,0.03516,102
+Lower East Side,Individuals,2017,Percent,0.23443,103
+Chelsea/Clinton,Individuals,2017,Percent,0.11348,104
+Midtown Business District,Individuals,2017,Percent,0.08505,105
+Murray Hill/Stuyvesant,Individuals,2017,Percent,0.03275,106
+Upper West Side,Individuals,2017,Percent,0.07963,107
+Upper East Side,Individuals,2017,Percent,0.02585,108
+Manhattanville,Individuals,2017,Percent,0.16902,109
+Central Harlem,Individuals,2017,Percent,0.23203,110
+East Harlem,Individuals,2017,Percent,0.33553,111
+Washington Heights,Individuals,2017,Percent,0.22194,112
+Mott Haven,Individuals,2017,Percent,0.45494,201
+Hunts Point,Individuals,2017,Percent,0.40167,202
+Morrisania,Individuals,2017,Percent,0.45603,203
+Concourse/Highbridge,Individuals,2017,Percent,0.38945,204
+University Heights,Individuals,2017,Percent,0.38739,205
+East Tremont,Individuals,2017,Percent,0.41165,206
+Bedford Park,Individuals,2017,Percent,0.3304,207
+Riverdale,Individuals,2017,Percent,0.14554,208
+Unionport/Soundview,Individuals,2017,Percent,0.28452,209
+Throgs Neck,Individuals,2017,Percent,0.1544,210
+Pelham Parkway,Individuals,2017,Percent,0.20016,211
+Williamsbridge,Individuals,2017,Percent,0.24762,212
+Williamsburg/Greenpoint,Individuals,2017,Percent,0.34126,301
+Fort Greene/Brooklyn Hts,Individuals,2017,Percent,0.10117,302
+Bedford Stuyvesant,Individuals,2017,Percent,0.31898,303
+Bushwick,Individuals,2017,Percent,0.18511,304
+East New York,Individuals,2017,Percent,0.35596,305
+Park Slope,Individuals,2017,Percent,0.08481,306
+Sunset Park,Individuals,2017,Percent,0.16009,307
+Crown Heights North,Individuals,2017,Percent,0.15105,308
+Crown Heights South,Individuals,2017,Percent,0.18653,309
+Bay Ridge,Individuals,2017,Percent,0.13846,310
+Bensonhurst,Individuals,2017,Percent,0.18203,311
+Borough Park,Individuals,2017,Percent,0.42801,312
+Coney Island,Individuals,2017,Percent,0.26732,313
+Flatbush/Midwood,Individuals,2017,Percent,0.21811,314
+Sheepshead Bay,Individuals,2017,Percent,0.16628,315
+Brownsville,Individuals,2017,Percent,0.3259,316
+East Flatbush,Individuals,2017,Percent,0.21992,317
+Canarsie,Individuals,2017,Percent,0.12827,318
+Astoria,Individuals,2017,Percent,0.13674,401
+Sunnyside/Woodside,Individuals,2017,Percent,0.08052,402
+Jackson Heights,Individuals,2017,Percent,0.15359,403
+Elmhurst/Corona,Individuals,2017,Percent,0.1858,404
+Ridgewood/Glendale,Individuals,2017,Percent,0.09399,405
+Rego Park/Forest Hills,Individuals,2017,Percent,0.0855,406
+Flushing,Individuals,2017,Percent,0.10094,407
+Fresh Meadows/Briarwood,Individuals,2017,Percent,0.10865,408
+Woodhaven,Individuals,2017,Percent,0.1489,409
+Howard Beach,Individuals,2017,Percent,0.11509,410
+Bayside,Individuals,2017,Percent,0.05365,411
+Jamaica/St. Albans,Individuals,2017,Percent,0.17892,412
+Queens Village,Individuals,2017,Percent,0.0924,413
+The Rockaways,Individuals,2017,Percent,0.21503,414
+St. George,Individuals,2017,Percent,0.21392,501
+South Beach,Individuals,2017,Percent,0.09753,502
+Tottenville,Individuals,2017,Percent,0.0616,503
+Bronx,Individuals,2017,Percent,0.31374,36005
+Brooklyn,Individuals,2017,Percent,0.21943,36047
+Manhattan,Individuals,2017,Percent,0.14109,36061
+Queens,Individuals,2017,Percent,0.12599,36081
+Staten Island,Individuals,2017,Percent,0.12849,36085
+New York City,Individuals,2017,Percent,0.18978,3651000
+Battery Park/Tribeca,Households,2017,Number,1758,101
+Greenwich Village,Households,2017,Number,2456,102
+Lower East Side,Households,2017,Number,25065,103
+Chelsea/Clinton,Households,2017,Number,8661,104
+Midtown Business District,Households,2017,Number,3272,105
+Murray Hill/Stuyvesant,Households,2017,Number,4206,106
+Upper West Side,Households,2017,Number,12320,107
+Upper East Side,Households,2017,Number,4405,108
+Manhattanville,Households,2017,Number,14820,109
+Central Harlem,Households,2017,Number,21322,110
+East Harlem,Households,2017,Number,26344,111
+Washington Heights,Households,2017,Number,32439,112
+Mott Haven,Households,2017,Number,23824,201
+Hunts Point,Households,2017,Number,12190,202
+Morrisania,Households,2017,Number,22174,203
+Concourse/Highbridge,Households,2017,Number,31560,204
+University Heights,Households,2017,Number,30631,205
+East Tremont,Households,2017,Number,20827,206
+Bedford Park,Households,2017,Number,26043,207
+Riverdale,Households,2017,Number,9766,208
+Unionport/Soundview,Households,2017,Number,28919,209
+Throgs Neck,Households,2017,Number,10571,210
+Pelham Parkway,Households,2017,Number,13770,211
+Williamsbridge,Households,2017,Number,20228,212
+Williamsburg/Greenpoint,Households,2017,Number,20254,301
+Fort Greene/Brooklyn Hts,Households,2017,Number,9019,302
+Bedford Stuyvesant,Households,2017,Number,24086,303
+Bushwick,Households,2017,Number,15412,304
+East New York,Households,2017,Number,34852,305
+Park Slope,Households,2017,Number,6363,306
+Sunset Park,Households,2017,Number,13102,307
+Crown Heights North,Households,2017,Number,13399,308
+Crown Heights South,Households,2017,Number,12507,309
+Bay Ridge,Households,2017,Number,9699,310
+Bensonhurst,Households,2017,Number,21513,311
+Borough Park,Households,2017,Number,20395,312
+Coney Island,Households,2017,Number,21036,313
+Flatbush/Midwood,Households,2017,Number,18674,314
+Sheepshead Bay,Households,2017,Number,17227,315
+Brownsville,Households,2017,Number,20002,316
+East Flatbush,Households,2017,Number,18866,317
+Canarsie,Households,2017,Number,16306,318
+Astoria,Households,2017,Number,13296,401
+Sunnyside/Woodside,Households,2017,Number,6688,402
+Jackson Heights,Households,2017,Number,14802,403
+Elmhurst/Corona,Households,2017,Number,15465,404
+Ridgewood/Glendale,Households,2017,Number,10642,405
+Rego Park/Forest Hills,Households,2017,Number,6967,406
+Flushing,Households,2017,Number,17076,407
+Fresh Meadows/Briarwood,Households,2017,Number,10481,408
+Woodhaven,Households,2017,Number,12653,409
+Howard Beach,Households,2017,Number,9399,410
+Bayside,Households,2017,Number,4291,411
+Jamaica/St. Albans,Households,2017,Number,26336,412
+Queens Village,Households,2017,Number,12170,413
+The Rockaways,Households,2017,Number,15448,414
+St. George,Households,2017,Number,19722,501
+South Beach,Households,2017,Number,8268,502
+Tottenville,Households,2017,Number,6203,503
+Bronx,Households,2017,Number,250503,36005
+Brooklyn,Households,2017,Number,312712,36047
+Manhattan,Households,2017,Number,157068,36061
+Queens,Households,2017,Number,175714,36081
+Staten Island,Households,2017,Number,34193,36085
+New York City,Households,2017,Number,930190,3651000
+Battery Park/Tribeca,Households,2017,Percent,0.06074,101
+Greenwich Village,Households,2017,Percent,0.05748,102
+Lower East Side,Households,2017,Percent,0.35091,103
+Chelsea/Clinton,Households,2017,Percent,0.14431,104
+Midtown Business District,Households,2017,Percent,0.10893,105
+Murray Hill/Stuyvesant,Households,2017,Percent,0.05169,106
+Upper West Side,Households,2017,Percent,0.12445,107
+Upper East Side,Households,2017,Percent,0.0406,108
+Manhattanville,Households,2017,Percent,0.29927,109
+Central Harlem,Households,2017,Percent,0.34249,110
+East Harlem,Households,2017,Percent,0.49881,111
+Washington Heights,Households,2017,Percent,0.41788,112
+Mott Haven,Households,2017,Percent,0.70824,201
+Hunts Point,Households,2017,Percent,0.63464,202
+Morrisania,Households,2017,Percent,0.71809,203
+Concourse/Highbridge,Households,2017,Percent,0.61975,204
+University Heights,Households,2017,Percent,0.66423,205
+East Tremont,Households,2017,Percent,0.64607,206
+Bedford Park,Households,2017,Percent,0.56196,207
+Riverdale,Households,2017,Percent,0.22724,208
+Unionport/Soundview,Households,2017,Percent,0.45235,209
+Throgs Neck,Households,2017,Percent,0.23339,210
+Pelham Parkway,Households,2017,Percent,0.31719,211
+Williamsbridge,Households,2017,Percent,0.41259,212
+Williamsburg/Greenpoint,Households,2017,Percent,0.31541,301
+Fort Greene/Brooklyn Hts,Households,2017,Percent,0.15168,302
+Bedford Stuyvesant,Households,2017,Percent,0.45916,303
+Bushwick,Households,2017,Percent,0.32259,304
+East New York,Households,2017,Percent,0.58461,305
+Park Slope,Households,2017,Percent,0.13707,306
+Sunset Park,Households,2017,Percent,0.29921,307
+Crown Heights North,Households,2017,Percent,0.2389,308
+Crown Heights South,Households,2017,Percent,0.28231,309
+Bay Ridge,Households,2017,Percent,0.2089,310
+Bensonhurst,Households,2017,Percent,0.33385,311
+Borough Park,Households,2017,Percent,0.49794,312
+Coney Island,Households,2017,Percent,0.44337,313
+Flatbush/Midwood,Households,2017,Percent,0.33465,314
+Sheepshead Bay,Households,2017,Percent,0.28952,315
+Brownsville,Households,2017,Percent,0.43183,316
+East Flatbush,Households,2017,Percent,0.36297,317
+Canarsie,Households,2017,Percent,0.23554,318
+Astoria,Households,2017,Percent,0.19832,401
+Sunnyside/Woodside,Households,2017,Percent,0.12743,402
+Jackson Heights,Households,2017,Percent,0.29878,403
+Elmhurst/Corona,Households,2017,Percent,0.36543,404
+Ridgewood/Glendale,Households,2017,Percent,0.16936,405
+Rego Park/Forest Hills,Households,2017,Percent,0.13608,406
+Flushing,Households,2017,Percent,0.18931,407
+Fresh Meadows/Briarwood,Households,2017,Percent,0.19178,408
+Woodhaven,Households,2017,Percent,0.27853,409
+Howard Beach,Households,2017,Percent,0.2468,410
+Bayside,Households,2017,Percent,0.10287,411
+Jamaica/St. Albans,Households,2017,Percent,0.36431,412
+Queens Village,Households,2017,Percent,0.20784,413
+The Rockaways,Households,2017,Percent,0.35981,414
+St. George,Households,2017,Percent,0.31903,501
+South Beach,Households,2017,Percent,0.1706,502
+Tottenville,Households,2017,Percent,0.11135,503
+Bronx,Households,2017,Percent,0.49704,36005
+Brooklyn,Households,2017,Percent,0.32703,36047
+Manhattan,Households,2017,Percent,0.20553,36061
+Queens,Households,2017,Percent,0.22842,36081
+Staten Island,Households,2017,Percent,0.20599,36085
+New York City,Households,2017,Percent,0.29439,3651000
+Mott Haven,Individuals,2018,Number,45575,201
+Hunts Point,Individuals,2018,Number,22974,202
+Morrisania,Individuals,2018,Number,42384,203
+Concourse/Highbridge,Individuals,2018,Number,59231,204
+University Heights,Individuals,2018,Number,58005,205
+East Tremont,Individuals,2018,Number,39784,206
+Bedford Park,Individuals,2018,Number,48003,207
+Riverdale,Individuals,2018,Number,16716,208
+Unionport/Soundview,Individuals,2018,Number,54113,209
+Throgs Neck,Individuals,2018,Number,17627,210
+Pelham Parkway,Individuals,2018,Number,24271,211
+Williamsbridge,Individuals,2018,Number,37611,212
+Williamsburg/Greenpoint,Individuals,2018,Number,52715,301
+Fort Greene/Brooklyn Hts,Individuals,2018,Number,13791,302
+Bedford Stuyvesant,Individuals,2018,Number,45971,303
+Bushwick,Individuals,2018,Number,26548,304
+East New York,Individuals,2018,Number,63518,305
+Park Slope,Individuals,2018,Number,9973,306
+Sunset Park,Individuals,2018,Number,23563,307
+Crown Heights North,Individuals,2018,Number,21624,308
+Crown Heights South,Individuals,2018,Number,21469,309
+Bay Ridge,Individuals,2018,Number,17422,310
+Bensonhurst,Individuals,2018,Number,38010,311
+Borough Park,Individuals,2018,Number,63664,312
+Coney Island,Individuals,2018,Number,33044,313
+Flatbush/Midwood,Individuals,2018,Number,33345,314
+Sheepshead Bay,Individuals,2018,Number,28852,315
+Brownsville,Individuals,2018,Number,36694,316
+East Flatbush,Individuals,2018,Number,31305,317
+Canarsie,Individuals,2018,Number,28165,318
+Battery Park/Tribeca,Individuals,2018,Number,2245,101
+Greenwich Village,Individuals,2018,Number,3170,102
+Lower East Side,Individuals,2018,Number,37948,103
+Chelsea/Clinton,Individuals,2018,Number,11664,104
+Midtown Business District,Individuals,2018,Number,4236,105
+Murray Hill/Stuyvesant,Individuals,2018,Number,4909,106
+Upper West Side,Individuals,2018,Number,16486,107
+Upper East Side,Individuals,2018,Number,5626,108
+Manhattanville,Individuals,2018,Number,23051,109
+Central Harlem,Individuals,2018,Number,34404,110
+East Harlem,Individuals,2018,Number,43308,111
+Washington Heights,Individuals,2018,Number,49147,112
+Astoria,Individuals,2018,Number,22894,401
+Sunnyside/Woodside,Individuals,2018,Number,10997,402
+Jackson Heights,Individuals,2018,Number,26817,403
+Elmhurst/Corona,Individuals,2018,Number,27631,404
+Ridgewood/Glendale,Individuals,2018,Number,19120,405
+Rego Park/Forest Hills,Individuals,2018,Number,10223,406
+Flushing,Individuals,2018,Number,26410,407
+Fresh Meadows/Briarwood,Individuals,2018,Number,17920,408
+Woodhaven,Individuals,2018,Number,22826,409
+Howard Beach,Individuals,2018,Number,16276,410
+Bayside,Individuals,2018,Number,6481,411
+Jamaica/St. Albans,Individuals,2018,Number,45153,412
+Queens Village,Individuals,2018,Number,19413,413
+The Rockaways,Individuals,2018,Number,29212,414
+St. George,Individuals,2018,Number,38119,501
+South Beach,Individuals,2018,Number,14114,502
+Tottenville,Individuals,2018,Number,9883,503
+Bronx,Individuals,2018,Number,466294,36005
+Brooklyn,Individuals,2018,Number,589673,36047
+Manhattan,Individuals,2018,Number,236194,36061
+Queens,Individuals,2018,Number,301373,36081
+Staten Island,Individuals,2018,Number,62116,36085
+New York City,Individuals,2018,Number,1655650,3651000
+Mott Haven,Households,2018,Number,23980,201
+Hunts Point,Households,2018,Number,12277,202
+Morrisania,Households,2018,Number,22379,203
+Concourse/Highbridge,Households,2018,Number,32012,204
+University Heights,Households,2018,Number,30913,205
+East Tremont,Households,2018,Number,20964,206
+Bedford Park,Households,2018,Number,26293,207
+Riverdale,Households,2018,Number,9851,208
+Unionport/Soundview,Households,2018,Number,29193,209
+Throgs Neck,Households,2018,Number,10637,210
+Pelham Parkway,Households,2018,Number,13877,211
+Williamsbridge,Households,2018,Number,20363,212
+Williamsburg/Greenpoint,Households,2018,Number,20495,301
+Fort Greene/Brooklyn Hts,Households,2018,Number,9070,302
+Bedford Stuyvesant,Households,2018,Number,24357,303
+Bushwick,Households,2018,Number,15640,304
+East New York,Households,2018,Number,35199,305
+Park Slope,Households,2018,Number,6431,306
+Sunset Park,Households,2018,Number,13326,307
+Crown Heights North,Households,2018,Number,13495,308
+Crown Heights South,Households,2018,Number,12636,309
+Bay Ridge,Households,2018,Number,9843,310
+Bensonhurst,Households,2018,Number,21758,311
+Borough Park,Households,2018,Number,20755,312
+Coney Island,Households,2018,Number,21261,313
+Flatbush/Midwood,Households,2018,Number,18925,314
+Sheepshead Bay,Households,2018,Number,17402,315
+Brownsville,Households,2018,Number,20127,316
+East Flatbush,Households,2018,Number,19133,317
+Canarsie,Households,2018,Number,16579,318
+Battery Park/Tribeca,Households,2018,Number,1762,101
+Greenwich Village,Households,2018,Number,2481,102
+Lower East Side,Households,2018,Number,25250,103
+Chelsea/Clinton,Households,2018,Number,8750,104
+Midtown Business District,Households,2018,Number,3255,105
+Murray Hill/Stuyvesant,Households,2018,Number,4200,106
+Upper West Side,Households,2018,Number,12354,107
+Upper East Side,Households,2018,Number,4447,108
+Manhattanville,Households,2018,Number,14859,109
+Central Harlem,Households,2018,Number,21425,110
+East Harlem,Households,2018,Number,26502,111
+Washington Heights,Households,2018,Number,32704,112
+Astoria,Households,2018,Number,13500,401
+Sunnyside/Woodside,Households,2018,Number,6764,402
+Jackson Heights,Households,2018,Number,15130,403
+Elmhurst/Corona,Households,2018,Number,15677,404
+Ridgewood/Glendale,Households,2018,Number,10848,405
+Rego Park/Forest Hills,Households,2018,Number,7008,406
+Flushing,Households,2018,Number,17168,407
+Fresh Meadows/Briarwood,Households,2018,Number,10546,408
+Woodhaven,Households,2018,Number,12718,409
+Howard Beach,Households,2018,Number,9519,410
+Bayside,Households,2018,Number,4333,411
+Jamaica/St. Albans,Households,2018,Number,26659,412
+Queens Village,Households,2018,Number,12250,413
+The Rockaways,Households,2018,Number,15671,414
+St. George,Households,2018,Number,19881,501
+South Beach,Households,2018,Number,8325,502
+Tottenville,Households,2018,Number,6229,503
+Bronx,Households,2018,Number,252739,36005
+Brooklyn,Households,2018,Number,316432,36047
+Manhattan,Households,2018,Number,157989,36061
+Queens,Households,2018,Number,177791,36081
+Staten Island,Households,2018,Number,34435,36085
+New York City,Households,2018,Number,939386,3651000
+Mott Haven,Individuals,2019,Number,41969,201
+Hunts Point,Individuals,2019,Number,20542,202
+Morrisania,Individuals,2019,Number,39456,203
+Concourse/Highbridge,Individuals,2019,Number,52131,204
+University Heights,Individuals,2019,Number,50652,205
+East Tremont,Individuals,2019,Number,36831,206
+Bedford Park,Individuals,2019,Number,42511,207
+Riverdale,Individuals,2019,Number,15257,208
+Unionport/Soundview,Individuals,2019,Number,49052,209
+Throgs Neck,Individuals,2019,Number,16745,210
+Pelham Parkway,Individuals,2019,Number,22349,211
+Williamsbridge,Individuals,2019,Number,35257,212
+Williamsburg/Greenpoint,Individuals,2019,Number,49470,301
+Fort Greene/Brooklyn Hts,Individuals,2019,Number,12682,302
+Bedford Stuyvesant,Individuals,2019,Number,41664,303
+Bushwick,Individuals,2019,Number,22301,304
+East New York,Individuals,2019,Number,59488,305
+Park Slope,Individuals,2019,Number,9754,306
+Sunset Park,Individuals,2019,Number,19654,307
+Crown Heights North,Individuals,2019,Number,18858,308
+Crown Heights South,Individuals,2019,Number,19295,309
+Bay Ridge,Individuals,2019,Number,15945,310
+Bensonhurst,Individuals,2019,Number,33279,311
+Borough Park,Individuals,2019,Number,58390,312
+Coney Island,Individuals,2019,Number,30178,313
+Flatbush/Midwood,Individuals,2019,Number,28377,314
+Sheepshead Bay,Individuals,2019,Number,26162,315
+Brownsville,Individuals,2019,Number,35066,316
+East Flatbush,Individuals,2019,Number,28160,317
+Canarsie,Individuals,2019,Number,26708,318
+Battery Park/Tribeca,Individuals,2019,Number,2163,101
+Greenwich Village,Individuals,2019,Number,2729,102
+Lower East Side,Individuals,2019,Number,35323,103
+Chelsea/Clinton,Individuals,2019,Number,11404,104
+Midtown Business District,Individuals,2019,Number,5525,105
+Murray Hill/Stuyvesant,Individuals,2019,Number,4981,106
+Upper West Side,Individuals,2019,Number,15501,107
+Upper East Side,Individuals,2019,Number,5273,108
+Manhattanville,Individuals,2019,Number,20553,109
+Central Harlem,Individuals,2019,Number,30031,110
+East Harlem,Individuals,2019,Number,39946,111
+Washington Heights,Individuals,2019,Number,42565,112
+Astoria,Individuals,2019,Number,20911,401
+Sunnyside/Woodside,Individuals,2019,Number,10066,402
+Jackson Heights,Individuals,2019,Number,21923,403
+Elmhurst/Corona,Individuals,2019,Number,23221,404
+Ridgewood/Glendale,Individuals,2019,Number,16601,405
+Rego Park/Forest Hills,Individuals,2019,Number,9450,406
+Flushing,Individuals,2019,Number,24753,407
+Fresh Meadows/Briarwood,Individuals,2019,Number,16530,408
+Woodhaven,Individuals,2019,Number,19604,409
+Howard Beach,Individuals,2019,Number,14837,410
+Bayside,Individuals,2019,Number,6427,411
+Jamaica/St. Albans,Individuals,2019,Number,40884,412
+Queens Village,Individuals,2019,Number,18259,413
+The Rockaways,Individuals,2019,Number,27559,414
+St. George,Individuals,2019,Number,34943,501
+South Beach,Individuals,2019,Number,13633,502
+Tottenville,Individuals,2019,Number,9591,503
+Bronx,Individuals,2019,Number,422752,36005
+Brooklyn,Individuals,2019,Number,535431,36047
+Manhattan,Individuals,2019,Number,215994,36061
+Queens,Individuals,2019,Number,271025,36081
+Staten Island,Individuals,2019,Number,58167,36085
+New York City,Individuals,2019,Number,1503369,3651000
+Mott Haven,Households,2019,Number,22681,201
+Hunts Point,Households,2019,Number,11318,202
+Morrisania,Households,2019,Number,21518,203
+Concourse/Highbridge,Households,2019,Number,29095,204
+University Heights,Households,2019,Number,27772,205
+East Tremont,Households,2019,Number,20036,206
+Bedford Park,Households,2019,Number,24395,207
+Riverdale,Households,2019,Number,9177,208
+Unionport/Soundview,Households,2019,Number,27111,209
+Throgs Neck,Households,2019,Number,10288,210
+Pelham Parkway,Households,2019,Number,13099,211
+Williamsbridge,Households,2019,Number,19366,212
+Williamsburg/Greenpoint,Households,2019,Number,19580,301
+Fort Greene/Brooklyn Hts,Households,2019,Number,8554,302
+Bedford Stuyvesant,Households,2019,Number,22449,303
+Bushwick,Households,2019,Number,13700,304
+East New York,Households,2019,Number,34055,305
+Park Slope,Households,2019,Number,6511,306
+Sunset Park,Households,2019,Number,11670,307
+Crown Heights North,Households,2019,Number,12226,308
+Crown Heights South,Households,2019,Number,11792,309
+Bay Ridge,Households,2019,Number,9491,310
+Bensonhurst,Households,2019,Number,19920,311
+Borough Park,Households,2019,Number,18865,312
+Coney Island,Households,2019,Number,20214,313
+Flatbush/Midwood,Households,2019,Number,16880,314
+Sheepshead Bay,Households,2019,Number,16422,315
+Brownsville,Households,2019,Number,19827,316
+East Flatbush,Households,2019,Number,18092,317
+Canarsie,Households,2019,Number,16132,318
+Battery Park/Tribeca,Households,2019,Number,1757,101
+Greenwich Village,Households,2019,Number,2218,102
+Lower East Side,Households,2019,Number,24279,103
+Chelsea/Clinton,Households,2019,Number,8557,104
+Midtown Business District,Households,2019,Number,3765,105
+Murray Hill/Stuyvesant,Households,2019,Number,4305,106
+Upper West Side,Households,2019,Number,11673,107
+Upper East Side,Households,2019,Number,4203,108
+Manhattanville,Households,2019,Number,13569,109
+Central Harlem,Households,2019,Number,19299,110
+East Harlem,Households,2019,Number,25173,111
+Washington Heights,Households,2019,Number,29289,112
+Astoria,Households,2019,Number,12642,401
+Sunnyside/Woodside,Households,2019,Number,6364,402
+Jackson Heights,Households,2019,Number,12716,403
+Elmhurst/Corona,Households,2019,Number,13626,404
+Ridgewood/Glendale,Households,2019,Number,9792,405
+Rego Park/Forest Hills,Households,2019,Number,6680,406
+Flushing,Households,2019,Number,16435,407
+Fresh Meadows/Briarwood,Households,2019,Number,10122,408
+Woodhaven,Households,2019,Number,11469,409
+Howard Beach,Households,2019,Number,9019,410
+Bayside,Households,2019,Number,4371,411
+Jamaica/St. Albans,Households,2019,Number,25104,412
+Queens Village,Households,2019,Number,11836,413
+The Rockaways,Households,2019,Number,15003,414
+St. George,Households,2019,Number,18614,501
+South Beach,Households,2019,Number,8100,502
+Tottenville,Households,2019,Number,6136,503
+Bronx,Households,2019,Number,235856,36005
+Brooklyn,Households,2019,Number,296380,36047
+Manhattan,Households,2019,Number,148087,36061
+Queens,Households,2019,Number,165179,36081
+Staten Island,Households,2019,Number,32850,36085
+New York City,Households,2019,Number,878352,3651000
+Battery Park/Tribeca,Households,2018,Percent,0.05792,101
+Greenwich Village,Households,2018,Percent,0.05525,102
+Lower East Side,Households,2018,Percent,0.35729,103
+Chelsea/Clinton,Households,2018,Percent,0.14047,104
+Midtown Business District,Households,2018,Percent,0.10441,105
+Murray Hill/Stuyvesant,Households,2018,Percent,0.0541,106
+Upper West Side,Households,2018,Percent,0.12886,107
+Upper East Side,Households,2018,Percent,0.04103,108
+Manhattanville,Households,2018,Percent,0.29852,109
+Central Harlem,Households,2018,Percent,0.37106,110
+East Harlem,Households,2018,Percent,0.5411,111
+Washington Heights,Households,2018,Percent,0.43958,112
+Mott Haven,Households,2018,Percent,0.69372,201
+Hunts Point,Households,2018,Percent,0.62198,202
+Morrisania,Households,2018,Percent,0.74977,203
+Concourse/Highbridge,Households,2018,Percent,0.64747,204
+University Heights,Households,2018,Percent,0.63532,205
+East Tremont,Households,2018,Percent,0.67279,206
+Bedford Park,Households,2018,Percent,0.56925,207
+Riverdale,Households,2018,Percent,0.2225,208
+Unionport/Soundview,Households,2018,Percent,0.44672,209
+Throgs Neck,Households,2018,Percent,0.22893,210
+Pelham Parkway,Households,2018,Percent,0.31381,211
+Williamsbridge,Households,2018,Percent,0.42907,212
+Williamsburg/Greenpoint,Households,2018,Percent,0.31696,301
+Fort Greene/Brooklyn Hts,Households,2018,Percent,0.14176,302
+Bedford Stuyvesant,Households,2018,Percent,0.43106,303
+Bushwick,Households,2018,Percent,0.33373,304
+East New York,Households,2018,Percent,0.58264,305
+Park Slope,Households,2018,Percent,0.13033,306
+Sunset Park,Households,2018,Percent,0.31536,307
+Crown Heights North,Households,2018,Percent,0.23925,308
+Crown Heights South,Households,2018,Percent,0.28294,309
+Bay Ridge,Households,2018,Percent,0.20446,310
+Bensonhurst,Households,2018,Percent,0.33769,311
+Borough Park,Households,2018,Percent,0.5154,312
+Coney Island,Households,2018,Percent,0.45565,313
+Flatbush/Midwood,Households,2018,Percent,0.33419,314
+Sheepshead Bay,Households,2018,Percent,0.29272,315
+Brownsville,Households,2018,Percent,0.40745,316
+East Flatbush,Households,2018,Percent,0.37296,317
+Canarsie,Households,2018,Percent,0.24401,318
+Astoria,Households,2018,Percent,0.18871,401
+Sunnyside/Woodside,Households,2018,Percent,0.12424,402
+Jackson Heights,Households,2018,Percent,0.26723,403
+Elmhurst/Corona,Households,2018,Percent,0.34361,404
+Ridgewood/Glendale,Households,2018,Percent,0.17074,405
+Rego Park/Forest Hills,Households,2018,Percent,0.12913,406
+Flushing,Households,2018,Percent,0.1996,407
+Fresh Meadows/Briarwood,Households,2018,Percent,0.19177,408
+Woodhaven,Households,2018,Percent,0.29286,409
+Howard Beach,Households,2018,Percent,0.24167,410
+Bayside,Households,2018,Percent,0.10153,411
+Jamaica/St. Albans,Households,2018,Percent,0.35025,412
+Queens Village,Households,2018,Percent,0.20991,413
+The Rockaways,Households,2018,Percent,0.38051,414
+St. George,Households,2018,Percent,0.32423,501
+South Beach,Households,2018,Percent,0.17846,502
+Tottenville,Households,2018,Percent,0.10473,503
+Bronx,Households,2018,Percent,0.49814,36005
+Brooklyn,Households,2018,Percent,0.32645,36047
+Manhattan,Households,2018,Percent,0.21002,36061
+Queens,Households,2018,Percent,0.22559,36081
+Staten Island,Households,2018,Percent,0.20565,36085
+New York City,Households,2018,Percent,0.29499,3651000
+Battery Park/Tribeca,Individuals,2018,Percent,0.03658,101
+Greenwich Village,Individuals,2018,Percent,0.03499,102
+Lower East Side,Individuals,2018,Percent,0.24418,103
+Chelsea/Clinton,Individuals,2018,Percent,0.10578,104
+Midtown Business District,Individuals,2018,Percent,0.07676,105
+Murray Hill/Stuyvesant,Individuals,2018,Percent,0.03419,106
+Upper West Side,Individuals,2018,Percent,0.08621,107
+Upper East Side,Individuals,2018,Percent,0.02752,108
+Manhattanville,Individuals,2018,Percent,0.15849,109
+Central Harlem,Individuals,2018,Percent,0.23515,110
+East Harlem,Individuals,2018,Percent,0.39087,111
+Washington Heights,Individuals,2018,Percent,0.22962,112
+Mott Haven,Individuals,2018,Percent,0.43657,201
+Hunts Point,Individuals,2018,Percent,0.38541,202
+Morrisania,Individuals,2018,Percent,0.49375,203
+Concourse/Highbridge,Individuals,2018,Percent,0.43349,204
+University Heights,Individuals,2018,Percent,0.41512,205
+East Tremont,Individuals,2018,Percent,0.44395,206
+Bedford Park,Individuals,2018,Percent,0.35881,207
+Riverdale,Individuals,2018,Percent,0.13948,208
+Unionport/Soundview,Individuals,2018,Percent,0.2959,209
+Throgs Neck,Individuals,2018,Percent,0.14804,210
+Pelham Parkway,Individuals,2018,Percent,0.19428,211
+Williamsbridge,Individuals,2018,Percent,0.27696,212
+Williamsburg/Greenpoint,Individuals,2018,Percent,0.32464,301
+Fort Greene/Brooklyn Hts,Individuals,2018,Percent,0.09456,302
+Bedford Stuyvesant,Individuals,2018,Percent,0.29636,303
+Bushwick,Individuals,2018,Percent,0.21906,304
+East New York,Individuals,2018,Percent,0.37108,305
+Park Slope,Individuals,2018,Percent,0.08571,306
+Sunset Park,Individuals,2018,Percent,0.17733,307
+Crown Heights North,Individuals,2018,Percent,0.15857,308
+Crown Heights South,Individuals,2018,Percent,0.19264,309
+Bay Ridge,Individuals,2018,Percent,0.13915,310
+Bensonhurst,Individuals,2018,Percent,0.20343,311
+Borough Park,Individuals,2018,Percent,0.45944,312
+Coney Island,Individuals,2018,Percent,0.29155,313
+Flatbush/Midwood,Individuals,2018,Percent,0.21536,314
+Sheepshead Bay,Individuals,2018,Percent,0.18236,315
+Brownsville,Individuals,2018,Percent,0.30046,316
+East Flatbush,Individuals,2018,Percent,0.2303,317
+Canarsie,Individuals,2018,Percent,0.14442,318
+Astoria,Individuals,2018,Percent,0.14231,401
+Sunnyside/Woodside,Individuals,2018,Percent,0.07998,402
+Jackson Heights,Individuals,2018,Percent,0.14752,403
+Elmhurst/Corona,Individuals,2018,Percent,0.18405,404
+Ridgewood/Glendale,Individuals,2018,Percent,0.10255,405
+Rego Park/Forest Hills,Individuals,2018,Percent,0.08656,406
+Flushing,Individuals,2018,Percent,0.1105,407
+Fresh Meadows/Briarwood,Individuals,2018,Percent,0.10886,408
+Woodhaven,Individuals,2018,Percent,0.16412,409
+Howard Beach,Individuals,2018,Percent,0.12623,410
+Bayside,Individuals,2018,Percent,0.05599,411
+Jamaica/St. Albans,Individuals,2018,Percent,0.18694,412
+Queens Village,Individuals,2018,Percent,0.10339,413
+The Rockaways,Individuals,2018,Percent,0.2288,414
+St. George,Individuals,2018,Percent,0.21831,501
+South Beach,Individuals,2018,Percent,0.1023,502
+Tottenville,Individuals,2018,Percent,0.06041,503
+Bronx,Individuals,2018,Percent,0.32559,36005
+Brooklyn,Individuals,2018,Percent,0.2283,36047
+Manhattan,Individuals,2018,Percent,0.14502,36061
+Queens,Individuals,2018,Percent,0.13224,36081
+Staten Island,Individuals,2018,Percent,0.13045,36085
+New York City,Individuals,2018,Percent,0.19713,3651000
+Battery Park/Tribeca,Individuals,2019,Percent,0.03256,101
+Greenwich Village,Individuals,2019,Percent,0.02783,102
+Lower East Side,Individuals,2019,Percent,0.21135,103
+Chelsea/Clinton,Individuals,2019,Percent,0.10229,104
+Midtown Business District,Individuals,2019,Percent,0.09901,105
+Murray Hill/Stuyvesant,Individuals,2019,Percent,0.03355,106
+Upper West Side,Individuals,2019,Percent,0.08627,107
+Upper East Side,Individuals,2019,Percent,0.02431,108
+Manhattanville,Individuals,2019,Percent,0.15472,109
+Central Harlem,Individuals,2019,Percent,0.22025,110
+East Harlem,Individuals,2019,Percent,0.35841,111
+Washington Heights,Individuals,2019,Percent,0.20855,112
+Mott Haven,Individuals,2019,Percent,0.44907,201
+Hunts Point,Individuals,2019,Percent,0.38493,202
+Morrisania,Individuals,2019,Percent,0.46635,203
+Concourse/Highbridge,Individuals,2019,Percent,0.36997,204
+University Heights,Individuals,2019,Percent,0.36649,205
+East Tremont,Individuals,2019,Percent,0.417,206
+Bedford Park,Individuals,2019,Percent,0.28026,207
+Riverdale,Individuals,2019,Percent,0.14649,208
+Unionport/Soundview,Individuals,2019,Percent,0.27505,209
+Throgs Neck,Individuals,2019,Percent,0.15102,210
+Pelham Parkway,Individuals,2019,Percent,0.17857,211
+Williamsbridge,Individuals,2019,Percent,0.23642,212
+Williamsburg/Greenpoint,Individuals,2019,Percent,0.32695,301
+Fort Greene/Brooklyn Hts,Individuals,2019,Percent,0.09511,302
+Bedford Stuyvesant,Individuals,2019,Percent,0.28872,303
+Bushwick,Individuals,2019,Percent,0.17484,304
+East New York,Individuals,2019,Percent,0.32901,305
+Park Slope,Individuals,2019,Percent,0.08553,306
+Sunset Park,Individuals,2019,Percent,0.15028,307
+Crown Heights North,Individuals,2019,Percent,0.14695,308
+Crown Heights South,Individuals,2019,Percent,0.18159,309
+Bay Ridge,Individuals,2019,Percent,0.13078,310
+Bensonhurst,Individuals,2019,Percent,0.178,311
+Borough Park,Individuals,2019,Percent,0.38047,312
+Coney Island,Individuals,2019,Percent,0.26179,313
+Flatbush/Midwood,Individuals,2019,Percent,0.1809,314
+Sheepshead Bay,Individuals,2019,Percent,0.17749,315
+Brownsville,Individuals,2019,Percent,0.27317,316
+East Flatbush,Individuals,2019,Percent,0.20705,317
+Canarsie,Individuals,2019,Percent,0.13565,318
+Astoria,Individuals,2019,Percent,0.12592,401
+Sunnyside/Woodside,Individuals,2019,Percent,0.07398,402
+Jackson Heights,Individuals,2019,Percent,0.12508,403
+Elmhurst/Corona,Individuals,2019,Percent,0.14878,404
+Ridgewood/Glendale,Individuals,2019,Percent,0.10007,405
+Rego Park/Forest Hills,Individuals,2019,Percent,0.0895,406
+Flushing,Individuals,2019,Percent,0.10319,407
+Fresh Meadows/Briarwood,Individuals,2019,Percent,0.09812,408
+Woodhaven,Individuals,2019,Percent,0.13637,409
+Howard Beach,Individuals,2019,Percent,0.12513,410
+Bayside,Individuals,2019,Percent,0.0561,411
+Jamaica/St. Albans,Individuals,2019,Percent,0.16945,412
+Queens Village,Individuals,2019,Percent,0.09099,413
+The Rockaways,Individuals,2019,Percent,0.22638,414
+St. George,Individuals,2019,Percent,0.19832,501
+South Beach,Individuals,2019,Percent,0.09837,502
+Tottenville,Individuals,2019,Percent,0.05944,503
+Bronx,Individuals,2019,Percent,0.29809,36005
+Brooklyn,Individuals,2019,Percent,0.20916,36047
+Manhattan,Individuals,2019,Percent,0.13262,36061
+Queens,Individuals,2019,Percent,0.12025,36081
+Staten Island,Individuals,2019,Percent,0.12216,36085
+New York City,Individuals,2019,Percent,0.18033,3651000
+Battery Park/Tribeca,Households,2019,Percent,0.05321,101
+Greenwich Village,Households,2019,Percent,0.0455,102
+Lower East Side,Households,2019,Percent,0.30658,103
+Chelsea/Clinton,Households,2019,Percent,0.13526,104
+Midtown Business District,Households,2019,Percent,0.11891,105
+Murray Hill/Stuyvesant,Households,2019,Percent,0.05492,106
+Upper West Side,Households,2019,Percent,0.12454,107
+Upper East Side,Households,2019,Percent,0.03885,108
+Manhattanville,Households,2019,Percent,0.27763,109
+Central Harlem,Households,2019,Percent,0.34056,110
+East Harlem,Households,2019,Percent,0.50255,111
+Washington Heights,Households,2019,Percent,0.38342,112
+Mott Haven,Households,2019,Percent,0.65581,201
+Hunts Point,Households,2019,Percent,0.57311,202
+Morrisania,Households,2019,Percent,0.69883,203
+Concourse/Highbridge,Households,2019,Percent,0.58114,204
+University Heights,Households,2019,Percent,0.6009,205
+East Tremont,Households,2019,Percent,0.62331,206
+Bedford Park,Households,2019,Percent,0.48326,207
+Riverdale,Households,2019,Percent,0.21546,208
+Unionport/Soundview,Households,2019,Percent,0.41415,209
+Throgs Neck,Households,2019,Percent,0.2203,210
+Pelham Parkway,Households,2019,Percent,0.29258,211
+Williamsbridge,Households,2019,Percent,0.38475,212
+Williamsburg/Greenpoint,Households,2019,Percent,0.3035,301
+Fort Greene/Brooklyn Hts,Households,2019,Percent,0.14089,302
+Bedford Stuyvesant,Households,2019,Percent,0.3997,303
+Bushwick,Households,2019,Percent,0.27976,304
+East New York,Households,2019,Percent,0.54103,305
+Park Slope,Households,2019,Percent,0.13917,306
+Sunset Park,Households,2019,Percent,0.27155,307
+Crown Heights North,Households,2019,Percent,0.22056,308
+Crown Heights South,Households,2019,Percent,0.26293,309
+Bay Ridge,Households,2019,Percent,0.19389,310
+Bensonhurst,Households,2019,Percent,0.30298,311
+Borough Park,Households,2019,Percent,0.43172,312
+Coney Island,Households,2019,Percent,0.42435,313
+Flatbush/Midwood,Households,2019,Percent,0.29115,314
+Sheepshead Bay,Households,2019,Percent,0.29621,315
+Brownsville,Households,2019,Percent,0.38213,316
+East Flatbush,Households,2019,Percent,0.34956,317
+Canarsie,Households,2019,Percent,0.22513,318
+Astoria,Households,2019,Percent,0.1728,401
+Sunnyside/Woodside,Households,2019,Percent,0.11569,402
+Jackson Heights,Households,2019,Percent,0.23777,403
+Elmhurst/Corona,Households,2019,Percent,0.2933,404
+Ridgewood/Glendale,Households,2019,Percent,0.16326,405
+Rego Park/Forest Hills,Households,2019,Percent,0.13805,406
+Flushing,Households,2019,Percent,0.18234,407
+Fresh Meadows/Briarwood,Households,2019,Percent,0.18067,408
+Woodhaven,Households,2019,Percent,0.26645,409
+Howard Beach,Households,2019,Percent,0.24116,410
+Bayside,Households,2019,Percent,0.10236,411
+Jamaica/St. Albans,Households,2019,Percent,0.33142,412
+Queens Village,Households,2019,Percent,0.19159,413
+The Rockaways,Households,2019,Percent,0.36369,414
+St. George,Households,2019,Percent,0.29599,501
+South Beach,Households,2019,Percent,0.1714,502
+Tottenville,Households,2019,Percent,0.10928,503
+Bronx,Households,2019,Percent,0.45896,36005
+Brooklyn,Households,2019,Percent,0.30302,36047
+Manhattan,Households,2019,Percent,0.19277,36061
+Queens,Households,2019,Percent,0.21054,36081
+Staten Island,Households,2019,Percent,0.19754,36085
+New York City,Households,2019,Percent,0.27354,3651000

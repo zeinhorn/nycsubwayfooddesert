@@ -1,0 +1,42 @@
+"Name","Youth Attempted Suicide by Sex"
+"Description","The percentage of students who reported attempting suicide one or more times in the past 12 months, by sex.&nbsp;"
+"Source Notes","Centers for Disease Control and Prevention (CDC).<em>&nbsp;High School Youth Risk Behavior Survey Data&nbsp;</em>(1999-2019). Retrieved from&nbsp;<a href=""http://nccd.cdc.gov/youthonline/"" target=""_blank"" style=""margin: 0px; padding: 0px; box-sizing: inherit; color: #075290; background-color: #ffffff;"">http://nccd.cdc.gov/youthonline/</a>;&nbsp;<br />
+<a href=""https://www.cdc.gov/healthyyouth/data/yrbs/data.htm"" target=""_blank"">https://www.cdc.gov/healthyyouth/data/yrbs/data.htm</a><a href=""http://nccd.cdc.gov/youthonline/"" target=""_blank"" style=""margin: 0px; padding: 0px; box-sizing: inherit; color: #075290; background-color: #ffffff;""></a><a href=""https://a816-healthpsi.nyc.gov/epiquery/index.html"" target=""_blank""></a>"
+"Notes","The Youth Risk Behavior Survey (YRBS) is a self-administered survey for public high school students, that is conducted every other in collaboration between the NYC Health Department, the Department of Education, and the National Centers for Disease Control and Prevention (CDC). The survey is intended to monitor health risk behaviors that contribute to the&nbsp;leading causes of mortality, morbidity and social problems among youth in the city.<br />
+Data for some breakdowns are available by borough, however they are not presented here due too limitations with the original source.&nbsp;"
+
+Location,Sex,TimeFrame,DataFormat,Data,Fips
+New York City,Female,2003,Percent,0.113,3651000
+New York City,Male,2003,Percent,0.051,3651000
+New York City,Female,2005,Percent,0.118,3651000
+New York City,Male,2005,Percent,0.073,3651000
+New York City,Female,2007,Percent,0.093,3651000
+New York City,Male,2007,Percent,0.054,3651000
+New York City,Female,2009,Percent,0.107,3651000
+New York City,Male,2009,Percent,0.09,3651000
+New York City,Female,2011,Percent,0.094,3651000
+New York City,Male,2011,Percent,0.07,3651000
+New York City,Female,2001,Percent,0.108,3651000
+New York City,Male,2001,Percent,0.044,3651000
+New York City,Female,2013,Percent,0.094,3651000
+New York City,Male,2013,Percent,0.066,3651000
+New York City,Female,1997,Percent,0.106,3651000
+New York City,Male,1997,Percent,0.046,3651000
+New York City,Female,1999,Percent,0.094,3651000
+New York City,Male,1999,Percent,0.035,3651000
+New York City,Female,2015,Percent,0.101,3651000
+New York City,Male,2015,Percent,0.062,3651000
+New York City,Female,2017,Percent,0.113,3651000
+New York City,Male,2017,Percent,0.099,3651000
+New York City,Female,2019,Percent,0.08955,3651000
+Bronx,Female,2019,Percent,0.12129,36005
+Brooklyn,Female,2019,Percent,0.08567,36047
+Manhattan,Female,2019,Percent,0.07564,36061
+Queens,Female,2019,Percent,0.08476,36081
+Staten Island,Female,2019,Percent,0.09396,36085
+New York City,Male,2019,Percent,0.08503,3651000
+Bronx,Male,2019,Percent,0.10165,36005
+Brooklyn,Male,2019,Percent,0.08161,36047
+Manhattan,Male,2019,Percent,0.07655,36061
+Queens,Male,2019,Percent,0.07913,36081
+Staten Island,Male,2019,Percent,0.10189,36085

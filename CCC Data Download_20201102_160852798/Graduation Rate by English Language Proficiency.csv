@@ -1,0 +1,1568 @@
+"Name","Graduation Rate by English Language Proficiency"
+"Description","New York City public high school students who graduated as of June after four years of instruction.<br />
+<br />
+English Language Learners are students that classified as ELL as of graduation. English Language Proficient students includes students that never classified as ELLs, and students were declassified more than two year prior. Former English Language Learners are students who were classified as ELL in the prior two school years and are no longer ELL.&nbsp;"
+"Source Notes","New York City Department of Education, Graduation Results (School Years 2004-05 to 2018-19); retrieved from&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a><a href=""https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results"">https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results</a>&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a><a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a>"
+"Notes","All data represent outcomes as of June after four years of instruction. In order to comply with FERPA regulations on public reporting of education outcomes, breakdowns where the number of students in the cohort is 5 or less are suppressed and maps and tables display ""no data"" or ""0"".<br />
+<br />
+Graduation rates for Former ELLs are not reported prior to 2009."
+
+Location,English Language Proficiency,TimeFrame,DataFormat,Data,Fips
+New York City,English Language Learners,2005,Percent,0.28752,3651000
+New York City,English Language Proficient,2005,Percent,0.54379,3651000
+Bronx,English Language Learners,2005,Percent,0.20618,36005
+Bronx,English Language Proficient,2005,Percent,0.49812,36005
+Brooklyn,English Language Learners,2005,Percent,0.28115,36047
+Brooklyn,English Language Proficient,2005,Percent,0.53575,36047
+Manhattan,English Language Learners,2005,Percent,0.36884,36061
+Manhattan,English Language Proficient,2005,Percent,0.65525,36061
+Queens,English Language Learners,2005,Percent,0.33538,36081
+Queens,English Language Proficient,2005,Percent,0.59456,36081
+Staten Island,English Language Learners,2005,Percent,0.26923,36085
+Staten Island,English Language Proficient,2005,Percent,0.70039,36085
+Lower East Side,English Language Learners,2005,Percent,0.37778,SD1
+Lower East Side,English Language Proficient,2005,Percent,0.72446,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2005,Percent,0.36693,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2005,Percent,0.63615,SD2
+Upper West Side,English Language Learners,2005,Percent,0.36986,SD3
+Upper West Side,English Language Proficient,2005,Percent,0.72124,SD3
+East Harlem,English Language Learners,2005,Percent,0.38095,SD4
+East Harlem,English Language Proficient,2005,Percent,0.60214,SD4
+Central Harlem,English Language Learners,2005,Percent,No Data,SD5
+Central Harlem,English Language Proficient,2005,Percent,0.73451,SD5
+Washington Heights,English Language Learners,2005,Percent,0.3861,SD6
+Washington Heights,English Language Proficient,2005,Percent,0.68774,SD6
+Mott Haven,English Language Learners,2005,Percent,0.31746,SD7
+Mott Haven,English Language Proficient,2005,Percent,0.55706,SD7
+"Hunts Point, Port Morris",English Language Learners,2005,Percent,0.19856,SD8
+"Hunts Point, Port Morris",English Language Proficient,2005,Percent,0.49312,SD8
+"East Tremont, Morris Heights",English Language Learners,2005,Percent,0.22026,SD9
+"East Tremont, Morris Heights",English Language Proficient,2005,Percent,0.42995,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2005,Percent,0.17991,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2005,Percent,0.53951,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2005,Percent,0.25573,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2005,Percent,0.43294,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2005,Percent,0.16279,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2005,Percent,0.4276,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2005,Percent,0.58333,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2005,Percent,0.77132,SD13
+"Williamsburg, Greenpoint",English Language Learners,2005,Percent,0.35345,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2005,Percent,0.50431,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2005,Percent,0.12698,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2005,Percent,0.48079,SD15
+Bedford Stuyvesant,English Language Learners,2005,Percent,0.20833,SD16
+Bedford Stuyvesant,English Language Proficient,2005,Percent,0.46206,SD16
+Crown Heights,English Language Learners,2005,Percent,0.2906,SD17
+Crown Heights,English Language Proficient,2005,Percent,0.47712,SD17
+"East Flatbush, Canarsie",English Language Learners,2005,Percent,0.16529,SD18
+"East Flatbush, Canarsie",English Language Proficient,2005,Percent,0.40187,SD18
+East New York,English Language Learners,2005,Percent,0.21168,SD19
+East New York,English Language Proficient,2005,Percent,0.40014,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2005,Percent,0.26677,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2005,Percent,0.55222,SD20
+"Gravesend, Coney Island",English Language Learners,2005,Percent,0.31473,SD21
+"Gravesend, Coney Island",English Language Proficient,2005,Percent,0.56099,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2005,Percent,0.31801,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2005,Percent,0.64201,SD22
+"Brownsville, Ocean Hill",English Language Learners,2005,Percent,No Data,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2005,Percent,0.35652,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2005,Percent,0.32,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2005,Percent,0.55121,SD24
+"Flushing, Whitestone",English Language Learners,2005,Percent,0.29927,SD25
+"Flushing, Whitestone",English Language Proficient,2005,Percent,0.60799,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2005,Percent,0.44523,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2005,Percent,0.72573,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2005,Percent,0.30841,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2005,Percent,0.42188,SD27
+"Jamaica, Forest Hills",English Language Learners,2005,Percent,0.40841,SD28
+"Jamaica, Forest Hills",English Language Proficient,2005,Percent,0.66226,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2005,Percent,0.2093,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2005,Percent,0.43935,SD29
+"Long Island City, Astoria",English Language Learners,2005,Percent,0.30651,SD30
+"Long Island City, Astoria",English Language Proficient,2005,Percent,0.58728,SD30
+Staten Island,English Language Learners,2005,Percent,0.26923,SD31
+Staten Island,English Language Proficient,2005,Percent,0.70039,SD31
+Bushwick,English Language Learners,2005,Percent,0.25444,SD32
+Bushwick,English Language Proficient,2005,Percent,0.28667,SD32
+New York City,English Language Learners,2006,Percent,0.24222,3651000
+New York City,English Language Proficient,2006,Percent,0.56005,3651000
+Bronx,English Language Learners,2006,Percent,0.20894,36005
+Bronx,English Language Proficient,2006,Percent,0.51144,36005
+Brooklyn,English Language Learners,2006,Percent,0.23253,36047
+Brooklyn,English Language Proficient,2006,Percent,0.5459,36047
+Manhattan,English Language Learners,2006,Percent,0.25463,36061
+Manhattan,English Language Proficient,2006,Percent,0.64781,36061
+Queens,English Language Learners,2006,Percent,0.25495,36081
+Queens,English Language Proficient,2006,Percent,0.59862,36081
+Staten Island,English Language Learners,2006,Percent,0.29286,36085
+Staten Island,English Language Proficient,2006,Percent,0.6977,36085
+Lower East Side,English Language Learners,2006,Percent,0.12903,SD1
+Lower East Side,English Language Proficient,2006,Percent,0.62275,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2006,Percent,0.24913,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2006,Percent,0.63941,SD2
+Upper West Side,English Language Learners,2006,Percent,0.26582,SD3
+Upper West Side,English Language Proficient,2006,Percent,0.71341,SD3
+East Harlem,English Language Learners,2006,Percent,0.2,SD4
+East Harlem,English Language Proficient,2006,Percent,0.68388,SD4
+Central Harlem,English Language Learners,2006,Percent,No Data,SD5
+Central Harlem,English Language Proficient,2006,Percent,0.6516,SD5
+Washington Heights,English Language Learners,2006,Percent,0.29609,SD6
+Washington Heights,English Language Proficient,2006,Percent,0.55772,SD6
+Mott Haven,English Language Learners,2006,Percent,0.34959,SD7
+Mott Haven,English Language Proficient,2006,Percent,0.59528,SD7
+"Hunts Point, Port Morris",English Language Learners,2006,Percent,0.19565,SD8
+"Hunts Point, Port Morris",English Language Proficient,2006,Percent,0.42887,SD8
+"East Tremont, Morris Heights",English Language Learners,2006,Percent,0.2327,SD9
+"East Tremont, Morris Heights",English Language Proficient,2006,Percent,0.5152,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2006,Percent,0.16793,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2006,Percent,0.55667,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2006,Percent,0.22277,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2006,Percent,0.49237,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2006,Percent,0.3494,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2006,Percent,0.38593,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2006,Percent,0.36364,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2006,Percent,0.78741,SD13
+"Williamsburg, Greenpoint",English Language Learners,2006,Percent,0.30769,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2006,Percent,0.55646,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2006,Percent,0.22,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2006,Percent,0.41775,SD15
+Bedford Stuyvesant,English Language Learners,2006,Percent,No Data,SD16
+Bedford Stuyvesant,English Language Proficient,2006,Percent,0.42228,SD16
+Crown Heights,English Language Learners,2006,Percent,0.26724,SD17
+Crown Heights,English Language Proficient,2006,Percent,0.52893,SD17
+"East Flatbush, Canarsie",English Language Learners,2006,Percent,0.18627,SD18
+"East Flatbush, Canarsie",English Language Proficient,2006,Percent,0.33312,SD18
+East New York,English Language Learners,2006,Percent,0.27434,SD19
+East New York,English Language Proficient,2006,Percent,0.39572,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2006,Percent,0.17736,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2006,Percent,0.56727,SD20
+"Gravesend, Coney Island",English Language Learners,2006,Percent,0.18182,SD21
+"Gravesend, Coney Island",English Language Proficient,2006,Percent,0.56596,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2006,Percent,0.17297,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2006,Percent,0.6731,SD22
+"Brownsville, Ocean Hill",English Language Learners,2006,Percent,No Data,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2006,Percent,0.50276,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2006,Percent,0.23353,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2006,Percent,0.54314,SD24
+"Flushing, Whitestone",English Language Learners,2006,Percent,0.17094,SD25
+"Flushing, Whitestone",English Language Proficient,2006,Percent,0.56238,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2006,Percent,0.35366,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2006,Percent,0.74112,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2006,Percent,0.24599,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2006,Percent,0.46333,SD27
+"Jamaica, Forest Hills",English Language Learners,2006,Percent,0.385,SD28
+"Jamaica, Forest Hills",English Language Proficient,2006,Percent,0.66544,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2006,Percent,0.21951,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2006,Percent,0.48357,SD29
+"Long Island City, Astoria",English Language Learners,2006,Percent,0.25768,SD30
+"Long Island City, Astoria",English Language Proficient,2006,Percent,0.55881,SD30
+Staten Island,English Language Learners,2006,Percent,0.29286,SD31
+Staten Island,English Language Proficient,2006,Percent,0.6977,SD31
+Bushwick,English Language Learners,2006,Percent,0.47651,SD32
+Bushwick,English Language Proficient,2006,Percent,0.39535,SD32
+New York City,English Language Learners,2007,Percent,0.26403,3651000
+New York City,English Language Proficient,2007,Percent,0.59536,3651000
+Bronx,English Language Learners,2007,Percent,0.21812,36005
+Bronx,English Language Proficient,2007,Percent,0.54368,36005
+Brooklyn,English Language Learners,2007,Percent,0.24295,36047
+Brooklyn,English Language Proficient,2007,Percent,0.5666,36047
+Manhattan,English Language Learners,2007,Percent,0.2909,36061
+Manhattan,English Language Proficient,2007,Percent,0.62063,36061
+Queens,English Language Learners,2007,Percent,0.28057,36081
+Queens,English Language Proficient,2007,Percent,0.62635,36081
+Staten Island,English Language Learners,2007,Percent,0.38743,36085
+Staten Island,English Language Proficient,2007,Percent,0.7028,36085
+Lower East Side,English Language Learners,2007,Percent,0.10256,SD1
+Lower East Side,English Language Proficient,2007,Percent,0.62257,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2007,Percent,0.26545,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2007,Percent,0.59889,SD2
+Upper West Side,English Language Learners,2007,Percent,0.22785,SD3
+Upper West Side,English Language Proficient,2007,Percent,0.64891,SD3
+East Harlem,English Language Learners,2007,Percent,0.4,SD4
+East Harlem,English Language Proficient,2007,Percent,0.68351,SD4
+Central Harlem,English Language Learners,2007,Percent,0.1875,SD5
+Central Harlem,English Language Proficient,2007,Percent,0.59539,SD5
+Washington Heights,English Language Learners,2007,Percent,0.46918,SD6
+Washington Heights,English Language Proficient,2007,Percent,0.69508,SD6
+Mott Haven,English Language Learners,2007,Percent,0.24444,SD7
+Mott Haven,English Language Proficient,2007,Percent,0.58047,SD7
+"Hunts Point, Port Morris",English Language Learners,2007,Percent,0.17974,SD8
+"Hunts Point, Port Morris",English Language Proficient,2007,Percent,0.4265,SD8
+"East Tremont, Morris Heights",English Language Learners,2007,Percent,0.27465,SD9
+"East Tremont, Morris Heights",English Language Proficient,2007,Percent,0.54126,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2007,Percent,0.20901,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2007,Percent,0.60981,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2007,Percent,0.22456,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2007,Percent,0.55979,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2007,Percent,0.26446,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2007,Percent,0.43952,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2007,Percent,0.36735,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2007,Percent,0.75401,SD13
+"Williamsburg, Greenpoint",English Language Learners,2007,Percent,0.23529,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2007,Percent,0.57949,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2007,Percent,0.17778,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2007,Percent,0.43941,SD15
+Bedford Stuyvesant,English Language Learners,2007,Percent,0.17857,SD16
+Bedford Stuyvesant,English Language Proficient,2007,Percent,0.38286,SD16
+Crown Heights,English Language Learners,2007,Percent,0.24194,SD17
+Crown Heights,English Language Proficient,2007,Percent,0.6068,SD17
+"East Flatbush, Canarsie",English Language Learners,2007,Percent,0.17293,SD18
+"East Flatbush, Canarsie",English Language Proficient,2007,Percent,0.34572,SD18
+East New York,English Language Learners,2007,Percent,0.20775,SD19
+East New York,English Language Proficient,2007,Percent,0.44955,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2007,Percent,0.24658,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2007,Percent,0.59769,SD20
+"Gravesend, Coney Island",English Language Learners,2007,Percent,0.25937,SD21
+"Gravesend, Coney Island",English Language Proficient,2007,Percent,0.56625,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2007,Percent,0.285,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2007,Percent,0.68228,SD22
+"Brownsville, Ocean Hill",English Language Learners,2007,Percent,No Data,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2007,Percent,0.50476,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2007,Percent,0.32597,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2007,Percent,0.54866,SD24
+"Flushing, Whitestone",English Language Learners,2007,Percent,0.19683,SD25
+"Flushing, Whitestone",English Language Proficient,2007,Percent,0.60025,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2007,Percent,0.3381,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2007,Percent,0.77667,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2007,Percent,0.27437,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2007,Percent,0.44826,SD27
+"Jamaica, Forest Hills",English Language Learners,2007,Percent,0.28959,SD28
+"Jamaica, Forest Hills",English Language Proficient,2007,Percent,0.67938,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2007,Percent,0.22222,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2007,Percent,0.50318,SD29
+"Long Island City, Astoria",English Language Learners,2007,Percent,0.26087,SD30
+"Long Island City, Astoria",English Language Proficient,2007,Percent,0.631,SD30
+Staten Island,English Language Learners,2007,Percent,0.38743,SD31
+Staten Island,English Language Proficient,2007,Percent,0.7028,SD31
+Bushwick,English Language Learners,2007,Percent,0.2766,SD32
+Bushwick,English Language Proficient,2007,Percent,0.53673,SD32
+New York City,English Language Learners,2008,Percent,0.37082,3651000
+New York City,English Language Proficient,2008,Percent,0.61234,3651000
+Bronx,English Language Learners,2008,Percent,0.35655,36005
+Bronx,English Language Proficient,2008,Percent,0.56955,36005
+Brooklyn,English Language Learners,2008,Percent,0.36157,36047
+Brooklyn,English Language Proficient,2008,Percent,0.5875,36047
+Manhattan,English Language Learners,2008,Percent,0.39182,36061
+Manhattan,English Language Proficient,2008,Percent,0.63773,36061
+Queens,English Language Learners,2008,Percent,0.3851,36081
+Queens,English Language Proficient,2008,Percent,0.63396,36081
+Staten Island,English Language Learners,2008,Percent,0.24828,36085
+Staten Island,English Language Proficient,2008,Percent,0.70602,36085
+Lower East Side,English Language Learners,2008,Percent,0.4269,SD1
+Lower East Side,English Language Proficient,2008,Percent,0.69164,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2008,Percent,0.37671,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2008,Percent,0.62421,SD2
+Upper West Side,English Language Learners,2008,Percent,0.35897,SD3
+Upper West Side,English Language Proficient,2008,Percent,0.66336,SD3
+East Harlem,English Language Learners,2008,Percent,0.25,SD4
+East Harlem,English Language Proficient,2008,Percent,0.6766,SD4
+Central Harlem,English Language Learners,2008,Percent,0.12903,SD5
+Central Harlem,English Language Proficient,2008,Percent,0.6053,SD5
+Washington Heights,English Language Learners,2008,Percent,0.50951,SD6
+Washington Heights,English Language Proficient,2008,Percent,0.65551,SD6
+Mott Haven,English Language Learners,2008,Percent,0.21277,SD7
+Mott Haven,English Language Proficient,2008,Percent,0.5775,SD7
+"Hunts Point, Port Morris",English Language Learners,2008,Percent,0.24476,SD8
+"Hunts Point, Port Morris",English Language Proficient,2008,Percent,0.42772,SD8
+"East Tremont, Morris Heights",English Language Learners,2008,Percent,0.4586,SD9
+"East Tremont, Morris Heights",English Language Proficient,2008,Percent,0.63636,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2008,Percent,0.37454,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2008,Percent,0.63909,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2008,Percent,0.39326,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2008,Percent,0.61123,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2008,Percent,0.44444,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2008,Percent,0.45078,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2008,Percent,0.53846,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2008,Percent,0.78259,SD13
+"Williamsburg, Greenpoint",English Language Learners,2008,Percent,0.39423,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2008,Percent,0.64896,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2008,Percent,0.25,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2008,Percent,0.47619,SD15
+Bedford Stuyvesant,English Language Learners,2008,Percent,No Data,SD16
+Bedford Stuyvesant,English Language Proficient,2008,Percent,0.41238,SD16
+Crown Heights,English Language Learners,2008,Percent,0.42537,SD17
+Crown Heights,English Language Proficient,2008,Percent,0.61588,SD17
+"East Flatbush, Canarsie",English Language Learners,2008,Percent,0.33571,SD18
+"East Flatbush, Canarsie",English Language Proficient,2008,Percent,0.32884,SD18
+East New York,English Language Learners,2008,Percent,0.25676,SD19
+East New York,English Language Proficient,2008,Percent,0.46488,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2008,Percent,0.38511,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2008,Percent,0.61104,SD20
+"Gravesend, Coney Island",English Language Learners,2008,Percent,0.3033,SD21
+"Gravesend, Coney Island",English Language Proficient,2008,Percent,0.56514,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2008,Percent,0.35622,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2008,Percent,0.69815,SD22
+"Brownsville, Ocean Hill",English Language Learners,2008,Percent,No Data,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2008,Percent,0.63185,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2008,Percent,0.38561,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2008,Percent,0.58473,SD24
+"Flushing, Whitestone",English Language Learners,2008,Percent,0.37435,SD25
+"Flushing, Whitestone",English Language Proficient,2008,Percent,0.62687,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2008,Percent,0.53049,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2008,Percent,0.77701,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2008,Percent,0.26374,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2008,Percent,0.455,SD27
+"Jamaica, Forest Hills",English Language Learners,2008,Percent,0.33555,SD28
+"Jamaica, Forest Hills",English Language Proficient,2008,Percent,0.67548,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2008,Percent,No Data,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2008,Percent,0.60424,SD29
+"Long Island City, Astoria",English Language Learners,2008,Percent,0.39366,SD30
+"Long Island City, Astoria",English Language Proficient,2008,Percent,0.59822,SD30
+Staten Island,English Language Learners,2008,Percent,0.24828,SD31
+Staten Island,English Language Proficient,2008,Percent,0.70602,SD31
+Bushwick,English Language Learners,2008,Percent,0.50562,SD32
+Bushwick,English Language Proficient,2008,Percent,0.52615,SD32
+New York City,English Language Learners,2019,Percent,0.34721,3651000
+New York City,Former English Language Learners,2019,Percent,0.87828,3651000
+New York City,English Language Proficient,2019,Percent,0.77429,3651000
+Bronx,English Language Learners,2019,Percent,0.36166,36005
+Bronx,Former English Language Learners,2019,Percent,0.89513,36005
+Bronx,English Language Proficient,2019,Percent,0.69653,36005
+Brooklyn,English Language Learners,2019,Percent,0.34935,36047
+Brooklyn,Former English Language Learners,2019,Percent,0.86676,36047
+Brooklyn,English Language Proficient,2019,Percent,0.76224,36047
+Manhattan,English Language Learners,2019,Percent,0.31731,36061
+Manhattan,Former English Language Learners,2019,Percent,0.86906,36061
+Manhattan,English Language Proficient,2019,Percent,0.79244,36061
+Queens,English Language Learners,2019,Percent,0.35855,36081
+Queens,Former English Language Learners,2019,Percent,0.88874,36081
+Queens,English Language Proficient,2019,Percent,0.80854,36081
+Staten Island,English Language Learners,2019,Percent,0.24812,36085
+Staten Island,Former English Language Learners,2019,Percent,0.78947,36085
+Staten Island,English Language Proficient,2019,Percent,0.82899,36085
+Lower East Side,English Language Learners,2019,Percent,0.37017,SD1
+Lower East Side,Former English Language Learners,2019,Percent,0.80392,SD1
+Lower East Side,English Language Proficient,2019,Percent,0.73256,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2019,Percent,0.26225,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2019,Percent,0.86726,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2019,Percent,0.80261,SD2
+Upper West Side,English Language Learners,2019,Percent,0.26744,SD3
+Upper West Side,Former English Language Learners,2019,Percent,0.77941,SD3
+Upper West Side,English Language Proficient,2019,Percent,0.80157,SD3
+East Harlem,English Language Learners,2019,Percent,0.35417,SD4
+East Harlem,Former English Language Learners,2019,Percent,0.98529,SD4
+East Harlem,English Language Proficient,2019,Percent,0.87173,SD4
+Central Harlem,English Language Learners,2019,Percent,0.06452,SD5
+Central Harlem,Former English Language Learners,2019,Percent,0.88235,SD5
+Central Harlem,English Language Proficient,2019,Percent,0.69708,SD5
+Washington Heights,English Language Learners,2019,Percent,0.45349,SD6
+Washington Heights,Former English Language Learners,2019,Percent,0.88202,SD6
+Washington Heights,English Language Proficient,2019,Percent,0.7506,SD6
+Mott Haven,English Language Learners,2019,Percent,0.36842,SD7
+Mott Haven,Former English Language Learners,2019,Percent,0.86667,SD7
+Mott Haven,English Language Proficient,2019,Percent,0.64064,SD7
+"Hunts Point, Port Morris",English Language Learners,2019,Percent,0.26378,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2019,Percent,0.80833,SD8
+"Hunts Point, Port Morris",English Language Proficient,2019,Percent,0.59408,SD8
+"East Tremont, Morris Heights",English Language Learners,2019,Percent,0.40767,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2019,Percent,0.90991,SD9
+"East Tremont, Morris Heights",English Language Proficient,2019,Percent,0.69613,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2019,Percent,0.37713,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2019,Percent,0.90596,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2019,Percent,0.81265,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2019,Percent,0.33921,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2019,Percent,0.95025,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2019,Percent,0.70781,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2019,Percent,0.3589,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2019,Percent,0.87879,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2019,Percent,0.58522,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2019,Percent,0.29412,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2019,Percent,0.95556,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2019,Percent,0.85731,SD13
+"Williamsburg, Greenpoint",English Language Learners,2019,Percent,0.49265,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2019,Percent,0.85714,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2019,Percent,0.81447,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2019,Percent,0.24561,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2019,Percent,0.77778,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2019,Percent,0.70482,SD15
+Bedford Stuyvesant,English Language Learners,2019,Percent,0.25,SD16
+Bedford Stuyvesant,Former English Language Learners,2019,Percent,0.44444,SD16
+Bedford Stuyvesant,English Language Proficient,2019,Percent,0.55315,SD16
+Crown Heights,English Language Learners,2019,Percent,0.31544,SD17
+Crown Heights,Former English Language Learners,2019,Percent,0.90526,SD17
+Crown Heights,English Language Proficient,2019,Percent,0.75351,SD17
+"East Flatbush, Canarsie",English Language Learners,2019,Percent,0.33028,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2019,Percent,0.84746,SD18
+"East Flatbush, Canarsie",English Language Proficient,2019,Percent,0.6,SD18
+East New York,English Language Learners,2019,Percent,0.54902,SD19
+East New York,Former English Language Learners,2019,Percent,0.94937,SD19
+East New York,English Language Proficient,2019,Percent,0.7456,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2019,Percent,0.2758,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2019,Percent,0.8671,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2019,Percent,0.80624,SD20
+"Gravesend, Coney Island",English Language Learners,2019,Percent,0.40625,SD21
+"Gravesend, Coney Island",Former English Language Learners,2019,Percent,0.85489,SD21
+"Gravesend, Coney Island",English Language Proficient,2019,Percent,0.76507,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2019,Percent,0.28261,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2019,Percent,0.82143,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2019,Percent,0.84866,SD22
+"Brownsville, Ocean Hill",English Language Learners,2019,Percent,0,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2019,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2019,Percent,0.40691,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2019,Percent,0.40929,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2019,Percent,0.92163,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2019,Percent,0.7955,SD24
+"Flushing, Whitestone",English Language Learners,2019,Percent,0.35588,SD25
+"Flushing, Whitestone",Former English Language Learners,2019,Percent,0.84351,SD25
+"Flushing, Whitestone",English Language Proficient,2019,Percent,0.75135,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2019,Percent,0.37063,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2019,Percent,0.90456,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2019,Percent,0.88585,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2019,Percent,0.3283,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2019,Percent,0.91837,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2019,Percent,0.73624,SD27
+"Jamaica, Forest Hills",English Language Learners,2019,Percent,0.30734,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2019,Percent,0.83721,SD28
+"Jamaica, Forest Hills",English Language Proficient,2019,Percent,0.84052,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2019,Percent,0.36735,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2019,Percent,0.95122,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2019,Percent,0.7552,SD29
+"Long Island City, Astoria",English Language Learners,2019,Percent,0.34454,SD30
+"Long Island City, Astoria",Former English Language Learners,2019,Percent,0.89493,SD30
+"Long Island City, Astoria",English Language Proficient,2019,Percent,0.8231,SD30
+Staten Island,English Language Learners,2019,Percent,0.24812,SD31
+Staten Island,Former English Language Learners,2019,Percent,0.78947,SD31
+Staten Island,English Language Proficient,2019,Percent,0.82899,SD31
+Bushwick,English Language Learners,2019,Percent,0.44444,SD32
+Bushwick,Former English Language Learners,2019,Percent,0.98,SD32
+Bushwick,English Language Proficient,2019,Percent,0.66242,SD32
+New York City,English Language Learners,2018,Percent,0.29065,3651000
+New York City,Former English Language Learners,2018,Percent,0.8504,3651000
+New York City,English Language Proficient,2018,Percent,0.7639,3651000
+Bronx,English Language Learners,2018,Percent,0.29776,36005
+Bronx,Former English Language Learners,2018,Percent,0.8291,36005
+Bronx,English Language Proficient,2018,Percent,0.67789,36005
+Brooklyn,English Language Proficient,2018,Percent,0.30971,36047
+Brooklyn,Former English Language Learners,2018,Percent,0.85725,36047
+Brooklyn,English Language Learners,2018,Percent,0.75881,36047
+Manhattan,English Language Proficient,2018,Percent,0.24538,36061
+Manhattan,Former English Language Learners,2018,Percent,0.84565,36061
+Manhattan,English Language Learners,2018,Percent,0.77799,36061
+Queens,English Language Proficient,2018,Percent,0.30752,36081
+Queens,Former English Language Learners,2018,Percent,0.86477,36081
+Queens,English Language Learners,2018,Percent,0.80272,36081
+Staten Island,English Language Proficient,2018,Percent,0.14545,36085
+Staten Island,Former English Language Learners,2018,Percent,0.81818,36085
+Staten Island,English Language Learners,2018,Percent,0.80514,36085
+Lower East Side,English Language Learners,2018,Percent,0.15,SD1
+Lower East Side,Former English Language Learners,2018,Percent,0.86957,SD1
+Lower East Side,English Language Proficient,2018,Percent,0.71725,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2018,Percent,0.24531,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2018,Percent,0.85009,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2018,Percent,0.7925,SD2
+Upper West Side,English Language Learners,2018,Percent,0.20513,SD3
+Upper West Side,Former English Language Learners,2018,Percent,0.72973,SD3
+Upper West Side,English Language Proficient,2018,Percent,0.77279,SD3
+East Harlem,English Language Learners,2018,Percent,0.28571,SD4
+East Harlem,Former English Language Learners,2018,Percent,0.91935,SD4
+East Harlem,English Language Proficient,2018,Percent,0.84895,SD4
+Central Harlem,English Language Learners,2018,Percent,0.0566,SD5
+Central Harlem,Former English Language Learners,2018,Percent,0.7,SD5
+Central Harlem,English Language Proficient,2018,Percent,0.66667,SD5
+Washington Heights,English Language Learners,2018,Percent,0.32993,SD6
+Washington Heights,Former English Language Learners,2018,Percent,0.88304,SD6
+Washington Heights,English Language Proficient,2018,Percent,0.7509,SD6
+Mott Haven,English Language Learners,2018,Percent,0.31081,SD7
+Mott Haven,Former English Language Learners,2018,Percent,0.72807,SD7
+Mott Haven,English Language Proficient,2018,Percent,0.60516,SD7
+"Hunts Point, Port Morris",English Language Learners,2018,Percent,0.22526,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2018,Percent,0.79339,SD8
+"Hunts Point, Port Morris",English Language Proficient,2018,Percent,0.57134,SD8
+"East Tremont, Morris Heights",English Language Learners,2018,Percent,0.34309,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2018,Percent,0.86705,SD9
+"East Tremont, Morris Heights",English Language Proficient,2018,Percent,0.68996,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2018,Percent,0.31282,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2018,Percent,0.86834,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2018,Percent,0.79381,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2018,Percent,0.29714,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2018,Percent,0.83108,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2018,Percent,0.7075,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2018,Percent,0.27445,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2018,Percent,0.80537,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2018,Percent,0.56225,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2018,Percent,0.40984,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2018,Percent,0.87143,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2018,Percent,0.8294,SD13
+"Williamsburg, Greenpoint",English Language Learners,2018,Percent,0.42553,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2018,Percent,0.93333,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2018,Percent,0.82609,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2018,Percent,0.27711,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2018,Percent,0.8172,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2018,Percent,0.68413,SD15
+Bedford Stuyvesant,English Language Learners,2018,Percent,0.27273,SD16
+Bedford Stuyvesant,Former English Language Learners,2018,Percent,0.75,SD16
+Bedford Stuyvesant,English Language Proficient,2018,Percent,0.60451,SD16
+Crown Heights,English Language Learners,2018,Percent,0.31579,SD17
+Crown Heights,Former English Language Learners,2018,Percent,0.93396,SD17
+Crown Heights,English Language Proficient,2018,Percent,0.76715,SD17
+"East Flatbush, Canarsie",English Language Learners,2018,Percent,0.1831,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2018,Percent,0.79167,SD18
+"East Flatbush, Canarsie",English Language Proficient,2018,Percent,0.61005,SD18
+East New York,English Language Learners,2018,Percent,0.45333,SD19
+East New York,Former English Language Learners,2018,Percent,0.84615,SD19
+East New York,English Language Proficient,2018,Percent,0.70038,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2018,Percent,0.2389,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2018,Percent,0.86585,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2018,Percent,0.79642,SD20
+"Gravesend, Coney Island",English Language Learners,2018,Percent,0.341,SD21
+"Gravesend, Coney Island",Former English Language Learners,2018,Percent,0.84539,SD21
+"Gravesend, Coney Island",English Language Proficient,2018,Percent,0.77441,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2018,Percent,0.20721,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2018,Percent,0.79508,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2018,Percent,0.83748,SD22
+"Brownsville, Ocean Hill",English Language Learners,2018,Percent,0,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2018,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2018,Percent,0.47835,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2018,Percent,0.31991,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2018,Percent,0.86,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2018,Percent,0.79595,SD24
+"Flushing, Whitestone",English Language Learners,2018,Percent,0.3142,SD25
+"Flushing, Whitestone",Former English Language Learners,2018,Percent,0.87347,SD25
+"Flushing, Whitestone",English Language Proficient,2018,Percent,0.72297,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2018,Percent,0.31056,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2018,Percent,0.87843,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2018,Percent,0.883,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2018,Percent,0.32414,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2018,Percent,0.81395,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2018,Percent,0.74592,SD27
+"Jamaica, Forest Hills",English Language Learners,2018,Percent,0.26961,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2018,Percent,0.85096,SD28
+"Jamaica, Forest Hills",English Language Proficient,2018,Percent,0.82847,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2018,Percent,0.25,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2018,Percent,0.97059,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2018,Percent,0.72511,SD29
+"Long Island City, Astoria",English Language Learners,2018,Percent,0.30068,SD30
+"Long Island City, Astoria",Former English Language Learners,2018,Percent,0.8733,SD30
+"Long Island City, Astoria",English Language Proficient,2018,Percent,0.83096,SD30
+Staten Island,English Language Learners,2018,Percent,0.14545,SD31
+Staten Island,Former English Language Learners,2018,Percent,0.81818,SD31
+Staten Island,English Language Proficient,2018,Percent,0.80514,SD31
+Bushwick,English Language Learners,2018,Percent,0.35606,SD32
+Bushwick,Former English Language Learners,2018,Percent,0.9,SD32
+Bushwick,English Language Proficient,2018,Percent,0.68715,SD32
+New York City,English Language Learners,2017,Percent,0.27527,3651000
+New York City,Former English Language Learners,2017,Percent,0.84685,3651000
+New York City,English Language Proficient,2017,Percent,0.74706,3651000
+Bronx,English Language Learners,2017,Percent,0.27309,36005
+Bronx,Former English Language Learners,2017,Percent,0.85464,36005
+Bronx,English Language Proficient,2017,Percent,0.66968,36005
+Brooklyn,English Language Proficient,2017,Percent,0.30069,36047
+Brooklyn,Former English Language Learners,2017,Percent,0.84063,36047
+Brooklyn,English Language Learners,2017,Percent,0.73636,36047
+Manhattan,English Language Proficient,2017,Percent,0.22535,36061
+Manhattan,Former English Language Learners,2017,Percent,0.83117,36061
+Manhattan,English Language Learners,2017,Percent,0.76129,36061
+Queens,English Language Proficient,2017,Percent,0.29123,36081
+Queens,Former English Language Learners,2017,Percent,0.86667,36081
+Queens,English Language Learners,2017,Percent,0.7848,36081
+Staten Island,English Language Proficient,2017,Percent,0.28723,36085
+Staten Island,Former English Language Learners,2017,Percent,0.68293,36085
+Staten Island,English Language Learners,2017,Percent,0.8,36085
+Lower East Side,English Language Learners,2017,Percent,0.25143,SD1
+Lower East Side,Former English Language Learners,2017,Percent,0.8,SD1
+Lower East Side,English Language Proficient,2017,Percent,0.6467,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2017,Percent,0.20579,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2017,Percent,0.82294,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2017,Percent,0.77242,SD2
+Upper West Side,English Language Learners,2017,Percent,0.33784,SD3
+Upper West Side,Former English Language Learners,2017,Percent,0.83333,SD3
+Upper West Side,English Language Proficient,2017,Percent,0.77565,SD3
+East Harlem,English Language Learners,2017,Percent,0.30952,SD4
+East Harlem,Former English Language Learners,2017,Percent,0.91837,SD4
+East Harlem,English Language Proficient,2017,Percent,0.86395,SD4
+Central Harlem,English Language Learners,2017,Percent,0.18519,SD5
+Central Harlem,Former English Language Learners,2017,Percent,0.68421,SD5
+Central Harlem,English Language Proficient,2017,Percent,0.68393,SD5
+Washington Heights,English Language Learners,2017,Percent,0.22022,SD6
+Washington Heights,Former English Language Learners,2017,Percent,0.85606,SD6
+Washington Heights,English Language Proficient,2017,Percent,0.71312,SD6
+Mott Haven,English Language Learners,2017,Percent,0.21739,SD7
+Mott Haven,Former English Language Learners,2017,Percent,0.74038,SD7
+Mott Haven,English Language Proficient,2017,Percent,0.59987,SD7
+"Hunts Point, Port Morris",English Language Learners,2017,Percent,0.13953,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2017,Percent,0.75714,SD8
+"Hunts Point, Port Morris",English Language Proficient,2017,Percent,0.56261,SD8
+"East Tremont, Morris Heights",English Language Learners,2017,Percent,0.34571,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2017,Percent,0.94706,SD9
+"East Tremont, Morris Heights",English Language Proficient,2017,Percent,0.69871,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2017,Percent,0.28862,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2017,Percent,0.86957,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2017,Percent,0.77427,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2017,Percent,0.32237,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2017,Percent,0.87611,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2017,Percent,0.69061,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2017,Percent,0.26616,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2017,Percent,0.82883,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2017,Percent,0.57236,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2017,Percent,0.4,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2017,Percent,0.92857,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2017,Percent,0.83526,SD13
+"Williamsburg, Greenpoint",English Language Learners,2017,Percent,0.35507,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2017,Percent,0.76,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2017,Percent,0.79704,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2017,Percent,0.26667,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2017,Percent,0.76563,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2017,Percent,0.68147,SD15
+Bedford Stuyvesant,English Language Learners,2017,Percent,0.16667,SD16
+Bedford Stuyvesant,Former English Language Learners,2017,Percent,0.71429,SD16
+Bedford Stuyvesant,English Language Proficient,2017,Percent,0.51329,SD16
+Crown Heights,English Language Learners,2017,Percent,0.35507,SD17
+Crown Heights,Former English Language Learners,2017,Percent,0.87879,SD17
+Crown Heights,English Language Proficient,2017,Percent,0.72518,SD17
+"East Flatbush, Canarsie",English Language Learners,2017,Percent,0.44444,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2017,Percent,0.80435,SD18
+"East Flatbush, Canarsie",English Language Proficient,2017,Percent,0.61866,SD18
+East New York,English Language Learners,2017,Percent,0.30769,SD19
+East New York,Former English Language Learners,2017,Percent,0.84314,SD19
+East New York,English Language Proficient,2017,Percent,0.63273,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2017,Percent,0.25265,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2017,Percent,0.86018,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2017,Percent,0.7758,SD20
+"Gravesend, Coney Island",English Language Learners,2017,Percent,0.28627,SD21
+"Gravesend, Coney Island",Former English Language Learners,2017,Percent,0.82514,SD21
+"Gravesend, Coney Island",English Language Proficient,2017,Percent,0.74027,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2017,Percent,0.28037,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2017,Percent,0.82813,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2017,Percent,0.83021,SD22
+"Brownsville, Ocean Hill",English Language Learners,2017,Percent,0.25,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2017,Percent,0.85714,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2017,Percent,0.40138,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2017,Percent,0.33172,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2017,Percent,0.85714,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2017,Percent,0.76019,SD24
+"Flushing, Whitestone",English Language Learners,2017,Percent,0.26596,SD25
+"Flushing, Whitestone",Former English Language Learners,2017,Percent,0.86022,SD25
+"Flushing, Whitestone",English Language Proficient,2017,Percent,0.72144,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2017,Percent,0.27612,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2017,Percent,0.90449,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2017,Percent,0.87838,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2017,Percent,0.27675,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2017,Percent,0.84615,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2017,Percent,0.72169,SD27
+"Jamaica, Forest Hills",English Language Learners,2017,Percent,0.24026,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2017,Percent,0.85443,SD28
+"Jamaica, Forest Hills",English Language Proficient,2017,Percent,0.80882,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2017,Percent,0.25641,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2017,Percent,0.81818,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2017,Percent,0.70381,SD29
+"Long Island City, Astoria",English Language Learners,2017,Percent,0.32377,SD30
+"Long Island City, Astoria",Former English Language Learners,2017,Percent,0.87636,SD30
+"Long Island City, Astoria",English Language Proficient,2017,Percent,0.81408,SD30
+Staten Island,English Language Learners,2017,Percent,0.28723,SD31
+Staten Island,Former English Language Learners,2017,Percent,0.68293,SD31
+Staten Island,English Language Proficient,2017,Percent,0.8,SD31
+Bushwick,English Language Learners,2017,Percent,0.33077,SD32
+Bushwick,Former English Language Learners,2017,Percent,0.86486,SD32
+Bushwick,English Language Proficient,2017,Percent,0.70876,SD32
+New York City,English Language Learners,2016,Percent,0.27245,3651000
+New York City,Former English Language Learners,2016,Percent,0.8099,3651000
+New York City,English Language Proficient,2016,Percent,0.73449,3651000
+Bronx,English Language Learners,2016,Percent,0.28333,36005
+Bronx,Former English Language Learners,2016,Percent,0.79737,36005
+Bronx,English Language Proficient,2016,Percent,0.6599,36005
+Brooklyn,English Language Proficient,2016,Percent,0.26271,36047
+Brooklyn,Former English Language Learners,2016,Percent,0.81959,36047
+Brooklyn,English Language Learners,2016,Percent,0.72067,36047
+Manhattan,English Language Proficient,2016,Percent,0.2649,36061
+Manhattan,Former English Language Learners,2016,Percent,0.81304,36061
+Manhattan,English Language Learners,2016,Percent,0.75574,36061
+Queens,English Language Proficient,2016,Percent,0.27969,36081
+Queens,Former English Language Learners,2016,Percent,0.81721,36081
+Queens,English Language Learners,2016,Percent,0.76796,36081
+Staten Island,English Language Proficient,2016,Percent,0.21569,36085
+Staten Island,Former English Language Learners,2016,Percent,0.65217,36085
+Staten Island,English Language Learners,2016,Percent,0.79122,36085
+Lower East Side,English Language Learners,2016,Percent,0.25654,SD1
+Lower East Side,Former English Language Learners,2016,Percent,0.77083,SD1
+Lower East Side,English Language Proficient,2016,Percent,0.65422,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2016,Percent,0.28758,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2016,Percent,0.83619,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2016,Percent,0.77095,SD2
+Upper West Side,English Language Learners,2016,Percent,0.2069,SD3
+Upper West Side,Former English Language Learners,2016,Percent,0.67647,SD3
+Upper West Side,English Language Proficient,2016,Percent,0.78173,SD3
+East Harlem,English Language Learners,2016,Percent,0.2,SD4
+East Harlem,Former English Language Learners,2016,Percent,0.83871,SD4
+East Harlem,English Language Proficient,2016,Percent,0.80969,SD4
+Central Harlem,English Language Learners,2016,Percent,0.11538,SD5
+Central Harlem,Former English Language Learners,2016,Percent,0.61538,SD5
+Central Harlem,English Language Proficient,2016,Percent,0.66813,SD5
+Washington Heights,English Language Learners,2016,Percent,0.27407,SD6
+Washington Heights,Former English Language Learners,2016,Percent,0.82394,SD6
+Washington Heights,English Language Proficient,2016,Percent,0.69231,SD6
+Mott Haven,English Language Learners,2016,Percent,0.32121,SD7
+Mott Haven,Former English Language Learners,2016,Percent,0.76136,SD7
+Mott Haven,English Language Proficient,2016,Percent,0.58345,SD7
+"Hunts Point, Port Morris",English Language Learners,2016,Percent,0.19075,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2016,Percent,0.60674,SD8
+"Hunts Point, Port Morris",English Language Proficient,2016,Percent,0.52859,SD8
+"East Tremont, Morris Heights",English Language Learners,2016,Percent,0.34138,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2016,Percent,0.84483,SD9
+"East Tremont, Morris Heights",English Language Proficient,2016,Percent,0.67963,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2016,Percent,0.28052,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2016,Percent,0.82703,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2016,Percent,0.77364,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2016,Percent,0.25434,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2016,Percent,0.8018,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2016,Percent,0.68852,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2016,Percent,0.28287,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2016,Percent,0.84956,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2016,Percent,0.56075,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2016,Percent,0.5,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2016,Percent,0.95833,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2016,Percent,0.82563,SD13
+"Williamsburg, Greenpoint",English Language Learners,2016,Percent,0.36242,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2016,Percent,0.83562,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2016,Percent,0.74778,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2016,Percent,0.19588,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2016,Percent,0.66667,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2016,Percent,0.68533,SD15
+Bedford Stuyvesant,English Language Learners,2016,Percent,0,SD16
+Bedford Stuyvesant,Former English Language Learners,2016,Percent,0,SD16
+Bedford Stuyvesant,English Language Proficient,2016,Percent,0.46888,SD16
+Crown Heights,English Language Learners,2016,Percent,0.36232,SD17
+Crown Heights,Former English Language Learners,2016,Percent,0.7971,SD17
+Crown Heights,English Language Proficient,2016,Percent,0.69616,SD17
+"East Flatbush, Canarsie",English Language Learners,2016,Percent,0.28,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2016,Percent,0.91304,SD18
+"East Flatbush, Canarsie",English Language Proficient,2016,Percent,0.56475,SD18
+East New York,English Language Learners,2016,Percent,0.32941,SD19
+East New York,Former English Language Learners,2016,Percent,0.86957,SD19
+East New York,English Language Proficient,2016,Percent,0.64414,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2016,Percent,0.18398,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2016,Percent,0.86018,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2016,Percent,0.76009,SD20
+"Gravesend, Coney Island",English Language Learners,2016,Percent,0.23457,SD21
+"Gravesend, Coney Island",Former English Language Learners,2016,Percent,0.76077,SD21
+"Gravesend, Coney Island",English Language Proficient,2016,Percent,0.73598,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2016,Percent,0.26154,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2016,Percent,0.75,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2016,Percent,0.82003,SD22
+"Brownsville, Ocean Hill",English Language Learners,2016,Percent,0,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2016,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2016,Percent,0.4,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2016,Percent,0.30904,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2016,Percent,0.861,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2016,Percent,0.74145,SD24
+"Flushing, Whitestone",English Language Learners,2016,Percent,0.26791,SD25
+"Flushing, Whitestone",Former English Language Learners,2016,Percent,0.79012,SD25
+"Flushing, Whitestone",English Language Proficient,2016,Percent,0.72751,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2016,Percent,0.33784,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2016,Percent,0.90503,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2016,Percent,0.85111,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2016,Percent,0.20455,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2016,Percent,0.76522,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2016,Percent,0.67219,SD27
+"Jamaica, Forest Hills",English Language Learners,2016,Percent,0.23636,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2016,Percent,0.74026,SD28
+"Jamaica, Forest Hills",English Language Proficient,2016,Percent,0.81818,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2016,Percent,0.24324,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2016,Percent,0.84,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2016,Percent,0.69366,SD29
+"Long Island City, Astoria",English Language Learners,2016,Percent,0.3308,SD30
+"Long Island City, Astoria",Former English Language Learners,2016,Percent,0.79399,SD30
+"Long Island City, Astoria",English Language Proficient,2016,Percent,0.78172,SD30
+Staten Island,English Language Learners,2016,Percent,0.21569,SD31
+Staten Island,Former English Language Learners,2016,Percent,0.65217,SD31
+Staten Island,English Language Proficient,2016,Percent,0.79122,SD31
+Bushwick,English Language Learners,2016,Percent,0.28571,SD32
+Bushwick,Former English Language Learners,2016,Percent,0.91111,SD32
+Bushwick,English Language Proficient,2016,Percent,0.66089,SD32
+New York City,English Language Learners,2015,Percent,0.3646,3651000
+New York City,Former English Language Learners,2015,Percent,0.75244,3651000
+New York City,English Language Proficient,2015,Percent,0.70421,3651000
+Bronx,English Language Learners,2015,Percent,0.33211,36005
+Bronx,Former English Language Learners,2015,Percent,0.72932,36005
+Bronx,English Language Proficient,2015,Percent,0.61681,36005
+Brooklyn,English Language Proficient,2015,Percent,0.36359,36047
+Brooklyn,Former English Language Learners,2015,Percent,0.7756,36047
+Brooklyn,English Language Learners,2015,Percent,0.69643,36047
+Manhattan,English Language Proficient,2015,Percent,0.34824,36061
+Manhattan,Former English Language Learners,2015,Percent,0.71329,36061
+Manhattan,English Language Learners,2015,Percent,0.72939,36061
+Queens,English Language Proficient,2015,Percent,0.41374,36081
+Queens,Former English Language Learners,2015,Percent,0.78133,36081
+Queens,English Language Learners,2015,Percent,0.73676,36081
+Staten Island,English Language Proficient,2015,Percent,0.26126,36085
+Staten Island,Former English Language Learners,2015,Percent,0.57143,36085
+Staten Island,English Language Learners,2015,Percent,0.77181,36085
+Lower East Side,English Language Learners,2015,Percent,0.42149,SD1
+Lower East Side,Former English Language Learners,2015,Percent,0.8,SD1
+Lower East Side,English Language Proficient,2015,Percent,0.61098,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2015,Percent,0.3565,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2015,Percent,0.73361,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2015,Percent,0.74633,SD2
+Upper West Side,English Language Learners,2015,Percent,0.20792,SD3
+Upper West Side,Former English Language Learners,2015,Percent,0.47727,SD3
+Upper West Side,English Language Proficient,2015,Percent,0.75658,SD3
+East Harlem,English Language Learners,2015,Percent,0.19048,SD4
+East Harlem,Former English Language Learners,2015,Percent,0.66667,SD4
+East Harlem,English Language Proficient,2015,Percent,0.79559,SD4
+Central Harlem,English Language Learners,2015,Percent,0.19298,SD5
+Central Harlem,Former English Language Learners,2015,Percent,0.82353,SD5
+Central Harlem,English Language Proficient,2015,Percent,0.64009,SD5
+Washington Heights,English Language Learners,2015,Percent,0.35612,SD6
+Washington Heights,Former English Language Learners,2015,Percent,0.73171,SD6
+Washington Heights,English Language Proficient,2015,Percent,0.6587,SD6
+Mott Haven,English Language Learners,2015,Percent,0.25543,SD7
+Mott Haven,Former English Language Learners,2015,Percent,0.72973,SD7
+Mott Haven,English Language Proficient,2015,Percent,0.53904,SD7
+"Hunts Point, Port Morris",English Language Learners,2015,Percent,0.23188,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2015,Percent,0.50877,SD8
+"Hunts Point, Port Morris",English Language Proficient,2015,Percent,0.45279,SD8
+"East Tremont, Morris Heights",English Language Learners,2015,Percent,0.41489,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2015,Percent,0.78,SD9
+"East Tremont, Morris Heights",English Language Proficient,2015,Percent,0.65153,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2015,Percent,0.29205,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2015,Percent,0.72028,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2015,Percent,0.70453,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2015,Percent,0.37864,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2015,Percent,0.82022,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2015,Percent,0.66683,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2015,Percent,0.40502,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2015,Percent,0.73913,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2015,Percent,0.58012,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2015,Percent,0.61333,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2015,Percent,0.88462,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2015,Percent,0.78278,SD13
+"Williamsburg, Greenpoint",English Language Learners,2015,Percent,0.42105,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2015,Percent,0.74468,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2015,Percent,0.70883,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2015,Percent,0.26374,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2015,Percent,0.70968,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2015,Percent,0.66502,SD15
+Bedford Stuyvesant,English Language Learners,2015,Percent,0,SD16
+Bedford Stuyvesant,Former English Language Learners,2015,Percent,0,SD16
+Bedford Stuyvesant,English Language Proficient,2015,Percent,0.49702,SD16
+Crown Heights,English Language Learners,2015,Percent,0.46108,SD17
+Crown Heights,Former English Language Learners,2015,Percent,0.85714,SD17
+Crown Heights,English Language Proficient,2015,Percent,0.66918,SD17
+"East Flatbush, Canarsie",English Language Learners,2015,Percent,0.51786,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2015,Percent,0.70833,SD18
+"East Flatbush, Canarsie",English Language Proficient,2015,Percent,0.58112,SD18
+East New York,English Language Learners,2015,Percent,0.28289,SD19
+East New York,Former English Language Learners,2015,Percent,0.7931,SD19
+East New York,English Language Proficient,2015,Percent,0.57899,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2015,Percent,0.34893,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2015,Percent,0.78894,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2015,Percent,0.75146,SD20
+"Gravesend, Coney Island",English Language Learners,2015,Percent,0.4055,SD21
+"Gravesend, Coney Island",Former English Language Learners,2015,Percent,0.75556,SD21
+"Gravesend, Coney Island",English Language Proficient,2015,Percent,0.71939,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2015,Percent,0.22222,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2015,Percent,0.77083,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2015,Percent,0.81333,SD22
+"Brownsville, Ocean Hill",English Language Learners,2015,Percent,0,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2015,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2015,Percent,0.40989,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2015,Percent,0.39955,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2015,Percent,0.75152,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2015,Percent,0.71979,SD24
+"Flushing, Whitestone",English Language Learners,2015,Percent,0.4185,SD25
+"Flushing, Whitestone",Former English Language Learners,2015,Percent,0.81818,SD25
+"Flushing, Whitestone",English Language Proficient,2015,Percent,0.69634,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2015,Percent,0.524,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2015,Percent,0.84496,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2015,Percent,0.82555,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2015,Percent,0.30033,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2015,Percent,0.75714,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2015,Percent,0.609,SD27
+"Jamaica, Forest Hills",English Language Learners,2015,Percent,0.38021,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2015,Percent,0.79104,SD28
+"Jamaica, Forest Hills",English Language Proficient,2015,Percent,0.80422,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2015,Percent,0.25806,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2015,Percent,0.6875,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2015,Percent,0.64542,SD29
+"Long Island City, Astoria",English Language Learners,2015,Percent,0.47826,SD30
+"Long Island City, Astoria",Former English Language Learners,2015,Percent,0.74684,SD30
+"Long Island City, Astoria",English Language Proficient,2015,Percent,0.7618,SD30
+Staten Island,English Language Learners,2015,Percent,0.26126,SD31
+Staten Island,Former English Language Learners,2015,Percent,0.57143,SD31
+Staten Island,English Language Proficient,2015,Percent,0.77181,SD31
+Bushwick,English Language Learners,2015,Percent,0.30303,SD32
+Bushwick,Former English Language Learners,2015,Percent,0.80769,SD32
+Bushwick,English Language Proficient,2015,Percent,0.56458,SD32
+New York City,English Language Learners,2014,Percent,0.32465,3651000
+New York City,Former English Language Learners,2014,Percent,0.69115,3651000
+New York City,English Language Proficient,2014,Percent,0.68018,3651000
+Bronx,English Language Learners,2014,Percent,0.30875,36005
+Bronx,Former English Language Learners,2014,Percent,0.66602,36005
+Bronx,English Language Proficient,2014,Percent,0.58463,36005
+Brooklyn,English Language Proficient,2014,Percent,0.32566,36047
+Brooklyn,Former English Language Learners,2014,Percent,0.70435,36047
+Brooklyn,English Language Learners,2014,Percent,0.67123,36047
+Manhattan,English Language Proficient,2014,Percent,0.31966,36061
+Manhattan,Former English Language Learners,2014,Percent,0.68534,36061
+Manhattan,English Language Learners,2014,Percent,0.71055,36061
+Queens,English Language Proficient,2014,Percent,0.343,36081
+Queens,Former English Language Learners,2014,Percent,0.70189,36081
+Queens,English Language Learners,2014,Percent,0.70621,36081
+Staten Island,English Language Proficient,2014,Percent,0.31429,36085
+Staten Island,Former English Language Learners,2014,Percent,0.68831,36085
+Staten Island,English Language Learners,2014,Percent,0.77537,36085
+Lower East Side,English Language Learners,2014,Percent,0.26038,SD1
+Lower East Side,Former English Language Learners,2014,Percent,0.7,SD1
+Lower East Side,English Language Proficient,2014,Percent,0.5873,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2014,Percent,0.34964,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2014,Percent,0.70588,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2014,Percent,0.72405,SD2
+Upper West Side,English Language Learners,2014,Percent,0.29412,SD3
+Upper West Side,Former English Language Learners,2014,Percent,0.54545,SD3
+Upper West Side,English Language Proficient,2014,Percent,0.7357,SD3
+East Harlem,English Language Learners,2014,Percent,0.23333,SD4
+East Harlem,Former English Language Learners,2014,Percent,0.7619,SD4
+East Harlem,English Language Proficient,2014,Percent,0.77752,SD4
+Central Harlem,English Language Learners,2014,Percent,0.18966,SD5
+Central Harlem,Former English Language Learners,2014,Percent,0.42857,SD5
+Central Harlem,English Language Proficient,2014,Percent,0.61816,SD5
+Washington Heights,English Language Learners,2014,Percent,0.31661,SD6
+Washington Heights,Former English Language Learners,2014,Percent,0.70968,SD6
+Washington Heights,English Language Proficient,2014,Percent,0.68118,SD6
+Mott Haven,English Language Learners,2014,Percent,0.22414,SD7
+Mott Haven,Former English Language Learners,2014,Percent,0.51667,SD7
+Mott Haven,English Language Proficient,2014,Percent,0.52247,SD7
+"Hunts Point, Port Morris",English Language Learners,2014,Percent,0.16908,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2014,Percent,0.53086,SD8
+"Hunts Point, Port Morris",English Language Proficient,2014,Percent,0.4745,SD8
+"East Tremont, Morris Heights",English Language Learners,2014,Percent,0.39865,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2014,Percent,0.67368,SD9
+"East Tremont, Morris Heights",English Language Proficient,2014,Percent,0.59346,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2014,Percent,0.27639,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2014,Percent,0.76596,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2014,Percent,0.66094,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2014,Percent,0.33333,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2014,Percent,0.75,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2014,Percent,0.64659,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2014,Percent,0.39385,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2014,Percent,0.63934,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2014,Percent,0.51119,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2014,Percent,0.55435,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2014,Percent,0.79167,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2014,Percent,0.78041,SD13
+"Williamsburg, Greenpoint",English Language Learners,2014,Percent,0.23418,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2014,Percent,0.52273,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2014,Percent,0.66275,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2014,Percent,0.28421,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2014,Percent,0.54545,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2014,Percent,0.60465,SD15
+Bedford Stuyvesant,English Language Learners,2014,Percent,0,SD16
+Bedford Stuyvesant,Former English Language Learners,2014,Percent,0,SD16
+Bedford Stuyvesant,English Language Proficient,2014,Percent,0.40294,SD16
+Crown Heights,English Language Learners,2014,Percent,0.34146,SD17
+Crown Heights,Former English Language Learners,2014,Percent,0.78723,SD17
+Crown Heights,English Language Proficient,2014,Percent,0.67798,SD17
+"East Flatbush, Canarsie",English Language Learners,2014,Percent,0.48649,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2014,Percent,0.7037,SD18
+"East Flatbush, Canarsie",English Language Proficient,2014,Percent,0.53433,SD18
+East New York,English Language Learners,2014,Percent,0.28571,SD19
+East New York,Former English Language Learners,2014,Percent,0.75,SD19
+East New York,English Language Proficient,2014,Percent,0.54493,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2014,Percent,0.27946,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2014,Percent,0.75253,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2014,Percent,0.7124,SD20
+"Gravesend, Coney Island",English Language Learners,2014,Percent,0.44231,SD21
+"Gravesend, Coney Island",Former English Language Learners,2014,Percent,0.72561,SD21
+"Gravesend, Coney Island",English Language Proficient,2014,Percent,0.72759,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2014,Percent,0.23364,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2014,Percent,0.6506,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2014,Percent,0.77479,SD22
+"Brownsville, Ocean Hill",English Language Learners,2014,Percent,0,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2014,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2014,Percent,0.36699,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2014,Percent,0.30604,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2014,Percent,0.70779,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2014,Percent,0.65117,SD24
+"Flushing, Whitestone",English Language Learners,2014,Percent,0.38843,SD25
+"Flushing, Whitestone",Former English Language Learners,2014,Percent,0.65823,SD25
+"Flushing, Whitestone",English Language Proficient,2014,Percent,0.66307,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2014,Percent,0.42667,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2014,Percent,0.75758,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2014,Percent,0.79788,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2014,Percent,0.25874,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2014,Percent,0.61765,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2014,Percent,0.58774,SD27
+"Jamaica, Forest Hills",English Language Learners,2014,Percent,0.28638,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2014,Percent,0.78481,SD28
+"Jamaica, Forest Hills",English Language Proficient,2014,Percent,0.78754,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2014,Percent,0.26667,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2014,Percent,0.7,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2014,Percent,0.63524,SD29
+"Long Island City, Astoria",English Language Learners,2014,Percent,0.36779,SD30
+"Long Island City, Astoria",Former English Language Learners,2014,Percent,0.67586,SD30
+"Long Island City, Astoria",English Language Proficient,2014,Percent,0.71732,SD30
+Staten Island,English Language Learners,2014,Percent,0.31429,SD31
+Staten Island,Former English Language Learners,2014,Percent,0.68831,SD31
+Staten Island,English Language Proficient,2014,Percent,0.77537,SD31
+Bushwick,English Language Learners,2014,Percent,0.31532,SD32
+Bushwick,Former English Language Learners,2014,Percent,0.65217,SD32
+Bushwick,English Language Proficient,2014,Percent,0.50252,SD32
+New York City,English Language Learners,2013,Percent,0.32281,3651000
+New York City,Former English Language Learners,2013,Percent,0.69916,3651000
+New York City,English Language Proficient,2013,Percent,0.64991,3651000
+Bronx,English Language Learners,2013,Percent,0.2686,36005
+Bronx,Former English Language Learners,2013,Percent,0.63797,36005
+Bronx,English Language Proficient,2013,Percent,0.56428,36005
+Brooklyn,English Language Proficient,2013,Percent,0.35335,36047
+Brooklyn,Former English Language Learners,2013,Percent,0.73123,36047
+Brooklyn,English Language Learners,2013,Percent,0.63996,36047
+Manhattan,English Language Proficient,2013,Percent,0.29574,36061
+Manhattan,Former English Language Learners,2013,Percent,0.66515,36061
+Manhattan,English Language Learners,2013,Percent,0.67607,36061
+Queens,English Language Proficient,2013,Percent,0.35983,36081
+Queens,Former English Language Learners,2013,Percent,0.75043,36081
+Queens,English Language Learners,2013,Percent,0.67786,36081
+Staten Island,English Language Proficient,2013,Percent,0.27966,36085
+Staten Island,Former English Language Learners,2013,Percent,0.63462,36085
+Staten Island,English Language Learners,2013,Percent,0.74137,36085
+Lower East Side,English Language Learners,2013,Percent,0.33668,SD1
+Lower East Side,Former English Language Learners,2013,Percent,0.23077,SD1
+Lower East Side,English Language Proficient,2013,Percent,0.57488,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2013,Percent,0.2949,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2013,Percent,0.67984,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2013,Percent,0.68982,SD2
+Upper West Side,English Language Learners,2013,Percent,0.17692,SD3
+Upper West Side,Former English Language Learners,2013,Percent,0.5102,SD3
+Upper West Side,English Language Proficient,2013,Percent,0.68387,SD3
+East Harlem,English Language Learners,2013,Percent,0.26829,SD4
+East Harlem,Former English Language Learners,2013,Percent,0.62069,SD4
+East Harlem,English Language Proficient,2013,Percent,0.74944,SD4
+Central Harlem,English Language Learners,2013,Percent,0.09091,SD5
+Central Harlem,Former English Language Learners,2013,Percent,0.86667,SD5
+Central Harlem,English Language Proficient,2013,Percent,0.61161,SD5
+Washington Heights,English Language Learners,2013,Percent,0.36927,SD6
+Washington Heights,Former English Language Learners,2013,Percent,0.7625,SD6
+Washington Heights,English Language Proficient,2013,Percent,0.62685,SD6
+Mott Haven,English Language Learners,2013,Percent,0.204,SD7
+Mott Haven,Former English Language Learners,2013,Percent,0.47619,SD7
+Mott Haven,English Language Proficient,2013,Percent,0.48812,SD7
+"Hunts Point, Port Morris",English Language Learners,2013,Percent,0.09091,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2013,Percent,0.54545,SD8
+"Hunts Point, Port Morris",English Language Proficient,2013,Percent,0.4461,SD8
+"East Tremont, Morris Heights",English Language Learners,2013,Percent,0.34975,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2013,Percent,0.61538,SD9
+"East Tremont, Morris Heights",English Language Proficient,2013,Percent,0.61337,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2013,Percent,0.25926,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2013,Percent,0.72549,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2013,Percent,0.64854,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2013,Percent,0.33493,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2013,Percent,0.70423,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2013,Percent,0.60733,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2013,Percent,0.30836,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2013,Percent,0.64865,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2013,Percent,0.4623,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2013,Percent,0.54545,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2013,Percent,0.89474,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2013,Percent,0.7669,SD13
+"Williamsburg, Greenpoint",English Language Learners,2013,Percent,0.26761,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2013,Percent,0.66667,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2013,Percent,0.59046,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2013,Percent,0.25301,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2013,Percent,0.52941,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2013,Percent,0.62758,SD15
+Bedford Stuyvesant,English Language Learners,2013,Percent,0.15385,SD16
+Bedford Stuyvesant,Former English Language Learners,2013,Percent,0.72727,SD16
+Bedford Stuyvesant,English Language Proficient,2013,Percent,0.39326,SD16
+Crown Heights,English Language Learners,2013,Percent,0.43333,SD17
+Crown Heights,Former English Language Learners,2013,Percent,0.8,SD17
+Crown Heights,English Language Proficient,2013,Percent,0.61488,SD17
+"East Flatbush, Canarsie",English Language Learners,2013,Percent,0.44737,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2013,Percent,0.85714,SD18
+"East Flatbush, Canarsie",English Language Proficient,2013,Percent,0.49614,SD18
+East New York,English Language Learners,2013,Percent,0.23529,SD19
+East New York,Former English Language Learners,2013,Percent,0.65385,SD19
+East New York,English Language Proficient,2013,Percent,0.55691,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2013,Percent,0.34668,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2013,Percent,0.77941,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2013,Percent,0.70556,SD20
+"Gravesend, Coney Island",English Language Learners,2013,Percent,0.39896,SD21
+"Gravesend, Coney Island",Former English Language Learners,2013,Percent,0.73043,SD21
+"Gravesend, Coney Island",English Language Proficient,2013,Percent,0.69048,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2013,Percent,0.27309,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2013,Percent,0.61842,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2013,Percent,0.72554,SD22
+"Brownsville, Ocean Hill",English Language Learners,2013,Percent,0.125,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2013,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2013,Percent,0.34167,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2013,Percent,0.29695,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2013,Percent,0.73248,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2013,Percent,0.61507,SD24
+"Flushing, Whitestone",English Language Learners,2013,Percent,0.37681,SD25
+"Flushing, Whitestone",Former English Language Learners,2013,Percent,0.74324,SD25
+"Flushing, Whitestone",English Language Proficient,2013,Percent,0.63669,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2013,Percent,0.4902,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2013,Percent,0.83,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2013,Percent,0.79089,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2013,Percent,0.25806,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2013,Percent,0.625,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2013,Percent,0.54195,SD27
+"Jamaica, Forest Hills",English Language Learners,2013,Percent,0.3931,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2013,Percent,0.77049,SD28
+"Jamaica, Forest Hills",English Language Proficient,2013,Percent,0.76129,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2013,Percent,0.23333,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2013,Percent,0.55556,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2013,Percent,0.60305,SD29
+"Long Island City, Astoria",English Language Learners,2013,Percent,0.39648,SD30
+"Long Island City, Astoria",Former English Language Learners,2013,Percent,0.77419,SD30
+"Long Island City, Astoria",English Language Proficient,2013,Percent,0.69224,SD30
+Staten Island,English Language Learners,2013,Percent,0.27966,SD31
+Staten Island,Former English Language Learners,2013,Percent,0.63462,SD31
+Staten Island,English Language Proficient,2013,Percent,0.74137,SD31
+Bushwick,English Language Learners,2013,Percent,0.42466,SD32
+Bushwick,Former English Language Learners,2013,Percent,0.8,SD32
+Bushwick,English Language Proficient,2013,Percent,0.48311,SD32
+New York City,English Language Learners,2012,Percent,0.35397,3651000
+New York City,Former English Language Learners,2012,Percent,0.74272,3651000
+New York City,English Language Proficient,2012,Percent,0.63403,3651000
+Bronx,English Language Learners,2012,Percent,0.28293,36005
+Bronx,Former English Language Learners,2012,Percent,0.67801,36005
+Bronx,English Language Proficient,2012,Percent,0.54112,36005
+Brooklyn,English Language Proficient,2012,Percent,0.37595,36047
+Brooklyn,Former English Language Learners,2012,Percent,0.78855,36047
+Brooklyn,English Language Learners,2012,Percent,0.62302,36047
+Manhattan,English Language Proficient,2012,Percent,0.32787,36061
+Manhattan,Former English Language Learners,2012,Percent,0.73301,36061
+Manhattan,English Language Learners,2012,Percent,0.66469,36061
+Queens,English Language Proficient,2012,Percent,0.41641,36081
+Queens,Former English Language Learners,2012,Percent,0.75992,36081
+Queens,English Language Learners,2012,Percent,0.6647,36081
+Staten Island,English Language Proficient,2012,Percent,0.33333,36085
+Staten Island,Former English Language Learners,2012,Percent,0.71429,36085
+Staten Island,English Language Learners,2012,Percent,0.73428,36085
+Lower East Side,English Language Learners,2012,Percent,0.38983,SD1
+Lower East Side,Former English Language Learners,2012,Percent,0.86957,SD1
+Lower East Side,English Language Proficient,2012,Percent,0.59267,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2012,Percent,0.34324,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2012,Percent,0.74886,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2012,Percent,0.67872,SD2
+Upper West Side,English Language Learners,2012,Percent,0.26506,SD3
+Upper West Side,Former English Language Learners,2012,Percent,0.54545,SD3
+Upper West Side,English Language Proficient,2012,Percent,0.66906,SD3
+East Harlem,English Language Learners,2012,Percent,0.15385,SD4
+East Harlem,Former English Language Learners,2012,Percent,0.56,SD4
+East Harlem,English Language Proficient,2012,Percent,0.71597,SD4
+Central Harlem,English Language Learners,2012,Percent,0.19178,SD5
+Central Harlem,Former English Language Learners,2012,Percent,0.46154,SD5
+Central Harlem,English Language Proficient,2012,Percent,0.56794,SD5
+Washington Heights,English Language Learners,2012,Percent,0.33227,SD6
+Washington Heights,Former English Language Learners,2012,Percent,0.84091,SD6
+Washington Heights,English Language Proficient,2012,Percent,0.64712,SD6
+Mott Haven,English Language Learners,2012,Percent,0.264,SD7
+Mott Haven,Former English Language Learners,2012,Percent,0.64286,SD7
+Mott Haven,English Language Proficient,2012,Percent,0.52008,SD7
+"Hunts Point, Port Morris",English Language Learners,2012,Percent,0.14783,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2012,Percent,0.5,SD8
+"Hunts Point, Port Morris",English Language Proficient,2012,Percent,0.42542,SD8
+"East Tremont, Morris Heights",English Language Learners,2012,Percent,0.37197,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2012,Percent,0.75472,SD9
+"East Tremont, Morris Heights",English Language Proficient,2012,Percent,0.5908,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2012,Percent,0.28455,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2012,Percent,0.74576,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2012,Percent,0.62334,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2012,Percent,0.25217,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2012,Percent,0.72857,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2012,Percent,0.56933,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2012,Percent,0.3099,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2012,Percent,0.58974,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2012,Percent,0.39716,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2012,Percent,0.59184,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2012,Percent,0.93333,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2012,Percent,0.74058,SD13
+"Williamsburg, Greenpoint",English Language Learners,2012,Percent,0.30534,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2012,Percent,0.68,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2012,Percent,0.6679,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2012,Percent,0.26667,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2012,Percent,0.84615,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2012,Percent,0.54318,SD15
+Bedford Stuyvesant,English Language Learners,2012,Percent,0,SD16
+Bedford Stuyvesant,Former English Language Learners,2012,Percent,0,SD16
+Bedford Stuyvesant,English Language Proficient,2012,Percent,0.36161,SD16
+Crown Heights,English Language Learners,2012,Percent,0.40441,SD17
+Crown Heights,Former English Language Learners,2012,Percent,0.7619,SD17
+Crown Heights,English Language Proficient,2012,Percent,0.6007,SD17
+"East Flatbush, Canarsie",English Language Learners,2012,Percent,0.43421,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2012,Percent,0.89474,SD18
+"East Flatbush, Canarsie",English Language Proficient,2012,Percent,0.51554,SD18
+East New York,English Language Learners,2012,Percent,0.26923,SD19
+East New York,Former English Language Learners,2012,Percent,0.76667,SD19
+East New York,English Language Proficient,2012,Percent,0.56091,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2012,Percent,0.41564,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2012,Percent,0.82906,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2012,Percent,0.67308,SD20
+"Gravesend, Coney Island",English Language Learners,2012,Percent,0.41149,SD21
+"Gravesend, Coney Island",Former English Language Learners,2012,Percent,0.83036,SD21
+"Gravesend, Coney Island",English Language Proficient,2012,Percent,0.66396,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2012,Percent,0.32129,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2012,Percent,0.67105,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2012,Percent,0.71546,SD22
+"Brownsville, Ocean Hill",English Language Learners,2012,Percent,0,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2012,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2012,Percent,0.32045,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2012,Percent,0.41319,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2012,Percent,0.71818,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2012,Percent,0.61974,SD24
+"Flushing, Whitestone",English Language Learners,2012,Percent,0.41132,SD25
+"Flushing, Whitestone",Former English Language Learners,2012,Percent,0.78788,SD25
+"Flushing, Whitestone",English Language Proficient,2012,Percent,0.63056,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2012,Percent,0.5189,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2012,Percent,0.78992,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2012,Percent,0.79599,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2012,Percent,0.36828,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2012,Percent,0.72,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2012,Percent,0.53775,SD27
+"Jamaica, Forest Hills",English Language Learners,2012,Percent,0.39482,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2012,Percent,0.84884,SD28
+"Jamaica, Forest Hills",English Language Proficient,2012,Percent,0.73003,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2012,Percent,0.2,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2012,Percent,1,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2012,Percent,0.54764,SD29
+"Long Island City, Astoria",English Language Learners,2012,Percent,0.42553,SD30
+"Long Island City, Astoria",Former English Language Learners,2012,Percent,0.65909,SD30
+"Long Island City, Astoria",English Language Proficient,2012,Percent,0.67492,SD30
+Staten Island,English Language Learners,2012,Percent,0.33333,SD31
+Staten Island,Former English Language Learners,2012,Percent,0.71429,SD31
+Staten Island,English Language Proficient,2012,Percent,0.73428,SD31
+Bushwick,English Language Learners,2012,Percent,0.23932,SD32
+Bushwick,Former English Language Learners,2012,Percent,0.77273,SD32
+Bushwick,English Language Proficient,2012,Percent,0.45148,SD32
+New York City,English Language Learners,2011,Percent,0.39384,3651000
+New York City,Former English Language Learners,2011,Percent,0.75673,3651000
+New York City,English Language Proficient,2011,Percent,0.6344,3651000
+Bronx,English Language Learners,2011,Percent,0.32287,36005
+Bronx,Former English Language Learners,2011,Percent,0.73391,36005
+Bronx,English Language Proficient,2011,Percent,0.55368,36005
+Brooklyn,English Language Proficient,2011,Percent,0.42881,36047
+Brooklyn,Former English Language Learners,2011,Percent,0.7561,36047
+Brooklyn,English Language Learners,2011,Percent,0.61146,36047
+Manhattan,English Language Proficient,2011,Percent,0.36438,36061
+Manhattan,Former English Language Learners,2011,Percent,0.73656,36061
+Manhattan,English Language Learners,2011,Percent,0.66054,36061
+Queens,English Language Proficient,2011,Percent,0.44566,36081
+Queens,Former English Language Learners,2011,Percent,0.78871,36081
+Queens,English Language Learners,2011,Percent,0.67803,36081
+Staten Island,English Language Proficient,2011,Percent,0.32609,36085
+Staten Island,Former English Language Learners,2011,Percent,0.77193,36085
+Staten Island,English Language Learners,2011,Percent,0.73341,36085
+Lower East Side,English Language Learners,2011,Percent,0.48344,SD1
+Lower East Side,Former English Language Learners,2011,Percent,0.68182,SD1
+Lower East Side,English Language Proficient,2011,Percent,0.58036,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2011,Percent,0.37056,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2011,Percent,0.76555,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2011,Percent,0.67014,SD2
+Upper West Side,English Language Learners,2011,Percent,0.31349,SD3
+Upper West Side,Former English Language Learners,2011,Percent,0.58333,SD3
+Upper West Side,English Language Proficient,2011,Percent,0.65959,SD3
+East Harlem,English Language Learners,2011,Percent,0.33333,SD4
+East Harlem,Former English Language Learners,2011,Percent,0.64,SD4
+East Harlem,English Language Proficient,2011,Percent,0.6576,SD4
+Central Harlem,English Language Learners,2011,Percent,0.23404,SD5
+Central Harlem,Former English Language Learners,2011,Percent,0.66667,SD5
+Central Harlem,English Language Proficient,2011,Percent,0.63451,SD5
+Washington Heights,English Language Learners,2011,Percent,0.34932,SD6
+Washington Heights,Former English Language Learners,2011,Percent,0.79412,SD6
+Washington Heights,English Language Proficient,2011,Percent,0.69,SD6
+Mott Haven,English Language Learners,2011,Percent,0.26697,SD7
+Mott Haven,Former English Language Learners,2011,Percent,0.71642,SD7
+Mott Haven,English Language Proficient,2011,Percent,0.52344,SD7
+"Hunts Point, Port Morris",English Language Learners,2011,Percent,0.19549,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2011,Percent,0.57353,SD8
+"Hunts Point, Port Morris",English Language Proficient,2011,Percent,0.46229,SD8
+"East Tremont, Morris Heights",English Language Learners,2011,Percent,0.38835,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2011,Percent,0.80247,SD9
+"East Tremont, Morris Heights",English Language Proficient,2011,Percent,0.58918,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2011,Percent,0.34761,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2011,Percent,0.72794,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2011,Percent,0.64535,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2011,Percent,0.29688,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2011,Percent,0.8871,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2011,Percent,0.57623,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2011,Percent,0.3452,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2011,Percent,0.69231,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2011,Percent,0.39905,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2011,Percent,0.60345,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2011,Percent,0.85,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2011,Percent,0.73938,SD13
+"Williamsburg, Greenpoint",English Language Learners,2011,Percent,0.38636,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2011,Percent,0.78788,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2011,Percent,0.64444,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2011,Percent,0.29167,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2011,Percent,0.45455,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2011,Percent,0.50353,SD15
+Bedford Stuyvesant,English Language Learners,2011,Percent,0,SD16
+Bedford Stuyvesant,Former English Language Learners,2011,Percent,0,SD16
+Bedford Stuyvesant,English Language Proficient,2011,Percent,0.42584,SD16
+Crown Heights,English Language Learners,2011,Percent,0.35979,SD17
+Crown Heights,Former English Language Learners,2011,Percent,0.8125,SD17
+Crown Heights,English Language Proficient,2011,Percent,0.56376,SD17
+"East Flatbush, Canarsie",English Language Learners,2011,Percent,0.55405,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2011,Percent,0.70833,SD18
+"East Flatbush, Canarsie",English Language Proficient,2011,Percent,0.41882,SD18
+East New York,English Language Learners,2011,Percent,0.32364,SD19
+East New York,Former English Language Learners,2011,Percent,0.80769,SD19
+East New York,English Language Proficient,2011,Percent,0.57663,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2011,Percent,0.50676,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2011,Percent,0.85185,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2011,Percent,0.66069,SD20
+"Gravesend, Coney Island",English Language Learners,2011,Percent,0.36691,SD21
+"Gravesend, Coney Island",Former English Language Learners,2011,Percent,0.73585,SD21
+"Gravesend, Coney Island",English Language Proficient,2011,Percent,0.62863,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2011,Percent,0.47716,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2011,Percent,0.69091,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2011,Percent,0.74314,SD22
+"Brownsville, Ocean Hill",English Language Learners,2011,Percent,0,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2011,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2011,Percent,0.3863,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2011,Percent,0.419,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2011,Percent,0.72143,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2011,Percent,0.65426,SD24
+"Flushing, Whitestone",English Language Learners,2011,Percent,0.44732,SD25
+"Flushing, Whitestone",Former English Language Learners,2011,Percent,0.77778,SD25
+"Flushing, Whitestone",English Language Proficient,2011,Percent,0.63948,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2011,Percent,0.52215,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2011,Percent,0.88776,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2011,Percent,0.78651,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2011,Percent,0.39535,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2011,Percent,0.68,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2011,Percent,0.56594,SD27
+"Jamaica, Forest Hills",English Language Learners,2011,Percent,0.46403,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2011,Percent,0.80519,SD28
+"Jamaica, Forest Hills",English Language Proficient,2011,Percent,0.7282,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2011,Percent,0,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2011,Percent,0,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2011,Percent,0.57927,SD29
+"Long Island City, Astoria",English Language Learners,2011,Percent,0.46741,SD30
+"Long Island City, Astoria",Former English Language Learners,2011,Percent,0.83178,SD30
+"Long Island City, Astoria",English Language Proficient,2011,Percent,0.6629,SD30
+Staten Island,English Language Learners,2011,Percent,0.32609,SD31
+Staten Island,Former English Language Learners,2011,Percent,0.77193,SD31
+Staten Island,English Language Proficient,2011,Percent,0.73341,SD31
+Bushwick,English Language Learners,2011,Percent,0.39844,SD32
+Bushwick,Former English Language Learners,2011,Percent,0.63158,SD32
+Bushwick,English Language Proficient,2011,Percent,0.48548,SD32
+New York City,English Language Learners,2010,Percent,0.41464,3651000
+New York City,Former English Language Learners,2010,Percent,0.77605,3651000
+New York City,English Language Proficient,2010,Percent,0.6324,3651000
+Bronx,English Language Learners,2010,Percent,0.36911,36005
+Bronx,Former English Language Learners,2010,Percent,0.75497,36005
+Bronx,English Language Proficient,2010,Percent,0.57142,36005
+Brooklyn,English Language Proficient,2010,Percent,0.41495,36047
+Brooklyn,Former English Language Learners,2010,Percent,0.79217,36047
+Brooklyn,English Language Learners,2010,Percent,0.60374,36047
+Manhattan,English Language Proficient,2010,Percent,0.41325,36061
+Manhattan,Former English Language Learners,2010,Percent,0.78593,36061
+Manhattan,English Language Learners,2010,Percent,0.66164,36061
+Queens,English Language Proficient,2010,Percent,0.44958,36081
+Queens,Former English Language Learners,2010,Percent,0.76778,36081
+Queens,English Language Learners,2010,Percent,0.66315,36081
+Staten Island,English Language Proficient,2010,Percent,0.48366,36085
+Staten Island,Former English Language Learners,2010,Percent,0.82051,36085
+Staten Island,English Language Learners,2010,Percent,0.73453,36085
+Lower East Side,English Language Learners,2010,Percent,0.50233,SD1
+Lower East Side,Former English Language Learners,2010,Percent,0.71429,SD1
+Lower East Side,English Language Proficient,2010,Percent,0.63757,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2010,Percent,0.40439,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2010,Percent,0.78109,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2010,Percent,0.66969,SD2
+Upper West Side,English Language Learners,2010,Percent,0.36364,SD3
+Upper West Side,Former English Language Learners,2010,Percent,0.84375,SD3
+Upper West Side,English Language Proficient,2010,Percent,0.68941,SD3
+East Harlem,English Language Learners,2010,Percent,0.37255,SD4
+East Harlem,Former English Language Learners,2010,Percent,0.85714,SD4
+East Harlem,English Language Proficient,2010,Percent,0.72954,SD4
+Central Harlem,English Language Learners,2010,Percent,0.2069,SD5
+Central Harlem,Former English Language Learners,2010,Percent,0.55556,SD5
+Central Harlem,English Language Proficient,2010,Percent,0.62896,SD5
+Washington Heights,English Language Learners,2010,Percent,0.51866,SD6
+Washington Heights,Former English Language Learners,2010,Percent,0.84906,SD6
+Washington Heights,English Language Proficient,2010,Percent,0.70185,SD6
+Mott Haven,English Language Learners,2010,Percent,0.2963,SD7
+Mott Haven,Former English Language Learners,2010,Percent,0.64706,SD7
+Mott Haven,English Language Proficient,2010,Percent,0.54794,SD7
+"Hunts Point, Port Morris",English Language Learners,2010,Percent,0.22568,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2010,Percent,0.61404,SD8
+"Hunts Point, Port Morris",English Language Proficient,2010,Percent,0.45415,SD8
+"East Tremont, Morris Heights",English Language Learners,2010,Percent,0.44674,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2010,Percent,0.90323,SD9
+"East Tremont, Morris Heights",English Language Proficient,2010,Percent,0.63906,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2010,Percent,0.3865,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2010,Percent,0.79787,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2010,Percent,0.6556,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2010,Percent,0.41869,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2010,Percent,0.84746,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2010,Percent,0.60378,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2010,Percent,0.42857,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2010,Percent,0.69231,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2010,Percent,0.50579,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2010,Percent,0.66964,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2010,Percent,0.86364,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2010,Percent,0.74234,SD13
+"Williamsburg, Greenpoint",English Language Learners,2010,Percent,0.42017,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2010,Percent,0.75,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2010,Percent,0.67303,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2010,Percent,0.26154,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2010,Percent,0.28571,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2010,Percent,0.51481,SD15
+Bedford Stuyvesant,English Language Learners,2010,Percent,0,SD16
+Bedford Stuyvesant,Former English Language Learners,2010,Percent,0,SD16
+Bedford Stuyvesant,English Language Proficient,2010,Percent,0.41186,SD16
+Crown Heights,English Language Learners,2010,Percent,0.34932,SD17
+Crown Heights,Former English Language Learners,2010,Percent,0.66667,SD17
+Crown Heights,English Language Proficient,2010,Percent,0.6,SD17
+"East Flatbush, Canarsie",English Language Learners,2010,Percent,0.54464,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2010,Percent,0.58333,SD18
+"East Flatbush, Canarsie",English Language Proficient,2010,Percent,0.32347,SD18
+East New York,English Language Learners,2010,Percent,0.31034,SD19
+East New York,Former English Language Learners,2010,Percent,0.78571,SD19
+East New York,English Language Proficient,2010,Percent,0.51167,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2010,Percent,0.45938,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2010,Percent,0.85333,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2010,Percent,0.64554,SD20
+"Gravesend, Coney Island",English Language Learners,2010,Percent,0.38968,SD21
+"Gravesend, Coney Island",Former English Language Learners,2010,Percent,0.8,SD21
+"Gravesend, Coney Island",English Language Proficient,2010,Percent,0.6222,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2010,Percent,0.45918,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2010,Percent,0.875,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2010,Percent,0.74758,SD22
+"Brownsville, Ocean Hill",English Language Learners,2010,Percent,0,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2010,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2010,Percent,0.41954,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2010,Percent,0.41297,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2010,Percent,0.71287,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2010,Percent,0.62216,SD24
+"Flushing, Whitestone",English Language Learners,2010,Percent,0.48963,SD25
+"Flushing, Whitestone",Former English Language Learners,2010,Percent,0.76923,SD25
+"Flushing, Whitestone",English Language Proficient,2010,Percent,0.60731,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2010,Percent,0.49245,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2010,Percent,0.79661,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2010,Percent,0.76927,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2010,Percent,0.42478,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2010,Percent,0.80702,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2010,Percent,0.54556,SD27
+"Jamaica, Forest Hills",English Language Learners,2010,Percent,0.54307,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2010,Percent,0.85246,SD28
+"Jamaica, Forest Hills",English Language Proficient,2010,Percent,0.75518,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2010,Percent,0.26667,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2010,Percent,0.83333,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2010,Percent,0.61364,SD29
+"Long Island City, Astoria",English Language Learners,2010,Percent,0.44061,SD30
+"Long Island City, Astoria",Former English Language Learners,2010,Percent,0.6988,SD30
+"Long Island City, Astoria",English Language Proficient,2010,Percent,0.66457,SD30
+Staten Island,English Language Learners,2010,Percent,0.48684,SD31
+Staten Island,Former English Language Learners,2010,Percent,0.82051,SD31
+Staten Island,English Language Proficient,2010,Percent,0.7397,SD31
+Bushwick,English Language Learners,2010,Percent,0.46316,SD32
+Bushwick,Former English Language Learners,2010,Percent,0.77778,SD32
+Bushwick,English Language Proficient,2010,Percent,0.52896,SD32
+New York City,English Language Learners,2009,Percent,0.3966,3651000
+New York City,Former English Language Learners,2009,Percent,0.77076,3651000
+New York City,English Language Proficient,2009,Percent,0.61079,3651000
+Bronx,English Language Learners,2009,Percent,0.35773,36005
+Bronx,Former English Language Learners,2009,Percent,0.70775,36005
+Bronx,English Language Proficient,2009,Percent,0.56629,36005
+Brooklyn,English Language Proficient,2009,Percent,0.38919,36047
+Brooklyn,Former English Language Learners,2009,Percent,0.7847,36047
+Brooklyn,English Language Learners,2009,Percent,0.58012,36047
+Manhattan,English Language Proficient,2009,Percent,0.42693,36061
+Manhattan,Former English Language Learners,2009,Percent,0.73899,36061
+Manhattan,English Language Learners,2009,Percent,0.6438,36061
+Queens,English Language Proficient,2009,Percent,0.41843,36081
+Queens,Former English Language Learners,2009,Percent,0.82174,36081
+Queens,English Language Learners,2009,Percent,0.6308,36081
+Staten Island,English Language Proficient,2009,Percent,0.31551,36085
+Staten Island,Former English Language Learners,2009,Percent,0.78049,36085
+Staten Island,English Language Learners,2009,Percent,0.71054,36085
+Lower East Side,English Language Learners,2009,Percent,0.45665,SD1
+Lower East Side,Former English Language Learners,2009,Percent,0.92308,SD1
+Lower East Side,English Language Proficient,2009,Percent,0.61571,SD1
+"Stuyvesant Town, Upper E. Side",English Language Learners,2009,Percent,0.41926,SD2
+"Stuyvesant Town, Upper E. Side",Former English Language Learners,2009,Percent,0.71,SD2
+"Stuyvesant Town, Upper E. Side",English Language Proficient,2009,Percent,0.64932,SD2
+Upper West Side,English Language Learners,2009,Percent,0.41549,SD3
+Upper West Side,Former English Language Learners,2009,Percent,0.775,SD3
+Upper West Side,English Language Proficient,2009,Percent,0.67956,SD3
+East Harlem,English Language Learners,2009,Percent,0.43396,SD4
+East Harlem,Former English Language Learners,2009,Percent,0.68421,SD4
+East Harlem,English Language Proficient,2009,Percent,0.68027,SD4
+Central Harlem,English Language Learners,2009,Percent,0,SD5
+Central Harlem,Former English Language Learners,2009,Percent,0,SD5
+Central Harlem,English Language Proficient,2009,Percent,0.64671,SD5
+Washington Heights,English Language Learners,2009,Percent,0.53846,SD6
+Washington Heights,Former English Language Learners,2009,Percent,0.86842,SD6
+Washington Heights,English Language Proficient,2009,Percent,0.74743,SD6
+Mott Haven,English Language Learners,2009,Percent,0.23188,SD7
+Mott Haven,Former English Language Learners,2009,Percent,0.68182,SD7
+Mott Haven,English Language Proficient,2009,Percent,0.5316,SD7
+"Hunts Point, Port Morris",English Language Learners,2009,Percent,0.27609,SD8
+"Hunts Point, Port Morris",Former English Language Learners,2009,Percent,0.60377,SD8
+"Hunts Point, Port Morris",English Language Proficient,2009,Percent,0.42993,SD8
+"East Tremont, Morris Heights",English Language Learners,2009,Percent,0.47753,SD9
+"East Tremont, Morris Heights",Former English Language Learners,2009,Percent,0.80645,SD9
+"East Tremont, Morris Heights",English Language Proficient,2009,Percent,0.68721,SD9
+"Riverdale, Kingsbridge, Fordham",English Language Learners,2009,Percent,0.37394,SD10
+"Riverdale, Kingsbridge, Fordham",Former English Language Learners,2009,Percent,0.78723,SD10
+"Riverdale, Kingsbridge, Fordham",English Language Proficient,2009,Percent,0.65284,SD10
+"Eastchester, Baychester, Co-op City",English Language Learners,2009,Percent,0.39216,SD11
+"Eastchester, Baychester, Co-op City",Former English Language Learners,2009,Percent,0.67797,SD11
+"Eastchester, Baychester, Co-op City",English Language Proficient,2009,Percent,0.5904,SD11
+"Crotona Park, Morrisania, Melrose",English Language Learners,2009,Percent,0.41463,SD12
+"Crotona Park, Morrisania, Melrose",Former English Language Learners,2009,Percent,0.58333,SD12
+"Crotona Park, Morrisania, Melrose",English Language Proficient,2009,Percent,0.4972,SD12
+"Brooklyn Hts, Downtown Brooklyn",English Language Learners,2009,Percent,0.60241,SD13
+"Brooklyn Hts, Downtown Brooklyn",Former English Language Learners,2009,Percent,0.86364,SD13
+"Brooklyn Hts, Downtown Brooklyn",English Language Proficient,2009,Percent,0.74648,SD13
+"Williamsburg, Greenpoint",English Language Learners,2009,Percent,0.46429,SD14
+"Williamsburg, Greenpoint",Former English Language Learners,2009,Percent,0.85,SD14
+"Williamsburg, Greenpoint",English Language Proficient,2009,Percent,0.65801,SD14
+"S. Brooklyn, Park Slope, Sunset Park",English Language Learners,2009,Percent,0.17391,SD15
+"S. Brooklyn, Park Slope, Sunset Park",Former English Language Learners,2009,Percent,0.55556,SD15
+"S. Brooklyn, Park Slope, Sunset Park",English Language Proficient,2009,Percent,0.52826,SD15
+Bedford Stuyvesant,English Language Learners,2009,Percent,0.2,SD16
+Bedford Stuyvesant,Former English Language Learners,2009,Percent,0,SD16
+Bedford Stuyvesant,English Language Proficient,2009,Percent,0.394,SD16
+Crown Heights,English Language Learners,2009,Percent,0.42169,SD17
+Crown Heights,Former English Language Learners,2009,Percent,0.91304,SD17
+Crown Heights,English Language Proficient,2009,Percent,0.59593,SD17
+"East Flatbush, Canarsie",English Language Learners,2009,Percent,0.46626,SD18
+"East Flatbush, Canarsie",Former English Language Learners,2009,Percent,0.90909,SD18
+"East Flatbush, Canarsie",English Language Proficient,2009,Percent,0.31553,SD18
+East New York,English Language Learners,2009,Percent,0.25105,SD19
+East New York,Former English Language Learners,2009,Percent,0.72222,SD19
+East New York,English Language Proficient,2009,Percent,0.51192,SD19
+"Bay Ridge, Bensonhurst",English Language Learners,2009,Percent,0.44044,SD20
+"Bay Ridge, Bensonhurst",Former English Language Learners,2009,Percent,0.74242,SD20
+"Bay Ridge, Bensonhurst",English Language Proficient,2009,Percent,0.617,SD20
+"Gravesend, Coney Island",English Language Learners,2009,Percent,0.31193,SD21
+"Gravesend, Coney Island",Former English Language Learners,2009,Percent,0.76667,SD21
+"Gravesend, Coney Island",English Language Proficient,2009,Percent,0.60453,SD21
+"Flatbush, Midwood, Sheepshead Bay",English Language Learners,2009,Percent,0.39698,SD22
+"Flatbush, Midwood, Sheepshead Bay",Former English Language Learners,2009,Percent,0.79592,SD22
+"Flatbush, Midwood, Sheepshead Bay",English Language Proficient,2009,Percent,0.70514,SD22
+"Brownsville, Ocean Hill",English Language Learners,2009,Percent,0,SD23
+"Brownsville, Ocean Hill",Former English Language Learners,2009,Percent,0,SD23
+"Brownsville, Ocean Hill",English Language Proficient,2009,Percent,0.44822,SD23
+"Sunnyside, Woodside, Jackson Hts",English Language Learners,2009,Percent,0.4314,SD24
+"Sunnyside, Woodside, Jackson Hts",Former English Language Learners,2009,Percent,0.83495,SD24
+"Sunnyside, Woodside, Jackson Hts",English Language Proficient,2009,Percent,0.60054,SD24
+"Flushing, Whitestone",English Language Learners,2009,Percent,0.44389,SD25
+"Flushing, Whitestone",Former English Language Learners,2009,Percent,0.77358,SD25
+"Flushing, Whitestone",English Language Proficient,2009,Percent,0.58863,SD25
+"Bayside, Douglaston, Little Neck",English Language Learners,2009,Percent,0.51009,SD26
+"Bayside, Douglaston, Little Neck",Former English Language Learners,2009,Percent,0.84848,SD26
+"Bayside, Douglaston, Little Neck",English Language Proficient,2009,Percent,0.78173,SD26
+"Jamaica, Howard Beach, Rockaways",English Language Learners,2009,Percent,0.28395,SD27
+"Jamaica, Howard Beach, Rockaways",Former English Language Learners,2009,Percent,0.79487,SD27
+"Jamaica, Howard Beach, Rockaways",English Language Proficient,2009,Percent,0.47658,SD27
+"Jamaica, Forest Hills",English Language Learners,2009,Percent,0.47034,SD28
+"Jamaica, Forest Hills",Former English Language Learners,2009,Percent,0.89773,SD28
+"Jamaica, Forest Hills",English Language Proficient,2009,Percent,0.72847,SD28
+"Queens Village, Rosedale, Hollis",English Language Learners,2009,Percent,0,SD29
+"Queens Village, Rosedale, Hollis",Former English Language Learners,2009,Percent,0,SD29
+"Queens Village, Rosedale, Hollis",English Language Proficient,2009,Percent,0.61934,SD29
+"Long Island City, Astoria",English Language Learners,2009,Percent,0.41683,SD30
+"Long Island City, Astoria",Former English Language Learners,2009,Percent,0.71622,SD30
+"Long Island City, Astoria",English Language Proficient,2009,Percent,0.56789,SD30
+Staten Island,English Language Learners,2009,Percent,0.32418,SD31
+Staten Island,Former English Language Learners,2009,Percent,0.8,SD31
+Staten Island,English Language Proficient,2009,Percent,0.71429,SD31
+Bushwick,English Language Learners,2009,Percent,0.44118,SD32
+Bushwick,Former English Language Learners,2009,Percent,0.68182,SD32
+Bushwick,English Language Proficient,2009,Percent,0.48193,SD32

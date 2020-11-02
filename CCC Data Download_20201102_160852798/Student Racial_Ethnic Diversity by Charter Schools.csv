@@ -1,0 +1,2729 @@
+"Name","Student Racial/Ethnic Diversity by Charter Schools"
+"Description","Diversity refers to the racial/ethnic makeup of students at middle schools within a specific geography, using the DOE's categories of Asian, Black, Hispanic, White, and Multiple Race Categories Not Represented. School diversity is determined in the following way:<br />
+- Diverse (No one group exceeds 50 percent and no two groups exceed 80 percent);<br />
+- Predominantly White (White students make up 50+ percent and no other group exceeds 20 percent);<br />
+- Predominantly Asian (Asian students make up 50+ percent and no other group exceeds 20 percent);<br />
+- Predominantly White + Asian (White and Asian students make up 80+ percent combined);<br />
+- Predominantly Black (Black students make up 50+ percent and no other group exceeds 20 percent);<br />
+- Predominantly Hispanic (Hispanic students make up 50+ percent and no other group exceeds 20 percent);<br />
+- Predominantly Black + Hispanic (Black and Hispanic students make up 80+ percent combined)."
+"Source Notes","CCC analysis of New York City Department of Education, Demographic Snapshots (School Year 2018-19, 2019-20); retrieved from https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/information-and-data-overview"
+"Notes","Counts and percentages account for all levels of instruction in charter schools only."
+
+Location,Charter Schools,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,Diverse,2019,Number,0,101
+Greenwich Village,Diverse,2019,Number,0,102
+Lower East Side,Diverse,2019,Number,0,103
+Chelsea/Clinton,Diverse,2019,Number,2,104
+Midtown Business District,Diverse,2019,Number,0,105
+Murray Hill/Stuyvesant,Diverse,2019,Number,1,106
+Upper West Side,Diverse,2019,Number,1,107
+Upper East Side,Diverse,2019,Number,0,108
+Manhattanville,Diverse,2019,Number,0,109
+Central Harlem,Diverse,2019,Number,1,110
+East Harlem,Diverse,2019,Number,1,111
+Washington Heights,Diverse,2019,Number,0,112
+Mott Haven,Diverse,2019,Number,0,201
+Hunts Point,Diverse,2019,Number,0,202
+Morrisania,Diverse,2019,Number,0,203
+Concourse/Highbridge,Diverse,2019,Number,0,204
+University Heights,Diverse,2019,Number,0,205
+East Tremont,Diverse,2019,Number,0,206
+Bedford Park,Diverse,2019,Number,0,207
+Riverdale,Diverse,2019,Number,0,208
+Unionport/Soundview,Diverse,2019,Number,1,209
+Throgs Neck,Diverse,2019,Number,0,210
+Pelham Parkway,Diverse,2019,Number,1,211
+Williamsbridge,Diverse,2019,Number,0,212
+Williamsburg/Greenpoint,Diverse,2019,Number,1,301
+Fort Greene/Brooklyn Hts,Diverse,2019,Number,3,302
+Bedford Stuyvesant,Diverse,2019,Number,1,303
+Bushwick,Diverse,2019,Number,0,304
+East New York,Diverse,2019,Number,0,305
+Park Slope,Diverse,2019,Number,1,306
+Sunset Park,Diverse,2019,Number,3,307
+Crown Heights North,Diverse,2019,Number,0,308
+Crown Heights South,Diverse,2019,Number,0,309
+Bay Ridge,Diverse,2019,Number,0,310
+Bensonhurst,Diverse,2019,Number,1,311
+Borough Park,Diverse,2019,Number,0,312
+Coney Island,Diverse,2019,Number,1,313
+Flatbush/Midwood,Diverse,2019,Number,0,314
+Sheepshead Bay,Diverse,2019,Number,0,315
+Brownsville,Diverse,2019,Number,0,316
+East Flatbush,Diverse,2019,Number,0,317
+Canarsie,Diverse,2019,Number,1,318
+Astoria,Diverse,2019,Number,3,401
+Sunnyside/Woodside,Diverse,2019,Number,0,402
+Jackson Heights,Diverse,2019,Number,0,403
+Elmhurst/Corona,Diverse,2019,Number,0,404
+Ridgewood/Glendale,Diverse,2019,Number,1,405
+Rego Park/Forest Hills,Diverse,2019,Number,0,406
+Flushing,Diverse,2019,Number,0,407
+Fresh Meadows/Briarwood,Diverse,2019,Number,0,408
+Woodhaven,Diverse,2019,Number,0,409
+Howard Beach,Diverse,2019,Number,0,410
+Bayside,Diverse,2019,Number,0,411
+Jamaica/St. Albans,Diverse,2019,Number,0,412
+Queens Village,Diverse,2019,Number,0,413
+The Rockaways,Diverse,2019,Number,0,414
+St. George,Diverse,2019,Number,0,501
+South Beach,Diverse,2019,Number,2,502
+Tottenville,Diverse,2019,Number,0,503
+Battery Park/Tribeca,Diverse,2019,Percent,0,101
+Greenwich Village,Diverse,2019,Percent,0,102
+Lower East Side,Diverse,2019,Percent,0,103
+Chelsea/Clinton,Diverse,2019,Percent,1,104
+Midtown Business District,Diverse,2019,Percent,0,105
+Murray Hill/Stuyvesant,Diverse,2019,Percent,1,106
+Upper West Side,Diverse,2019,Percent,1,107
+Upper East Side,Diverse,2019,Percent,0,108
+Manhattanville,Diverse,2019,Percent,0,109
+Central Harlem,Diverse,2019,Percent,0.059,110
+East Harlem,Diverse,2019,Percent,0.077,111
+Washington Heights,Diverse,2019,Percent,0,112
+Mott Haven,Diverse,2019,Percent,0,201
+Hunts Point,Diverse,2019,Percent,0,202
+Morrisania,Diverse,2019,Percent,0,203
+Concourse/Highbridge,Diverse,2019,Percent,0,204
+University Heights,Diverse,2019,Percent,0,205
+East Tremont,Diverse,2019,Percent,0,206
+Bedford Park,Diverse,2019,Percent,0,207
+Riverdale,Diverse,2019,Percent,0,208
+Unionport/Soundview,Diverse,2019,Percent,0.25,209
+Throgs Neck,Diverse,2019,Percent,0,210
+Pelham Parkway,Diverse,2019,Percent,0.143,211
+Williamsbridge,Diverse,2019,Percent,0,212
+Williamsburg/Greenpoint,Diverse,2019,Percent,0.2,301
+Fort Greene/Brooklyn Hts,Diverse,2019,Percent,0.375,302
+Bedford Stuyvesant,Diverse,2019,Percent,0.063,303
+Bushwick,Diverse,2019,Percent,0,304
+East New York,Diverse,2019,Percent,0,305
+Park Slope,Diverse,2019,Percent,0.25,306
+Sunset Park,Diverse,2019,Percent,1,307
+Crown Heights North,Diverse,2019,Percent,0,308
+Crown Heights South,Diverse,2019,Percent,0,309
+Bay Ridge,Diverse,2019,Percent,0,310
+Bensonhurst,Diverse,2019,Percent,0.5,311
+Borough Park,Diverse,2019,Percent,0,312
+Coney Island,Diverse,2019,Percent,1,313
+Flatbush/Midwood,Diverse,2019,Percent,0,314
+Sheepshead Bay,Diverse,2019,Percent,0,315
+Brownsville,Diverse,2019,Percent,0,316
+East Flatbush,Diverse,2019,Percent,0,317
+Canarsie,Diverse,2019,Percent,0.2,318
+Astoria,Diverse,2019,Percent,0.75,401
+Sunnyside/Woodside,Diverse,2019,Percent,0,402
+Jackson Heights,Diverse,2019,Percent,0,403
+Elmhurst/Corona,Diverse,2019,Percent,0,404
+Ridgewood/Glendale,Diverse,2019,Percent,1,405
+Rego Park/Forest Hills,Diverse,2019,Percent,0,406
+Flushing,Diverse,2019,Percent,0,407
+Fresh Meadows/Briarwood,Diverse,2019,Percent,0,408
+Woodhaven,Diverse,2019,Percent,0,409
+Howard Beach,Diverse,2019,Percent,0,410
+Bayside,Diverse,2019,Percent,0,411
+Jamaica/St. Albans,Diverse,2019,Percent,0,412
+Queens Village,Diverse,2019,Percent,0,413
+The Rockaways,Diverse,2019,Percent,0,414
+St. George,Diverse,2019,Percent,0,501
+South Beach,Diverse,2019,Percent,0.667,502
+Tottenville,Diverse,2019,Percent,0,503
+Battery Park/Tribeca,Predominantly White,2019,Number,0,101
+Greenwich Village,Predominantly White,2019,Number,0,102
+Lower East Side,Predominantly White,2019,Number,0,103
+Chelsea/Clinton,Predominantly White,2019,Number,0,104
+Midtown Business District,Predominantly White,2019,Number,0,105
+Murray Hill/Stuyvesant,Predominantly White,2019,Number,0,106
+Upper West Side,Predominantly White,2019,Number,0,107
+Upper East Side,Predominantly White,2019,Number,0,108
+Manhattanville,Predominantly White,2019,Number,0,109
+Central Harlem,Predominantly White,2019,Number,0,110
+East Harlem,Predominantly White,2019,Number,0,111
+Washington Heights,Predominantly White,2019,Number,0,112
+Mott Haven,Predominantly White,2019,Number,0,201
+Hunts Point,Predominantly White,2019,Number,0,202
+Morrisania,Predominantly White,2019,Number,0,203
+Concourse/Highbridge,Predominantly White,2019,Number,0,204
+University Heights,Predominantly White,2019,Number,0,205
+East Tremont,Predominantly White,2019,Number,0,206
+Bedford Park,Predominantly White,2019,Number,0,207
+Riverdale,Predominantly White,2019,Number,0,208
+Unionport/Soundview,Predominantly White,2019,Number,0,209
+Throgs Neck,Predominantly White,2019,Number,0,210
+Pelham Parkway,Predominantly White,2019,Number,0,211
+Williamsbridge,Predominantly White,2019,Number,0,212
+Williamsburg/Greenpoint,Predominantly White,2019,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly White,2019,Number,0,302
+Bedford Stuyvesant,Predominantly White,2019,Number,0,303
+Bushwick,Predominantly White,2019,Number,0,304
+East New York,Predominantly White,2019,Number,0,305
+Park Slope,Predominantly White,2019,Number,0,306
+Sunset Park,Predominantly White,2019,Number,0,307
+Crown Heights North,Predominantly White,2019,Number,0,308
+Crown Heights South,Predominantly White,2019,Number,0,309
+Bay Ridge,Predominantly White,2019,Number,0,310
+Bensonhurst,Predominantly White,2019,Number,1,311
+Borough Park,Predominantly White,2019,Number,0,312
+Coney Island,Predominantly White,2019,Number,0,313
+Flatbush/Midwood,Predominantly White,2019,Number,0,314
+Sheepshead Bay,Predominantly White,2019,Number,0,315
+Brownsville,Predominantly White,2019,Number,0,316
+East Flatbush,Predominantly White,2019,Number,0,317
+Canarsie,Predominantly White,2019,Number,0,318
+Astoria,Predominantly White,2019,Number,0,401
+Sunnyside/Woodside,Predominantly White,2019,Number,0,402
+Jackson Heights,Predominantly White,2019,Number,0,403
+Elmhurst/Corona,Predominantly White,2019,Number,0,404
+Ridgewood/Glendale,Predominantly White,2019,Number,0,405
+Rego Park/Forest Hills,Predominantly White,2019,Number,0,406
+Flushing,Predominantly White,2019,Number,0,407
+Fresh Meadows/Briarwood,Predominantly White,2019,Number,0,408
+Woodhaven,Predominantly White,2019,Number,0,409
+Howard Beach,Predominantly White,2019,Number,0,410
+Bayside,Predominantly White,2019,Number,0,411
+Jamaica/St. Albans,Predominantly White,2019,Number,0,412
+Queens Village,Predominantly White,2019,Number,0,413
+The Rockaways,Predominantly White,2019,Number,0,414
+St. George,Predominantly White,2019,Number,0,501
+South Beach,Predominantly White,2019,Number,0,502
+Tottenville,Predominantly White,2019,Number,0,503
+Battery Park/Tribeca,Predominantly White,2019,Percent,0,101
+Greenwich Village,Predominantly White,2019,Percent,0,102
+Lower East Side,Predominantly White,2019,Percent,0,103
+Chelsea/Clinton,Predominantly White,2019,Percent,0,104
+Midtown Business District,Predominantly White,2019,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly White,2019,Percent,0,106
+Upper West Side,Predominantly White,2019,Percent,0,107
+Upper East Side,Predominantly White,2019,Percent,0,108
+Manhattanville,Predominantly White,2019,Percent,0,109
+Central Harlem,Predominantly White,2019,Percent,0,110
+East Harlem,Predominantly White,2019,Percent,0,111
+Washington Heights,Predominantly White,2019,Percent,0,112
+Mott Haven,Predominantly White,2019,Percent,0,201
+Hunts Point,Predominantly White,2019,Percent,0,202
+Morrisania,Predominantly White,2019,Percent,0,203
+Concourse/Highbridge,Predominantly White,2019,Percent,0,204
+University Heights,Predominantly White,2019,Percent,0,205
+East Tremont,Predominantly White,2019,Percent,0,206
+Bedford Park,Predominantly White,2019,Percent,0,207
+Riverdale,Predominantly White,2019,Percent,0,208
+Unionport/Soundview,Predominantly White,2019,Percent,0,209
+Throgs Neck,Predominantly White,2019,Percent,0,210
+Pelham Parkway,Predominantly White,2019,Percent,0,211
+Williamsbridge,Predominantly White,2019,Percent,0,212
+Williamsburg/Greenpoint,Predominantly White,2019,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly White,2019,Percent,0,302
+Bedford Stuyvesant,Predominantly White,2019,Percent,0,303
+Bushwick,Predominantly White,2019,Percent,0,304
+East New York,Predominantly White,2019,Percent,0,305
+Park Slope,Predominantly White,2019,Percent,0,306
+Sunset Park,Predominantly White,2019,Percent,0,307
+Crown Heights North,Predominantly White,2019,Percent,0,308
+Crown Heights South,Predominantly White,2019,Percent,0,309
+Bay Ridge,Predominantly White,2019,Percent,0,310
+Bensonhurst,Predominantly White,2019,Percent,0.5,311
+Borough Park,Predominantly White,2019,Percent,0,312
+Coney Island,Predominantly White,2019,Percent,0,313
+Flatbush/Midwood,Predominantly White,2019,Percent,0,314
+Sheepshead Bay,Predominantly White,2019,Percent,0,315
+Brownsville,Predominantly White,2019,Percent,0,316
+East Flatbush,Predominantly White,2019,Percent,0,317
+Canarsie,Predominantly White,2019,Percent,0,318
+Astoria,Predominantly White,2019,Percent,0,401
+Sunnyside/Woodside,Predominantly White,2019,Percent,0,402
+Jackson Heights,Predominantly White,2019,Percent,0,403
+Elmhurst/Corona,Predominantly White,2019,Percent,0,404
+Ridgewood/Glendale,Predominantly White,2019,Percent,0,405
+Rego Park/Forest Hills,Predominantly White,2019,Percent,0,406
+Flushing,Predominantly White,2019,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly White,2019,Percent,0,408
+Woodhaven,Predominantly White,2019,Percent,0,409
+Howard Beach,Predominantly White,2019,Percent,0,410
+Bayside,Predominantly White,2019,Percent,0,411
+Jamaica/St. Albans,Predominantly White,2019,Percent,0,412
+Queens Village,Predominantly White,2019,Percent,0,413
+The Rockaways,Predominantly White,2019,Percent,0,414
+St. George,Predominantly White,2019,Percent,0,501
+South Beach,Predominantly White,2019,Percent,0,502
+Tottenville,Predominantly White,2019,Percent,0,503
+Battery Park/Tribeca,Predominantly Asian,2019,Number,0,101
+Greenwich Village,Predominantly Asian,2019,Number,0,102
+Lower East Side,Predominantly Asian,2019,Number,0,103
+Chelsea/Clinton,Predominantly Asian,2019,Number,0,104
+Midtown Business District,Predominantly Asian,2019,Number,0,105
+Murray Hill/Stuyvesant,Predominantly Asian,2019,Number,0,106
+Upper West Side,Predominantly Asian,2019,Number,0,107
+Upper East Side,Predominantly Asian,2019,Number,0,108
+Manhattanville,Predominantly Asian,2019,Number,0,109
+Central Harlem,Predominantly Asian,2019,Number,0,110
+East Harlem,Predominantly Asian,2019,Number,0,111
+Washington Heights,Predominantly Asian,2019,Number,0,112
+Mott Haven,Predominantly Asian,2019,Number,0,201
+Hunts Point,Predominantly Asian,2019,Number,0,202
+Morrisania,Predominantly Asian,2019,Number,0,203
+Concourse/Highbridge,Predominantly Asian,2019,Number,0,204
+University Heights,Predominantly Asian,2019,Number,0,205
+East Tremont,Predominantly Asian,2019,Number,0,206
+Bedford Park,Predominantly Asian,2019,Number,0,207
+Riverdale,Predominantly Asian,2019,Number,0,208
+Unionport/Soundview,Predominantly Asian,2019,Number,0,209
+Throgs Neck,Predominantly Asian,2019,Number,0,210
+Pelham Parkway,Predominantly Asian,2019,Number,0,211
+Williamsbridge,Predominantly Asian,2019,Number,0,212
+Williamsburg/Greenpoint,Predominantly Asian,2019,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly Asian,2019,Number,0,302
+Bedford Stuyvesant,Predominantly Asian,2019,Number,0,303
+Bushwick,Predominantly Asian,2019,Number,0,304
+East New York,Predominantly Asian,2019,Number,0,305
+Park Slope,Predominantly Asian,2019,Number,0,306
+Sunset Park,Predominantly Asian,2019,Number,0,307
+Crown Heights North,Predominantly Asian,2019,Number,0,308
+Crown Heights South,Predominantly Asian,2019,Number,0,309
+Bay Ridge,Predominantly Asian,2019,Number,0,310
+Bensonhurst,Predominantly Asian,2019,Number,0,311
+Borough Park,Predominantly Asian,2019,Number,0,312
+Coney Island,Predominantly Asian,2019,Number,0,313
+Flatbush/Midwood,Predominantly Asian,2019,Number,0,314
+Sheepshead Bay,Predominantly Asian,2019,Number,0,315
+Brownsville,Predominantly Asian,2019,Number,0,316
+East Flatbush,Predominantly Asian,2019,Number,0,317
+Canarsie,Predominantly Asian,2019,Number,0,318
+Astoria,Predominantly Asian,2019,Number,0,401
+Sunnyside/Woodside,Predominantly Asian,2019,Number,0,402
+Jackson Heights,Predominantly Asian,2019,Number,0,403
+Elmhurst/Corona,Predominantly Asian,2019,Number,0,404
+Ridgewood/Glendale,Predominantly Asian,2019,Number,0,405
+Rego Park/Forest Hills,Predominantly Asian,2019,Number,0,406
+Flushing,Predominantly Asian,2019,Number,0,407
+Fresh Meadows/Briarwood,Predominantly Asian,2019,Number,0,408
+Woodhaven,Predominantly Asian,2019,Number,0,409
+Howard Beach,Predominantly Asian,2019,Number,0,410
+Bayside,Predominantly Asian,2019,Number,0,411
+Jamaica/St. Albans,Predominantly Asian,2019,Number,0,412
+Queens Village,Predominantly Asian,2019,Number,0,413
+The Rockaways,Predominantly Asian,2019,Number,0,414
+St. George,Predominantly Asian,2019,Number,0,501
+South Beach,Predominantly Asian,2019,Number,0,502
+Tottenville,Predominantly Asian,2019,Number,0,503
+Battery Park/Tribeca,Predominantly Asian,2019,Percent,0,101
+Greenwich Village,Predominantly Asian,2019,Percent,0,102
+Lower East Side,Predominantly Asian,2019,Percent,0,103
+Chelsea/Clinton,Predominantly Asian,2019,Percent,0,104
+Midtown Business District,Predominantly Asian,2019,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly Asian,2019,Percent,0,106
+Upper West Side,Predominantly Asian,2019,Percent,0,107
+Upper East Side,Predominantly Asian,2019,Percent,0,108
+Manhattanville,Predominantly Asian,2019,Percent,0,109
+Central Harlem,Predominantly Asian,2019,Percent,0,110
+East Harlem,Predominantly Asian,2019,Percent,0,111
+Washington Heights,Predominantly Asian,2019,Percent,0,112
+Mott Haven,Predominantly Asian,2019,Percent,0,201
+Hunts Point,Predominantly Asian,2019,Percent,0,202
+Morrisania,Predominantly Asian,2019,Percent,0,203
+Concourse/Highbridge,Predominantly Asian,2019,Percent,0,204
+University Heights,Predominantly Asian,2019,Percent,0,205
+East Tremont,Predominantly Asian,2019,Percent,0,206
+Bedford Park,Predominantly Asian,2019,Percent,0,207
+Riverdale,Predominantly Asian,2019,Percent,0,208
+Unionport/Soundview,Predominantly Asian,2019,Percent,0,209
+Throgs Neck,Predominantly Asian,2019,Percent,0,210
+Pelham Parkway,Predominantly Asian,2019,Percent,0,211
+Williamsbridge,Predominantly Asian,2019,Percent,0,212
+Williamsburg/Greenpoint,Predominantly Asian,2019,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly Asian,2019,Percent,0,302
+Bedford Stuyvesant,Predominantly Asian,2019,Percent,0,303
+Bushwick,Predominantly Asian,2019,Percent,0,304
+East New York,Predominantly Asian,2019,Percent,0,305
+Park Slope,Predominantly Asian,2019,Percent,0,306
+Sunset Park,Predominantly Asian,2019,Percent,0,307
+Crown Heights North,Predominantly Asian,2019,Percent,0,308
+Crown Heights South,Predominantly Asian,2019,Percent,0,309
+Bay Ridge,Predominantly Asian,2019,Percent,0,310
+Bensonhurst,Predominantly Asian,2019,Percent,0,311
+Borough Park,Predominantly Asian,2019,Percent,0,312
+Coney Island,Predominantly Asian,2019,Percent,0,313
+Flatbush/Midwood,Predominantly Asian,2019,Percent,0,314
+Sheepshead Bay,Predominantly Asian,2019,Percent,0,315
+Brownsville,Predominantly Asian,2019,Percent,0,316
+East Flatbush,Predominantly Asian,2019,Percent,0,317
+Canarsie,Predominantly Asian,2019,Percent,0,318
+Astoria,Predominantly Asian,2019,Percent,0,401
+Sunnyside/Woodside,Predominantly Asian,2019,Percent,0,402
+Jackson Heights,Predominantly Asian,2019,Percent,0,403
+Elmhurst/Corona,Predominantly Asian,2019,Percent,0,404
+Ridgewood/Glendale,Predominantly Asian,2019,Percent,0,405
+Rego Park/Forest Hills,Predominantly Asian,2019,Percent,0,406
+Flushing,Predominantly Asian,2019,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly Asian,2019,Percent,0,408
+Woodhaven,Predominantly Asian,2019,Percent,0,409
+Howard Beach,Predominantly Asian,2019,Percent,0,410
+Bayside,Predominantly Asian,2019,Percent,0,411
+Jamaica/St. Albans,Predominantly Asian,2019,Percent,0,412
+Queens Village,Predominantly Asian,2019,Percent,0,413
+The Rockaways,Predominantly Asian,2019,Percent,0,414
+St. George,Predominantly Asian,2019,Percent,0,501
+South Beach,Predominantly Asian,2019,Percent,0,502
+Tottenville,Predominantly Asian,2019,Percent,0,503
+Battery Park/Tribeca,Predominantly White + Asian,2019,Number,0,101
+Greenwich Village,Predominantly White + Asian,2019,Number,0,102
+Lower East Side,Predominantly White + Asian,2019,Number,0,103
+Chelsea/Clinton,Predominantly White + Asian,2019,Number,0,104
+Midtown Business District,Predominantly White + Asian,2019,Number,0,105
+Murray Hill/Stuyvesant,Predominantly White + Asian,2019,Number,0,106
+Upper West Side,Predominantly White + Asian,2019,Number,0,107
+Upper East Side,Predominantly White + Asian,2019,Number,0,108
+Manhattanville,Predominantly White + Asian,2019,Number,0,109
+Central Harlem,Predominantly White + Asian,2019,Number,0,110
+East Harlem,Predominantly White + Asian,2019,Number,0,111
+Washington Heights,Predominantly White + Asian,2019,Number,0,112
+Mott Haven,Predominantly White + Asian,2019,Number,0,201
+Hunts Point,Predominantly White + Asian,2019,Number,0,202
+Morrisania,Predominantly White + Asian,2019,Number,0,203
+Concourse/Highbridge,Predominantly White + Asian,2019,Number,0,204
+University Heights,Predominantly White + Asian,2019,Number,0,205
+East Tremont,Predominantly White + Asian,2019,Number,0,206
+Bedford Park,Predominantly White + Asian,2019,Number,0,207
+Riverdale,Predominantly White + Asian,2019,Number,0,208
+Unionport/Soundview,Predominantly White + Asian,2019,Number,0,209
+Throgs Neck,Predominantly White + Asian,2019,Number,0,210
+Pelham Parkway,Predominantly White + Asian,2019,Number,0,211
+Williamsbridge,Predominantly White + Asian,2019,Number,0,212
+Williamsburg/Greenpoint,Predominantly White + Asian,2019,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly White + Asian,2019,Number,0,302
+Bedford Stuyvesant,Predominantly White + Asian,2019,Number,0,303
+Bushwick,Predominantly White + Asian,2019,Number,0,304
+East New York,Predominantly White + Asian,2019,Number,0,305
+Park Slope,Predominantly White + Asian,2019,Number,0,306
+Sunset Park,Predominantly White + Asian,2019,Number,0,307
+Crown Heights North,Predominantly White + Asian,2019,Number,0,308
+Crown Heights South,Predominantly White + Asian,2019,Number,0,309
+Bay Ridge,Predominantly White + Asian,2019,Number,0,310
+Bensonhurst,Predominantly White + Asian,2019,Number,0,311
+Borough Park,Predominantly White + Asian,2019,Number,0,312
+Coney Island,Predominantly White + Asian,2019,Number,0,313
+Flatbush/Midwood,Predominantly White + Asian,2019,Number,0,314
+Sheepshead Bay,Predominantly White + Asian,2019,Number,0,315
+Brownsville,Predominantly White + Asian,2019,Number,0,316
+East Flatbush,Predominantly White + Asian,2019,Number,0,317
+Canarsie,Predominantly White + Asian,2019,Number,0,318
+Astoria,Predominantly White + Asian,2019,Number,0,401
+Sunnyside/Woodside,Predominantly White + Asian,2019,Number,0,402
+Jackson Heights,Predominantly White + Asian,2019,Number,0,403
+Elmhurst/Corona,Predominantly White + Asian,2019,Number,0,404
+Ridgewood/Glendale,Predominantly White + Asian,2019,Number,0,405
+Rego Park/Forest Hills,Predominantly White + Asian,2019,Number,0,406
+Flushing,Predominantly White + Asian,2019,Number,0,407
+Fresh Meadows/Briarwood,Predominantly White + Asian,2019,Number,0,408
+Woodhaven,Predominantly White + Asian,2019,Number,0,409
+Howard Beach,Predominantly White + Asian,2019,Number,0,410
+Bayside,Predominantly White + Asian,2019,Number,0,411
+Jamaica/St. Albans,Predominantly White + Asian,2019,Number,0,412
+Queens Village,Predominantly White + Asian,2019,Number,0,413
+The Rockaways,Predominantly White + Asian,2019,Number,0,414
+St. George,Predominantly White + Asian,2019,Number,0,501
+South Beach,Predominantly White + Asian,2019,Number,0,502
+Tottenville,Predominantly White + Asian,2019,Number,0,503
+Battery Park/Tribeca,Predominantly White + Asian,2019,Percent,0,101
+Greenwich Village,Predominantly White + Asian,2019,Percent,0,102
+Lower East Side,Predominantly White + Asian,2019,Percent,0,103
+Chelsea/Clinton,Predominantly White + Asian,2019,Percent,0,104
+Midtown Business District,Predominantly White + Asian,2019,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly White + Asian,2019,Percent,0,106
+Upper West Side,Predominantly White + Asian,2019,Percent,0,107
+Upper East Side,Predominantly White + Asian,2019,Percent,0,108
+Manhattanville,Predominantly White + Asian,2019,Percent,0,109
+Central Harlem,Predominantly White + Asian,2019,Percent,0,110
+East Harlem,Predominantly White + Asian,2019,Percent,0,111
+Washington Heights,Predominantly White + Asian,2019,Percent,0,112
+Mott Haven,Predominantly White + Asian,2019,Percent,0,201
+Hunts Point,Predominantly White + Asian,2019,Percent,0,202
+Morrisania,Predominantly White + Asian,2019,Percent,0,203
+Concourse/Highbridge,Predominantly White + Asian,2019,Percent,0,204
+University Heights,Predominantly White + Asian,2019,Percent,0,205
+East Tremont,Predominantly White + Asian,2019,Percent,0,206
+Bedford Park,Predominantly White + Asian,2019,Percent,0,207
+Riverdale,Predominantly White + Asian,2019,Percent,0,208
+Unionport/Soundview,Predominantly White + Asian,2019,Percent,0,209
+Throgs Neck,Predominantly White + Asian,2019,Percent,0,210
+Pelham Parkway,Predominantly White + Asian,2019,Percent,0,211
+Williamsbridge,Predominantly White + Asian,2019,Percent,0,212
+Williamsburg/Greenpoint,Predominantly White + Asian,2019,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly White + Asian,2019,Percent,0,302
+Bedford Stuyvesant,Predominantly White + Asian,2019,Percent,0,303
+Bushwick,Predominantly White + Asian,2019,Percent,0,304
+East New York,Predominantly White + Asian,2019,Percent,0,305
+Park Slope,Predominantly White + Asian,2019,Percent,0,306
+Sunset Park,Predominantly White + Asian,2019,Percent,0,307
+Crown Heights North,Predominantly White + Asian,2019,Percent,0,308
+Crown Heights South,Predominantly White + Asian,2019,Percent,0,309
+Bay Ridge,Predominantly White + Asian,2019,Percent,0,310
+Bensonhurst,Predominantly White + Asian,2019,Percent,0,311
+Borough Park,Predominantly White + Asian,2019,Percent,0,312
+Coney Island,Predominantly White + Asian,2019,Percent,0,313
+Flatbush/Midwood,Predominantly White + Asian,2019,Percent,0,314
+Sheepshead Bay,Predominantly White + Asian,2019,Percent,0,315
+Brownsville,Predominantly White + Asian,2019,Percent,0,316
+East Flatbush,Predominantly White + Asian,2019,Percent,0,317
+Canarsie,Predominantly White + Asian,2019,Percent,0,318
+Astoria,Predominantly White + Asian,2019,Percent,0,401
+Sunnyside/Woodside,Predominantly White + Asian,2019,Percent,0,402
+Jackson Heights,Predominantly White + Asian,2019,Percent,0,403
+Elmhurst/Corona,Predominantly White + Asian,2019,Percent,0,404
+Ridgewood/Glendale,Predominantly White + Asian,2019,Percent,0,405
+Rego Park/Forest Hills,Predominantly White + Asian,2019,Percent,0,406
+Flushing,Predominantly White + Asian,2019,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly White + Asian,2019,Percent,0,408
+Woodhaven,Predominantly White + Asian,2019,Percent,0,409
+Howard Beach,Predominantly White + Asian,2019,Percent,0,410
+Bayside,Predominantly White + Asian,2019,Percent,0,411
+Jamaica/St. Albans,Predominantly White + Asian,2019,Percent,0,412
+Queens Village,Predominantly White + Asian,2019,Percent,0,413
+The Rockaways,Predominantly White + Asian,2019,Percent,0,414
+St. George,Predominantly White + Asian,2019,Percent,0,501
+South Beach,Predominantly White + Asian,2019,Percent,0,502
+Tottenville,Predominantly White + Asian,2019,Percent,0,503
+Battery Park/Tribeca,Predominantly Black,2019,Number,0,101
+Greenwich Village,Predominantly Black,2019,Number,0,102
+Lower East Side,Predominantly Black,2019,Number,0,103
+Chelsea/Clinton,Predominantly Black,2019,Number,0,104
+Midtown Business District,Predominantly Black,2019,Number,0,105
+Murray Hill/Stuyvesant,Predominantly Black,2019,Number,0,106
+Upper West Side,Predominantly Black,2019,Number,0,107
+Upper East Side,Predominantly Black,2019,Number,0,108
+Manhattanville,Predominantly Black,2019,Number,0,109
+Central Harlem,Predominantly Black,2019,Number,0,110
+East Harlem,Predominantly Black,2019,Number,0,111
+Washington Heights,Predominantly Black,2019,Number,0,112
+Mott Haven,Predominantly Black,2019,Number,0,201
+Hunts Point,Predominantly Black,2019,Number,0,202
+Morrisania,Predominantly Black,2019,Number,0,203
+Concourse/Highbridge,Predominantly Black,2019,Number,0,204
+University Heights,Predominantly Black,2019,Number,0,205
+East Tremont,Predominantly Black,2019,Number,0,206
+Bedford Park,Predominantly Black,2019,Number,0,207
+Riverdale,Predominantly Black,2019,Number,0,208
+Unionport/Soundview,Predominantly Black,2019,Number,0,209
+Throgs Neck,Predominantly Black,2019,Number,0,210
+Pelham Parkway,Predominantly Black,2019,Number,0,211
+Williamsbridge,Predominantly Black,2019,Number,0,212
+Williamsburg/Greenpoint,Predominantly Black,2019,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly Black,2019,Number,0,302
+Bedford Stuyvesant,Predominantly Black,2019,Number,0,303
+Bushwick,Predominantly Black,2019,Number,0,304
+East New York,Predominantly Black,2019,Number,0,305
+Park Slope,Predominantly Black,2019,Number,0,306
+Sunset Park,Predominantly Black,2019,Number,0,307
+Crown Heights North,Predominantly Black,2019,Number,0,308
+Crown Heights South,Predominantly Black,2019,Number,0,309
+Bay Ridge,Predominantly Black,2019,Number,0,310
+Bensonhurst,Predominantly Black,2019,Number,0,311
+Borough Park,Predominantly Black,2019,Number,0,312
+Coney Island,Predominantly Black,2019,Number,0,313
+Flatbush/Midwood,Predominantly Black,2019,Number,1,314
+Sheepshead Bay,Predominantly Black,2019,Number,0,315
+Brownsville,Predominantly Black,2019,Number,0,316
+East Flatbush,Predominantly Black,2019,Number,0,317
+Canarsie,Predominantly Black,2019,Number,0,318
+Astoria,Predominantly Black,2019,Number,0,401
+Sunnyside/Woodside,Predominantly Black,2019,Number,0,402
+Jackson Heights,Predominantly Black,2019,Number,0,403
+Elmhurst/Corona,Predominantly Black,2019,Number,0,404
+Ridgewood/Glendale,Predominantly Black,2019,Number,0,405
+Rego Park/Forest Hills,Predominantly Black,2019,Number,0,406
+Flushing,Predominantly Black,2019,Number,0,407
+Fresh Meadows/Briarwood,Predominantly Black,2019,Number,0,408
+Woodhaven,Predominantly Black,2019,Number,0,409
+Howard Beach,Predominantly Black,2019,Number,0,410
+Bayside,Predominantly Black,2019,Number,0,411
+Jamaica/St. Albans,Predominantly Black,2019,Number,1,412
+Queens Village,Predominantly Black,2019,Number,0,413
+The Rockaways,Predominantly Black,2019,Number,0,414
+St. George,Predominantly Black,2019,Number,0,501
+South Beach,Predominantly Black,2019,Number,0,502
+Tottenville,Predominantly Black,2019,Number,0,503
+Battery Park/Tribeca,Predominantly Black,2019,Percent,0,101
+Greenwich Village,Predominantly Black,2019,Percent,0,102
+Lower East Side,Predominantly Black,2019,Percent,0,103
+Chelsea/Clinton,Predominantly Black,2019,Percent,0,104
+Midtown Business District,Predominantly Black,2019,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly Black,2019,Percent,0,106
+Upper West Side,Predominantly Black,2019,Percent,0,107
+Upper East Side,Predominantly Black,2019,Percent,0,108
+Manhattanville,Predominantly Black,2019,Percent,0,109
+Central Harlem,Predominantly Black,2019,Percent,0,110
+East Harlem,Predominantly Black,2019,Percent,0,111
+Washington Heights,Predominantly Black,2019,Percent,0,112
+Mott Haven,Predominantly Black,2019,Percent,0,201
+Hunts Point,Predominantly Black,2019,Percent,0,202
+Morrisania,Predominantly Black,2019,Percent,0,203
+Concourse/Highbridge,Predominantly Black,2019,Percent,0,204
+University Heights,Predominantly Black,2019,Percent,0,205
+East Tremont,Predominantly Black,2019,Percent,0,206
+Bedford Park,Predominantly Black,2019,Percent,0,207
+Riverdale,Predominantly Black,2019,Percent,0,208
+Unionport/Soundview,Predominantly Black,2019,Percent,0,209
+Throgs Neck,Predominantly Black,2019,Percent,0,210
+Pelham Parkway,Predominantly Black,2019,Percent,0,211
+Williamsbridge,Predominantly Black,2019,Percent,0,212
+Williamsburg/Greenpoint,Predominantly Black,2019,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly Black,2019,Percent,0,302
+Bedford Stuyvesant,Predominantly Black,2019,Percent,0,303
+Bushwick,Predominantly Black,2019,Percent,0,304
+East New York,Predominantly Black,2019,Percent,0,305
+Park Slope,Predominantly Black,2019,Percent,0,306
+Sunset Park,Predominantly Black,2019,Percent,0,307
+Crown Heights North,Predominantly Black,2019,Percent,0,308
+Crown Heights South,Predominantly Black,2019,Percent,0,309
+Bay Ridge,Predominantly Black,2019,Percent,0,310
+Bensonhurst,Predominantly Black,2019,Percent,0,311
+Borough Park,Predominantly Black,2019,Percent,0,312
+Coney Island,Predominantly Black,2019,Percent,0,313
+Flatbush/Midwood,Predominantly Black,2019,Percent,0.5,314
+Sheepshead Bay,Predominantly Black,2019,Percent,0,315
+Brownsville,Predominantly Black,2019,Percent,0,316
+East Flatbush,Predominantly Black,2019,Percent,0,317
+Canarsie,Predominantly Black,2019,Percent,0,318
+Astoria,Predominantly Black,2019,Percent,0,401
+Sunnyside/Woodside,Predominantly Black,2019,Percent,0,402
+Jackson Heights,Predominantly Black,2019,Percent,0,403
+Elmhurst/Corona,Predominantly Black,2019,Percent,0,404
+Ridgewood/Glendale,Predominantly Black,2019,Percent,0,405
+Rego Park/Forest Hills,Predominantly Black,2019,Percent,0,406
+Flushing,Predominantly Black,2019,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly Black,2019,Percent,0,408
+Woodhaven,Predominantly Black,2019,Percent,0,409
+Howard Beach,Predominantly Black,2019,Percent,0,410
+Bayside,Predominantly Black,2019,Percent,0,411
+Jamaica/St. Albans,Predominantly Black,2019,Percent,0.2,412
+Queens Village,Predominantly Black,2019,Percent,0,413
+The Rockaways,Predominantly Black,2019,Percent,0,414
+St. George,Predominantly Black,2019,Percent,0,501
+South Beach,Predominantly Black,2019,Percent,0,502
+Tottenville,Predominantly Black,2019,Percent,0,503
+Battery Park/Tribeca,Predominantly Hispanic,2019,Number,0,101
+Greenwich Village,Predominantly Hispanic,2019,Number,0,102
+Lower East Side,Predominantly Hispanic,2019,Number,0,103
+Chelsea/Clinton,Predominantly Hispanic,2019,Number,0,104
+Midtown Business District,Predominantly Hispanic,2019,Number,0,105
+Murray Hill/Stuyvesant,Predominantly Hispanic,2019,Number,0,106
+Upper West Side,Predominantly Hispanic,2019,Number,0,107
+Upper East Side,Predominantly Hispanic,2019,Number,0,108
+Manhattanville,Predominantly Hispanic,2019,Number,0,109
+Central Harlem,Predominantly Hispanic,2019,Number,0,110
+East Harlem,Predominantly Hispanic,2019,Number,0,111
+Washington Heights,Predominantly Hispanic,2019,Number,0,112
+Mott Haven,Predominantly Hispanic,2019,Number,0,201
+Hunts Point,Predominantly Hispanic,2019,Number,0,202
+Morrisania,Predominantly Hispanic,2019,Number,0,203
+Concourse/Highbridge,Predominantly Hispanic,2019,Number,0,204
+University Heights,Predominantly Hispanic,2019,Number,0,205
+East Tremont,Predominantly Hispanic,2019,Number,0,206
+Bedford Park,Predominantly Hispanic,2019,Number,0,207
+Riverdale,Predominantly Hispanic,2019,Number,0,208
+Unionport/Soundview,Predominantly Hispanic,2019,Number,0,209
+Throgs Neck,Predominantly Hispanic,2019,Number,0,210
+Pelham Parkway,Predominantly Hispanic,2019,Number,0,211
+Williamsbridge,Predominantly Hispanic,2019,Number,0,212
+Williamsburg/Greenpoint,Predominantly Hispanic,2019,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly Hispanic,2019,Number,0,302
+Bedford Stuyvesant,Predominantly Hispanic,2019,Number,0,303
+Bushwick,Predominantly Hispanic,2019,Number,0,304
+East New York,Predominantly Hispanic,2019,Number,0,305
+Park Slope,Predominantly Hispanic,2019,Number,0,306
+Sunset Park,Predominantly Hispanic,2019,Number,0,307
+Crown Heights North,Predominantly Hispanic,2019,Number,0,308
+Crown Heights South,Predominantly Hispanic,2019,Number,0,309
+Bay Ridge,Predominantly Hispanic,2019,Number,0,310
+Bensonhurst,Predominantly Hispanic,2019,Number,0,311
+Borough Park,Predominantly Hispanic,2019,Number,0,312
+Coney Island,Predominantly Hispanic,2019,Number,0,313
+Flatbush/Midwood,Predominantly Hispanic,2019,Number,0,314
+Sheepshead Bay,Predominantly Hispanic,2019,Number,0,315
+Brownsville,Predominantly Hispanic,2019,Number,0,316
+East Flatbush,Predominantly Hispanic,2019,Number,0,317
+Canarsie,Predominantly Hispanic,2019,Number,0,318
+Astoria,Predominantly Hispanic,2019,Number,1,401
+Sunnyside/Woodside,Predominantly Hispanic,2019,Number,0,402
+Jackson Heights,Predominantly Hispanic,2019,Number,1,403
+Elmhurst/Corona,Predominantly Hispanic,2019,Number,1,404
+Ridgewood/Glendale,Predominantly Hispanic,2019,Number,0,405
+Rego Park/Forest Hills,Predominantly Hispanic,2019,Number,0,406
+Flushing,Predominantly Hispanic,2019,Number,1,407
+Fresh Meadows/Briarwood,Predominantly Hispanic,2019,Number,0,408
+Woodhaven,Predominantly Hispanic,2019,Number,0,409
+Howard Beach,Predominantly Hispanic,2019,Number,0,410
+Bayside,Predominantly Hispanic,2019,Number,0,411
+Jamaica/St. Albans,Predominantly Hispanic,2019,Number,0,412
+Queens Village,Predominantly Hispanic,2019,Number,0,413
+The Rockaways,Predominantly Hispanic,2019,Number,0,414
+St. George,Predominantly Hispanic,2019,Number,0,501
+South Beach,Predominantly Hispanic,2019,Number,0,502
+Tottenville,Predominantly Hispanic,2019,Number,0,503
+Battery Park/Tribeca,Predominantly Hispanic,2019,Percent,0,101
+Greenwich Village,Predominantly Hispanic,2019,Percent,0,102
+Lower East Side,Predominantly Hispanic,2019,Percent,0,103
+Chelsea/Clinton,Predominantly Hispanic,2019,Percent,0,104
+Midtown Business District,Predominantly Hispanic,2019,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly Hispanic,2019,Percent,0,106
+Upper West Side,Predominantly Hispanic,2019,Percent,0,107
+Upper East Side,Predominantly Hispanic,2019,Percent,0,108
+Manhattanville,Predominantly Hispanic,2019,Percent,0,109
+Central Harlem,Predominantly Hispanic,2019,Percent,0,110
+East Harlem,Predominantly Hispanic,2019,Percent,0,111
+Washington Heights,Predominantly Hispanic,2019,Percent,0,112
+Mott Haven,Predominantly Hispanic,2019,Percent,0,201
+Hunts Point,Predominantly Hispanic,2019,Percent,0,202
+Morrisania,Predominantly Hispanic,2019,Percent,0,203
+Concourse/Highbridge,Predominantly Hispanic,2019,Percent,0,204
+University Heights,Predominantly Hispanic,2019,Percent,0,205
+East Tremont,Predominantly Hispanic,2019,Percent,0,206
+Bedford Park,Predominantly Hispanic,2019,Percent,0,207
+Riverdale,Predominantly Hispanic,2019,Percent,0,208
+Unionport/Soundview,Predominantly Hispanic,2019,Percent,0,209
+Throgs Neck,Predominantly Hispanic,2019,Percent,0,210
+Pelham Parkway,Predominantly Hispanic,2019,Percent,0,211
+Williamsbridge,Predominantly Hispanic,2019,Percent,0,212
+Williamsburg/Greenpoint,Predominantly Hispanic,2019,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly Hispanic,2019,Percent,0,302
+Bedford Stuyvesant,Predominantly Hispanic,2019,Percent,0,303
+Bushwick,Predominantly Hispanic,2019,Percent,0,304
+East New York,Predominantly Hispanic,2019,Percent,0,305
+Park Slope,Predominantly Hispanic,2019,Percent,0,306
+Sunset Park,Predominantly Hispanic,2019,Percent,0,307
+Crown Heights North,Predominantly Hispanic,2019,Percent,0,308
+Crown Heights South,Predominantly Hispanic,2019,Percent,0,309
+Bay Ridge,Predominantly Hispanic,2019,Percent,0,310
+Bensonhurst,Predominantly Hispanic,2019,Percent,0,311
+Borough Park,Predominantly Hispanic,2019,Percent,0,312
+Coney Island,Predominantly Hispanic,2019,Percent,0,313
+Flatbush/Midwood,Predominantly Hispanic,2019,Percent,0,314
+Sheepshead Bay,Predominantly Hispanic,2019,Percent,0,315
+Brownsville,Predominantly Hispanic,2019,Percent,0,316
+East Flatbush,Predominantly Hispanic,2019,Percent,0,317
+Canarsie,Predominantly Hispanic,2019,Percent,0,318
+Astoria,Predominantly Hispanic,2019,Percent,0.25,401
+Sunnyside/Woodside,Predominantly Hispanic,2019,Percent,0,402
+Jackson Heights,Predominantly Hispanic,2019,Percent,0.5,403
+Elmhurst/Corona,Predominantly Hispanic,2019,Percent,1,404
+Ridgewood/Glendale,Predominantly Hispanic,2019,Percent,0,405
+Rego Park/Forest Hills,Predominantly Hispanic,2019,Percent,0,406
+Flushing,Predominantly Hispanic,2019,Percent,1,407
+Fresh Meadows/Briarwood,Predominantly Hispanic,2019,Percent,0,408
+Woodhaven,Predominantly Hispanic,2019,Percent,0,409
+Howard Beach,Predominantly Hispanic,2019,Percent,0,410
+Bayside,Predominantly Hispanic,2019,Percent,0,411
+Jamaica/St. Albans,Predominantly Hispanic,2019,Percent,0,412
+Queens Village,Predominantly Hispanic,2019,Percent,0,413
+The Rockaways,Predominantly Hispanic,2019,Percent,0,414
+St. George,Predominantly Hispanic,2019,Percent,0,501
+South Beach,Predominantly Hispanic,2019,Percent,0,502
+Tottenville,Predominantly Hispanic,2019,Percent,0,503
+Battery Park/Tribeca,Predominantly Black + Hispanic,2019,Number,2,101
+Greenwich Village,Predominantly Black + Hispanic,2019,Number,1,102
+Lower East Side,Predominantly Black + Hispanic,2019,Number,4,103
+Chelsea/Clinton,Predominantly Black + Hispanic,2019,Number,0,104
+Midtown Business District,Predominantly Black + Hispanic,2019,Number,0,105
+Murray Hill/Stuyvesant,Predominantly Black + Hispanic,2019,Number,0,106
+Upper West Side,Predominantly Black + Hispanic,2019,Number,0,107
+Upper East Side,Predominantly Black + Hispanic,2019,Number,0,108
+Manhattanville,Predominantly Black + Hispanic,2019,Number,4,109
+Central Harlem,Predominantly Black + Hispanic,2019,Number,16,110
+East Harlem,Predominantly Black + Hispanic,2019,Number,12,111
+Washington Heights,Predominantly Black + Hispanic,2019,Number,8,112
+Mott Haven,Predominantly Black + Hispanic,2019,Number,20,201
+Hunts Point,Predominantly Black + Hispanic,2019,Number,6,202
+Morrisania,Predominantly Black + Hispanic,2019,Number,11,203
+Concourse/Highbridge,Predominantly Black + Hispanic,2019,Number,9,204
+University Heights,Predominantly Black + Hispanic,2019,Number,2,205
+East Tremont,Predominantly Black + Hispanic,2019,Number,1,206
+Bedford Park,Predominantly Black + Hispanic,2019,Number,1,207
+Riverdale,Predominantly Black + Hispanic,2019,Number,5,208
+Unionport/Soundview,Predominantly Black + Hispanic,2019,Number,3,209
+Throgs Neck,Predominantly Black + Hispanic,2019,Number,2,210
+Pelham Parkway,Predominantly Black + Hispanic,2019,Number,6,211
+Williamsbridge,Predominantly Black + Hispanic,2019,Number,3,212
+Williamsburg/Greenpoint,Predominantly Black + Hispanic,2019,Number,4,301
+Fort Greene/Brooklyn Hts,Predominantly Black + Hispanic,2019,Number,5,302
+Bedford Stuyvesant,Predominantly Black + Hispanic,2019,Number,15,303
+Bushwick,Predominantly Black + Hispanic,2019,Number,5,304
+East New York,Predominantly Black + Hispanic,2019,Number,10,305
+Park Slope,Predominantly Black + Hispanic,2019,Number,3,306
+Sunset Park,Predominantly Black + Hispanic,2019,Number,0,307
+Crown Heights North,Predominantly Black + Hispanic,2019,Number,5,308
+Crown Heights South,Predominantly Black + Hispanic,2019,Number,4,309
+Bay Ridge,Predominantly Black + Hispanic,2019,Number,0,310
+Bensonhurst,Predominantly Black + Hispanic,2019,Number,0,311
+Borough Park,Predominantly Black + Hispanic,2019,Number,0,312
+Coney Island,Predominantly Black + Hispanic,2019,Number,0,313
+Flatbush/Midwood,Predominantly Black + Hispanic,2019,Number,1,314
+Sheepshead Bay,Predominantly Black + Hispanic,2019,Number,2,315
+Brownsville,Predominantly Black + Hispanic,2019,Number,9,316
+East Flatbush,Predominantly Black + Hispanic,2019,Number,4,317
+Canarsie,Predominantly Black + Hispanic,2019,Number,4,318
+Astoria,Predominantly Black + Hispanic,2019,Number,0,401
+Sunnyside/Woodside,Predominantly Black + Hispanic,2019,Number,0,402
+Jackson Heights,Predominantly Black + Hispanic,2019,Number,1,403
+Elmhurst/Corona,Predominantly Black + Hispanic,2019,Number,0,404
+Ridgewood/Glendale,Predominantly Black + Hispanic,2019,Number,0,405
+Rego Park/Forest Hills,Predominantly Black + Hispanic,2019,Number,0,406
+Flushing,Predominantly Black + Hispanic,2019,Number,0,407
+Fresh Meadows/Briarwood,Predominantly Black + Hispanic,2019,Number,1,408
+Woodhaven,Predominantly Black + Hispanic,2019,Number,0,409
+Howard Beach,Predominantly Black + Hispanic,2019,Number,0,410
+Bayside,Predominantly Black + Hispanic,2019,Number,0,411
+Jamaica/St. Albans,Predominantly Black + Hispanic,2019,Number,4,412
+Queens Village,Predominantly Black + Hispanic,2019,Number,2,413
+The Rockaways,Predominantly Black + Hispanic,2019,Number,4,414
+St. George,Predominantly Black + Hispanic,2019,Number,1,501
+South Beach,Predominantly Black + Hispanic,2019,Number,1,502
+Tottenville,Predominantly Black + Hispanic,2019,Number,0,503
+Battery Park/Tribeca,Predominantly Black + Hispanic,2019,Percent,1,101
+Greenwich Village,Predominantly Black + Hispanic,2019,Percent,1,102
+Lower East Side,Predominantly Black + Hispanic,2019,Percent,1,103
+Chelsea/Clinton,Predominantly Black + Hispanic,2019,Percent,0,104
+Midtown Business District,Predominantly Black + Hispanic,2019,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly Black + Hispanic,2019,Percent,0,106
+Upper West Side,Predominantly Black + Hispanic,2019,Percent,0,107
+Upper East Side,Predominantly Black + Hispanic,2019,Percent,0,108
+Manhattanville,Predominantly Black + Hispanic,2019,Percent,1,109
+Central Harlem,Predominantly Black + Hispanic,2019,Percent,0.941,110
+East Harlem,Predominantly Black + Hispanic,2019,Percent,0.923,111
+Washington Heights,Predominantly Black + Hispanic,2019,Percent,1,112
+Mott Haven,Predominantly Black + Hispanic,2019,Percent,1,201
+Hunts Point,Predominantly Black + Hispanic,2019,Percent,1,202
+Morrisania,Predominantly Black + Hispanic,2019,Percent,1,203
+Concourse/Highbridge,Predominantly Black + Hispanic,2019,Percent,1,204
+University Heights,Predominantly Black + Hispanic,2019,Percent,1,205
+East Tremont,Predominantly Black + Hispanic,2019,Percent,1,206
+Bedford Park,Predominantly Black + Hispanic,2019,Percent,1,207
+Riverdale,Predominantly Black + Hispanic,2019,Percent,1,208
+Unionport/Soundview,Predominantly Black + Hispanic,2019,Percent,0.75,209
+Throgs Neck,Predominantly Black + Hispanic,2019,Percent,1,210
+Pelham Parkway,Predominantly Black + Hispanic,2019,Percent,0.857,211
+Williamsbridge,Predominantly Black + Hispanic,2019,Percent,1,212
+Williamsburg/Greenpoint,Predominantly Black + Hispanic,2019,Percent,0.8,301
+Fort Greene/Brooklyn Hts,Predominantly Black + Hispanic,2019,Percent,0.625,302
+Bedford Stuyvesant,Predominantly Black + Hispanic,2019,Percent,0.938,303
+Bushwick,Predominantly Black + Hispanic,2019,Percent,1,304
+East New York,Predominantly Black + Hispanic,2019,Percent,1,305
+Park Slope,Predominantly Black + Hispanic,2019,Percent,0.75,306
+Sunset Park,Predominantly Black + Hispanic,2019,Percent,0,307
+Crown Heights North,Predominantly Black + Hispanic,2019,Percent,1,308
+Crown Heights South,Predominantly Black + Hispanic,2019,Percent,1,309
+Bay Ridge,Predominantly Black + Hispanic,2019,Percent,0,310
+Bensonhurst,Predominantly Black + Hispanic,2019,Percent,0,311
+Borough Park,Predominantly Black + Hispanic,2019,Percent,0,312
+Coney Island,Predominantly Black + Hispanic,2019,Percent,0,313
+Flatbush/Midwood,Predominantly Black + Hispanic,2019,Percent,0.5,314
+Sheepshead Bay,Predominantly Black + Hispanic,2019,Percent,1,315
+Brownsville,Predominantly Black + Hispanic,2019,Percent,1,316
+East Flatbush,Predominantly Black + Hispanic,2019,Percent,1,317
+Canarsie,Predominantly Black + Hispanic,2019,Percent,0.8,318
+Astoria,Predominantly Black + Hispanic,2019,Percent,0,401
+Sunnyside/Woodside,Predominantly Black + Hispanic,2019,Percent,0,402
+Jackson Heights,Predominantly Black + Hispanic,2019,Percent,0.5,403
+Elmhurst/Corona,Predominantly Black + Hispanic,2019,Percent,0,404
+Ridgewood/Glendale,Predominantly Black + Hispanic,2019,Percent,0,405
+Rego Park/Forest Hills,Predominantly Black + Hispanic,2019,Percent,0,406
+Flushing,Predominantly Black + Hispanic,2019,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly Black + Hispanic,2019,Percent,1,408
+Woodhaven,Predominantly Black + Hispanic,2019,Percent,0,409
+Howard Beach,Predominantly Black + Hispanic,2019,Percent,0,410
+Bayside,Predominantly Black + Hispanic,2019,Percent,0,411
+Jamaica/St. Albans,Predominantly Black + Hispanic,2019,Percent,0.8,412
+Queens Village,Predominantly Black + Hispanic,2019,Percent,1,413
+The Rockaways,Predominantly Black + Hispanic,2019,Percent,1,414
+St. George,Predominantly Black + Hispanic,2019,Percent,1,501
+South Beach,Predominantly Black + Hispanic,2019,Percent,0.333,502
+Tottenville,Predominantly Black + Hispanic,2019,Percent,0,503
+Lower East Side,Diverse,2019,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Diverse,2019,Number,3,SD2
+Upper West Side,Diverse,2019,Number,2,SD3
+East Harlem,Diverse,2019,Number,1,SD4
+Central Harlem,Diverse,2019,Number,0,SD5
+Washington Heights,Diverse,2019,Number,0,SD6
+Mott Haven,Diverse,2019,Number,0,SD7
+"Hunts Point, Port Morris",Diverse,2019,Number,0,SD8
+"East Tremont, Morris Heights",Diverse,2019,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Diverse,2019,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Diverse,2019,Number,2,SD11
+"Crotona Park, Morrisania, Melrose",Diverse,2019,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Diverse,2019,Number,4,SD13
+"Williamsburg, Greenpoint",Diverse,2019,Number,1,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Diverse,2019,Number,4,SD15
+Bedford Stuyvesant,Diverse,2019,Number,0,SD16
+Crown Heights,Diverse,2019,Number,0,SD17
+"East Flatbush, Canarsie",Diverse,2019,Number,0,SD18
+East New York,Diverse,2019,Number,0,SD19
+"Bay Ridge, Bensonhurst",Diverse,2019,Number,0,SD20
+"Gravesend, Coney Island",Diverse,2019,Number,2,SD21
+"Flatbush, Midwood, Sheepshead Bay",Diverse,2019,Number,1,SD22
+"Brownsville, Ocean Hill",Diverse,2019,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Diverse,2019,Number,1,SD24
+"Flushing, Whitestone",Diverse,2019,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Diverse,2019,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Diverse,2019,Number,0,SD27
+"Jamaica, Forest Hills",Diverse,2019,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Diverse,2019,Number,0,SD29
+"Long Island City, Astoria",Diverse,2019,Number,3,SD30
+Staten Island,Diverse,2019,Number,2,SD31
+Bushwick,Diverse,2019,Number,0,SD32
+Lower East Side,Diverse,2019,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Diverse,2019,Percent,0.5,SD2
+Upper West Side,Diverse,2019,Percent,0.222,SD3
+East Harlem,Diverse,2019,Percent,0.091,SD4
+Central Harlem,Diverse,2019,Percent,0,SD5
+Washington Heights,Diverse,2019,Percent,0,SD6
+Mott Haven,Diverse,2019,Percent,0,SD7
+"Hunts Point, Port Morris",Diverse,2019,Percent,0,SD8
+"East Tremont, Morris Heights",Diverse,2019,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Diverse,2019,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Diverse,2019,Percent,0.167,SD11
+"Crotona Park, Morrisania, Melrose",Diverse,2019,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Diverse,2019,Percent,0.308,SD13
+"Williamsburg, Greenpoint",Diverse,2019,Percent,0.125,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Diverse,2019,Percent,0.571,SD15
+Bedford Stuyvesant,Diverse,2019,Percent,0,SD16
+Crown Heights,Diverse,2019,Percent,0,SD17
+"East Flatbush, Canarsie",Diverse,2019,Percent,0,SD18
+East New York,Diverse,2019,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Diverse,2019,Percent,0,SD20
+"Gravesend, Coney Island",Diverse,2019,Percent,0.667,SD21
+"Flatbush, Midwood, Sheepshead Bay",Diverse,2019,Percent,0.167,SD22
+"Brownsville, Ocean Hill",Diverse,2019,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Diverse,2019,Percent,0.333,SD24
+"Flushing, Whitestone",Diverse,2019,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Diverse,2019,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Diverse,2019,Percent,0,SD27
+"Jamaica, Forest Hills",Diverse,2019,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Diverse,2019,Percent,0,SD29
+"Long Island City, Astoria",Diverse,2019,Percent,0.6,SD30
+Staten Island,Diverse,2019,Percent,0.5,SD31
+Bushwick,Diverse,2019,Percent,0,SD32
+Lower East Side,Predominantly White,2019,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly White,2019,Number,0,SD2
+Upper West Side,Predominantly White,2019,Number,0,SD3
+East Harlem,Predominantly White,2019,Number,0,SD4
+Central Harlem,Predominantly White,2019,Number,0,SD5
+Washington Heights,Predominantly White,2019,Number,0,SD6
+Mott Haven,Predominantly White,2019,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly White,2019,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly White,2019,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly White,2019,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly White,2019,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly White,2019,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly White,2019,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly White,2019,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly White,2019,Number,0,SD15
+Bedford Stuyvesant,Predominantly White,2019,Number,0,SD16
+Crown Heights,Predominantly White,2019,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly White,2019,Number,0,SD18
+East New York,Predominantly White,2019,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly White,2019,Number,0,SD20
+"Gravesend, Coney Island",Predominantly White,2019,Number,1,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly White,2019,Number,0,SD22
+"Brownsville, Ocean Hill",Predominantly White,2019,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly White,2019,Number,0,SD24
+"Flushing, Whitestone",Predominantly White,2019,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly White,2019,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly White,2019,Number,0,SD27
+"Jamaica, Forest Hills",Predominantly White,2019,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly White,2019,Number,0,SD29
+"Long Island City, Astoria",Predominantly White,2019,Number,0,SD30
+Staten Island,Predominantly White,2019,Number,0,SD31
+Bushwick,Predominantly White,2019,Number,0,SD32
+Lower East Side,Predominantly White,2019,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly White,2019,Percent,0,SD2
+Upper West Side,Predominantly White,2019,Percent,0,SD3
+East Harlem,Predominantly White,2019,Percent,0,SD4
+Central Harlem,Predominantly White,2019,Percent,0,SD5
+Washington Heights,Predominantly White,2019,Percent,0,SD6
+Mott Haven,Predominantly White,2019,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly White,2019,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly White,2019,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly White,2019,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly White,2019,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly White,2019,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly White,2019,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly White,2019,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly White,2019,Percent,0,SD15
+Bedford Stuyvesant,Predominantly White,2019,Percent,0,SD16
+Crown Heights,Predominantly White,2019,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly White,2019,Percent,0,SD18
+East New York,Predominantly White,2019,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly White,2019,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly White,2019,Percent,0.333,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly White,2019,Percent,0,SD22
+"Brownsville, Ocean Hill",Predominantly White,2019,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly White,2019,Percent,0,SD24
+"Flushing, Whitestone",Predominantly White,2019,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly White,2019,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly White,2019,Percent,0,SD27
+"Jamaica, Forest Hills",Predominantly White,2019,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly White,2019,Percent,0,SD29
+"Long Island City, Astoria",Predominantly White,2019,Percent,0,SD30
+Staten Island,Predominantly White,2019,Percent,0,SD31
+Bushwick,Predominantly White,2019,Percent,0,SD32
+Lower East Side,Predominantly Asian,2019,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Asian,2019,Number,0,SD2
+Upper West Side,Predominantly Asian,2019,Number,0,SD3
+East Harlem,Predominantly Asian,2019,Number,0,SD4
+Central Harlem,Predominantly Asian,2019,Number,0,SD5
+Washington Heights,Predominantly Asian,2019,Number,0,SD6
+Mott Haven,Predominantly Asian,2019,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly Asian,2019,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly Asian,2019,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Asian,2019,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Asian,2019,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Asian,2019,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Asian,2019,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly Asian,2019,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Asian,2019,Number,0,SD15
+Bedford Stuyvesant,Predominantly Asian,2019,Number,0,SD16
+Crown Heights,Predominantly Asian,2019,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly Asian,2019,Number,0,SD18
+East New York,Predominantly Asian,2019,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Asian,2019,Number,0,SD20
+"Gravesend, Coney Island",Predominantly Asian,2019,Number,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Asian,2019,Number,0,SD22
+"Brownsville, Ocean Hill",Predominantly Asian,2019,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Asian,2019,Number,0,SD24
+"Flushing, Whitestone",Predominantly Asian,2019,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Asian,2019,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Asian,2019,Number,0,SD27
+"Jamaica, Forest Hills",Predominantly Asian,2019,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Asian,2019,Number,0,SD29
+"Long Island City, Astoria",Predominantly Asian,2019,Number,0,SD30
+Staten Island,Predominantly Asian,2019,Number,0,SD31
+Bushwick,Predominantly Asian,2019,Number,0,SD32
+Lower East Side,Predominantly Asian,2019,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Asian,2019,Percent,0,SD2
+Upper West Side,Predominantly Asian,2019,Percent,0,SD3
+East Harlem,Predominantly Asian,2019,Percent,0,SD4
+Central Harlem,Predominantly Asian,2019,Percent,0,SD5
+Washington Heights,Predominantly Asian,2019,Percent,0,SD6
+Mott Haven,Predominantly Asian,2019,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly Asian,2019,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly Asian,2019,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Asian,2019,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Asian,2019,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Asian,2019,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Asian,2019,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly Asian,2019,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Asian,2019,Percent,0,SD15
+Bedford Stuyvesant,Predominantly Asian,2019,Percent,0,SD16
+Crown Heights,Predominantly Asian,2019,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly Asian,2019,Percent,0,SD18
+East New York,Predominantly Asian,2019,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Asian,2019,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly Asian,2019,Percent,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Asian,2019,Percent,0,SD22
+"Brownsville, Ocean Hill",Predominantly Asian,2019,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Asian,2019,Percent,0,SD24
+"Flushing, Whitestone",Predominantly Asian,2019,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Asian,2019,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Asian,2019,Percent,0,SD27
+"Jamaica, Forest Hills",Predominantly Asian,2019,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Asian,2019,Percent,0,SD29
+"Long Island City, Astoria",Predominantly Asian,2019,Percent,0,SD30
+Staten Island,Predominantly Asian,2019,Percent,0,SD31
+Bushwick,Predominantly Asian,2019,Percent,0,SD32
+Lower East Side,Predominantly White + Asian,2019,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly White + Asian,2019,Number,0,SD2
+Upper West Side,Predominantly White + Asian,2019,Number,0,SD3
+East Harlem,Predominantly White + Asian,2019,Number,0,SD4
+Central Harlem,Predominantly White + Asian,2019,Number,0,SD5
+Washington Heights,Predominantly White + Asian,2019,Number,0,SD6
+Mott Haven,Predominantly White + Asian,2019,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly White + Asian,2019,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly White + Asian,2019,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly White + Asian,2019,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly White + Asian,2019,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly White + Asian,2019,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly White + Asian,2019,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly White + Asian,2019,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly White + Asian,2019,Number,0,SD15
+Bedford Stuyvesant,Predominantly White + Asian,2019,Number,0,SD16
+Crown Heights,Predominantly White + Asian,2019,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly White + Asian,2019,Number,0,SD18
+East New York,Predominantly White + Asian,2019,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly White + Asian,2019,Number,0,SD20
+"Gravesend, Coney Island",Predominantly White + Asian,2019,Number,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly White + Asian,2019,Number,0,SD22
+"Brownsville, Ocean Hill",Predominantly White + Asian,2019,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly White + Asian,2019,Number,0,SD24
+"Flushing, Whitestone",Predominantly White + Asian,2019,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly White + Asian,2019,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly White + Asian,2019,Number,0,SD27
+"Jamaica, Forest Hills",Predominantly White + Asian,2019,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly White + Asian,2019,Number,0,SD29
+"Long Island City, Astoria",Predominantly White + Asian,2019,Number,0,SD30
+Staten Island,Predominantly White + Asian,2019,Number,0,SD31
+Bushwick,Predominantly White + Asian,2019,Number,0,SD32
+Lower East Side,Predominantly White + Asian,2019,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly White + Asian,2019,Percent,0,SD2
+Upper West Side,Predominantly White + Asian,2019,Percent,0,SD3
+East Harlem,Predominantly White + Asian,2019,Percent,0,SD4
+Central Harlem,Predominantly White + Asian,2019,Percent,0,SD5
+Washington Heights,Predominantly White + Asian,2019,Percent,0,SD6
+Mott Haven,Predominantly White + Asian,2019,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly White + Asian,2019,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly White + Asian,2019,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly White + Asian,2019,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly White + Asian,2019,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly White + Asian,2019,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly White + Asian,2019,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly White + Asian,2019,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly White + Asian,2019,Percent,0,SD15
+Bedford Stuyvesant,Predominantly White + Asian,2019,Percent,0,SD16
+Crown Heights,Predominantly White + Asian,2019,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly White + Asian,2019,Percent,0,SD18
+East New York,Predominantly White + Asian,2019,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly White + Asian,2019,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly White + Asian,2019,Percent,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly White + Asian,2019,Percent,0,SD22
+"Brownsville, Ocean Hill",Predominantly White + Asian,2019,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly White + Asian,2019,Percent,0,SD24
+"Flushing, Whitestone",Predominantly White + Asian,2019,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly White + Asian,2019,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly White + Asian,2019,Percent,0,SD27
+"Jamaica, Forest Hills",Predominantly White + Asian,2019,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly White + Asian,2019,Percent,0,SD29
+"Long Island City, Astoria",Predominantly White + Asian,2019,Percent,0,SD30
+Staten Island,Predominantly White + Asian,2019,Percent,0,SD31
+Bushwick,Predominantly White + Asian,2019,Percent,0,SD32
+Lower East Side,Predominantly Black,2019,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Black,2019,Number,0,SD2
+Upper West Side,Predominantly Black,2019,Number,0,SD3
+East Harlem,Predominantly Black,2019,Number,0,SD4
+Central Harlem,Predominantly Black,2019,Number,0,SD5
+Washington Heights,Predominantly Black,2019,Number,0,SD6
+Mott Haven,Predominantly Black,2019,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly Black,2019,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly Black,2019,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Black,2019,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Black,2019,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Black,2019,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Black,2019,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly Black,2019,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Black,2019,Number,0,SD15
+Bedford Stuyvesant,Predominantly Black,2019,Number,0,SD16
+Crown Heights,Predominantly Black,2019,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly Black,2019,Number,0,SD18
+East New York,Predominantly Black,2019,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Black,2019,Number,0,SD20
+"Gravesend, Coney Island",Predominantly Black,2019,Number,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Black,2019,Number,1,SD22
+"Brownsville, Ocean Hill",Predominantly Black,2019,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Black,2019,Number,0,SD24
+"Flushing, Whitestone",Predominantly Black,2019,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Black,2019,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Black,2019,Number,1,SD27
+"Jamaica, Forest Hills",Predominantly Black,2019,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Black,2019,Number,0,SD29
+"Long Island City, Astoria",Predominantly Black,2019,Number,0,SD30
+Staten Island,Predominantly Black,2019,Number,0,SD31
+Bushwick,Predominantly Black,2019,Number,0,SD32
+Lower East Side,Predominantly Black,2019,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Black,2019,Percent,0,SD2
+Upper West Side,Predominantly Black,2019,Percent,0,SD3
+East Harlem,Predominantly Black,2019,Percent,0,SD4
+Central Harlem,Predominantly Black,2019,Percent,0,SD5
+Washington Heights,Predominantly Black,2019,Percent,0,SD6
+Mott Haven,Predominantly Black,2019,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly Black,2019,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly Black,2019,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Black,2019,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Black,2019,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Black,2019,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Black,2019,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly Black,2019,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Black,2019,Percent,0,SD15
+Bedford Stuyvesant,Predominantly Black,2019,Percent,0,SD16
+Crown Heights,Predominantly Black,2019,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly Black,2019,Percent,0,SD18
+East New York,Predominantly Black,2019,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Black,2019,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly Black,2019,Percent,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Black,2019,Percent,0.167,SD22
+"Brownsville, Ocean Hill",Predominantly Black,2019,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Black,2019,Percent,0,SD24
+"Flushing, Whitestone",Predominantly Black,2019,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Black,2019,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Black,2019,Percent,0.143,SD27
+"Jamaica, Forest Hills",Predominantly Black,2019,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Black,2019,Percent,0,SD29
+"Long Island City, Astoria",Predominantly Black,2019,Percent,0,SD30
+Staten Island,Predominantly Black,2019,Percent,0,SD31
+Bushwick,Predominantly Black,2019,Percent,0,SD32
+Lower East Side,Predominantly Hispanic,2019,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Hispanic,2019,Number,0,SD2
+Upper West Side,Predominantly Hispanic,2019,Number,0,SD3
+East Harlem,Predominantly Hispanic,2019,Number,0,SD4
+Central Harlem,Predominantly Hispanic,2019,Number,0,SD5
+Washington Heights,Predominantly Hispanic,2019,Number,0,SD6
+Mott Haven,Predominantly Hispanic,2019,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly Hispanic,2019,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly Hispanic,2019,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Hispanic,2019,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Hispanic,2019,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Hispanic,2019,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Hispanic,2019,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly Hispanic,2019,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Hispanic,2019,Number,0,SD15
+Bedford Stuyvesant,Predominantly Hispanic,2019,Number,0,SD16
+Crown Heights,Predominantly Hispanic,2019,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly Hispanic,2019,Number,0,SD18
+East New York,Predominantly Hispanic,2019,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Hispanic,2019,Number,0,SD20
+"Gravesend, Coney Island",Predominantly Hispanic,2019,Number,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Hispanic,2019,Number,0,SD22
+"Brownsville, Ocean Hill",Predominantly Hispanic,2019,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Hispanic,2019,Number,1,SD24
+"Flushing, Whitestone",Predominantly Hispanic,2019,Number,1,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Hispanic,2019,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Hispanic,2019,Number,0,SD27
+"Jamaica, Forest Hills",Predominantly Hispanic,2019,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Hispanic,2019,Number,0,SD29
+"Long Island City, Astoria",Predominantly Hispanic,2019,Number,2,SD30
+Staten Island,Predominantly Hispanic,2019,Number,0,SD31
+Bushwick,Predominantly Hispanic,2019,Number,0,SD32
+Lower East Side,Predominantly Hispanic,2019,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Hispanic,2019,Percent,0,SD2
+Upper West Side,Predominantly Hispanic,2019,Percent,0,SD3
+East Harlem,Predominantly Hispanic,2019,Percent,0,SD4
+Central Harlem,Predominantly Hispanic,2019,Percent,0,SD5
+Washington Heights,Predominantly Hispanic,2019,Percent,0,SD6
+Mott Haven,Predominantly Hispanic,2019,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly Hispanic,2019,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly Hispanic,2019,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Hispanic,2019,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Hispanic,2019,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Hispanic,2019,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Hispanic,2019,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly Hispanic,2019,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Hispanic,2019,Percent,0,SD15
+Bedford Stuyvesant,Predominantly Hispanic,2019,Percent,0,SD16
+Crown Heights,Predominantly Hispanic,2019,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly Hispanic,2019,Percent,0,SD18
+East New York,Predominantly Hispanic,2019,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Hispanic,2019,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly Hispanic,2019,Percent,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Hispanic,2019,Percent,0,SD22
+"Brownsville, Ocean Hill",Predominantly Hispanic,2019,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Hispanic,2019,Percent,0.333,SD24
+"Flushing, Whitestone",Predominantly Hispanic,2019,Percent,1,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Hispanic,2019,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Hispanic,2019,Percent,0,SD27
+"Jamaica, Forest Hills",Predominantly Hispanic,2019,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Hispanic,2019,Percent,0,SD29
+"Long Island City, Astoria",Predominantly Hispanic,2019,Percent,0.4,SD30
+Staten Island,Predominantly Hispanic,2019,Percent,0,SD31
+Bushwick,Predominantly Hispanic,2019,Percent,0,SD32
+Lower East Side,Predominantly Black + Hispanic,2019,Number,4,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Black + Hispanic,2019,Number,3,SD2
+Upper West Side,Predominantly Black + Hispanic,2019,Number,7,SD3
+East Harlem,Predominantly Black + Hispanic,2019,Number,10,SD4
+Central Harlem,Predominantly Black + Hispanic,2019,Number,14,SD5
+Washington Heights,Predominantly Black + Hispanic,2019,Number,8,SD6
+Mott Haven,Predominantly Black + Hispanic,2019,Number,24,SD7
+"Hunts Point, Port Morris",Predominantly Black + Hispanic,2019,Number,8,SD8
+"East Tremont, Morris Heights",Predominantly Black + Hispanic,2019,Number,13,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Black + Hispanic,2019,Number,8,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Black + Hispanic,2019,Number,10,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Black + Hispanic,2019,Number,7,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Black + Hispanic,2019,Number,9,SD13
+"Williamsburg, Greenpoint",Predominantly Black + Hispanic,2019,Number,7,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Black + Hispanic,2019,Number,3,SD15
+Bedford Stuyvesant,Predominantly Black + Hispanic,2019,Number,9,SD16
+Crown Heights,Predominantly Black + Hispanic,2019,Number,9,SD17
+"East Flatbush, Canarsie",Predominantly Black + Hispanic,2019,Number,7,SD18
+East New York,Predominantly Black + Hispanic,2019,Number,10,SD19
+"Bay Ridge, Bensonhurst",Predominantly Black + Hispanic,2019,Number,0,SD20
+"Gravesend, Coney Island",Predominantly Black + Hispanic,2019,Number,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Black + Hispanic,2019,Number,4,SD22
+"Brownsville, Ocean Hill",Predominantly Black + Hispanic,2019,Number,8,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Black + Hispanic,2019,Number,1,SD24
+"Flushing, Whitestone",Predominantly Black + Hispanic,2019,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Black + Hispanic,2019,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Black + Hispanic,2019,Number,6,SD27
+"Jamaica, Forest Hills",Predominantly Black + Hispanic,2019,Number,2,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Black + Hispanic,2019,Number,4,SD29
+"Long Island City, Astoria",Predominantly Black + Hispanic,2019,Number,0,SD30
+Staten Island,Predominantly Black + Hispanic,2019,Number,2,SD31
+Bushwick,Predominantly Black + Hispanic,2019,Number,5,SD32
+Lower East Side,Predominantly Black + Hispanic,2019,Percent,1,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Black + Hispanic,2019,Percent,0.5,SD2
+Upper West Side,Predominantly Black + Hispanic,2019,Percent,0.778,SD3
+East Harlem,Predominantly Black + Hispanic,2019,Percent,0.909,SD4
+Central Harlem,Predominantly Black + Hispanic,2019,Percent,1,SD5
+Washington Heights,Predominantly Black + Hispanic,2019,Percent,1,SD6
+Mott Haven,Predominantly Black + Hispanic,2019,Percent,1,SD7
+"Hunts Point, Port Morris",Predominantly Black + Hispanic,2019,Percent,1,SD8
+"East Tremont, Morris Heights",Predominantly Black + Hispanic,2019,Percent,1,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Black + Hispanic,2019,Percent,1,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Black + Hispanic,2019,Percent,0.833,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Black + Hispanic,2019,Percent,1,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Black + Hispanic,2019,Percent,0.692,SD13
+"Williamsburg, Greenpoint",Predominantly Black + Hispanic,2019,Percent,0.875,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Black + Hispanic,2019,Percent,0.429,SD15
+Bedford Stuyvesant,Predominantly Black + Hispanic,2019,Percent,1,SD16
+Crown Heights,Predominantly Black + Hispanic,2019,Percent,1,SD17
+"East Flatbush, Canarsie",Predominantly Black + Hispanic,2019,Percent,1,SD18
+East New York,Predominantly Black + Hispanic,2019,Percent,1,SD19
+"Bay Ridge, Bensonhurst",Predominantly Black + Hispanic,2019,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly Black + Hispanic,2019,Percent,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Black + Hispanic,2019,Percent,0.667,SD22
+"Brownsville, Ocean Hill",Predominantly Black + Hispanic,2019,Percent,1,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Black + Hispanic,2019,Percent,0.333,SD24
+"Flushing, Whitestone",Predominantly Black + Hispanic,2019,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Black + Hispanic,2019,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Black + Hispanic,2019,Percent,0.857,SD27
+"Jamaica, Forest Hills",Predominantly Black + Hispanic,2019,Percent,1,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Black + Hispanic,2019,Percent,1,SD29
+"Long Island City, Astoria",Predominantly Black + Hispanic,2019,Percent,0,SD30
+Staten Island,Predominantly Black + Hispanic,2019,Percent,0.5,SD31
+Bushwick,Predominantly Black + Hispanic,2019,Percent,1,SD32
+Bronx,Diverse,2019,Number,2,36005
+Brooklyn,Diverse,2019,Number,12,36047
+Manhattan,Diverse,2019,Number,6,36061
+Queens,Diverse,2019,Number,4,36081
+Staten Island,Diverse,2019,Number,2,36085
+New York City,Diverse,2019,Number,26,3651000
+Bronx,Diverse,2019,Percent,0.028,36005
+Brooklyn,Diverse,2019,Percent,0.141,36047
+Manhattan,Diverse,2019,Percent,0.113,36061
+Queens,Diverse,2019,Percent,0.19,36081
+Staten Island,Diverse,2019,Percent,0.5,36085
+New York City,Diverse,2019,Percent,0.111,3651000
+Bronx,Predominantly White,2019,Number,0,36005
+Brooklyn,Predominantly White,2019,Number,1,36047
+Manhattan,Predominantly White,2019,Number,0,36061
+Queens,Predominantly White,2019,Number,0,36081
+Staten Island,Predominantly White,2019,Number,0,36085
+New York City,Predominantly White,2019,Number,1,3651000
+Bronx,Predominantly White,2019,Percent,0,36005
+Brooklyn,Predominantly White,2019,Percent,0.012,36047
+Manhattan,Predominantly White,2019,Percent,0,36061
+Queens,Predominantly White,2019,Percent,0,36081
+Staten Island,Predominantly White,2019,Percent,0,36085
+New York City,Predominantly White,2019,Percent,0.004,3651000
+Bronx,Predominantly Asian,2019,Number,0,36005
+Brooklyn,Predominantly Asian,2019,Number,0,36047
+Manhattan,Predominantly Asian,2019,Number,0,36061
+Queens,Predominantly Asian,2019,Number,0,36081
+Staten Island,Predominantly Asian,2019,Number,0,36085
+New York City,Predominantly Asian,2019,Number,0,3651000
+Bronx,Predominantly Asian,2019,Percent,0,36005
+Brooklyn,Predominantly Asian,2019,Percent,0,36047
+Manhattan,Predominantly Asian,2019,Percent,0,36061
+Queens,Predominantly Asian,2019,Percent,0,36081
+Staten Island,Predominantly Asian,2019,Percent,0,36085
+New York City,Predominantly Asian,2019,Percent,0,3651000
+Bronx,Predominantly White + Asian,2019,Number,0,36005
+Brooklyn,Predominantly White + Asian,2019,Number,0,36047
+Manhattan,Predominantly White + Asian,2019,Number,0,36061
+Queens,Predominantly White + Asian,2019,Number,0,36081
+Staten Island,Predominantly White + Asian,2019,Number,0,36085
+New York City,Predominantly White + Asian,2019,Number,0,3651000
+Bronx,Predominantly White + Asian,2019,Percent,0,36005
+Brooklyn,Predominantly White + Asian,2019,Percent,0,36047
+Manhattan,Predominantly White + Asian,2019,Percent,0,36061
+Queens,Predominantly White + Asian,2019,Percent,0,36081
+Staten Island,Predominantly White + Asian,2019,Percent,0,36085
+New York City,Predominantly White + Asian,2019,Percent,0,3651000
+Bronx,Predominantly Black,2019,Number,0,36005
+Brooklyn,Predominantly Black,2019,Number,1,36047
+Manhattan,Predominantly Black,2019,Number,0,36061
+Queens,Predominantly Black,2019,Number,1,36081
+Staten Island,Predominantly Black,2019,Number,0,36085
+New York City,Predominantly Black,2019,Number,2,3651000
+Bronx,Predominantly Black,2019,Percent,0,36005
+Brooklyn,Predominantly Black,2019,Percent,0.012,36047
+Manhattan,Predominantly Black,2019,Percent,0,36061
+Queens,Predominantly Black,2019,Percent,0.048,36081
+Staten Island,Predominantly Black,2019,Percent,0,36085
+New York City,Predominantly Black,2019,Percent,0.009,3651000
+Bronx,Predominantly Hispanic,2019,Number,0,36005
+Brooklyn,Predominantly Hispanic,2019,Number,0,36047
+Manhattan,Predominantly Hispanic,2019,Number,0,36061
+Queens,Predominantly Hispanic,2019,Number,4,36081
+Staten Island,Predominantly Hispanic,2019,Number,0,36085
+New York City,Predominantly Hispanic,2019,Number,4,3651000
+Bronx,Predominantly Hispanic,2019,Percent,0,36005
+Brooklyn,Predominantly Hispanic,2019,Percent,0,36047
+Manhattan,Predominantly Hispanic,2019,Percent,0,36061
+Queens,Predominantly Hispanic,2019,Percent,0.19,36081
+Staten Island,Predominantly Hispanic,2019,Percent,0,36085
+New York City,Predominantly Hispanic,2019,Percent,0.017,3651000
+Bronx,Predominantly Black + Hispanic,2019,Number,69,36005
+Brooklyn,Predominantly Black + Hispanic,2019,Number,71,36047
+Manhattan,Predominantly Black + Hispanic,2019,Number,47,36061
+Queens,Predominantly Black + Hispanic,2019,Number,12,36081
+Staten Island,Predominantly Black + Hispanic,2019,Number,2,36085
+New York City,Predominantly Black + Hispanic,2019,Number,201,3651000
+Bronx,Predominantly Black + Hispanic,2019,Percent,0.972,36005
+Brooklyn,Predominantly Black + Hispanic,2019,Percent,0.835,36047
+Manhattan,Predominantly Black + Hispanic,2019,Percent,0.887,36061
+Queens,Predominantly Black + Hispanic,2019,Percent,0.571,36081
+Staten Island,Predominantly Black + Hispanic,2019,Percent,0.5,36085
+New York City,Predominantly Black + Hispanic,2019,Percent,0.859,3651000
+Battery Park/Tribeca,Diverse,2020,Number,1,101
+Greenwich Village,Diverse,2020,Number,0,102
+Lower East Side,Diverse,2020,Number,0,103
+Chelsea/Clinton,Diverse,2020,Number,2,104
+Midtown Business District,Diverse,2020,Number,0,105
+Murray Hill/Stuyvesant,Diverse,2020,Number,1,106
+Upper West Side,Diverse,2020,Number,1,107
+Upper East Side,Diverse,2020,Number,0,108
+Manhattanville,Diverse,2020,Number,0,109
+Central Harlem,Diverse,2020,Number,0,110
+East Harlem,Diverse,2020,Number,1,111
+Washington Heights,Diverse,2020,Number,0,112
+Mott Haven,Diverse,2020,Number,0,201
+Hunts Point,Diverse,2020,Number,0,202
+Morrisania,Diverse,2020,Number,0,203
+Concourse/Highbridge,Diverse,2020,Number,0,204
+University Heights,Diverse,2020,Number,0,205
+East Tremont,Diverse,2020,Number,0,206
+Bedford Park,Diverse,2020,Number,0,207
+Riverdale,Diverse,2020,Number,0,208
+Unionport/Soundview,Diverse,2020,Number,1,209
+Throgs Neck,Diverse,2020,Number,0,210
+Pelham Parkway,Diverse,2020,Number,1,211
+Williamsbridge,Diverse,2020,Number,0,212
+Williamsburg/Greenpoint,Diverse,2020,Number,1,301
+Fort Greene/Brooklyn Hts,Diverse,2020,Number,3,302
+Bedford Stuyvesant,Diverse,2020,Number,2,303
+Bushwick,Diverse,2020,Number,0,304
+East New York,Diverse,2020,Number,0,305
+Park Slope,Diverse,2020,Number,1,306
+Sunset Park,Diverse,2020,Number,4,307
+Crown Heights North,Diverse,2020,Number,0,308
+Crown Heights South,Diverse,2020,Number,0,309
+Bay Ridge,Diverse,2020,Number,0,310
+Bensonhurst,Diverse,2020,Number,0,311
+Borough Park,Diverse,2020,Number,0,312
+Coney Island,Diverse,2020,Number,1,313
+Flatbush/Midwood,Diverse,2020,Number,0,314
+Sheepshead Bay,Diverse,2020,Number,0,315
+Brownsville,Diverse,2020,Number,0,316
+East Flatbush,Diverse,2020,Number,0,317
+Canarsie,Diverse,2020,Number,1,318
+Astoria,Diverse,2020,Number,3,401
+Sunnyside/Woodside,Diverse,2020,Number,0,402
+Jackson Heights,Diverse,2020,Number,0,403
+Elmhurst/Corona,Diverse,2020,Number,0,404
+Ridgewood/Glendale,Diverse,2020,Number,1,405
+Rego Park/Forest Hills,Diverse,2020,Number,0,406
+Flushing,Diverse,2020,Number,0,407
+Fresh Meadows/Briarwood,Diverse,2020,Number,0,408
+Woodhaven,Diverse,2020,Number,0,409
+Howard Beach,Diverse,2020,Number,0,410
+Bayside,Diverse,2020,Number,0,411
+Jamaica/St. Albans,Diverse,2020,Number,1,412
+Queens Village,Diverse,2020,Number,0,413
+The Rockaways,Diverse,2020,Number,0,414
+St. George,Diverse,2020,Number,0,501
+South Beach,Diverse,2020,Number,3,502
+Tottenville,Diverse,2020,Number,1,503
+Lower East Side,Diverse,2020,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Diverse,2020,Number,4,SD2
+Upper West Side,Diverse,2020,Number,1,SD3
+East Harlem,Diverse,2020,Number,1,SD4
+Central Harlem,Diverse,2020,Number,0,SD5
+Washington Heights,Diverse,2020,Number,0,SD6
+Mott Haven,Diverse,2020,Number,0,SD7
+"Hunts Point, Port Morris",Diverse,2020,Number,0,SD8
+"East Tremont, Morris Heights",Diverse,2020,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Diverse,2020,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Diverse,2020,Number,2,SD11
+"Crotona Park, Morrisania, Melrose",Diverse,2020,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Diverse,2020,Number,4,SD13
+"Williamsburg, Greenpoint",Diverse,2020,Number,1,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Diverse,2020,Number,5,SD15
+Bedford Stuyvesant,Diverse,2020,Number,1,SD16
+Crown Heights,Diverse,2020,Number,0,SD17
+"East Flatbush, Canarsie",Diverse,2020,Number,0,SD18
+East New York,Diverse,2020,Number,0,SD19
+"Bay Ridge, Bensonhurst",Diverse,2020,Number,0,SD20
+"Gravesend, Coney Island",Diverse,2020,Number,1,SD21
+"Flatbush, Midwood, Sheepshead Bay",Diverse,2020,Number,1,SD22
+"Brownsville, Ocean Hill",Diverse,2020,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Diverse,2020,Number,1,SD24
+"Flushing, Whitestone",Diverse,2020,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Diverse,2020,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Diverse,2020,Number,0,SD27
+"Jamaica, Forest Hills",Diverse,2020,Number,1,SD28
+"Queens Village, Rosedale, Hollis",Diverse,2020,Number,0,SD29
+"Long Island City, Astoria",Diverse,2020,Number,3,SD30
+Staten Island,Diverse,2020,Number,4,SD31
+Bushwick,Diverse,2020,Number,0,SD32
+Bronx,Diverse,2020,Number,2,36005
+Brooklyn,Diverse,2020,Number,13,36047
+Manhattan,Diverse,2020,Number,6,36061
+Queens,Diverse,2020,Number,5,36081
+Staten Island,Diverse,2020,Number,4,36085
+New York City,Diverse,2020,Number,30,3651000
+Battery Park/Tribeca,Diverse,2020,Percent,0.5,101
+Greenwich Village,Diverse,2020,Percent,0,102
+Lower East Side,Diverse,2020,Percent,0,103
+Chelsea/Clinton,Diverse,2020,Percent,1,104
+Midtown Business District,Diverse,2020,Percent,0,105
+Murray Hill/Stuyvesant,Diverse,2020,Percent,1,106
+Upper West Side,Diverse,2020,Percent,1,107
+Upper East Side,Diverse,2020,Percent,0,108
+Manhattanville,Diverse,2020,Percent,0,109
+Central Harlem,Diverse,2020,Percent,0,110
+East Harlem,Diverse,2020,Percent,0.07143,111
+Washington Heights,Diverse,2020,Percent,0,112
+Mott Haven,Diverse,2020,Percent,0,201
+Hunts Point,Diverse,2020,Percent,0,202
+Morrisania,Diverse,2020,Percent,0,203
+Concourse/Highbridge,Diverse,2020,Percent,0,204
+University Heights,Diverse,2020,Percent,0,205
+East Tremont,Diverse,2020,Percent,0,206
+Bedford Park,Diverse,2020,Percent,0,207
+Riverdale,Diverse,2020,Percent,0,208
+Unionport/Soundview,Diverse,2020,Percent,0.16667,209
+Throgs Neck,Diverse,2020,Percent,0,210
+Pelham Parkway,Diverse,2020,Percent,0.16667,211
+Williamsbridge,Diverse,2020,Percent,0,212
+Williamsburg/Greenpoint,Diverse,2020,Percent,0.2,301
+Fort Greene/Brooklyn Hts,Diverse,2020,Percent,0.375,302
+Bedford Stuyvesant,Diverse,2020,Percent,0.11765,303
+Bushwick,Diverse,2020,Percent,0,304
+East New York,Diverse,2020,Percent,0,305
+Park Slope,Diverse,2020,Percent,0.33333,306
+Sunset Park,Diverse,2020,Percent,0.66667,307
+Crown Heights North,Diverse,2020,Percent,0,308
+Crown Heights South,Diverse,2020,Percent,0,309
+Bay Ridge,Diverse,2020,Percent,0,310
+Bensonhurst,Diverse,2020,Percent,0,311
+Borough Park,Diverse,2020,Percent,0,312
+Coney Island,Diverse,2020,Percent,1,313
+Flatbush/Midwood,Diverse,2020,Percent,0,314
+Sheepshead Bay,Diverse,2020,Percent,0,315
+Brownsville,Diverse,2020,Percent,0,316
+East Flatbush,Diverse,2020,Percent,0,317
+Canarsie,Diverse,2020,Percent,0.2,318
+Astoria,Diverse,2020,Percent,0.75,401
+Sunnyside/Woodside,Diverse,2020,Percent,0,402
+Jackson Heights,Diverse,2020,Percent,0,403
+Elmhurst/Corona,Diverse,2020,Percent,0,404
+Ridgewood/Glendale,Diverse,2020,Percent,0.5,405
+Rego Park/Forest Hills,Diverse,2020,Percent,0,406
+Flushing,Diverse,2020,Percent,0,407
+Fresh Meadows/Briarwood,Diverse,2020,Percent,0,408
+Woodhaven,Diverse,2020,Percent,0,409
+Howard Beach,Diverse,2020,Percent,0,410
+Bayside,Diverse,2020,Percent,0,411
+Jamaica/St. Albans,Diverse,2020,Percent,0.16667,412
+Queens Village,Diverse,2020,Percent,0,413
+The Rockaways,Diverse,2020,Percent,0,414
+St. George,Diverse,2020,Percent,0,501
+South Beach,Diverse,2020,Percent,0.75,502
+Tottenville,Diverse,2020,Percent,1,503
+Lower East Side,Diverse,2020,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Diverse,2020,Percent,0.66667,SD2
+Upper West Side,Diverse,2020,Percent,0.11111,SD3
+East Harlem,Diverse,2020,Percent,0.09091,SD4
+Central Harlem,Diverse,2020,Percent,0,SD5
+Washington Heights,Diverse,2020,Percent,0,SD6
+Mott Haven,Diverse,2020,Percent,0,SD7
+"Hunts Point, Port Morris",Diverse,2020,Percent,0,SD8
+"East Tremont, Morris Heights",Diverse,2020,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Diverse,2020,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Diverse,2020,Percent,0.18182,SD11
+"Crotona Park, Morrisania, Melrose",Diverse,2020,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Diverse,2020,Percent,0.30769,SD13
+"Williamsburg, Greenpoint",Diverse,2020,Percent,0.125,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Diverse,2020,Percent,0.55556,SD15
+Bedford Stuyvesant,Diverse,2020,Percent,0.1,SD16
+Crown Heights,Diverse,2020,Percent,0,SD17
+"East Flatbush, Canarsie",Diverse,2020,Percent,0,SD18
+East New York,Diverse,2020,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Diverse,2020,Percent,0,SD20
+"Gravesend, Coney Island",Diverse,2020,Percent,0.33333,SD21
+"Flatbush, Midwood, Sheepshead Bay",Diverse,2020,Percent,0.14286,SD22
+"Brownsville, Ocean Hill",Diverse,2020,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Diverse,2020,Percent,0.2,SD24
+"Flushing, Whitestone",Diverse,2020,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Diverse,2020,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Diverse,2020,Percent,0,SD27
+"Jamaica, Forest Hills",Diverse,2020,Percent,0.33333,SD28
+"Queens Village, Rosedale, Hollis",Diverse,2020,Percent,0,SD29
+"Long Island City, Astoria",Diverse,2020,Percent,0.6,SD30
+Staten Island,Diverse,2020,Percent,0.66667,SD31
+Bushwick,Diverse,2020,Percent,0,SD32
+Bronx,Diverse,2020,Percent,0.02439,36005
+Brooklyn,Diverse,2020,Percent,0.13978,36047
+Manhattan,Diverse,2020,Percent,0.10909,36061
+Queens,Diverse,2020,Percent,0.21739,36081
+Staten Island,Diverse,2020,Percent,0.66667,36085
+New York City,Diverse,2020,Percent,0.11583,3651000
+Battery Park/Tribeca,Predominantly Asian,2020,Number,0,101
+Greenwich Village,Predominantly Asian,2020,Number,0,102
+Lower East Side,Predominantly Asian,2020,Number,0,103
+Chelsea/Clinton,Predominantly Asian,2020,Number,0,104
+Midtown Business District,Predominantly Asian,2020,Number,0,105
+Murray Hill/Stuyvesant,Predominantly Asian,2020,Number,0,106
+Upper West Side,Predominantly Asian,2020,Number,0,107
+Upper East Side,Predominantly Asian,2020,Number,0,108
+Manhattanville,Predominantly Asian,2020,Number,0,109
+Central Harlem,Predominantly Asian,2020,Number,0,110
+East Harlem,Predominantly Asian,2020,Number,0,111
+Washington Heights,Predominantly Asian,2020,Number,0,112
+Mott Haven,Predominantly Asian,2020,Number,0,201
+Hunts Point,Predominantly Asian,2020,Number,0,202
+Morrisania,Predominantly Asian,2020,Number,0,203
+Concourse/Highbridge,Predominantly Asian,2020,Number,0,204
+University Heights,Predominantly Asian,2020,Number,0,205
+East Tremont,Predominantly Asian,2020,Number,0,206
+Bedford Park,Predominantly Asian,2020,Number,0,207
+Riverdale,Predominantly Asian,2020,Number,0,208
+Unionport/Soundview,Predominantly Asian,2020,Number,0,209
+Throgs Neck,Predominantly Asian,2020,Number,0,210
+Pelham Parkway,Predominantly Asian,2020,Number,0,211
+Williamsbridge,Predominantly Asian,2020,Number,0,212
+Williamsburg/Greenpoint,Predominantly Asian,2020,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly Asian,2020,Number,0,302
+Bedford Stuyvesant,Predominantly Asian,2020,Number,0,303
+Bushwick,Predominantly Asian,2020,Number,0,304
+East New York,Predominantly Asian,2020,Number,0,305
+Park Slope,Predominantly Asian,2020,Number,0,306
+Sunset Park,Predominantly Asian,2020,Number,0,307
+Crown Heights North,Predominantly Asian,2020,Number,0,308
+Crown Heights South,Predominantly Asian,2020,Number,0,309
+Bay Ridge,Predominantly Asian,2020,Number,0,310
+Bensonhurst,Predominantly Asian,2020,Number,0,311
+Borough Park,Predominantly Asian,2020,Number,0,312
+Coney Island,Predominantly Asian,2020,Number,0,313
+Flatbush/Midwood,Predominantly Asian,2020,Number,0,314
+Sheepshead Bay,Predominantly Asian,2020,Number,0,315
+Brownsville,Predominantly Asian,2020,Number,0,316
+East Flatbush,Predominantly Asian,2020,Number,0,317
+Canarsie,Predominantly Asian,2020,Number,0,318
+Astoria,Predominantly Asian,2020,Number,0,401
+Sunnyside/Woodside,Predominantly Asian,2020,Number,0,402
+Jackson Heights,Predominantly Asian,2020,Number,0,403
+Elmhurst/Corona,Predominantly Asian,2020,Number,0,404
+Ridgewood/Glendale,Predominantly Asian,2020,Number,0,405
+Rego Park/Forest Hills,Predominantly Asian,2020,Number,0,406
+Flushing,Predominantly Asian,2020,Number,0,407
+Fresh Meadows/Briarwood,Predominantly Asian,2020,Number,0,408
+Woodhaven,Predominantly Asian,2020,Number,0,409
+Howard Beach,Predominantly Asian,2020,Number,0,410
+Bayside,Predominantly Asian,2020,Number,0,411
+Jamaica/St. Albans,Predominantly Asian,2020,Number,0,412
+Queens Village,Predominantly Asian,2020,Number,0,413
+The Rockaways,Predominantly Asian,2020,Number,0,414
+St. George,Predominantly Asian,2020,Number,0,501
+South Beach,Predominantly Asian,2020,Number,0,502
+Tottenville,Predominantly Asian,2020,Number,0,503
+Lower East Side,Predominantly Asian,2020,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Asian,2020,Number,0,SD2
+Upper West Side,Predominantly Asian,2020,Number,0,SD3
+East Harlem,Predominantly Asian,2020,Number,0,SD4
+Central Harlem,Predominantly Asian,2020,Number,0,SD5
+Washington Heights,Predominantly Asian,2020,Number,0,SD6
+Mott Haven,Predominantly Asian,2020,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly Asian,2020,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly Asian,2020,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Asian,2020,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Asian,2020,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Asian,2020,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Asian,2020,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly Asian,2020,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Asian,2020,Number,0,SD15
+Bedford Stuyvesant,Predominantly Asian,2020,Number,0,SD16
+Crown Heights,Predominantly Asian,2020,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly Asian,2020,Number,0,SD18
+East New York,Predominantly Asian,2020,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Asian,2020,Number,0,SD20
+"Gravesend, Coney Island",Predominantly Asian,2020,Number,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Asian,2020,Number,0,SD22
+"Brownsville, Ocean Hill",Predominantly Asian,2020,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Asian,2020,Number,0,SD24
+"Flushing, Whitestone",Predominantly Asian,2020,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Asian,2020,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Asian,2020,Number,0,SD27
+"Jamaica, Forest Hills",Predominantly Asian,2020,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Asian,2020,Number,0,SD29
+"Long Island City, Astoria",Predominantly Asian,2020,Number,0,SD30
+Staten Island,Predominantly Asian,2020,Number,0,SD31
+Bushwick,Predominantly Asian,2020,Number,0,SD32
+Bronx,Predominantly Asian,2020,Number,0,36005
+Brooklyn,Predominantly Asian,2020,Number,0,36047
+Manhattan,Predominantly Asian,2020,Number,0,36061
+Queens,Predominantly Asian,2020,Number,0,36081
+Staten Island,Predominantly Asian,2020,Number,0,36085
+New York City,Predominantly Asian,2020,Number,0,3651000
+Battery Park/Tribeca,Predominantly Asian,2020,Percent,0,101
+Greenwich Village,Predominantly Asian,2020,Percent,0,102
+Lower East Side,Predominantly Asian,2020,Percent,0,103
+Chelsea/Clinton,Predominantly Asian,2020,Percent,0,104
+Midtown Business District,Predominantly Asian,2020,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly Asian,2020,Percent,0,106
+Upper West Side,Predominantly Asian,2020,Percent,0,107
+Upper East Side,Predominantly Asian,2020,Percent,0,108
+Manhattanville,Predominantly Asian,2020,Percent,0,109
+Central Harlem,Predominantly Asian,2020,Percent,0,110
+East Harlem,Predominantly Asian,2020,Percent,0,111
+Washington Heights,Predominantly Asian,2020,Percent,0,112
+Mott Haven,Predominantly Asian,2020,Percent,0,201
+Hunts Point,Predominantly Asian,2020,Percent,0,202
+Morrisania,Predominantly Asian,2020,Percent,0,203
+Concourse/Highbridge,Predominantly Asian,2020,Percent,0,204
+University Heights,Predominantly Asian,2020,Percent,0,205
+East Tremont,Predominantly Asian,2020,Percent,0,206
+Bedford Park,Predominantly Asian,2020,Percent,0,207
+Riverdale,Predominantly Asian,2020,Percent,0,208
+Unionport/Soundview,Predominantly Asian,2020,Percent,0,209
+Throgs Neck,Predominantly Asian,2020,Percent,0,210
+Pelham Parkway,Predominantly Asian,2020,Percent,0,211
+Williamsbridge,Predominantly Asian,2020,Percent,0,212
+Williamsburg/Greenpoint,Predominantly Asian,2020,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly Asian,2020,Percent,0,302
+Bedford Stuyvesant,Predominantly Asian,2020,Percent,0,303
+Bushwick,Predominantly Asian,2020,Percent,0,304
+East New York,Predominantly Asian,2020,Percent,0,305
+Park Slope,Predominantly Asian,2020,Percent,0,306
+Sunset Park,Predominantly Asian,2020,Percent,0,307
+Crown Heights North,Predominantly Asian,2020,Percent,0,308
+Crown Heights South,Predominantly Asian,2020,Percent,0,309
+Bay Ridge,Predominantly Asian,2020,Percent,0,310
+Bensonhurst,Predominantly Asian,2020,Percent,0,311
+Borough Park,Predominantly Asian,2020,Percent,0,312
+Coney Island,Predominantly Asian,2020,Percent,0,313
+Flatbush/Midwood,Predominantly Asian,2020,Percent,0,314
+Sheepshead Bay,Predominantly Asian,2020,Percent,0,315
+Brownsville,Predominantly Asian,2020,Percent,0,316
+East Flatbush,Predominantly Asian,2020,Percent,0,317
+Canarsie,Predominantly Asian,2020,Percent,0,318
+Astoria,Predominantly Asian,2020,Percent,0,401
+Sunnyside/Woodside,Predominantly Asian,2020,Percent,0,402
+Jackson Heights,Predominantly Asian,2020,Percent,0,403
+Elmhurst/Corona,Predominantly Asian,2020,Percent,0,404
+Ridgewood/Glendale,Predominantly Asian,2020,Percent,0,405
+Rego Park/Forest Hills,Predominantly Asian,2020,Percent,0,406
+Flushing,Predominantly Asian,2020,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly Asian,2020,Percent,0,408
+Woodhaven,Predominantly Asian,2020,Percent,0,409
+Howard Beach,Predominantly Asian,2020,Percent,0,410
+Bayside,Predominantly Asian,2020,Percent,0,411
+Jamaica/St. Albans,Predominantly Asian,2020,Percent,0,412
+Queens Village,Predominantly Asian,2020,Percent,0,413
+The Rockaways,Predominantly Asian,2020,Percent,0,414
+St. George,Predominantly Asian,2020,Percent,0,501
+South Beach,Predominantly Asian,2020,Percent,0,502
+Tottenville,Predominantly Asian,2020,Percent,0,503
+Lower East Side,Predominantly Asian,2020,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Asian,2020,Percent,0,SD2
+Upper West Side,Predominantly Asian,2020,Percent,0,SD3
+East Harlem,Predominantly Asian,2020,Percent,0,SD4
+Central Harlem,Predominantly Asian,2020,Percent,0,SD5
+Washington Heights,Predominantly Asian,2020,Percent,0,SD6
+Mott Haven,Predominantly Asian,2020,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly Asian,2020,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly Asian,2020,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Asian,2020,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Asian,2020,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Asian,2020,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Asian,2020,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly Asian,2020,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Asian,2020,Percent,0,SD15
+Bedford Stuyvesant,Predominantly Asian,2020,Percent,0,SD16
+Crown Heights,Predominantly Asian,2020,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly Asian,2020,Percent,0,SD18
+East New York,Predominantly Asian,2020,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Asian,2020,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly Asian,2020,Percent,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Asian,2020,Percent,0,SD22
+"Brownsville, Ocean Hill",Predominantly Asian,2020,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Asian,2020,Percent,0,SD24
+"Flushing, Whitestone",Predominantly Asian,2020,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Asian,2020,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Asian,2020,Percent,0,SD27
+"Jamaica, Forest Hills",Predominantly Asian,2020,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Asian,2020,Percent,0,SD29
+"Long Island City, Astoria",Predominantly Asian,2020,Percent,0,SD30
+Staten Island,Predominantly Asian,2020,Percent,0,SD31
+Bushwick,Predominantly Asian,2020,Percent,0,SD32
+Bronx,Predominantly Asian,2020,Percent,0,36005
+Brooklyn,Predominantly Asian,2020,Percent,0,36047
+Manhattan,Predominantly Asian,2020,Percent,0,36061
+Queens,Predominantly Asian,2020,Percent,0,36081
+Staten Island,Predominantly Asian,2020,Percent,0,36085
+New York City,Predominantly Asian,2020,Percent,0,3651000
+Battery Park/Tribeca,Predominantly Black,2020,Number,0,101
+Greenwich Village,Predominantly Black,2020,Number,0,102
+Lower East Side,Predominantly Black,2020,Number,0,103
+Chelsea/Clinton,Predominantly Black,2020,Number,0,104
+Midtown Business District,Predominantly Black,2020,Number,0,105
+Murray Hill/Stuyvesant,Predominantly Black,2020,Number,0,106
+Upper West Side,Predominantly Black,2020,Number,0,107
+Upper East Side,Predominantly Black,2020,Number,0,108
+Manhattanville,Predominantly Black,2020,Number,0,109
+Central Harlem,Predominantly Black,2020,Number,0,110
+East Harlem,Predominantly Black,2020,Number,0,111
+Washington Heights,Predominantly Black,2020,Number,0,112
+Mott Haven,Predominantly Black,2020,Number,0,201
+Hunts Point,Predominantly Black,2020,Number,0,202
+Morrisania,Predominantly Black,2020,Number,0,203
+Concourse/Highbridge,Predominantly Black,2020,Number,0,204
+University Heights,Predominantly Black,2020,Number,0,205
+East Tremont,Predominantly Black,2020,Number,0,206
+Bedford Park,Predominantly Black,2020,Number,0,207
+Riverdale,Predominantly Black,2020,Number,0,208
+Unionport/Soundview,Predominantly Black,2020,Number,0,209
+Throgs Neck,Predominantly Black,2020,Number,0,210
+Pelham Parkway,Predominantly Black,2020,Number,0,211
+Williamsbridge,Predominantly Black,2020,Number,0,212
+Williamsburg/Greenpoint,Predominantly Black,2020,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly Black,2020,Number,0,302
+Bedford Stuyvesant,Predominantly Black,2020,Number,0,303
+Bushwick,Predominantly Black,2020,Number,0,304
+East New York,Predominantly Black,2020,Number,0,305
+Park Slope,Predominantly Black,2020,Number,0,306
+Sunset Park,Predominantly Black,2020,Number,0,307
+Crown Heights North,Predominantly Black,2020,Number,0,308
+Crown Heights South,Predominantly Black,2020,Number,0,309
+Bay Ridge,Predominantly Black,2020,Number,0,310
+Bensonhurst,Predominantly Black,2020,Number,0,311
+Borough Park,Predominantly Black,2020,Number,0,312
+Coney Island,Predominantly Black,2020,Number,0,313
+Flatbush/Midwood,Predominantly Black,2020,Number,0,314
+Sheepshead Bay,Predominantly Black,2020,Number,0,315
+Brownsville,Predominantly Black,2020,Number,0,316
+East Flatbush,Predominantly Black,2020,Number,1,317
+Canarsie,Predominantly Black,2020,Number,0,318
+Astoria,Predominantly Black,2020,Number,0,401
+Sunnyside/Woodside,Predominantly Black,2020,Number,0,402
+Jackson Heights,Predominantly Black,2020,Number,0,403
+Elmhurst/Corona,Predominantly Black,2020,Number,0,404
+Ridgewood/Glendale,Predominantly Black,2020,Number,0,405
+Rego Park/Forest Hills,Predominantly Black,2020,Number,0,406
+Flushing,Predominantly Black,2020,Number,0,407
+Fresh Meadows/Briarwood,Predominantly Black,2020,Number,0,408
+Woodhaven,Predominantly Black,2020,Number,0,409
+Howard Beach,Predominantly Black,2020,Number,0,410
+Bayside,Predominantly Black,2020,Number,0,411
+Jamaica/St. Albans,Predominantly Black,2020,Number,1,412
+Queens Village,Predominantly Black,2020,Number,0,413
+The Rockaways,Predominantly Black,2020,Number,0,414
+St. George,Predominantly Black,2020,Number,0,501
+South Beach,Predominantly Black,2020,Number,0,502
+Tottenville,Predominantly Black,2020,Number,0,503
+Lower East Side,Predominantly Black,2020,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Black,2020,Number,0,SD2
+Upper West Side,Predominantly Black,2020,Number,0,SD3
+East Harlem,Predominantly Black,2020,Number,0,SD4
+Central Harlem,Predominantly Black,2020,Number,0,SD5
+Washington Heights,Predominantly Black,2020,Number,0,SD6
+Mott Haven,Predominantly Black,2020,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly Black,2020,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly Black,2020,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Black,2020,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Black,2020,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Black,2020,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Black,2020,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly Black,2020,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Black,2020,Number,0,SD15
+Bedford Stuyvesant,Predominantly Black,2020,Number,0,SD16
+Crown Heights,Predominantly Black,2020,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly Black,2020,Number,1,SD18
+East New York,Predominantly Black,2020,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Black,2020,Number,0,SD20
+"Gravesend, Coney Island",Predominantly Black,2020,Number,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Black,2020,Number,0,SD22
+"Brownsville, Ocean Hill",Predominantly Black,2020,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Black,2020,Number,0,SD24
+"Flushing, Whitestone",Predominantly Black,2020,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Black,2020,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Black,2020,Number,1,SD27
+"Jamaica, Forest Hills",Predominantly Black,2020,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Black,2020,Number,0,SD29
+"Long Island City, Astoria",Predominantly Black,2020,Number,0,SD30
+Staten Island,Predominantly Black,2020,Number,0,SD31
+Bushwick,Predominantly Black,2020,Number,0,SD32
+Bronx,Predominantly Black,2020,Number,0,36005
+Brooklyn,Predominantly Black,2020,Number,1,36047
+Manhattan,Predominantly Black,2020,Number,0,36061
+Queens,Predominantly Black,2020,Number,1,36081
+Staten Island,Predominantly Black,2020,Number,0,36085
+New York City,Predominantly Black,2020,Number,2,3651000
+Battery Park/Tribeca,Predominantly Black,2020,Percent,0,101
+Greenwich Village,Predominantly Black,2020,Percent,0,102
+Lower East Side,Predominantly Black,2020,Percent,0,103
+Chelsea/Clinton,Predominantly Black,2020,Percent,0,104
+Midtown Business District,Predominantly Black,2020,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly Black,2020,Percent,0,106
+Upper West Side,Predominantly Black,2020,Percent,0,107
+Upper East Side,Predominantly Black,2020,Percent,0,108
+Manhattanville,Predominantly Black,2020,Percent,0,109
+Central Harlem,Predominantly Black,2020,Percent,0,110
+East Harlem,Predominantly Black,2020,Percent,0,111
+Washington Heights,Predominantly Black,2020,Percent,0,112
+Mott Haven,Predominantly Black,2020,Percent,0,201
+Hunts Point,Predominantly Black,2020,Percent,0,202
+Morrisania,Predominantly Black,2020,Percent,0,203
+Concourse/Highbridge,Predominantly Black,2020,Percent,0,204
+University Heights,Predominantly Black,2020,Percent,0,205
+East Tremont,Predominantly Black,2020,Percent,0,206
+Bedford Park,Predominantly Black,2020,Percent,0,207
+Riverdale,Predominantly Black,2020,Percent,0,208
+Unionport/Soundview,Predominantly Black,2020,Percent,0,209
+Throgs Neck,Predominantly Black,2020,Percent,0,210
+Pelham Parkway,Predominantly Black,2020,Percent,0,211
+Williamsbridge,Predominantly Black,2020,Percent,0,212
+Williamsburg/Greenpoint,Predominantly Black,2020,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly Black,2020,Percent,0,302
+Bedford Stuyvesant,Predominantly Black,2020,Percent,0,303
+Bushwick,Predominantly Black,2020,Percent,0,304
+East New York,Predominantly Black,2020,Percent,0,305
+Park Slope,Predominantly Black,2020,Percent,0,306
+Sunset Park,Predominantly Black,2020,Percent,0,307
+Crown Heights North,Predominantly Black,2020,Percent,0,308
+Crown Heights South,Predominantly Black,2020,Percent,0,309
+Bay Ridge,Predominantly Black,2020,Percent,0,310
+Bensonhurst,Predominantly Black,2020,Percent,0,311
+Borough Park,Predominantly Black,2020,Percent,0,312
+Coney Island,Predominantly Black,2020,Percent,0,313
+Flatbush/Midwood,Predominantly Black,2020,Percent,0,314
+Sheepshead Bay,Predominantly Black,2020,Percent,0,315
+Brownsville,Predominantly Black,2020,Percent,0,316
+East Flatbush,Predominantly Black,2020,Percent,0.14286,317
+Canarsie,Predominantly Black,2020,Percent,0,318
+Astoria,Predominantly Black,2020,Percent,0,401
+Sunnyside/Woodside,Predominantly Black,2020,Percent,0,402
+Jackson Heights,Predominantly Black,2020,Percent,0,403
+Elmhurst/Corona,Predominantly Black,2020,Percent,0,404
+Ridgewood/Glendale,Predominantly Black,2020,Percent,0,405
+Rego Park/Forest Hills,Predominantly Black,2020,Percent,0,406
+Flushing,Predominantly Black,2020,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly Black,2020,Percent,0,408
+Woodhaven,Predominantly Black,2020,Percent,0,409
+Howard Beach,Predominantly Black,2020,Percent,0,410
+Bayside,Predominantly Black,2020,Percent,0,411
+Jamaica/St. Albans,Predominantly Black,2020,Percent,0.16667,412
+Queens Village,Predominantly Black,2020,Percent,0,413
+The Rockaways,Predominantly Black,2020,Percent,0,414
+St. George,Predominantly Black,2020,Percent,0,501
+South Beach,Predominantly Black,2020,Percent,0,502
+Tottenville,Predominantly Black,2020,Percent,0,503
+Lower East Side,Predominantly Black,2020,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Black,2020,Percent,0,SD2
+Upper West Side,Predominantly Black,2020,Percent,0,SD3
+East Harlem,Predominantly Black,2020,Percent,0,SD4
+Central Harlem,Predominantly Black,2020,Percent,0,SD5
+Washington Heights,Predominantly Black,2020,Percent,0,SD6
+Mott Haven,Predominantly Black,2020,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly Black,2020,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly Black,2020,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Black,2020,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Black,2020,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Black,2020,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Black,2020,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly Black,2020,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Black,2020,Percent,0,SD15
+Bedford Stuyvesant,Predominantly Black,2020,Percent,0,SD16
+Crown Heights,Predominantly Black,2020,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly Black,2020,Percent,0.11111,SD18
+East New York,Predominantly Black,2020,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Black,2020,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly Black,2020,Percent,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Black,2020,Percent,0,SD22
+"Brownsville, Ocean Hill",Predominantly Black,2020,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Black,2020,Percent,0,SD24
+"Flushing, Whitestone",Predominantly Black,2020,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Black,2020,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Black,2020,Percent,0.14286,SD27
+"Jamaica, Forest Hills",Predominantly Black,2020,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Black,2020,Percent,0,SD29
+"Long Island City, Astoria",Predominantly Black,2020,Percent,0,SD30
+Staten Island,Predominantly Black,2020,Percent,0,SD31
+Bushwick,Predominantly Black,2020,Percent,0,SD32
+Bronx,Predominantly Black,2020,Percent,0,36005
+Brooklyn,Predominantly Black,2020,Percent,0.01075,36047
+Manhattan,Predominantly Black,2020,Percent,0,36061
+Queens,Predominantly Black,2020,Percent,0.04348,36081
+Staten Island,Predominantly Black,2020,Percent,0,36085
+New York City,Predominantly Black,2020,Percent,0.00772,3651000
+Battery Park/Tribeca,Predominantly Black + Hispanic,2020,Number,1,101
+Greenwich Village,Predominantly Black + Hispanic,2020,Number,1,102
+Lower East Side,Predominantly Black + Hispanic,2020,Number,4,103
+Chelsea/Clinton,Predominantly Black + Hispanic,2020,Number,0,104
+Midtown Business District,Predominantly Black + Hispanic,2020,Number,0,105
+Murray Hill/Stuyvesant,Predominantly Black + Hispanic,2020,Number,0,106
+Upper West Side,Predominantly Black + Hispanic,2020,Number,0,107
+Upper East Side,Predominantly Black + Hispanic,2020,Number,0,108
+Manhattanville,Predominantly Black + Hispanic,2020,Number,5,109
+Central Harlem,Predominantly Black + Hispanic,2020,Number,17,110
+East Harlem,Predominantly Black + Hispanic,2020,Number,13,111
+Washington Heights,Predominantly Black + Hispanic,2020,Number,8,112
+Mott Haven,Predominantly Black + Hispanic,2020,Number,25,201
+Hunts Point,Predominantly Black + Hispanic,2020,Number,7,202
+Morrisania,Predominantly Black + Hispanic,2020,Number,11,203
+Concourse/Highbridge,Predominantly Black + Hispanic,2020,Number,9,204
+University Heights,Predominantly Black + Hispanic,2020,Number,3,205
+East Tremont,Predominantly Black + Hispanic,2020,Number,4,206
+Bedford Park,Predominantly Black + Hispanic,2020,Number,1,207
+Riverdale,Predominantly Black + Hispanic,2020,Number,5,208
+Unionport/Soundview,Predominantly Black + Hispanic,2020,Number,5,209
+Throgs Neck,Predominantly Black + Hispanic,2020,Number,2,210
+Pelham Parkway,Predominantly Black + Hispanic,2020,Number,5,211
+Williamsbridge,Predominantly Black + Hispanic,2020,Number,3,212
+Williamsburg/Greenpoint,Predominantly Black + Hispanic,2020,Number,4,301
+Fort Greene/Brooklyn Hts,Predominantly Black + Hispanic,2020,Number,5,302
+Bedford Stuyvesant,Predominantly Black + Hispanic,2020,Number,15,303
+Bushwick,Predominantly Black + Hispanic,2020,Number,5,304
+East New York,Predominantly Black + Hispanic,2020,Number,11,305
+Park Slope,Predominantly Black + Hispanic,2020,Number,2,306
+Sunset Park,Predominantly Black + Hispanic,2020,Number,2,307
+Crown Heights North,Predominantly Black + Hispanic,2020,Number,5,308
+Crown Heights South,Predominantly Black + Hispanic,2020,Number,4,309
+Bay Ridge,Predominantly Black + Hispanic,2020,Number,0,310
+Bensonhurst,Predominantly Black + Hispanic,2020,Number,0,311
+Borough Park,Predominantly Black + Hispanic,2020,Number,0,312
+Coney Island,Predominantly Black + Hispanic,2020,Number,0,313
+Flatbush/Midwood,Predominantly Black + Hispanic,2020,Number,3,314
+Sheepshead Bay,Predominantly Black + Hispanic,2020,Number,2,315
+Brownsville,Predominantly Black + Hispanic,2020,Number,9,316
+East Flatbush,Predominantly Black + Hispanic,2020,Number,6,317
+Canarsie,Predominantly Black + Hispanic,2020,Number,4,318
+Astoria,Predominantly Black + Hispanic,2020,Number,0,401
+Sunnyside/Woodside,Predominantly Black + Hispanic,2020,Number,0,402
+Jackson Heights,Predominantly Black + Hispanic,2020,Number,1,403
+Elmhurst/Corona,Predominantly Black + Hispanic,2020,Number,1,404
+Ridgewood/Glendale,Predominantly Black + Hispanic,2020,Number,1,405
+Rego Park/Forest Hills,Predominantly Black + Hispanic,2020,Number,0,406
+Flushing,Predominantly Black + Hispanic,2020,Number,0,407
+Fresh Meadows/Briarwood,Predominantly Black + Hispanic,2020,Number,1,408
+Woodhaven,Predominantly Black + Hispanic,2020,Number,0,409
+Howard Beach,Predominantly Black + Hispanic,2020,Number,0,410
+Bayside,Predominantly Black + Hispanic,2020,Number,0,411
+Jamaica/St. Albans,Predominantly Black + Hispanic,2020,Number,4,412
+Queens Village,Predominantly Black + Hispanic,2020,Number,2,413
+The Rockaways,Predominantly Black + Hispanic,2020,Number,4,414
+St. George,Predominantly Black + Hispanic,2020,Number,1,501
+South Beach,Predominantly Black + Hispanic,2020,Number,1,502
+Tottenville,Predominantly Black + Hispanic,2020,Number,0,503
+Lower East Side,Predominantly Black + Hispanic,2020,Number,4,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Black + Hispanic,2020,Number,2,SD2
+Upper West Side,Predominantly Black + Hispanic,2020,Number,8,SD3
+East Harlem,Predominantly Black + Hispanic,2020,Number,10,SD4
+Central Harlem,Predominantly Black + Hispanic,2020,Number,15,SD5
+Washington Heights,Predominantly Black + Hispanic,2020,Number,9,SD6
+Mott Haven,Predominantly Black + Hispanic,2020,Number,29,SD7
+"Hunts Point, Port Morris",Predominantly Black + Hispanic,2020,Number,11,SD8
+"East Tremont, Morris Heights",Predominantly Black + Hispanic,2020,Number,14,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Black + Hispanic,2020,Number,11,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Black + Hispanic,2020,Number,9,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Black + Hispanic,2020,Number,7,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Black + Hispanic,2020,Number,9,SD13
+"Williamsburg, Greenpoint",Predominantly Black + Hispanic,2020,Number,7,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Black + Hispanic,2020,Number,4,SD15
+Bedford Stuyvesant,Predominantly Black + Hispanic,2020,Number,9,SD16
+Crown Heights,Predominantly Black + Hispanic,2020,Number,11,SD17
+"East Flatbush, Canarsie",Predominantly Black + Hispanic,2020,Number,8,SD18
+East New York,Predominantly Black + Hispanic,2020,Number,11,SD19
+"Bay Ridge, Bensonhurst",Predominantly Black + Hispanic,2020,Number,0,SD20
+"Gravesend, Coney Island",Predominantly Black + Hispanic,2020,Number,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Black + Hispanic,2020,Number,6,SD22
+"Brownsville, Ocean Hill",Predominantly Black + Hispanic,2020,Number,7,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Black + Hispanic,2020,Number,3,SD24
+"Flushing, Whitestone",Predominantly Black + Hispanic,2020,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Black + Hispanic,2020,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Black + Hispanic,2020,Number,6,SD27
+"Jamaica, Forest Hills",Predominantly Black + Hispanic,2020,Number,2,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Black + Hispanic,2020,Number,4,SD29
+"Long Island City, Astoria",Predominantly Black + Hispanic,2020,Number,0,SD30
+Staten Island,Predominantly Black + Hispanic,2020,Number,2,SD31
+Bushwick,Predominantly Black + Hispanic,2020,Number,5,SD32
+Bronx,Predominantly Black + Hispanic,2020,Number,80,36005
+Brooklyn,Predominantly Black + Hispanic,2020,Number,77,36047
+Manhattan,Predominantly Black + Hispanic,2020,Number,49,36061
+Queens,Predominantly Black + Hispanic,2020,Number,14,36081
+Staten Island,Predominantly Black + Hispanic,2020,Number,2,36085
+New York City,Predominantly Black + Hispanic,2020,Number,222,3651000
+Battery Park/Tribeca,Predominantly Black + Hispanic,2020,Percent,0.5,101
+Greenwich Village,Predominantly Black + Hispanic,2020,Percent,1,102
+Lower East Side,Predominantly Black + Hispanic,2020,Percent,1,103
+Chelsea/Clinton,Predominantly Black + Hispanic,2020,Percent,0,104
+Midtown Business District,Predominantly Black + Hispanic,2020,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly Black + Hispanic,2020,Percent,0,106
+Upper West Side,Predominantly Black + Hispanic,2020,Percent,0,107
+Upper East Side,Predominantly Black + Hispanic,2020,Percent,0,108
+Manhattanville,Predominantly Black + Hispanic,2020,Percent,1,109
+Central Harlem,Predominantly Black + Hispanic,2020,Percent,1,110
+East Harlem,Predominantly Black + Hispanic,2020,Percent,0.92857,111
+Washington Heights,Predominantly Black + Hispanic,2020,Percent,1,112
+Mott Haven,Predominantly Black + Hispanic,2020,Percent,1,201
+Hunts Point,Predominantly Black + Hispanic,2020,Percent,1,202
+Morrisania,Predominantly Black + Hispanic,2020,Percent,1,203
+Concourse/Highbridge,Predominantly Black + Hispanic,2020,Percent,1,204
+University Heights,Predominantly Black + Hispanic,2020,Percent,1,205
+East Tremont,Predominantly Black + Hispanic,2020,Percent,1,206
+Bedford Park,Predominantly Black + Hispanic,2020,Percent,1,207
+Riverdale,Predominantly Black + Hispanic,2020,Percent,1,208
+Unionport/Soundview,Predominantly Black + Hispanic,2020,Percent,0.83333,209
+Throgs Neck,Predominantly Black + Hispanic,2020,Percent,1,210
+Pelham Parkway,Predominantly Black + Hispanic,2020,Percent,0.83333,211
+Williamsbridge,Predominantly Black + Hispanic,2020,Percent,1,212
+Williamsburg/Greenpoint,Predominantly Black + Hispanic,2020,Percent,0.8,301
+Fort Greene/Brooklyn Hts,Predominantly Black + Hispanic,2020,Percent,0.625,302
+Bedford Stuyvesant,Predominantly Black + Hispanic,2020,Percent,0.88235,303
+Bushwick,Predominantly Black + Hispanic,2020,Percent,1,304
+East New York,Predominantly Black + Hispanic,2020,Percent,1,305
+Park Slope,Predominantly Black + Hispanic,2020,Percent,0.66667,306
+Sunset Park,Predominantly Black + Hispanic,2020,Percent,0.33333,307
+Crown Heights North,Predominantly Black + Hispanic,2020,Percent,1,308
+Crown Heights South,Predominantly Black + Hispanic,2020,Percent,1,309
+Bay Ridge,Predominantly Black + Hispanic,2020,Percent,0,310
+Bensonhurst,Predominantly Black + Hispanic,2020,Percent,0,311
+Borough Park,Predominantly Black + Hispanic,2020,Percent,0,312
+Coney Island,Predominantly Black + Hispanic,2020,Percent,0,313
+Flatbush/Midwood,Predominantly Black + Hispanic,2020,Percent,1,314
+Sheepshead Bay,Predominantly Black + Hispanic,2020,Percent,1,315
+Brownsville,Predominantly Black + Hispanic,2020,Percent,1,316
+East Flatbush,Predominantly Black + Hispanic,2020,Percent,0.85714,317
+Canarsie,Predominantly Black + Hispanic,2020,Percent,0.8,318
+Astoria,Predominantly Black + Hispanic,2020,Percent,0,401
+Sunnyside/Woodside,Predominantly Black + Hispanic,2020,Percent,0,402
+Jackson Heights,Predominantly Black + Hispanic,2020,Percent,0.5,403
+Elmhurst/Corona,Predominantly Black + Hispanic,2020,Percent,0.5,404
+Ridgewood/Glendale,Predominantly Black + Hispanic,2020,Percent,0.5,405
+Rego Park/Forest Hills,Predominantly Black + Hispanic,2020,Percent,0,406
+Flushing,Predominantly Black + Hispanic,2020,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly Black + Hispanic,2020,Percent,1,408
+Woodhaven,Predominantly Black + Hispanic,2020,Percent,0,409
+Howard Beach,Predominantly Black + Hispanic,2020,Percent,0,410
+Bayside,Predominantly Black + Hispanic,2020,Percent,0,411
+Jamaica/St. Albans,Predominantly Black + Hispanic,2020,Percent,0.66667,412
+Queens Village,Predominantly Black + Hispanic,2020,Percent,1,413
+The Rockaways,Predominantly Black + Hispanic,2020,Percent,1,414
+St. George,Predominantly Black + Hispanic,2020,Percent,1,501
+South Beach,Predominantly Black + Hispanic,2020,Percent,0.25,502
+Tottenville,Predominantly Black + Hispanic,2020,Percent,0,503
+Lower East Side,Predominantly Black + Hispanic,2020,Percent,1,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Black + Hispanic,2020,Percent,0.33333,SD2
+Upper West Side,Predominantly Black + Hispanic,2020,Percent,0.88889,SD3
+East Harlem,Predominantly Black + Hispanic,2020,Percent,0.90909,SD4
+Central Harlem,Predominantly Black + Hispanic,2020,Percent,1,SD5
+Washington Heights,Predominantly Black + Hispanic,2020,Percent,1,SD6
+Mott Haven,Predominantly Black + Hispanic,2020,Percent,1,SD7
+"Hunts Point, Port Morris",Predominantly Black + Hispanic,2020,Percent,1,SD8
+"East Tremont, Morris Heights",Predominantly Black + Hispanic,2020,Percent,1,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Black + Hispanic,2020,Percent,1,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Black + Hispanic,2020,Percent,0.81818,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Black + Hispanic,2020,Percent,1,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Black + Hispanic,2020,Percent,0.69231,SD13
+"Williamsburg, Greenpoint",Predominantly Black + Hispanic,2020,Percent,0.875,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Black + Hispanic,2020,Percent,0.44444,SD15
+Bedford Stuyvesant,Predominantly Black + Hispanic,2020,Percent,0.9,SD16
+Crown Heights,Predominantly Black + Hispanic,2020,Percent,1,SD17
+"East Flatbush, Canarsie",Predominantly Black + Hispanic,2020,Percent,0.88889,SD18
+East New York,Predominantly Black + Hispanic,2020,Percent,1,SD19
+"Bay Ridge, Bensonhurst",Predominantly Black + Hispanic,2020,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly Black + Hispanic,2020,Percent,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Black + Hispanic,2020,Percent,0.85714,SD22
+"Brownsville, Ocean Hill",Predominantly Black + Hispanic,2020,Percent,1,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Black + Hispanic,2020,Percent,0.6,SD24
+"Flushing, Whitestone",Predominantly Black + Hispanic,2020,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Black + Hispanic,2020,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Black + Hispanic,2020,Percent,0.85714,SD27
+"Jamaica, Forest Hills",Predominantly Black + Hispanic,2020,Percent,0.66667,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Black + Hispanic,2020,Percent,1,SD29
+"Long Island City, Astoria",Predominantly Black + Hispanic,2020,Percent,0,SD30
+Staten Island,Predominantly Black + Hispanic,2020,Percent,0.33333,SD31
+Bushwick,Predominantly Black + Hispanic,2020,Percent,1,SD32
+Bronx,Predominantly Black + Hispanic,2020,Percent,0.97561,36005
+Brooklyn,Predominantly Black + Hispanic,2020,Percent,0.82796,36047
+Manhattan,Predominantly Black + Hispanic,2020,Percent,0.89091,36061
+Queens,Predominantly Black + Hispanic,2020,Percent,0.6087,36081
+Staten Island,Predominantly Black + Hispanic,2020,Percent,0.33333,36085
+New York City,Predominantly Black + Hispanic,2020,Percent,0.85714,3651000
+Battery Park/Tribeca,Predominantly Hispanic,2020,Number,0,101
+Greenwich Village,Predominantly Hispanic,2020,Number,0,102
+Lower East Side,Predominantly Hispanic,2020,Number,0,103
+Chelsea/Clinton,Predominantly Hispanic,2020,Number,0,104
+Midtown Business District,Predominantly Hispanic,2020,Number,0,105
+Murray Hill/Stuyvesant,Predominantly Hispanic,2020,Number,0,106
+Upper West Side,Predominantly Hispanic,2020,Number,0,107
+Upper East Side,Predominantly Hispanic,2020,Number,0,108
+Manhattanville,Predominantly Hispanic,2020,Number,0,109
+Central Harlem,Predominantly Hispanic,2020,Number,0,110
+East Harlem,Predominantly Hispanic,2020,Number,0,111
+Washington Heights,Predominantly Hispanic,2020,Number,0,112
+Mott Haven,Predominantly Hispanic,2020,Number,0,201
+Hunts Point,Predominantly Hispanic,2020,Number,0,202
+Morrisania,Predominantly Hispanic,2020,Number,0,203
+Concourse/Highbridge,Predominantly Hispanic,2020,Number,0,204
+University Heights,Predominantly Hispanic,2020,Number,0,205
+East Tremont,Predominantly Hispanic,2020,Number,0,206
+Bedford Park,Predominantly Hispanic,2020,Number,0,207
+Riverdale,Predominantly Hispanic,2020,Number,0,208
+Unionport/Soundview,Predominantly Hispanic,2020,Number,0,209
+Throgs Neck,Predominantly Hispanic,2020,Number,0,210
+Pelham Parkway,Predominantly Hispanic,2020,Number,0,211
+Williamsbridge,Predominantly Hispanic,2020,Number,0,212
+Williamsburg/Greenpoint,Predominantly Hispanic,2020,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly Hispanic,2020,Number,0,302
+Bedford Stuyvesant,Predominantly Hispanic,2020,Number,0,303
+Bushwick,Predominantly Hispanic,2020,Number,0,304
+East New York,Predominantly Hispanic,2020,Number,0,305
+Park Slope,Predominantly Hispanic,2020,Number,0,306
+Sunset Park,Predominantly Hispanic,2020,Number,0,307
+Crown Heights North,Predominantly Hispanic,2020,Number,0,308
+Crown Heights South,Predominantly Hispanic,2020,Number,0,309
+Bay Ridge,Predominantly Hispanic,2020,Number,0,310
+Bensonhurst,Predominantly Hispanic,2020,Number,0,311
+Borough Park,Predominantly Hispanic,2020,Number,0,312
+Coney Island,Predominantly Hispanic,2020,Number,0,313
+Flatbush/Midwood,Predominantly Hispanic,2020,Number,0,314
+Sheepshead Bay,Predominantly Hispanic,2020,Number,0,315
+Brownsville,Predominantly Hispanic,2020,Number,0,316
+East Flatbush,Predominantly Hispanic,2020,Number,0,317
+Canarsie,Predominantly Hispanic,2020,Number,0,318
+Astoria,Predominantly Hispanic,2020,Number,1,401
+Sunnyside/Woodside,Predominantly Hispanic,2020,Number,0,402
+Jackson Heights,Predominantly Hispanic,2020,Number,1,403
+Elmhurst/Corona,Predominantly Hispanic,2020,Number,1,404
+Ridgewood/Glendale,Predominantly Hispanic,2020,Number,0,405
+Rego Park/Forest Hills,Predominantly Hispanic,2020,Number,0,406
+Flushing,Predominantly Hispanic,2020,Number,0,407
+Fresh Meadows/Briarwood,Predominantly Hispanic,2020,Number,0,408
+Woodhaven,Predominantly Hispanic,2020,Number,0,409
+Howard Beach,Predominantly Hispanic,2020,Number,0,410
+Bayside,Predominantly Hispanic,2020,Number,0,411
+Jamaica/St. Albans,Predominantly Hispanic,2020,Number,0,412
+Queens Village,Predominantly Hispanic,2020,Number,0,413
+The Rockaways,Predominantly Hispanic,2020,Number,0,414
+St. George,Predominantly Hispanic,2020,Number,0,501
+South Beach,Predominantly Hispanic,2020,Number,0,502
+Tottenville,Predominantly Hispanic,2020,Number,0,503
+Lower East Side,Predominantly Hispanic,2020,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Hispanic,2020,Number,0,SD2
+Upper West Side,Predominantly Hispanic,2020,Number,0,SD3
+East Harlem,Predominantly Hispanic,2020,Number,0,SD4
+Central Harlem,Predominantly Hispanic,2020,Number,0,SD5
+Washington Heights,Predominantly Hispanic,2020,Number,0,SD6
+Mott Haven,Predominantly Hispanic,2020,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly Hispanic,2020,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly Hispanic,2020,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Hispanic,2020,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Hispanic,2020,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Hispanic,2020,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Hispanic,2020,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly Hispanic,2020,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Hispanic,2020,Number,0,SD15
+Bedford Stuyvesant,Predominantly Hispanic,2020,Number,0,SD16
+Crown Heights,Predominantly Hispanic,2020,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly Hispanic,2020,Number,0,SD18
+East New York,Predominantly Hispanic,2020,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Hispanic,2020,Number,0,SD20
+"Gravesend, Coney Island",Predominantly Hispanic,2020,Number,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Hispanic,2020,Number,0,SD22
+"Brownsville, Ocean Hill",Predominantly Hispanic,2020,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Hispanic,2020,Number,1,SD24
+"Flushing, Whitestone",Predominantly Hispanic,2020,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Hispanic,2020,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Hispanic,2020,Number,0,SD27
+"Jamaica, Forest Hills",Predominantly Hispanic,2020,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Hispanic,2020,Number,0,SD29
+"Long Island City, Astoria",Predominantly Hispanic,2020,Number,2,SD30
+Staten Island,Predominantly Hispanic,2020,Number,0,SD31
+Bushwick,Predominantly Hispanic,2020,Number,0,SD32
+Bronx,Predominantly Hispanic,2020,Number,0,36005
+Brooklyn,Predominantly Hispanic,2020,Number,0,36047
+Manhattan,Predominantly Hispanic,2020,Number,0,36061
+Queens,Predominantly Hispanic,2020,Number,3,36081
+Staten Island,Predominantly Hispanic,2020,Number,0,36085
+New York City,Predominantly Hispanic,2020,Number,3,3651000
+Battery Park/Tribeca,Predominantly Hispanic,2020,Percent,0,101
+Greenwich Village,Predominantly Hispanic,2020,Percent,0,102
+Lower East Side,Predominantly Hispanic,2020,Percent,0,103
+Chelsea/Clinton,Predominantly Hispanic,2020,Percent,0,104
+Midtown Business District,Predominantly Hispanic,2020,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly Hispanic,2020,Percent,0,106
+Upper West Side,Predominantly Hispanic,2020,Percent,0,107
+Upper East Side,Predominantly Hispanic,2020,Percent,0,108
+Manhattanville,Predominantly Hispanic,2020,Percent,0,109
+Central Harlem,Predominantly Hispanic,2020,Percent,0,110
+East Harlem,Predominantly Hispanic,2020,Percent,0,111
+Washington Heights,Predominantly Hispanic,2020,Percent,0,112
+Mott Haven,Predominantly Hispanic,2020,Percent,0,201
+Hunts Point,Predominantly Hispanic,2020,Percent,0,202
+Morrisania,Predominantly Hispanic,2020,Percent,0,203
+Concourse/Highbridge,Predominantly Hispanic,2020,Percent,0,204
+University Heights,Predominantly Hispanic,2020,Percent,0,205
+East Tremont,Predominantly Hispanic,2020,Percent,0,206
+Bedford Park,Predominantly Hispanic,2020,Percent,0,207
+Riverdale,Predominantly Hispanic,2020,Percent,0,208
+Unionport/Soundview,Predominantly Hispanic,2020,Percent,0,209
+Throgs Neck,Predominantly Hispanic,2020,Percent,0,210
+Pelham Parkway,Predominantly Hispanic,2020,Percent,0,211
+Williamsbridge,Predominantly Hispanic,2020,Percent,0,212
+Williamsburg/Greenpoint,Predominantly Hispanic,2020,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly Hispanic,2020,Percent,0,302
+Bedford Stuyvesant,Predominantly Hispanic,2020,Percent,0,303
+Bushwick,Predominantly Hispanic,2020,Percent,0,304
+East New York,Predominantly Hispanic,2020,Percent,0,305
+Park Slope,Predominantly Hispanic,2020,Percent,0,306
+Sunset Park,Predominantly Hispanic,2020,Percent,0,307
+Crown Heights North,Predominantly Hispanic,2020,Percent,0,308
+Crown Heights South,Predominantly Hispanic,2020,Percent,0,309
+Bay Ridge,Predominantly Hispanic,2020,Percent,0,310
+Bensonhurst,Predominantly Hispanic,2020,Percent,0,311
+Borough Park,Predominantly Hispanic,2020,Percent,0,312
+Coney Island,Predominantly Hispanic,2020,Percent,0,313
+Flatbush/Midwood,Predominantly Hispanic,2020,Percent,0,314
+Sheepshead Bay,Predominantly Hispanic,2020,Percent,0,315
+Brownsville,Predominantly Hispanic,2020,Percent,0,316
+East Flatbush,Predominantly Hispanic,2020,Percent,0,317
+Canarsie,Predominantly Hispanic,2020,Percent,0,318
+Astoria,Predominantly Hispanic,2020,Percent,0.25,401
+Sunnyside/Woodside,Predominantly Hispanic,2020,Percent,0,402
+Jackson Heights,Predominantly Hispanic,2020,Percent,0.5,403
+Elmhurst/Corona,Predominantly Hispanic,2020,Percent,0.5,404
+Ridgewood/Glendale,Predominantly Hispanic,2020,Percent,0,405
+Rego Park/Forest Hills,Predominantly Hispanic,2020,Percent,0,406
+Flushing,Predominantly Hispanic,2020,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly Hispanic,2020,Percent,0,408
+Woodhaven,Predominantly Hispanic,2020,Percent,0,409
+Howard Beach,Predominantly Hispanic,2020,Percent,0,410
+Bayside,Predominantly Hispanic,2020,Percent,0,411
+Jamaica/St. Albans,Predominantly Hispanic,2020,Percent,0,412
+Queens Village,Predominantly Hispanic,2020,Percent,0,413
+The Rockaways,Predominantly Hispanic,2020,Percent,0,414
+St. George,Predominantly Hispanic,2020,Percent,0,501
+South Beach,Predominantly Hispanic,2020,Percent,0,502
+Tottenville,Predominantly Hispanic,2020,Percent,0,503
+Lower East Side,Predominantly Hispanic,2020,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly Hispanic,2020,Percent,0,SD2
+Upper West Side,Predominantly Hispanic,2020,Percent,0,SD3
+East Harlem,Predominantly Hispanic,2020,Percent,0,SD4
+Central Harlem,Predominantly Hispanic,2020,Percent,0,SD5
+Washington Heights,Predominantly Hispanic,2020,Percent,0,SD6
+Mott Haven,Predominantly Hispanic,2020,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly Hispanic,2020,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly Hispanic,2020,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly Hispanic,2020,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly Hispanic,2020,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly Hispanic,2020,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly Hispanic,2020,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly Hispanic,2020,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly Hispanic,2020,Percent,0,SD15
+Bedford Stuyvesant,Predominantly Hispanic,2020,Percent,0,SD16
+Crown Heights,Predominantly Hispanic,2020,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly Hispanic,2020,Percent,0,SD18
+East New York,Predominantly Hispanic,2020,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly Hispanic,2020,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly Hispanic,2020,Percent,0,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly Hispanic,2020,Percent,0,SD22
+"Brownsville, Ocean Hill",Predominantly Hispanic,2020,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly Hispanic,2020,Percent,0.2,SD24
+"Flushing, Whitestone",Predominantly Hispanic,2020,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly Hispanic,2020,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly Hispanic,2020,Percent,0,SD27
+"Jamaica, Forest Hills",Predominantly Hispanic,2020,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly Hispanic,2020,Percent,0,SD29
+"Long Island City, Astoria",Predominantly Hispanic,2020,Percent,0.4,SD30
+Staten Island,Predominantly Hispanic,2020,Percent,0,SD31
+Bushwick,Predominantly Hispanic,2020,Percent,0,SD32
+Bronx,Predominantly Hispanic,2020,Percent,0,36005
+Brooklyn,Predominantly Hispanic,2020,Percent,0,36047
+Manhattan,Predominantly Hispanic,2020,Percent,0,36061
+Queens,Predominantly Hispanic,2020,Percent,0.13043,36081
+Staten Island,Predominantly Hispanic,2020,Percent,0,36085
+New York City,Predominantly Hispanic,2020,Percent,0.01158,3651000
+Battery Park/Tribeca,Predominantly White,2020,Number,0,101
+Greenwich Village,Predominantly White,2020,Number,0,102
+Lower East Side,Predominantly White,2020,Number,0,103
+Chelsea/Clinton,Predominantly White,2020,Number,0,104
+Midtown Business District,Predominantly White,2020,Number,0,105
+Murray Hill/Stuyvesant,Predominantly White,2020,Number,0,106
+Upper West Side,Predominantly White,2020,Number,0,107
+Upper East Side,Predominantly White,2020,Number,0,108
+Manhattanville,Predominantly White,2020,Number,0,109
+Central Harlem,Predominantly White,2020,Number,0,110
+East Harlem,Predominantly White,2020,Number,0,111
+Washington Heights,Predominantly White,2020,Number,0,112
+Mott Haven,Predominantly White,2020,Number,0,201
+Hunts Point,Predominantly White,2020,Number,0,202
+Morrisania,Predominantly White,2020,Number,0,203
+Concourse/Highbridge,Predominantly White,2020,Number,0,204
+University Heights,Predominantly White,2020,Number,0,205
+East Tremont,Predominantly White,2020,Number,0,206
+Bedford Park,Predominantly White,2020,Number,0,207
+Riverdale,Predominantly White,2020,Number,0,208
+Unionport/Soundview,Predominantly White,2020,Number,0,209
+Throgs Neck,Predominantly White,2020,Number,0,210
+Pelham Parkway,Predominantly White,2020,Number,0,211
+Williamsbridge,Predominantly White,2020,Number,0,212
+Williamsburg/Greenpoint,Predominantly White,2020,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly White,2020,Number,0,302
+Bedford Stuyvesant,Predominantly White,2020,Number,0,303
+Bushwick,Predominantly White,2020,Number,0,304
+East New York,Predominantly White,2020,Number,0,305
+Park Slope,Predominantly White,2020,Number,0,306
+Sunset Park,Predominantly White,2020,Number,0,307
+Crown Heights North,Predominantly White,2020,Number,0,308
+Crown Heights South,Predominantly White,2020,Number,0,309
+Bay Ridge,Predominantly White,2020,Number,0,310
+Bensonhurst,Predominantly White,2020,Number,1,311
+Borough Park,Predominantly White,2020,Number,0,312
+Coney Island,Predominantly White,2020,Number,0,313
+Flatbush/Midwood,Predominantly White,2020,Number,0,314
+Sheepshead Bay,Predominantly White,2020,Number,0,315
+Brownsville,Predominantly White,2020,Number,0,316
+East Flatbush,Predominantly White,2020,Number,0,317
+Canarsie,Predominantly White,2020,Number,0,318
+Astoria,Predominantly White,2020,Number,0,401
+Sunnyside/Woodside,Predominantly White,2020,Number,0,402
+Jackson Heights,Predominantly White,2020,Number,0,403
+Elmhurst/Corona,Predominantly White,2020,Number,0,404
+Ridgewood/Glendale,Predominantly White,2020,Number,0,405
+Rego Park/Forest Hills,Predominantly White,2020,Number,0,406
+Flushing,Predominantly White,2020,Number,0,407
+Fresh Meadows/Briarwood,Predominantly White,2020,Number,0,408
+Woodhaven,Predominantly White,2020,Number,0,409
+Howard Beach,Predominantly White,2020,Number,0,410
+Bayside,Predominantly White,2020,Number,0,411
+Jamaica/St. Albans,Predominantly White,2020,Number,0,412
+Queens Village,Predominantly White,2020,Number,0,413
+The Rockaways,Predominantly White,2020,Number,0,414
+St. George,Predominantly White,2020,Number,0,501
+South Beach,Predominantly White,2020,Number,0,502
+Tottenville,Predominantly White,2020,Number,0,503
+Lower East Side,Predominantly White,2020,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly White,2020,Number,0,SD2
+Upper West Side,Predominantly White,2020,Number,0,SD3
+East Harlem,Predominantly White,2020,Number,0,SD4
+Central Harlem,Predominantly White,2020,Number,0,SD5
+Washington Heights,Predominantly White,2020,Number,0,SD6
+Mott Haven,Predominantly White,2020,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly White,2020,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly White,2020,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly White,2020,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly White,2020,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly White,2020,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly White,2020,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly White,2020,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly White,2020,Number,0,SD15
+Bedford Stuyvesant,Predominantly White,2020,Number,0,SD16
+Crown Heights,Predominantly White,2020,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly White,2020,Number,0,SD18
+East New York,Predominantly White,2020,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly White,2020,Number,0,SD20
+"Gravesend, Coney Island",Predominantly White,2020,Number,1,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly White,2020,Number,0,SD22
+"Brownsville, Ocean Hill",Predominantly White,2020,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly White,2020,Number,0,SD24
+"Flushing, Whitestone",Predominantly White,2020,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly White,2020,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly White,2020,Number,0,SD27
+"Jamaica, Forest Hills",Predominantly White,2020,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly White,2020,Number,0,SD29
+"Long Island City, Astoria",Predominantly White,2020,Number,0,SD30
+Staten Island,Predominantly White,2020,Number,0,SD31
+Bushwick,Predominantly White,2020,Number,0,SD32
+Bronx,Predominantly White,2020,Number,0,36005
+Brooklyn,Predominantly White,2020,Number,1,36047
+Manhattan,Predominantly White,2020,Number,0,36061
+Queens,Predominantly White,2020,Number,0,36081
+Staten Island,Predominantly White,2020,Number,0,36085
+New York City,Predominantly White,2020,Number,1,3651000
+Battery Park/Tribeca,Predominantly White,2020,Percent,0,101
+Greenwich Village,Predominantly White,2020,Percent,0,102
+Lower East Side,Predominantly White,2020,Percent,0,103
+Chelsea/Clinton,Predominantly White,2020,Percent,0,104
+Midtown Business District,Predominantly White,2020,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly White,2020,Percent,0,106
+Upper West Side,Predominantly White,2020,Percent,0,107
+Upper East Side,Predominantly White,2020,Percent,0,108
+Manhattanville,Predominantly White,2020,Percent,0,109
+Central Harlem,Predominantly White,2020,Percent,0,110
+East Harlem,Predominantly White,2020,Percent,0,111
+Washington Heights,Predominantly White,2020,Percent,0,112
+Mott Haven,Predominantly White,2020,Percent,0,201
+Hunts Point,Predominantly White,2020,Percent,0,202
+Morrisania,Predominantly White,2020,Percent,0,203
+Concourse/Highbridge,Predominantly White,2020,Percent,0,204
+University Heights,Predominantly White,2020,Percent,0,205
+East Tremont,Predominantly White,2020,Percent,0,206
+Bedford Park,Predominantly White,2020,Percent,0,207
+Riverdale,Predominantly White,2020,Percent,0,208
+Unionport/Soundview,Predominantly White,2020,Percent,0,209
+Throgs Neck,Predominantly White,2020,Percent,0,210
+Pelham Parkway,Predominantly White,2020,Percent,0,211
+Williamsbridge,Predominantly White,2020,Percent,0,212
+Williamsburg/Greenpoint,Predominantly White,2020,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly White,2020,Percent,0,302
+Bedford Stuyvesant,Predominantly White,2020,Percent,0,303
+Bushwick,Predominantly White,2020,Percent,0,304
+East New York,Predominantly White,2020,Percent,0,305
+Park Slope,Predominantly White,2020,Percent,0,306
+Sunset Park,Predominantly White,2020,Percent,0,307
+Crown Heights North,Predominantly White,2020,Percent,0,308
+Crown Heights South,Predominantly White,2020,Percent,0,309
+Bay Ridge,Predominantly White,2020,Percent,0,310
+Bensonhurst,Predominantly White,2020,Percent,0.5,311
+Borough Park,Predominantly White,2020,Percent,0,312
+Coney Island,Predominantly White,2020,Percent,0,313
+Flatbush/Midwood,Predominantly White,2020,Percent,0,314
+Sheepshead Bay,Predominantly White,2020,Percent,0,315
+Brownsville,Predominantly White,2020,Percent,0,316
+East Flatbush,Predominantly White,2020,Percent,0,317
+Canarsie,Predominantly White,2020,Percent,0,318
+Astoria,Predominantly White,2020,Percent,0,401
+Sunnyside/Woodside,Predominantly White,2020,Percent,0,402
+Jackson Heights,Predominantly White,2020,Percent,0,403
+Elmhurst/Corona,Predominantly White,2020,Percent,0,404
+Ridgewood/Glendale,Predominantly White,2020,Percent,0,405
+Rego Park/Forest Hills,Predominantly White,2020,Percent,0,406
+Flushing,Predominantly White,2020,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly White,2020,Percent,0,408
+Woodhaven,Predominantly White,2020,Percent,0,409
+Howard Beach,Predominantly White,2020,Percent,0,410
+Bayside,Predominantly White,2020,Percent,0,411
+Jamaica/St. Albans,Predominantly White,2020,Percent,0,412
+Queens Village,Predominantly White,2020,Percent,0,413
+The Rockaways,Predominantly White,2020,Percent,0,414
+St. George,Predominantly White,2020,Percent,0,501
+South Beach,Predominantly White,2020,Percent,0,502
+Tottenville,Predominantly White,2020,Percent,0,503
+Lower East Side,Predominantly White,2020,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly White,2020,Percent,0,SD2
+Upper West Side,Predominantly White,2020,Percent,0,SD3
+East Harlem,Predominantly White,2020,Percent,0,SD4
+Central Harlem,Predominantly White,2020,Percent,0,SD5
+Washington Heights,Predominantly White,2020,Percent,0,SD6
+Mott Haven,Predominantly White,2020,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly White,2020,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly White,2020,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly White,2020,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly White,2020,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly White,2020,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly White,2020,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly White,2020,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly White,2020,Percent,0,SD15
+Bedford Stuyvesant,Predominantly White,2020,Percent,0,SD16
+Crown Heights,Predominantly White,2020,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly White,2020,Percent,0,SD18
+East New York,Predominantly White,2020,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly White,2020,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly White,2020,Percent,0.33333,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly White,2020,Percent,0,SD22
+"Brownsville, Ocean Hill",Predominantly White,2020,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly White,2020,Percent,0,SD24
+"Flushing, Whitestone",Predominantly White,2020,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly White,2020,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly White,2020,Percent,0,SD27
+"Jamaica, Forest Hills",Predominantly White,2020,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly White,2020,Percent,0,SD29
+"Long Island City, Astoria",Predominantly White,2020,Percent,0,SD30
+Staten Island,Predominantly White,2020,Percent,0,SD31
+Bushwick,Predominantly White,2020,Percent,0,SD32
+Bronx,Predominantly White,2020,Percent,0,36005
+Brooklyn,Predominantly White,2020,Percent,0.01075,36047
+Manhattan,Predominantly White,2020,Percent,0,36061
+Queens,Predominantly White,2020,Percent,0,36081
+Staten Island,Predominantly White,2020,Percent,0,36085
+New York City,Predominantly White,2020,Percent,0.00386,3651000
+Battery Park/Tribeca,Predominantly White + Asian,2020,Number,0,101
+Greenwich Village,Predominantly White + Asian,2020,Number,0,102
+Lower East Side,Predominantly White + Asian,2020,Number,0,103
+Chelsea/Clinton,Predominantly White + Asian,2020,Number,0,104
+Midtown Business District,Predominantly White + Asian,2020,Number,0,105
+Murray Hill/Stuyvesant,Predominantly White + Asian,2020,Number,0,106
+Upper West Side,Predominantly White + Asian,2020,Number,0,107
+Upper East Side,Predominantly White + Asian,2020,Number,0,108
+Manhattanville,Predominantly White + Asian,2020,Number,0,109
+Central Harlem,Predominantly White + Asian,2020,Number,0,110
+East Harlem,Predominantly White + Asian,2020,Number,0,111
+Washington Heights,Predominantly White + Asian,2020,Number,0,112
+Mott Haven,Predominantly White + Asian,2020,Number,0,201
+Hunts Point,Predominantly White + Asian,2020,Number,0,202
+Morrisania,Predominantly White + Asian,2020,Number,0,203
+Concourse/Highbridge,Predominantly White + Asian,2020,Number,0,204
+University Heights,Predominantly White + Asian,2020,Number,0,205
+East Tremont,Predominantly White + Asian,2020,Number,0,206
+Bedford Park,Predominantly White + Asian,2020,Number,0,207
+Riverdale,Predominantly White + Asian,2020,Number,0,208
+Unionport/Soundview,Predominantly White + Asian,2020,Number,0,209
+Throgs Neck,Predominantly White + Asian,2020,Number,0,210
+Pelham Parkway,Predominantly White + Asian,2020,Number,0,211
+Williamsbridge,Predominantly White + Asian,2020,Number,0,212
+Williamsburg/Greenpoint,Predominantly White + Asian,2020,Number,0,301
+Fort Greene/Brooklyn Hts,Predominantly White + Asian,2020,Number,0,302
+Bedford Stuyvesant,Predominantly White + Asian,2020,Number,0,303
+Bushwick,Predominantly White + Asian,2020,Number,0,304
+East New York,Predominantly White + Asian,2020,Number,0,305
+Park Slope,Predominantly White + Asian,2020,Number,0,306
+Sunset Park,Predominantly White + Asian,2020,Number,0,307
+Crown Heights North,Predominantly White + Asian,2020,Number,0,308
+Crown Heights South,Predominantly White + Asian,2020,Number,0,309
+Bay Ridge,Predominantly White + Asian,2020,Number,0,310
+Bensonhurst,Predominantly White + Asian,2020,Number,1,311
+Borough Park,Predominantly White + Asian,2020,Number,0,312
+Coney Island,Predominantly White + Asian,2020,Number,0,313
+Flatbush/Midwood,Predominantly White + Asian,2020,Number,0,314
+Sheepshead Bay,Predominantly White + Asian,2020,Number,0,315
+Brownsville,Predominantly White + Asian,2020,Number,0,316
+East Flatbush,Predominantly White + Asian,2020,Number,0,317
+Canarsie,Predominantly White + Asian,2020,Number,0,318
+Astoria,Predominantly White + Asian,2020,Number,0,401
+Sunnyside/Woodside,Predominantly White + Asian,2020,Number,0,402
+Jackson Heights,Predominantly White + Asian,2020,Number,0,403
+Elmhurst/Corona,Predominantly White + Asian,2020,Number,0,404
+Ridgewood/Glendale,Predominantly White + Asian,2020,Number,0,405
+Rego Park/Forest Hills,Predominantly White + Asian,2020,Number,0,406
+Flushing,Predominantly White + Asian,2020,Number,0,407
+Fresh Meadows/Briarwood,Predominantly White + Asian,2020,Number,0,408
+Woodhaven,Predominantly White + Asian,2020,Number,0,409
+Howard Beach,Predominantly White + Asian,2020,Number,0,410
+Bayside,Predominantly White + Asian,2020,Number,0,411
+Jamaica/St. Albans,Predominantly White + Asian,2020,Number,0,412
+Queens Village,Predominantly White + Asian,2020,Number,0,413
+The Rockaways,Predominantly White + Asian,2020,Number,0,414
+St. George,Predominantly White + Asian,2020,Number,0,501
+South Beach,Predominantly White + Asian,2020,Number,0,502
+Tottenville,Predominantly White + Asian,2020,Number,0,503
+Lower East Side,Predominantly White + Asian,2020,Number,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly White + Asian,2020,Number,0,SD2
+Upper West Side,Predominantly White + Asian,2020,Number,0,SD3
+East Harlem,Predominantly White + Asian,2020,Number,0,SD4
+Central Harlem,Predominantly White + Asian,2020,Number,0,SD5
+Washington Heights,Predominantly White + Asian,2020,Number,0,SD6
+Mott Haven,Predominantly White + Asian,2020,Number,0,SD7
+"Hunts Point, Port Morris",Predominantly White + Asian,2020,Number,0,SD8
+"East Tremont, Morris Heights",Predominantly White + Asian,2020,Number,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly White + Asian,2020,Number,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly White + Asian,2020,Number,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly White + Asian,2020,Number,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly White + Asian,2020,Number,0,SD13
+"Williamsburg, Greenpoint",Predominantly White + Asian,2020,Number,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly White + Asian,2020,Number,0,SD15
+Bedford Stuyvesant,Predominantly White + Asian,2020,Number,0,SD16
+Crown Heights,Predominantly White + Asian,2020,Number,0,SD17
+"East Flatbush, Canarsie",Predominantly White + Asian,2020,Number,0,SD18
+East New York,Predominantly White + Asian,2020,Number,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly White + Asian,2020,Number,0,SD20
+"Gravesend, Coney Island",Predominantly White + Asian,2020,Number,1,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly White + Asian,2020,Number,0,SD22
+"Brownsville, Ocean Hill",Predominantly White + Asian,2020,Number,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly White + Asian,2020,Number,0,SD24
+"Flushing, Whitestone",Predominantly White + Asian,2020,Number,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly White + Asian,2020,Number,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly White + Asian,2020,Number,0,SD27
+"Jamaica, Forest Hills",Predominantly White + Asian,2020,Number,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly White + Asian,2020,Number,0,SD29
+"Long Island City, Astoria",Predominantly White + Asian,2020,Number,0,SD30
+Staten Island,Predominantly White + Asian,2020,Number,0,SD31
+Bushwick,Predominantly White + Asian,2020,Number,0,SD32
+Bronx,Predominantly White + Asian,2020,Number,0,36005
+Brooklyn,Predominantly White + Asian,2020,Number,1,36047
+Manhattan,Predominantly White + Asian,2020,Number,0,36061
+Queens,Predominantly White + Asian,2020,Number,0,36081
+Staten Island,Predominantly White + Asian,2020,Number,0,36085
+New York City,Predominantly White + Asian,2020,Number,1,3651000
+Battery Park/Tribeca,Predominantly White + Asian,2020,Percent,0,101
+Greenwich Village,Predominantly White + Asian,2020,Percent,0,102
+Lower East Side,Predominantly White + Asian,2020,Percent,0,103
+Chelsea/Clinton,Predominantly White + Asian,2020,Percent,0,104
+Midtown Business District,Predominantly White + Asian,2020,Percent,0,105
+Murray Hill/Stuyvesant,Predominantly White + Asian,2020,Percent,0,106
+Upper West Side,Predominantly White + Asian,2020,Percent,0,107
+Upper East Side,Predominantly White + Asian,2020,Percent,0,108
+Manhattanville,Predominantly White + Asian,2020,Percent,0,109
+Central Harlem,Predominantly White + Asian,2020,Percent,0,110
+East Harlem,Predominantly White + Asian,2020,Percent,0,111
+Washington Heights,Predominantly White + Asian,2020,Percent,0,112
+Mott Haven,Predominantly White + Asian,2020,Percent,0,201
+Hunts Point,Predominantly White + Asian,2020,Percent,0,202
+Morrisania,Predominantly White + Asian,2020,Percent,0,203
+Concourse/Highbridge,Predominantly White + Asian,2020,Percent,0,204
+University Heights,Predominantly White + Asian,2020,Percent,0,205
+East Tremont,Predominantly White + Asian,2020,Percent,0,206
+Bedford Park,Predominantly White + Asian,2020,Percent,0,207
+Riverdale,Predominantly White + Asian,2020,Percent,0,208
+Unionport/Soundview,Predominantly White + Asian,2020,Percent,0,209
+Throgs Neck,Predominantly White + Asian,2020,Percent,0,210
+Pelham Parkway,Predominantly White + Asian,2020,Percent,0,211
+Williamsbridge,Predominantly White + Asian,2020,Percent,0,212
+Williamsburg/Greenpoint,Predominantly White + Asian,2020,Percent,0,301
+Fort Greene/Brooklyn Hts,Predominantly White + Asian,2020,Percent,0,302
+Bedford Stuyvesant,Predominantly White + Asian,2020,Percent,0,303
+Bushwick,Predominantly White + Asian,2020,Percent,0,304
+East New York,Predominantly White + Asian,2020,Percent,0,305
+Park Slope,Predominantly White + Asian,2020,Percent,0,306
+Sunset Park,Predominantly White + Asian,2020,Percent,0,307
+Crown Heights North,Predominantly White + Asian,2020,Percent,0,308
+Crown Heights South,Predominantly White + Asian,2020,Percent,0,309
+Bay Ridge,Predominantly White + Asian,2020,Percent,0,310
+Bensonhurst,Predominantly White + Asian,2020,Percent,0.5,311
+Borough Park,Predominantly White + Asian,2020,Percent,0,312
+Coney Island,Predominantly White + Asian,2020,Percent,0,313
+Flatbush/Midwood,Predominantly White + Asian,2020,Percent,0,314
+Sheepshead Bay,Predominantly White + Asian,2020,Percent,0,315
+Brownsville,Predominantly White + Asian,2020,Percent,0,316
+East Flatbush,Predominantly White + Asian,2020,Percent,0,317
+Canarsie,Predominantly White + Asian,2020,Percent,0,318
+Astoria,Predominantly White + Asian,2020,Percent,0,401
+Sunnyside/Woodside,Predominantly White + Asian,2020,Percent,0,402
+Jackson Heights,Predominantly White + Asian,2020,Percent,0,403
+Elmhurst/Corona,Predominantly White + Asian,2020,Percent,0,404
+Ridgewood/Glendale,Predominantly White + Asian,2020,Percent,0,405
+Rego Park/Forest Hills,Predominantly White + Asian,2020,Percent,0,406
+Flushing,Predominantly White + Asian,2020,Percent,0,407
+Fresh Meadows/Briarwood,Predominantly White + Asian,2020,Percent,0,408
+Woodhaven,Predominantly White + Asian,2020,Percent,0,409
+Howard Beach,Predominantly White + Asian,2020,Percent,0,410
+Bayside,Predominantly White + Asian,2020,Percent,0,411
+Jamaica/St. Albans,Predominantly White + Asian,2020,Percent,0,412
+Queens Village,Predominantly White + Asian,2020,Percent,0,413
+The Rockaways,Predominantly White + Asian,2020,Percent,0,414
+St. George,Predominantly White + Asian,2020,Percent,0,501
+South Beach,Predominantly White + Asian,2020,Percent,0,502
+Tottenville,Predominantly White + Asian,2020,Percent,0,503
+Lower East Side,Predominantly White + Asian,2020,Percent,0,SD1
+"Stuyvesant Town, Upper E. Side",Predominantly White + Asian,2020,Percent,0,SD2
+Upper West Side,Predominantly White + Asian,2020,Percent,0,SD3
+East Harlem,Predominantly White + Asian,2020,Percent,0,SD4
+Central Harlem,Predominantly White + Asian,2020,Percent,0,SD5
+Washington Heights,Predominantly White + Asian,2020,Percent,0,SD6
+Mott Haven,Predominantly White + Asian,2020,Percent,0,SD7
+"Hunts Point, Port Morris",Predominantly White + Asian,2020,Percent,0,SD8
+"East Tremont, Morris Heights",Predominantly White + Asian,2020,Percent,0,SD9
+"Riverdale, Kingsbridge, Fordham",Predominantly White + Asian,2020,Percent,0,SD10
+"Eastchester, Baychester, Co-op City",Predominantly White + Asian,2020,Percent,0,SD11
+"Crotona Park, Morrisania, Melrose",Predominantly White + Asian,2020,Percent,0,SD12
+"Brooklyn Hts, Downtown Brooklyn",Predominantly White + Asian,2020,Percent,0,SD13
+"Williamsburg, Greenpoint",Predominantly White + Asian,2020,Percent,0,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Predominantly White + Asian,2020,Percent,0,SD15
+Bedford Stuyvesant,Predominantly White + Asian,2020,Percent,0,SD16
+Crown Heights,Predominantly White + Asian,2020,Percent,0,SD17
+"East Flatbush, Canarsie",Predominantly White + Asian,2020,Percent,0,SD18
+East New York,Predominantly White + Asian,2020,Percent,0,SD19
+"Bay Ridge, Bensonhurst",Predominantly White + Asian,2020,Percent,0,SD20
+"Gravesend, Coney Island",Predominantly White + Asian,2020,Percent,0.33333,SD21
+"Flatbush, Midwood, Sheepshead Bay",Predominantly White + Asian,2020,Percent,0,SD22
+"Brownsville, Ocean Hill",Predominantly White + Asian,2020,Percent,0,SD23
+"Sunnyside, Woodside, Jackson Hts",Predominantly White + Asian,2020,Percent,0,SD24
+"Flushing, Whitestone",Predominantly White + Asian,2020,Percent,0,SD25
+"Bayside, Douglaston, Little Neck",Predominantly White + Asian,2020,Percent,0,SD26
+"Jamaica, Howard Beach, Rockaways",Predominantly White + Asian,2020,Percent,0,SD27
+"Jamaica, Forest Hills",Predominantly White + Asian,2020,Percent,0,SD28
+"Queens Village, Rosedale, Hollis",Predominantly White + Asian,2020,Percent,0,SD29
+"Long Island City, Astoria",Predominantly White + Asian,2020,Percent,0,SD30
+Staten Island,Predominantly White + Asian,2020,Percent,0,SD31
+Bushwick,Predominantly White + Asian,2020,Percent,0,SD32
+Bronx,Predominantly White + Asian,2020,Percent,0,36005
+Brooklyn,Predominantly White + Asian,2020,Percent,0.01075,36047
+Manhattan,Predominantly White + Asian,2020,Percent,0,36061
+Queens,Predominantly White + Asian,2020,Percent,0,36081
+Staten Island,Predominantly White + Asian,2020,Percent,0,36085
+New York City,Predominantly White + Asian,2020,Percent,0.00386,3651000

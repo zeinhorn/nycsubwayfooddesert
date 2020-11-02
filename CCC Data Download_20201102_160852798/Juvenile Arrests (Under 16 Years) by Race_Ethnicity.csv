@@ -1,0 +1,56 @@
+"Name","Juvenile Arrests (Under 16 Years) by Race/Ethnicity"
+"Description",""
+"Source Notes","Unpublished data provided to CCC by the New York State Division of Criminal Justice Services (2010-2015)<a href=""https://www.criminaljustice.ny.gov/crimnet/ojsa/jj-profiles.htm"" target=""_blank""></a>"
+"Notes",""
+
+Location,Race/Ethnicity,TimeFrame,DataFormat,Data,Fips
+New York City,White,2011,Number,722,3651000
+New York City,White,2012,Number,561,3651000
+New York City,White,2013,Number,283,3651000
+New York City,White,2014,Number,201,3651000
+New York City,White,2015,Number,289,3651000
+New York City,Black,2011,Number,7023,3651000
+New York City,Black,2012,Number,5633,3651000
+New York City,Black,2013,Number,4692,3651000
+New York City,Black,2014,Number,3868,3651000
+New York City,Black,2015,Number,3491,3651000
+New York City,Latino,2011,Number,4205,3651000
+New York City,Latino,2012,Number,3135,3651000
+New York City,Latino,2013,Number,2380,3651000
+New York City,Latino,2014,Number,1839,3651000
+New York City,Latino,2015,Number,1739,3651000
+New York City,Asian,2011,Number,287,3651000
+New York City,Asian,2012,Number,273,3651000
+New York City,Asian,2013,Number,169,3651000
+New York City,Asian,2014,Number,133,3651000
+New York City,Asian,2015,Number,155,3651000
+New York City,Other,2011,Number,23,3651000
+New York City,Other,2012,Number,13,3651000
+New York City,Other,2013,Number,14,3651000
+New York City,Other,2014,Number,4,3651000
+New York City,Other,2015,Number,7,3651000
+New York City,White,2011,Percent,0.05836,3651000
+New York City,White,2012,Percent,0.05798,3651000
+New York City,White,2013,Percent,0.03722,3651000
+New York City,White,2014,Percent,0.03303,3651000
+New York City,White,2015,Percent,0.05067,3651000
+New York City,Black,2011,Percent,0.5677,3651000
+New York City,Black,2012,Percent,0.58222,3651000
+New York City,Black,2013,Percent,0.61704,3651000
+New York City,Black,2014,Percent,0.63556,3651000
+New York City,Black,2015,Percent,0.61203,3651000
+New York City,Latino,2011,Percent,0.33991,3651000
+New York City,Latino,2012,Percent,0.32403,3651000
+New York City,Latino,2013,Percent,0.31299,3651000
+New York City,Latino,2014,Percent,0.30217,3651000
+New York City,Latino,2015,Percent,0.30487,3651000
+New York City,Asian,2011,Percent,0.0232,3651000
+New York City,Asian,2012,Percent,0.02822,3651000
+New York City,Asian,2013,Percent,0.02223,3651000
+New York City,Asian,2014,Percent,0.02185,3651000
+New York City,Asian,2015,Percent,0.02717,3651000
+New York City,Other,2011,Percent,0.00186,3651000
+New York City,Other,2012,Percent,0.00134,3651000
+New York City,Other,2013,Percent,0.00184,3651000
+New York City,Other,2014,Percent,0.00066,3651000
+New York City,Other,2015,Percent,0.00123,3651000

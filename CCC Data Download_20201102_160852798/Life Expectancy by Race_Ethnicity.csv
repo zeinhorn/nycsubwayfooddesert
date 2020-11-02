@@ -1,0 +1,32 @@
+"Name","Life Expectancy by Race/Ethnicity"
+"Description","Life expectancy at birth by race/ethnicity.&nbsp;<br />
+White = Non-Hispanic White&nbsp;<br />
+Black = Non-Hispanic Black&nbsp;"
+"Source Notes","New York City Department of Health and Mental Hygiene, Bureau of Vital Statistics, Summary of Vital Statistics (2010-2017); retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page"" target=""_blank""></a><a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page""></a><a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page"" target=""_blank"">https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page</a>"
+"Notes",""
+
+Location,Race/Ethnicity,TimeFrame,DataFormat,Data,Fips
+New York City,Hispanic,2017,Years,82.4,3651000
+New York City,White,2017,Years,81.3,3651000
+New York City,Black,2017,Years,77.3,3651000
+New York City,Hispanic,2016,Years,82.4,3651000
+New York City,White,2016,Years,81.2,3651000
+New York City,Black,2016,Years,77.2,3651000
+New York City,Hispanic,2015,Years,82.4,3651000
+New York City,White,2015,Years,81.3,3651000
+New York City,Black,2015,Years,77.3,3651000
+New York City,Hispanic,2014,Years,82.2,3651000
+New York City,White,2014,Years,81.2,3651000
+New York City,Black,2014,Years,77.1,3651000
+New York City,Hispanic,2013,Years,82.3,3651000
+New York City,White,2013,Years,81.1,3651000
+New York City,Black,2013,Years,77.3,3651000
+New York City,Hispanic,2012,Years,82.2,3651000
+New York City,White,2012,Years,81.3,3651000
+New York City,Black,2012,Years,77.2,3651000
+New York City,Hispanic,2011,Years,81.8,3651000
+New York City,White,2011,Years,81.4,3651000
+New York City,Black,2011,Years,77,3651000
+New York City,Hispanic,2010,Years,81.9,3651000
+New York City,White,2010,Years,81.4,3651000
+New York City,Black,2010,Years,77.2,3651000

@@ -1,0 +1,42 @@
+"Name","Life Expectancy by Gender"
+"Description","Life expectancy at birth by gender.&nbsp;"
+"Source Notes","New York City Department of Health and Mental Hygiene, Bureau of Vital Statistics, Summary of Vital Statistics (2000-2017); retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page"" target=""_blank""></a><a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page""></a><a href=""https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page"" target=""_blank"">https://www1.nyc.gov/site/doh/data/vital-statistics/vital-statistics-summary.page</a>"
+"Notes",""
+
+Location,Gender,TimeFrame,DataFormat,Data,Fips
+New York City,Male,2008,Years,77.5,3651000
+New York City,Male,2009,Years,77.8,3651000
+New York City,Male,2010,Years,78.1,3651000
+New York City,Male,2011,Years,78.2,3651000
+New York City,Male,2012,Years,78.4,3651000
+New York City,Male,2013,Years,78.3,3651000
+New York City,Male,2014,Years,78.5,3651000
+New York City,Male,2015,Years,78.6,3651000
+New York City,Male,2016,Years,78.5,3651000
+New York City,Male,2017,Years,78.5,3651000
+New York City,Female,2008,Years,82.6,3651000
+New York City,Female,2009,Years,83,3651000
+New York City,Female,2010,Years,83.3,3651000
+New York City,Female,2011,Years,83.2,3651000
+New York City,Female,2012,Years,83.4,3651000
+New York City,Female,2013,Years,83.4,3651000
+New York City,Female,2014,Years,83.6,3651000
+New York City,Female,2015,Years,83.5,3651000
+New York City,Female,2016,Years,83.5,3651000
+New York City,Female,2017,Years,83.6,3651000
+New York City,Male,2000,Years,74.5,3651000
+New York City,Male,2001,Years,74.9,3651000
+New York City,Male,2002,Years,75.2,3651000
+New York City,Male,2003,Years,75.5,3651000
+New York City,Female,2000,Years,80.4,3651000
+New York City,Female,2001,Years,80.5,3651000
+New York City,Female,2002,Years,80.8,3651000
+New York City,Female,2003,Years,81,3651000
+New York City,Male,2004,Years,76.3,3651000
+New York City,Male,2005,Years,76.4,3651000
+New York City,Male,2006,Years,76.8,3651000
+New York City,Male,2007,Years,77.3,3651000
+New York City,Female,2004,Years,81.3,3651000
+New York City,Female,2005,Years,81.6,3651000
+New York City,Female,2006,Years,82.1,3651000
+New York City,Female,2007,Years,82.5,3651000

@@ -1,0 +1,333 @@
+"Name","COVID-19 Cases by Age Group"
+"Description","Rates refer to the number of total confirmed cases, per 100,000 individuals in the age range."
+"Source Notes","New York City Department of Health and Mental Hygiene, COVID-19 Data (2020). Retrieved from:&nbsp;<a href=""https://github.com/nychealth/coronavirus-data"" target=""_blank"">https://github.com/nychealth/coronavirus-data</a><br />
+<br />
+<strong><strong>Data are updated weekly.&nbsp;</strong></strong>"
+"Notes","Data are cumulative and do not represent new cases per day listed. Data are being collected in real-time and are preliminary and subject to change as COVID-19 response continues. Due to delays in reporting, recent data are incomplete.&nbsp;"
+
+Location,Age Group,TimeFrame,DataFormat,Data,Fips
+New York City,0-17 Years,04/02,Rate,51.02,3651000
+New York City,18-44 Years,04/02,Rate,602.82,3651000
+New York City,45-64 Years,04/02,Rate,851,3651000
+New York City,65-75 Years,04/02,Rate,871.81,3651000
+New York City,75 and Older,04/02,Rate,879.56,3651000
+New York City,0-17 Years,04/06,Rate,69.72,3651000
+New York City,18-44 Years,04/06,Rate,792.83,3651000
+New York City,45-64 Years,04/06,Rate,1197.78,3651000
+New York City,65-75 Years,04/06,Rate,1251.43,3651000
+New York City,75 and Older,04/06,Rate,1342.84,3651000
+New York City,0-17 Years,04/10,Rate,108.11,3651000
+New York City,18-44 Years,04/10,Rate,1082.45,3651000
+New York City,45-64 Years,04/10,Rate,1649.48,3651000
+New York City,65-75 Years,04/10,Rate,1678.69,3651000
+New York City,75 and Older,04/10,Rate,1865.35,3651000
+New York City,0-17 Years,04/13,Rate,119.87,3651000
+New York City,18-44 Years,04/13,Rate,1200.53,3651000
+New York City,45-64 Years,04/13,Rate,1886.97,3651000
+New York City,65-75 Years,04/13,Rate,1928.57,3651000
+New York City,75 and Older,04/13,Rate,2154.03,3651000
+New York City,0-17 Years,04/17,Rate,138.69,3651000
+New York City,18-44 Years,04/17,Rate,1354.67,3651000
+New York City,45-64 Years,04/17,Rate,2162.4,3651000
+New York City,65-75 Years,04/17,Rate,2215.65,3651000
+New York City,75 and Older,04/17,Rate,2539.79,3651000
+New York City,0-17 Years,04/20,Rate,153.57,3651000
+New York City,18-44 Years,04/20,Rate,1456.1,3651000
+New York City,45-64 Years,04/20,Rate,2356.17,3651000
+New York City,65-75 Years,04/20,Rate,2399.59,3651000
+New York City,75 and Older,04/20,Rate,2788.24,3651000
+New York City,0-17 Years,04/24,Rate,180.44,3651000
+New York City,18-44 Years,04/24,Rate,1600.77,3651000
+New York City,45-64 Years,04/24,Rate,2611.61,3651000
+New York City,65-75 Years,04/24,Rate,2627.88,3651000
+New York City,75 and Older,04/24,Rate,3058.09,3651000
+New York City,0-17 Years,04/27,Rate,201.98,3651000
+New York City,18-44 Years,04/27,Rate,1705.26,3651000
+New York City,45-64 Years,04/27,Rate,2799.35,3651000
+New York City,65-75 Years,04/27,Rate,2795.67,3651000
+New York City,75 and Older,04/27,Rate,3242.38,3651000
+New York City,0-17 Years,05/01,Rate,219,3651000
+New York City,18-44 Years,05/01,Rate,1794.92,3651000
+New York City,45-64 Years,05/01,Rate,2945.07,3651000
+New York City,65-75 Years,05/01,Rate,2937.56,3651000
+New York City,75 and Older,05/01,Rate,3440.93,3651000
+New York City,0-17 Years,05/04,Rate,236.72,3651000
+New York City,18-44 Years,05/04,Rate,1861.24,3651000
+New York City,45-64 Years,05/04,Rate,3049.54,3651000
+New York City,65-75 Years,05/04,Rate,3038.83,3651000
+New York City,75 and Older,05/04,Rate,3556.1,3651000
+New York City,0-17 Years,05/08,Rate,249.58,3651000
+New York City,18-44 Years,05/08,Rate,1920.27,3651000
+New York City,45-64 Years,05/08,Rate,3141.71,3651000
+New York City,65-75 Years,05/08,Rate,3140.96,3651000
+New York City,75 and Older,05/08,Rate,3688.1,3651000
+New York City,0-17 Years,05/11,Rate,266.66,3651000
+New York City,18-44 Years,05/11,Rate,1998.02,3651000
+New York City,45-64 Years,05/11,Rate,3267,3651000
+New York City,65-75 Years,05/11,Rate,3270.69,3651000
+New York City,75 and Older,05/11,Rate,3890.49,3651000
+New York City,0-17 Years,05/15,Rate,279.34,3651000
+New York City,18-44 Years,05/15,Rate,2042.77,3651000
+New York City,45-64 Years,05/15,Rate,3332.61,3651000
+New York City,65-75 Years,05/15,Rate,3342.78,3651000
+New York City,75 and Older,05/15,Rate,4001.46,3651000
+New York City,0-17 Years,05/19,Rate,290.98,3651000
+New York City,18-44 Years,05/19,Rate,2079.39,3651000
+New York City,45-64 Years,05/19,Rate,3395.06,3651000
+New York City,65-75 Years,05/19,Rate,3412.16,3651000
+New York City,75 and Older,05/19,Rate,4109.33,3651000
+New York City,0-17 Years,05/19,Number,5025,3651000
+New York City,18-44 Years,05/19,Number,70069,3651000
+New York City,45-64 Years,05/19,Number,69804,3651000
+New York City,65-75 Years,05/19,Number,23855,3651000
+New York City,75 and Older,05/19,Number,22477,3651000
+New York City,0-17 Years,05/22,Number,5212,3651000
+New York City,18-44 Years,05/22,Number,70933,3651000
+New York City,45-64 Years,05/22,Number,70497,3651000
+New York City,65-75 Years,05/22,Number,24155,3651000
+New York City,75 and Older,05/22,Number,22768,3651000
+New York City,0-17 Years,05/22,Rate,301.81,3651000
+New York City,18-44 Years,05/22,Rate,2105.03,3651000
+New York City,45-64 Years,05/22,Rate,3428.76,3651000
+New York City,65-75 Years,05/22,Rate,3455.07,3651000
+New York City,75 and Older,05/22,Rate,4162.53,3651000
+New York City,0-17 Years,05/25,Number,5322,3651000
+New York City,18-44 Years,05/25,Number,71725,3651000
+New York City,45-64 Years,05/25,Number,71236,3651000
+New York City,65-75 Years,05/25,Number,24393,3651000
+New York City,75 and Older,05/25,Number,23028,3651000
+New York City,0-17 Years,05/25,Rate,308.18,3651000
+New York City,18-44 Years,05/25,Rate,2128.54,3651000
+New York City,45-64 Years,05/25,Rate,3464.71,3651000
+New York City,65-75 Years,05/25,Rate,3489.11,3651000
+New York City,75 and Older,05/25,Rate,4210.06,3651000
+New York City,0-17 Years,05/29,Number,5457,3651000
+New York City,18-44 Years,05/29,Number,72845,3651000
+New York City,45-64 Years,05/29,Number,72314,3651000
+New York City,65-75 Years,05/29,Number,24689,3651000
+New York City,75 and Older,05/29,Number,23306,3651000
+New York City,0-17 Years,05/29,Rate,316,3651000
+New York City,18-44 Years,05/29,Rate,2161.77,3651000
+New York City,45-64 Years,05/29,Rate,3517.14,3651000
+New York City,65-75 Years,05/29,Rate,3531.45,3651000
+New York City,75 and Older,05/29,Rate,4260.89,3651000
+New York City,0-17 Years,06/01,Number,5526,3651000
+New York City,18-44 Years,06/01,Number,73564,3651000
+New York City,45-64 Years,06/01,Number,72943,3651000
+New York City,65-75 Years,06/01,Number,24882,3651000
+New York City,75 and Older,06/01,Number,23495,3651000
+New York City,0-17 Years,06/01,Rate,319.99,3651000
+New York City,18-44 Years,06/01,Rate,2183.11,3651000
+New York City,45-64 Years,06/01,Rate,3547.73,3651000
+New York City,65-75 Years,06/01,Rate,3559.06,3651000
+New York City,75 and Older,06/01,Rate,4295.44,3651000
+New York City,0-17 Years,06/05,Number,5578,3651000
+New York City,18-44 Years,06/05,Number,74349,3651000
+New York City,45-64 Years,06/05,Number,73646,3651000
+New York City,65-75 Years,06/05,Number,25084,3651000
+New York City,75 and Older,06/05,Number,23739,3651000
+New York City,0-17 Years,06/05,Rate,323,3651000
+New York City,18-44 Years,06/05,Rate,2206.41,3651000
+New York City,45-64 Years,06/05,Rate,3581.92,3651000
+New York City,65-75 Years,06/05,Rate,3587.95,3651000
+New York City,75 and Older,06/05,Rate,4340.05,3651000
+New York City,0-17 Years,06/08,Number,5637,3651000
+New York City,18-44 Years,06/08,Number,74851,3651000
+New York City,45-64 Years,06/08,Number,74130,3651000
+New York City,65-75 Years,06/08,Number,25234,3651000
+New York City,75 and Older,06/08,Number,23963,3651000
+New York City,0-17 Years,06/08,Rate,326.42,3651000
+New York City,18-44 Years,06/08,Rate,2221.31,3651000
+New York City,45-64 Years,06/08,Rate,3605.46,3651000
+New York City,65-75 Years,06/08,Rate,3609.4,3651000
+New York City,75 and Older,06/08,Rate,4381,3651000
+New York City,0-17 Years,06/12,Number,5709,3651000
+New York City,18-44 Years,06/12,Number,75434,3651000
+New York City,45-64 Years,06/12,Number,74667,3651000
+New York City,65-75 Years,06/12,Number,25429,3651000
+New York City,75 and Older,06/12,Number,24164,3651000
+New York City,0-17 Years,06/12,Rate,330.59,3651000
+New York City,18-44 Years,06/12,Rate,2238.61,3651000
+New York City,45-64 Years,06/12,Rate,3631.58,3651000
+New York City,65-75 Years,06/12,Rate,3637.3,3651000
+New York City,75 and Older,06/12,Rate,4417.75,3651000
+New York City,0-17 Years,06/15,Number,5755,3651000
+New York City,18-44 Years,06/15,Number,75857,3651000
+New York City,45-64 Years,06/15,Number,75093,3651000
+New York City,65-75 Years,06/15,Number,25572,3651000
+New York City,75 and Older,06/15,Number,24323,3651000
+New York City,0-17 Years,06/15,Rate,333.25,3651000
+New York City,18-44 Years,06/15,Rate,2251.16,3651000
+New York City,45-64 Years,06/15,Rate,3652.3,3651000
+New York City,65-75 Years,06/15,Rate,3657.75,3651000
+New York City,75 and Older,06/15,Rate,4446.82,3651000
+New York City,0-17 Years,06/19,Number,5819,3651000
+New York City,18-44 Years,06/19,Number,76392,3651000
+New York City,45-64 Years,06/19,Number,75621,3651000
+New York City,65-75 Years,06/19,Number,25704,3651000
+New York City,75 and Older,06/19,Number,24464,3651000
+New York City,0-17 Years,06/19,Rate,336.96,3651000
+New York City,18-44 Years,06/19,Rate,2267.04,3651000
+New York City,45-64 Years,06/19,Rate,3677.98,3651000
+New York City,65-75 Years,06/19,Rate,3676.63,3651000
+New York City,75 and Older,06/19,Rate,4472.6,3651000
+New York City,0-17 Years,06/22,Number,5874,3651000
+New York City,18-44 Years,06/22,Number,76854,3651000
+New York City,45-64 Years,06/22,Number,75998,3651000
+New York City,65-75 Years,06/22,Number,25815,3651000
+New York City,75 and Older,06/22,Number,24559,3651000
+New York City,0-17 Years,06/22,Rate,340.14,3651000
+New York City,18-44 Years,06/22,Rate,2280.75,3651000
+New York City,45-64 Years,06/22,Rate,3696.31,3651000
+New York City,65-75 Years,06/22,Rate,3692.51,3651000
+New York City,75 and Older,06/22,Rate,4489.97,3651000
+New York City,0-17 Years,06/26,Number,5926,3651000
+New York City,18-44 Years,06/26,Number,77473,3651000
+New York City,45-64 Years,06/26,Number,76404,3651000
+New York City,65-75 Years,06/26,Number,25951,3651000
+New York City,75 and Older,06/26,Number,24684,3651000
+New York City,0-17 Years,06/26,Rate,343.15,3651000
+New York City,18-44 Years,06/26,Rate,2299.12,3651000
+New York City,45-64 Years,06/26,Rate,3716.06,3651000
+New York City,65-75 Years,06/26,Rate,3711.96,3651000
+New York City,75 and Older,06/26,Rate,4512.82,3651000
+New York City,0-17 Years,06/30,Number,5978,3651000
+New York City,18-44 Years,06/30,Number,78008,3651000
+New York City,45-64 Years,06/30,Number,76761,3651000
+New York City,65-75 Years,06/30,Number,26053,3651000
+New York City,75 and Older,06/30,Number,24800,3651000
+New York City,0-17 Years,06/30,Rate,346.17,3651000
+New York City,18-44 Years,06/30,Rate,2314.99,3651000
+New York City,45-64 Years,06/30,Rate,3733.42,3651000
+New York City,65-75 Years,06/30,Rate,3726.55,3651000
+New York City,75 and Older,06/30,Rate,4534.03,3651000
+New York City,0-17 Years,07/09,Number,6161,3651000
+New York City,18-44 Years,07/09,Number,79477,3651000
+New York City,45-64 Years,07/09,Number,77582,3651000
+New York City,65-75 Years,07/09,Number,26279,3651000
+New York City,75 and Older,07/09,Number,24980,3651000
+New York City,0-17 Years,07/09,Rate,356.76,3651000
+New York City,18-44 Years,07/09,Rate,2358.59,3651000
+New York City,45-64 Years,07/09,Rate,3773.36,3651000
+New York City,65-75 Years,07/09,Rate,3758.88,3651000
+New York City,75 and Older,07/09,Rate,4566.94,3651000
+New York City,0-17 Years,07/20,Number,6398,3651000
+New York City,18-44 Years,07/20,Number,81399,3651000
+New York City,45-64 Years,07/20,Number,78528,3651000
+New York City,65-75 Years,07/20,Number,26496,3651000
+New York City,75 and Older,07/20,Number,25178,3651000
+New York City,0-17 Years,07/20,Rate,370.49,3651000
+New York City,18-44 Years,07/20,Rate,2415.63,3651000
+New York City,45-64 Years,07/20,Rate,3819.37,3651000
+New York City,65-75 Years,07/20,Rate,3789.92,3651000
+New York City,75 and Older,07/20,Rate,4603.14,3651000
+New York City,0-17 Years,07/30,Number,6608,3651000
+New York City,18-44 Years,07/30,Number,83015,3651000
+New York City,45-64 Years,07/30,Number,79375,3651000
+New York City,65-75 Years,07/30,Number,26723,3651000
+New York City,75 and Older,07/30,Number,25331,3651000
+New York City,0-17 Years,07/30,Rate,382.65,3651000
+New York City,18-44 Years,07/30,Rate,2463.58,3651000
+New York City,45-64 Years,07/30,Rate,3860.56,3651000
+New York City,65-75 Years,07/30,Rate,3822.39,3651000
+New York City,75 and Older,07/30,Rate,4631.11,3651000
+New York City,0-17 Years,08/05,Number,6744,3651000
+New York City,18-44 Years,08/05,Number,83925,3651000
+New York City,45-64 Years,08/05,Number,79780,3651000
+New York City,65-75 Years,08/05,Number,26842,3651000
+New York City,75 and Older,08/05,Number,25412,3651000
+New York City,0-17 Years,08/05,Rate,390.52,3651000
+New York City,18-44 Years,08/05,Rate,2490.59,3651000
+New York City,45-64 Years,08/05,Rate,3880.26,3651000
+New York City,65-75 Years,08/05,Rate,3839.41,3651000
+New York City,75 and Older,08/05,Rate,4645.92,3651000
+New York City,0-17 Years,08/16,Number,7087,3651000
+New York City,18-44 Years,08/16,Number,85711,3651000
+New York City,45-64 Years,08/16,Number,80755,3651000
+New York City,65-75 Years,08/16,Number,27130,3651000
+New York City,75 and Older,08/16,Number,25594,3651000
+New York City,0-17 Years,08/16,Rate,410.38,3651000
+New York City,18-44 Years,08/16,Rate,2543.59,3651000
+New York City,45-64 Years,08/16,Rate,3927.68,3651000
+New York City,65-75 Years,08/16,Rate,3880.6,3651000
+New York City,75 and Older,08/16,Rate,4679.19,3651000
+New York City,0-17 Years,08/23,Number,7285,3651000
+New York City,18-44 Years,08/23,Number,86569,3651000
+New York City,45-64 Years,08/23,Number,81196,3651000
+New York City,65-75 Years,08/23,Number,27235,3651000
+New York City,75 and Older,08/23,Number,25666,3651000
+New York City,0-17 Years,08/23,Rate,421.85,3651000
+New York City,18-44 Years,08/23,Rate,2569.05,3651000
+New York City,45-64 Years,08/23,Rate,3949.13,3651000
+New York City,65-75 Years,08/23,Rate,3895.62,3651000
+New York City,75 and Older,08/23,Rate,4692.35,3651000
+New York City,0-17 Years,09/07,Number,7672,3651000
+New York City,18-44 Years,09/07,Number,88303,3651000
+New York City,45-64 Years,09/07,Number,82052,3651000
+New York City,65-75 Years,09/07,Number,27479,3651000
+New York City,75 and Older,09/07,Number,25839,3651000
+New York City,0-17 Years,09/07,Rate,444.26,3651000
+New York City,18-44 Years,09/07,Rate,2620.51,3651000
+New York City,45-64 Years,09/07,Rate,3990.76,3651000
+New York City,65-75 Years,09/07,Rate,3930.52,3651000
+New York City,75 and Older,09/07,Rate,4723.98,3651000
+New York City,0-17 Years,09/14,Number,7831,3651000
+New York City,18-44 Years,09/14,Number,89268,3651000
+New York City,45-64 Years,09/14,Number,82530,3651000
+New York City,65-75 Years,09/14,Number,27615,3651000
+New York City,75 and Older,09/14,Number,25904,3651000
+New York City,0-17 Years,09/14,Rate,453.47,3651000
+New York City,18-44 Years,09/14,Rate,2649.15,3651000
+New York City,45-64 Years,09/14,Rate,4014.01,3651000
+New York City,65-75 Years,09/14,Rate,3949.98,3651000
+New York City,75 and Older,09/14,Rate,4735.87,3651000
+New York City,0-17 Years,09/27,Number,8367,3651000
+New York City,18-44 Years,09/27,Number,91613,3651000
+New York City,45-64 Years,09/27,Number,83523,3651000
+New York City,65-75 Years,09/27,Number,27908,3651000
+New York City,75 and Older,09/27,Number,26072,3651000
+New York City,0-17 Years,09/27,Rate,484.5,3651000
+New York City,18-44 Years,09/27,Rate,2718.74,3651000
+New York City,45-64 Years,09/27,Rate,4062.31,3651000
+New York City,65-75 Years,09/27,Rate,3991.89,3651000
+New York City,75 and Older,09/27,Rate,4766.58,3651000
+New York City,0-17 Years,10/07,Number,9131,3651000
+New York City,18-44 Years,10/07,Number,94025,3651000
+New York City,45-64 Years,10/07,Number,84685,3651000
+New York City,65-75 Years,10/07,Number,28265,3651000
+New York City,75 and Older,10/07,Number,26308,3651000
+New York City,0-17 Years,10/07,Rate,528.74,3651000
+New York City,18-44 Years,10/07,Rate,2790.32,3651000
+New York City,45-64 Years,10/07,Rate,4118.82,3651000
+New York City,65-75 Years,10/07,Rate,4042.95,3651000
+New York City,75 and Older,10/07,Rate,4809.73,3651000
+New York City,0-17 Years,10/14,Number,9580,3651000
+New York City,18-44 Years,10/14,Number,95764,3651000
+New York City,45-64 Years,10/14,Number,85517,3651000
+New York City,65-75 Years,10/14,Number,28549,3651000
+New York City,75 and Older,10/14,Number,26496,3651000
+New York City,0-17 Years,10/14,Rate,554.74,3651000
+New York City,18-44 Years,10/14,Rate,2841.93,3651000
+New York City,45-64 Years,10/14,Rate,4159.29,3651000
+New York City,65-75 Years,10/14,Rate,4083.57,3651000
+New York City,75 and Older,10/14,Rate,4844.1,3651000
+New York City,0-17 Years,10/21,Number,10086,3651000
+New York City,18-44 Years,10/21,Number,97546,3651000
+New York City,45-64 Years,10/21,Number,86434,3651000
+New York City,65-75 Years,10/21,Number,28849,3651000
+New York City,75 and Older,10/21,Number,26644,3651000
+New York City,0-17 Years,10/28,Number,10550,3651000
+New York City,18-44 Years,10/28,Number,99444,3651000
+New York City,45-64 Years,10/28,Number,87377,3651000
+New York City,65-75 Years,10/28,Number,29099,3651000
+New York City,75 and Older,10/28,Number,26813,3651000
+New York City,0-17 Years,10/21,Rate,584.05,3651000
+New York City,18-44 Years,10/21,Rate,2894.81,3651000
+New York City,45-64 Years,10/21,Rate,4203.89,3651000
+New York City,65-75 Years,10/21,Rate,4126.49,3651000
+New York City,75 and Older,10/21,Rate,4871.15,3651000
+New York City,0-17 Years,10/28,Rate,610.91,3651000
+New York City,18-44 Years,10/28,Rate,2951.14,3651000
+New York City,45-64 Years,10/28,Rate,4249.75,3651000
+New York City,65-75 Years,10/28,Rate,4162.24,3651000
+New York City,75 and Older,10/28,Rate,4902.05,3651000

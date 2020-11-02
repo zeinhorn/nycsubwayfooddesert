@@ -1,0 +1,982 @@
+"Name","Median Monthly Rent"
+"Description","Median contract (or asking) rent for rental households."
+"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table B25058 (2005-2019); retrieved from <a href=""https://data.census.gov/"" target=""_blank"">https://data.census.gov/</a>."
+"Notes","Dollar amounts for all years adjusted to constant 2019 dollars using the Consumer Price Index Research Series Using Current Methods (CPI-U-RS) for all items; retrieved from <a href=""https://www.bls.gov/cpi/research-series/home.htm"" target=""_blank"">https://www.bls.gov/cpi/research-series/home.htm</a>.&nbsp;<br />
+Some of the median rents reported by the Census have been ""top-coded"" into the highest standard deviation category; instances that fall into this category have been labeled as ""Topcoded."" The topcoded amount for median rent is $2,000 (in current year dollars). Due to adjustment for inflation, some rents displayed for prior years may exceed the topcoded amount."
+
+Location,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,2005,Dollars,2230.9167,101
+Greenwich Village,2005,Dollars,2230.9167,102
+Lower East Side,2005,Dollars,832.0007,103
+Chelsea/Clinton,2005,Dollars,1813.60404,104
+Midtown Business District,2005,Dollars,1813.60404,105
+Murray Hill/Stuyvesant,2005,Dollars,1925.14988,106
+Upper West Side,2005,Dollars,1465.8435,107
+Upper East Side,2005,Dollars,1956.64517,108
+Manhattanville,2005,Dollars,862.18369,109
+Central Harlem,2005,Dollars,793.94388,110
+East Harlem,2005,Dollars,751.95016,111
+Washington Heights,2005,Dollars,939.60962,112
+Mott Haven,2005,Dollars,601.0352,201
+Hunts Point,2005,Dollars,601.0352,202
+Morrisania,2005,Dollars,736.20251,203
+Concourse/Highbridge,2005,Dollars,849.06065,204
+University Heights,2005,Dollars,888.42977,205
+East Tremont,2005,Dollars,736.20251,206
+Bedford Park,2005,Dollars,973.72952,207
+Riverdale,2005,Dollars,1052.46776,208
+Unionport/Soundview,2005,Dollars,961.91879,209
+Throgs Neck,2005,Dollars,957.98188,210
+Pelham Parkway,2005,Dollars,1023.59707,211
+Williamsbridge,2005,Dollars,1019.66016,212
+Williamsburg/Greenpoint,2005,Dollars,959.29418,301
+Fort Greene/Brooklyn Hts,2005,Dollars,1030.15859,302
+Bedford Stuyvesant,2005,Dollars,822.81457,303
+Bushwick,2005,Dollars,892.36668,304
+East New York,2005,Dollars,904.17741,305
+Park Slope,2005,Dollars,1607.57232,306
+Sunset Park,2005,Dollars,1059.02928,307
+Crown Heights North,2005,Dollars,975.04183,308
+Crown Heights South,2005,Dollars,1027.53398,309
+Bay Ridge,2005,Dollars,1131.206,310
+Bensonhurst,2005,Dollars,1090.52457,311
+Borough Park,2005,Dollars,1131.206,312
+Coney Island,2005,Dollars,846.43604,313
+Flatbush/Midwood,2005,Dollars,1094.46148,314
+Sheepshead Bay,2005,Dollars,1103.64761,315
+Brownsville,2005,Dollars,711.26873,316
+East Flatbush,2005,Dollars,1083.96305,317
+Canarsie,2005,Dollars,1166.6382,318
+Astoria,2005,Dollars,1209.94423,401
+Sunnyside/Woodside,2005,Dollars,1244.06413,402
+Jackson Heights,2005,Dollars,1268.99791,403
+Elmhurst/Corona,2005,Dollars,1261.12409,404
+Ridgewood/Glendale,2005,Dollars,1228.31649,405
+Rego Park/Forest Hills,2005,Dollars,1288.68247,406
+Flushing,2005,Dollars,1321.49007,407
+Fresh Meadows/Briarwood,2005,Dollars,1203.38271,408
+Woodhaven,2005,Dollars,1211.25654,409
+Howard Beach,2005,Dollars,1356.92227,410
+Bayside,2005,Dollars,1476.34193,411
+Jamaica/St. Albans,2005,Dollars,1081.33845,412
+Queens Village,2005,Dollars,1392.35448,413
+The Rockaways,2005,Dollars,929.11119,414
+St. George,2005,Dollars,1086.58766,501
+South Beach,2005,Dollars,1175.82433,502
+Tottenville,2005,Dollars,1171.88742,503
+Bronx,2005,Dollars,908.11433,36005
+Brooklyn,2005,Dollars,1034.0955,36047
+Manhattan,2005,Dollars,1245.37644,36061
+Queens,2005,Dollars,1236.19031,36081
+Staten Island,2005,Dollars,1133.8306,36085
+New York City,2005,Dollars,1083.96305,3651000
+Battery Park/Tribeca,2006,Dollars,2149.43113,101
+Greenwich Village,2006,Dollars,2149.43113,102
+Lower East Side,2006,Dollars,910.10804,103
+Chelsea/Clinton,2006,Dollars,1719.79912,104
+Midtown Business District,2006,Dollars,1719.79912,105
+Murray Hill/Stuyvesant,2006,Dollars,1937.15733,106
+Upper West Side,2006,Dollars,1613.02667,107
+Upper East Side,2006,Dollars,1946.05503,108
+Manhattanville,2006,Dollars,894.85483,109
+Central Harlem,2006,Dollars,765.20257,110
+East Harlem,2006,Dollars,672.41222,111
+Washington Heights,2006,Dollars,929.17454,112
+Mott Haven,2006,Dollars,683.85213,201
+Hunts Point,2006,Dollars,683.85213,202
+Morrisania,2006,Dollars,776.64247,203
+Concourse/Highbridge,2006,Dollars,864.34841,204
+University Heights,2006,Dollars,912.65024,205
+East Tremont,2006,Dollars,776.64247,206
+Bedford Park,2006,Dollars,995.27178,207
+Riverdale,2006,Dollars,1072.80891,208
+Unionport/Soundview,2006,Dollars,983.83187,209
+Throgs Neck,2006,Dollars,1043.5736,210
+Pelham Parkway,2006,Dollars,990.18737,211
+Williamsbridge,2006,Dollars,1047.3869,212
+Williamsburg/Greenpoint,2006,Dollars,913.92134,301
+Fort Greene/Brooklyn Hts,2006,Dollars,1099.50203,302
+Bedford Stuyvesant,2006,Dollars,810.96219,303
+Bushwick,2006,Dollars,927.90344,304
+East New York,2006,Dollars,1018.15159,305
+Park Slope,2006,Dollars,1591.41796,306
+Sunset Park,2006,Dollars,1109.67083,307
+Crown Heights North,2006,Dollars,960.95206,308
+Crown Heights South,2006,Dollars,1018.15159,309
+Bay Ridge,2006,Dollars,1191.02127,310
+Bensonhurst,2006,Dollars,1132.55064,311
+Borough Park,2006,Dollars,1103.31533,312
+Coney Island,2006,Dollars,837.6553,313
+Flatbush/Midwood,2006,Dollars,1062.64011,314
+Sheepshead Bay,2006,Dollars,1043.5736,315
+Brownsville,2006,Dollars,739.78055,316
+East Flatbush,2006,Dollars,1070.26671,317
+Canarsie,2006,Dollars,1165.59926,318
+Astoria,2006,Dollars,1215.17218,401
+Sunnyside/Woodside,2006,Dollars,1258.3896,402
+Jackson Heights,2006,Dollars,1238.05199,403
+Elmhurst/Corona,2006,Dollars,1278.72721,404
+Ridgewood/Glendale,2006,Dollars,1213.90108,405
+Rego Park/Forest Hills,2006,Dollars,1357.53545,406
+Flushing,2006,Dollars,1368.97535,407
+Fresh Meadows/Briarwood,2006,Dollars,1266.01621,408
+Woodhaven,2006,Dollars,1281.26941,409
+Howard Beach,2006,Dollars,1330.84234,410
+Bayside,2006,Dollars,1440.15699,411
+Jamaica/St. Albans,2006,Dollars,1076.62221,412
+Queens Village,2006,Dollars,1361.34875,413
+The Rockaways,2006,Dollars,957.13876,414
+St. George,2006,Dollars,1071.53781,501
+South Beach,2006,Dollars,1170.68366,502
+Tottenville,2006,Dollars,1142.71945,503
+Bronx,2006,Dollars,925.36124,36005
+Brooklyn,2006,Dollars,1038.4892,36047
+Manhattan,2006,Dollars,1283.81161,36061
+Queens,2006,Dollars,1249.4919,36081
+Staten Island,2006,Dollars,1117.29743,36085
+New York City,2006,Dollars,1093.14652,3651000
+Battery Park/Tribeca,2007,Dollars,2233.53743,101
+Greenwich Village,2007,Dollars,2233.53743,102
+Lower East Side,2007,Dollars,842.98424,103
+Chelsea/Clinton,2007,Dollars,1681.02429,104
+Midtown Business District,2007,Dollars,1681.02429,105
+Murray Hill/Stuyvesant,2007,Dollars,2082.73966,106
+Upper West Side,2007,Dollars,1714.39757,107
+Upper East Side,2007,Dollars,2059.25476,108
+Manhattanville,2007,Dollars,1009.85062,109
+Central Harlem,2007,Dollars,796.01445,110
+East Harlem,2007,Dollars,684.77019,111
+Washington Heights,2007,Dollars,974.00525,112
+Mott Haven,2007,Dollars,679.826,201
+Hunts Point,2007,Dollars,679.826,202
+Morrisania,2007,Dollars,809.61097,203
+Concourse/Highbridge,2007,Dollars,903.55056,204
+University Heights,2007,Dollars,910.96684,205
+East Tremont,2007,Dollars,809.61097,206
+Bedford Park,2007,Dollars,982.65758,207
+Riverdale,2007,Dollars,1075.36113,208
+Unionport/Soundview,2007,Dollars,967.82502,209
+Throgs Neck,2007,Dollars,1020.97505,210
+Pelham Parkway,2007,Dollars,1105.02626,211
+Williamsbridge,2007,Dollars,1091.42974,212
+Williamsburg/Greenpoint,2007,Dollars,1090.1937,301
+Fort Greene/Brooklyn Hts,2007,Dollars,1244.69961,302
+Bedford Stuyvesant,2007,Dollars,903.55056,303
+Bushwick,2007,Dollars,982.65758,304
+East New York,2007,Dollars,1037.04366,305
+Park Slope,2007,Dollars,1470.89626,306
+Sunset Park,2007,Dollars,1095.13789,307
+Crown Heights North,2007,Dollars,964.11687,308
+Crown Heights South,2007,Dollars,1016.03086,309
+Bay Ridge,2007,Dollars,1174.24491,310
+Bensonhurst,2007,Dollars,1093.90184,311
+Borough Park,2007,Dollars,1095.13789,312
+Coney Island,2007,Dollars,873.88542,313
+Flatbush/Midwood,2007,Dollars,1084.01346,314
+Sheepshead Bay,2007,Dollars,1080.30532,315
+Brownsville,2007,Dollars,752.75279,316
+East Flatbush,2007,Dollars,1067.94485,317
+Canarsie,2007,Dollars,1236.04728,318
+Astoria,2007,Dollars,1186.60538,401
+Sunnyside/Woodside,2007,Dollars,1322.57058,402
+Jackson Heights,2007,Dollars,1281.78102,403
+Elmhurst/Corona,2007,Dollars,1229.86704,404
+Ridgewood/Glendale,2007,Dollars,1227.39494,405
+Rego Park/Forest Hills,2007,Dollars,1407.85785,406
+Flushing,2007,Dollars,1348.52758,407
+Fresh Meadows/Briarwood,2007,Dollars,1207.61819,408
+Woodhaven,2007,Dollars,1275.60079,409
+Howard Beach,2007,Dollars,1300.32173,410
+Bayside,2007,Dollars,1430.1067,411
+Jamaica/St. Albans,2007,Dollars,1080.30532,412
+Queens Village,2007,Dollars,1412.80204,413
+The Rockaways,2007,Dollars,931.97965,414
+St. George,2007,Dollars,1123.56697,501
+South Beach,2007,Dollars,1161.88444,502
+Tottenville,2007,Dollars,1171.77282,503
+Bronx,2007,Dollars,944.34012,36005
+Brooklyn,2007,Dollars,1058.05647,36047
+Manhattan,2007,Dollars,1304.02988,36061
+Queens,2007,Dollars,1244.69961,36081
+Staten Island,2007,Dollars,1147.05187,36085
+New York City,2007,Dollars,1109.97045,3651000
+Battery Park/Tribeca,2008,Dollars,2233.0509,101
+Greenwich Village,2008,Dollars,2233.0509,102
+Lower East Side,2008,Dollars,852.27316,103
+Chelsea/Clinton,2008,Dollars,1734.30446,104
+Midtown Business District,2008,Dollars,1734.30446,105
+Murray Hill/Stuyvesant,2008,Dollars,2074.73759,106
+Upper West Side,2008,Dollars,1670.02687,107
+Upper East Side,2008,Dollars,2052.1214,108
+Manhattanville,2008,Dollars,1068.91242,109
+Central Harlem,2008,Dollars,787.99557,110
+East Harlem,2008,Dollars,718.95669,111
+Washington Heights,2008,Dollars,980.82833,112
+Mott Haven,2008,Dollars,701.1018,201
+Hunts Point,2008,Dollars,701.1018,202
+Morrisania,2008,Dollars,801.08916,203
+Concourse/Highbridge,2008,Dollars,885.60228,204
+University Heights,2008,Dollars,920.12172,205
+East Tremont,2008,Dollars,801.08916,206
+Bedford Park,2008,Dollars,1007.01549,207
+Riverdale,2008,Dollars,1128.42871,208
+Unionport/Soundview,2008,Dollars,989.16061,209
+Throgs Neck,2008,Dollars,1077.2447,210
+Pelham Parkway,2008,Dollars,1030.822,211
+Williamsbridge,2008,Dollars,1099.86089,212
+Williamsburg/Greenpoint,2008,Dollars,1035.58331,301
+Fort Greene/Brooklyn Hts,2008,Dollars,1185.56434,302
+Bedford Stuyvesant,2008,Dollars,949.87986,303
+Bushwick,2008,Dollars,1042.72526,304
+East New York,2008,Dollars,1051.05754,305
+Park Slope,2008,Dollars,1631.93645,306
+Sunset Park,2008,Dollars,1133.19001,307
+Crown Heights North,2008,Dollars,1021.2994,308
+Crown Heights South,2008,Dollars,1022.48972,309
+Bay Ridge,2008,Dollars,1174.85141,310
+Bensonhurst,2008,Dollars,1052.24787,311
+Borough Park,2008,Dollars,1165.3288,312
+Coney Island,2008,Dollars,830.8473,313
+Flatbush/Midwood,2008,Dollars,1093.90926,314
+Sheepshead Bay,2008,Dollars,1042.72526,315
+Brownsville,2008,Dollars,770.14069,316
+East Flatbush,2008,Dollars,1107.00285,317
+Canarsie,2008,Dollars,1195.08694,318
+Astoria,2008,Dollars,1256.98388,401
+Sunnyside/Woodside,2008,Dollars,1256.98388,402
+Jackson Heights,2008,Dollars,1261.74518,403
+Elmhurst/Corona,2008,Dollars,1265.31616,404
+Ridgewood/Glendale,2008,Dollars,1216.5128,405
+Rego Park/Forest Hills,2008,Dollars,1405.77458,406
+Flushing,2008,Dollars,1349.82928,407
+Fresh Meadows/Briarwood,2008,Dollars,1268.88713,408
+Woodhaven,2008,Dollars,1274.83876,409
+Howard Beach,2008,Dollars,1309.3582,410
+Bayside,2008,Dollars,1449.81663,411
+Jamaica/St. Albans,2008,Dollars,1103.43187,412
+Queens Village,2008,Dollars,1335.54537,413
+The Rockaways,2008,Dollars,987.97028,414
+St. George,2008,Dollars,1109.3835,501
+South Beach,2008,Dollars,1105.81252,502
+Tottenville,2008,Dollars,1139.14164,503
+Bronx,2008,Dollars,959.40247,36005
+Brooklyn,2008,Dollars,1066.53177,36047
+Manhattan,2008,Dollars,1323.64211,36061
+Queens,2008,Dollars,1256.98388,36081
+Staten Island,2008,Dollars,1116.52545,36085
+New York City,2008,Dollars,1117.71578,3651000
+Battery Park/Tribeca,2009,Dollars,2347.1526,101
+Greenwich Village,2009,Dollars,2347.1526,102
+Lower East Side,2009,Dollars,980.66783,103
+Chelsea/Clinton,2009,Dollars,1939.83503,104
+Midtown Business District,2009,Dollars,1939.83503,105
+Murray Hill/Stuyvesant,2009,Dollars,2208.59296,106
+Upper West Side,2009,Dollars,1952.9743,107
+Upper East Side,2009,Dollars,2037.78236,108
+Manhattanville,2009,Dollars,1133.56123,109
+Central Harlem,2009,Dollars,794.329,110
+East Harlem,2009,Dollars,808.66275,111
+Washington Heights,2009,Dollars,1043.97525,112
+Mott Haven,2009,Dollars,746.54981,201
+Hunts Point,2009,Dollars,746.54981,202
+Morrisania,2009,Dollars,868.38674,203
+Concourse/Highbridge,2009,Dollars,932.88864,204
+University Heights,2009,Dollars,971.11199,205
+East Tremont,2009,Dollars,868.38674,206
+Bedford Park,2009,Dollars,1027.25254,207
+Riverdale,2009,Dollars,1157.45082,208
+Unionport/Soundview,2009,Dollars,1012.91878,209
+Throgs Neck,2009,Dollars,1065.47589,210
+Pelham Parkway,2009,Dollars,1109.67164,211
+Williamsbridge,2009,Dollars,1134.75571,212
+Williamsburg/Greenpoint,2009,Dollars,1145.50603,301
+Fort Greene/Brooklyn Hts,2009,Dollars,1297.20495,302
+Bedford Stuyvesant,2009,Dollars,981.86231,303
+Bushwick,2009,Dollars,1128.78331,304
+East New York,2009,Dollars,1063.08693,305
+Park Slope,2009,Dollars,1870.5552,306
+Sunset Park,2009,Dollars,1188.5073,307
+Crown Heights North,2009,Dollars,1041.58629,308
+Crown Heights South,2009,Dollars,1043.97525,309
+Bay Ridge,2009,Dollars,1292.42703,310
+Bensonhurst,2009,Dollars,1046.36421,311
+Borough Park,2009,Dollars,1170.5901,312
+Coney Island,2009,Dollars,938.86104,313
+Flatbush/Midwood,2009,Dollars,1112.0606,314
+Sheepshead Bay,2009,Dollars,1128.78331,315
+Brownsville,2009,Dollars,852.8585,316
+East Flatbush,2009,Dollars,1122.81091,317
+Canarsie,2009,Dollars,1256.59264,318
+Astoria,2009,Dollars,1321.09454,401
+Sunnyside/Woodside,2009,Dollars,1358.12341,402
+Jackson Heights,2009,Dollars,1330.65038,403
+Elmhurst/Corona,2009,Dollars,1339.01174,404
+Ridgewood/Glendale,2009,Dollars,1287.64911,405
+Rego Park/Forest Hills,2009,Dollars,1423.8198,406
+Flushing,2009,Dollars,1397.54124,407
+Fresh Meadows/Briarwood,2009,Dollars,1359.31789,408
+Woodhaven,2009,Dollars,1330.65038,409
+Howard Beach,2009,Dollars,1371.26269,410
+Bayside,2009,Dollars,1484.73826,411
+Jamaica/St. Albans,2009,Dollars,1170.5901,412
+Queens Village,2009,Dollars,1414.26396,413
+The Rockaways,2009,Dollars,1045.16973,414
+St. George,2009,Dollars,1061.89245,501
+South Beach,2009,Dollars,1193.28522,502
+Tottenville,2009,Dollars,1193.28522,503
+Bronx,2009,Dollars,987.83471,36005
+Brooklyn,2009,Dollars,1115.64404,36047
+Manhattan,2009,Dollars,1459.65419,36061
+Queens,2009,Dollars,1322.28902,36081
+Staten Island,2009,Dollars,1144.31155,36085
+New York City,2009,Dollars,1178.95146,3651000
+Battery Park/Tribeca,2010,Dollars,2350.18727,101
+Greenwich Village,2010,Dollars,2350.18727,102
+Lower East Side,2010,Dollars,1027.03184,103
+Chelsea/Clinton,2010,Dollars,1837.84644,104
+Midtown Business District,2010,Dollars,1837.84644,105
+Murray Hill/Stuyvesant,2010,Dollars,2189.19944,106
+Upper West Side,2010,Dollars,1688.60955,107
+Upper East Side,2010,Dollars,2008.23502,108
+Manhattanville,2010,Dollars,1061.10955,109
+Central Harlem,2010,Dollars,833.14139,110
+East Harlem,2010,Dollars,846.06742,111
+Washington Heights,2010,Dollars,1054.05899,112
+Mott Haven,2010,Dollars,705.05618,201
+Hunts Point,2010,Dollars,705.05618,202
+Morrisania,2010,Dollars,843.71723,203
+Concourse/Highbridge,2010,Dollars,969.45225,204
+University Heights,2010,Dollars,1015.2809,205
+East Tremont,2010,Dollars,843.71723,206
+Bedford Park,2010,Dollars,1068.16011,207
+Riverdale,2010,Dollars,1197.42041,208
+Unionport/Soundview,2010,Dollars,1049.35861,209
+Throgs Neck,2010,Dollars,1117.51404,210
+Pelham Parkway,2010,Dollars,1099.88764,211
+Williamsbridge,2010,Dollars,1089.3118,212
+Williamsburg/Greenpoint,2010,Dollars,1144.5412,301
+Fort Greene/Brooklyn Hts,2010,Dollars,1544.07303,302
+Bedford Stuyvesant,2010,Dollars,1022.33146,303
+Bushwick,2010,Dollars,1164.51779,304
+East New York,2010,Dollars,1108.1133,305
+Park Slope,2010,Dollars,1842.54682,306
+Sunset Park,2010,Dollars,1250.29963,307
+Crown Heights North,2010,Dollars,1118.68914,308
+Crown Heights South,2010,Dollars,1065.80993,309
+Bay Ridge,2010,Dollars,1277.32678,310
+Bensonhurst,2010,Dollars,1088.1367,311
+Borough Park,2010,Dollars,1294.95318,312
+Coney Island,2010,Dollars,925.97378,313
+Flatbush/Midwood,2010,Dollars,1142.19101,314
+Sheepshead Bay,2010,Dollars,1112.81367,315
+Brownsville,2010,Dollars,862.51873,316
+East Flatbush,2010,Dollars,1136.31554,317
+Canarsie,2010,Dollars,1197.42041,318
+Astoria,2010,Dollars,1370.15918,401
+Sunnyside/Woodside,2010,Dollars,1383.08521,402
+Jackson Heights,2010,Dollars,1313.75468,403
+Elmhurst/Corona,2010,Dollars,1344.30712,404
+Ridgewood/Glendale,2010,Dollars,1332.55618,405
+Rego Park/Forest Hills,2010,Dollars,1426.56367,406
+Flushing,2010,Dollars,1405.41199,407
+Fresh Meadows/Briarwood,2010,Dollars,1323.15543,408
+Woodhaven,2010,Dollars,1323.15543,409
+Howard Beach,2010,Dollars,1345.48221,410
+Bayside,2010,Dollars,1450.06554,411
+Jamaica/St. Albans,2010,Dollars,1168.04307,412
+Queens Village,2010,Dollars,1427.73876,413
+The Rockaways,2010,Dollars,1030.55712,414
+St. George,2010,Dollars,1210.34644,501
+South Beach,2010,Dollars,1106.9382,502
+Tottenville,2010,Dollars,1233.84831,503
+Bronx,2010,Dollars,1011.75562,36005
+Brooklyn,2010,Dollars,1149.24157,36047
+Manhattan,2010,Dollars,1420.6882,36061
+Queens,2010,Dollars,1336.08146,36081
+Staten Island,2010,Dollars,1192.72004,36085
+New York City,2010,Dollars,1200.94569,3651000
+Battery Park/Tribeca,2011,Dollars,2278.36611,101
+Greenwich Village,2011,Dollars,2278.36611,102
+Lower East Side,2011,Dollars,935.26929,103
+Chelsea/Clinton,2011,Dollars,2001.54463,104
+Midtown Business District,2011,Dollars,2001.54463,105
+Murray Hill/Stuyvesant,2011,Dollars,2249.88654,106
+Upper West Side,2011,Dollars,2011.79728,107
+Upper East Side,2011,Dollars,2073.31316,108
+Manhattanville,2011,Dollars,1090.19818,109
+Central Harlem,2011,Dollars,866.91831,110
+East Harlem,2011,Dollars,828.18608,111
+Washington Heights,2011,Dollars,1090.19818,112
+Mott Haven,2011,Dollars,749.58245,201
+Hunts Point,2011,Dollars,749.58245,202
+Morrisania,2011,Dollars,848.69138,203
+Concourse/Highbridge,2011,Dollars,963.74887,204
+University Heights,2011,Dollars,952.35703,205
+East Tremont,2011,Dollars,848.69138,206
+Bedford Park,2011,Dollars,1082.2239,207
+Riverdale,2011,Dollars,1191.58548,208
+Unionport/Soundview,2011,Dollars,1081.08472,209
+Throgs Neck,2011,Dollars,1119.81694,210
+Pelham Parkway,2011,Dollars,1126.65204,211
+Williamsbridge,2011,Dollars,1128.93041,212
+Williamsburg/Greenpoint,2011,Dollars,1290.6944,301
+Fort Greene/Brooklyn Hts,2011,Dollars,1470.68533,302
+Bedford Stuyvesant,2011,Dollars,932.99092,303
+Bushwick,2011,Dollars,1180.19365,304
+East New York,2011,Dollars,1111.84266,305
+Park Slope,2011,Dollars,1864.84266,306
+Sunset Park,2011,Dollars,1190.44629,307
+Crown Heights North,2011,Dollars,1084.50227,308
+Crown Heights South,2011,Dollars,1067.41452,309
+Bay Ridge,2011,Dollars,1277.02421,310
+Bensonhurst,2011,Dollars,1165.38427,311
+Borough Park,2011,Dollars,1223.4826,312
+Coney Island,2011,Dollars,948.93949,313
+Flatbush/Midwood,2011,Dollars,1185.88956,314
+Sheepshead Bay,2011,Dollars,1144.87897,315
+Brownsville,2011,Dollars,842.99546,316
+East Flatbush,2011,Dollars,1125.51286,317
+Canarsie,2011,Dollars,1224.62179,318
+Astoria,2011,Dollars,1345.37519,401
+Sunnyside/Woodside,2011,Dollars,1385.2466,402
+Jackson Heights,2011,Dollars,1284.99849,403
+Elmhurst/Corona,2011,Dollars,1319.17398,404
+Ridgewood/Glendale,2011,Dollars,1282.72012,405
+Rego Park/Forest Hills,2011,Dollars,1485.4947,406
+Flushing,2011,Dollars,1368.15885,407
+Fresh Meadows/Briarwood,2011,Dollars,1298.66868,408
+Woodhaven,2011,Dollars,1337.40091,409
+Howard Beach,2011,Dollars,1307.78215,410
+Bayside,2011,Dollars,1663.20726,411
+Jamaica/St. Albans,2011,Dollars,1189.30711,412
+Queens Village,2011,Dollars,1492.3298,413
+The Rockaways,2011,Dollars,1051.46596,414
+St. George,2011,Dollars,1120.95613,501
+South Beach,2011,Dollars,1112.98185,502
+Tottenville,2011,Dollars,1174.49773,503
+Bronx,2011,Dollars,1019.56884,36005
+Brooklyn,2011,Dollars,1161.96672,36047
+Manhattan,2011,Dollars,1486.63389,36061
+Queens,2011,Dollars,1323.73071,36081
+Staten Island,2011,Dollars,1128.93041,36085
+New York City,2011,Dollars,1210.95159,3651000
+Battery Park/Tribeca,2012,Dollars,2231.11111,101
+Greenwich Village,2012,Dollars,2231.11111,102
+Lower East Side,2012,Dollars,1103.28444,103
+Chelsea/Clinton,2012,Dollars,2184.25778,104
+Midtown Business District,2012,Dollars,2184.25778,105
+Murray Hill/Stuyvesant,2012,Dollars,2218.84,106
+Upper West Side,2012,Dollars,1777.08,107
+Upper East Side,2012,Dollars,2087.20444,108
+Manhattanville,2012,Dollars,1114.44,109
+Central Harlem,2012,Dollars,909.17778,110
+East Harlem,2012,Dollars,927.02667,111
+Washington Heights,2012,Dollars,1065.35556,112
+Mott Haven,2012,Dollars,749.65333,201
+Hunts Point,2012,Dollars,749.65333,202
+Morrisania,2012,Dollars,836.66667,203
+Concourse/Highbridge,2012,Dollars,968.30222,204
+University Heights,2012,Dollars,1008.46222,205
+East Tremont,2012,Dollars,836.66667,206
+Bedford Park,2012,Dollars,1066.47111,207
+Riverdale,2012,Dollars,1192.52889,208
+Unionport/Soundview,2012,Dollars,1043.04444,209
+Throgs Neck,2012,Dollars,1055.31556,210
+Pelham Parkway,2012,Dollars,1144.56,211
+Williamsbridge,2012,Dollars,1144.56,212
+Williamsburg/Greenpoint,2012,Dollars,1364.32444,301
+Fort Greene/Brooklyn Hts,2012,Dollars,1634.28889,302
+Bedford Stuyvesant,2012,Dollars,1055.31556,303
+Bushwick,2012,Dollars,1183.60444,304
+East New York,2012,Dollars,1040.81333,305
+Park Slope,2012,Dollars,1816.12444,306
+Sunset Park,2012,Dollars,1258.34667,307
+Crown Heights North,2012,Dollars,1080.97333,308
+Crown Heights South,2012,Dollars,1136.75111,309
+Bay Ridge,2012,Dollars,1278.42667,310
+Bensonhurst,2012,Dollars,1205.91556,311
+Borough Park,2012,Dollars,1260.57778,312
+Coney Island,2012,Dollars,909.17778,313
+Flatbush/Midwood,2012,Dollars,1192.52889,314
+Sheepshead Bay,2012,Dollars,1182.48889,315
+Brownsville,2012,Dollars,956.03111,316
+East Flatbush,2012,Dollars,1128.94222,317
+Canarsie,2012,Dollars,1237.15111,318
+Astoria,2012,Dollars,1385.52,401
+Sunnyside/Woodside,2012,Dollars,1440.18222,402
+Jackson Heights,2012,Dollars,1324.16444,403
+Elmhurst/Corona,2012,Dollars,1324.16444,404
+Ridgewood/Glendale,2012,Dollars,1256.11556,405
+Rego Park/Forest Hills,2012,Dollars,1454.68444,406
+Flushing,2012,Dollars,1350.93778,407
+Fresh Meadows/Briarwood,2012,Dollars,1326.39556,408
+Woodhaven,2012,Dollars,1367.67111,409
+Howard Beach,2012,Dollars,1340.89778,410
+Bayside,2012,Dollars,1608.63111,411
+Jamaica/St. Albans,2012,Dollars,1195.87556,412
+Queens Village,2012,Dollars,1365.44,413
+The Rockaways,2012,Dollars,1026.31111,414
+St. George,2012,Dollars,1074.28,501
+South Beach,2012,Dollars,1059.77778,502
+Tottenville,2012,Dollars,1195.87556,503
+Bronx,2012,Dollars,1015.15556,36005
+Brooklyn,2012,Dollars,1182.48889,36047
+Manhattan,2012,Dollars,1518.27111,36061
+Queens,2012,Dollars,1324.16444,36081
+Staten Island,2012,Dollars,1095.47556,36085
+New York City,2012,Dollars,1220.41778,3651000
+Battery Park/Tribeca,2013,Dollars,2198.54015,101
+Greenwich Village,2013,Dollars,2198.54015,102
+Lower East Side,2013,Dollars,955.26569,103
+Chelsea/Clinton,2013,Dollars,2198.54015,104
+Midtown Business District,2013,Dollars,2198.54015,105
+Murray Hill/Stuyvesant,2013,Dollars,2198.54015,106
+Upper West Side,2013,Dollars,1901.73723,107
+Upper East Side,2013,Dollars,2069.92555,108
+Manhattanville,2013,Dollars,1222.38832,109
+Central Harlem,2013,Dollars,871.72117,110
+East Harlem,2013,Dollars,878.31679,111
+Washington Heights,2013,Dollars,1097.07153,112
+Mott Haven,2013,Dollars,799.16934,201
+Hunts Point,2013,Dollars,799.16934,202
+Morrisania,2013,Dollars,893.70657,203
+Concourse/Highbridge,2013,Dollars,1041.00876,204
+University Heights,2013,Dollars,983.84672,205
+East Tremont,2013,Dollars,893.70657,206
+Bedford Park,2013,Dollars,1075.08613,207
+Riverdale,2013,Dollars,1253.16788,208
+Unionport/Soundview,2013,Dollars,1044.30657,209
+Throgs Neck,2013,Dollars,1164.12701,210
+Pelham Parkway,2013,Dollars,1110.26277,211
+Williamsbridge,2013,Dollars,1181.71533,212
+Williamsburg/Greenpoint,2013,Dollars,1300.4365,301
+Fort Greene/Brooklyn Hts,2013,Dollars,1547.77226,302
+Bedford Stuyvesant,2013,Dollars,1002.53431,303
+Bushwick,2013,Dollars,1212.49489,304
+East New York,2013,Dollars,1153.13431,305
+Park Slope,2013,Dollars,1992.97664,306
+Sunset Park,2013,Dollars,1287.24526,307
+Crown Heights North,2013,Dollars,1098.1708,308
+Crown Heights South,2013,Dollars,1154.23358,309
+Bay Ridge,2013,Dollars,1291.64234,310
+Bensonhurst,2013,Dollars,1196.00584,311
+Borough Park,2013,Dollars,1280.64964,312
+Coney Island,2013,Dollars,951.96788,313
+Flatbush/Midwood,2013,Dollars,1203.70073,314
+Sheepshead Bay,2013,Dollars,1191.60876,315
+Brownsville,2013,Dollars,848.6365,316
+East Flatbush,2013,Dollars,1209.19708,317
+Canarsie,2013,Dollars,1280.64964,318
+Astoria,2013,Dollars,1425.75328,401
+Sunnyside/Woodside,2013,Dollars,1454.33431,402
+Jackson Heights,2013,Dollars,1354.30073,403
+Elmhurst/Corona,2013,Dollars,1353.20146,404
+Ridgewood/Glendale,2013,Dollars,1256.46569,405
+Rego Park/Forest Hills,2013,Dollars,1500.50365,406
+Flushing,2013,Dollars,1341.10949,407
+Fresh Meadows/Briarwood,2013,Dollars,1312.52847,408
+Woodhaven,2013,Dollars,1337.81168,409
+Howard Beach,2013,Dollars,1290.54307,410
+Bayside,2013,Dollars,1575.25401,411
+Jamaica/St. Albans,2013,Dollars,1238.87737,412
+Queens Village,2013,Dollars,1372.98832,413
+The Rockaways,2013,Dollars,1103.66715,414
+St. George,2013,Dollars,1044.30657,501
+South Beach,2013,Dollars,1194.90657,502
+Tottenville,2013,Dollars,1134.44672,503
+Bronx,2013,Dollars,1039.90949,36005
+Brooklyn,2013,Dollars,1205.89927,36047
+Manhattan,2013,Dollars,1555.46715,36061
+Queens,2013,Dollars,1340.01022,36081
+Staten Island,2013,Dollars,1105.86569,36085
+New York City,2013,Dollars,1236.67883,3651000
+Battery Park/Tribeca,2014,Dollars,2161.92937,101
+Greenwich Village,2014,Dollars,2161.92937,102
+Lower East Side,2014,Dollars,1026.91645,103
+Chelsea/Clinton,2014,Dollars,2161.92937,104
+Midtown Business District,2014,Dollars,2161.92937,105
+Murray Hill/Stuyvesant,2014,Dollars,2161.92937,106
+Upper West Side,2014,Dollars,1837.63997,107
+Upper East Side,2014,Dollars,2161.92937,108
+Manhattanville,2014,Dollars,1212.84238,109
+Central Harlem,2014,Dollars,944.76314,110
+East Harlem,2014,Dollars,875.5814,111
+Washington Heights,2014,Dollars,1159.87511,112
+Mott Haven,2014,Dollars,791.26615,201
+Hunts Point,2014,Dollars,791.26615,202
+Morrisania,2014,Dollars,866.93368,203
+Concourse/Highbridge,2014,Dollars,971.78725,204
+University Heights,2014,Dollars,1022.59259,205
+East Tremont,2014,Dollars,866.93368,206
+Bedford Park,2014,Dollars,1124.20327,207
+Riverdale,2014,Dollars,1151.22739,208
+Unionport/Soundview,2014,Dollars,1098.26012,209
+Throgs Neck,2014,Dollars,1132.85099,210
+Pelham Parkway,2014,Dollars,1179.33247,211
+Williamsbridge,2014,Dollars,1176.08958,212
+Williamsburg/Greenpoint,2014,Dollars,1576.04651,301
+Fort Greene/Brooklyn Hts,2014,Dollars,1667.92851,302
+Bedford Stuyvesant,2014,Dollars,1046.37382,303
+Bushwick,2014,Dollars,1213.92334,304
+East New York,2014,Dollars,1071.236,305
+Park Slope,2014,Dollars,2064.64255,306
+Sunset Park,2014,Dollars,1315.53402,307
+Crown Heights North,2014,Dollars,1146.90353,308
+Crown Heights South,2014,Dollars,1235.54264,309
+Bay Ridge,2014,Dollars,1305.80534,310
+Bensonhurst,2014,Dollars,1227.97588,311
+Borough Park,2014,Dollars,1341.47717,312
+Coney Island,2014,Dollars,878.82429,313
+Flatbush/Midwood,2014,Dollars,1235.54264,314
+Sheepshead Bay,2014,Dollars,1209.59948,315
+Brownsville,2014,Dollars,940.43928,316
+East Flatbush,2014,Dollars,1175.00861,317
+Canarsie,2014,Dollars,1237.70457,318
+Astoria,2014,Dollars,1487.40741,401
+Sunnyside/Woodside,2014,Dollars,1551.18432,402
+Jackson Heights,2014,Dollars,1378.22997,403
+Elmhurst/Corona,2014,Dollars,1370.66322,404
+Ridgewood/Glendale,2014,Dollars,1299.31955,405
+Rego Park/Forest Hills,2014,Dollars,1559.83204,406
+Flushing,2014,Dollars,1362.0155,407
+Fresh Meadows/Briarwood,2014,Dollars,1363.09647,408
+Woodhaven,2014,Dollars,1405.25409,409
+Howard Beach,2014,Dollars,1328.5056,410
+Bayside,2014,Dollars,1546.86047,411
+Jamaica/St. Albans,2014,Dollars,1212.84238,412
+Queens Village,2014,Dollars,1438.764,413
+The Rockaways,2014,Dollars,1037.7261,414
+St. George,2014,Dollars,1045.29285,501
+South Beach,2014,Dollars,1104.74591,502
+Tottenville,2014,Dollars,1176.08958,503
+Bronx,2014,Dollars,1045.29285,36005
+Brooklyn,2014,Dollars,1227.97588,36047
+Manhattan,2014,Dollars,1579.28941,36061
+Queens,2014,Dollars,1379.31094,36081
+Staten Island,2014,Dollars,1077.72179,36085
+New York City,2014,Dollars,1253.91904,3651000
+Battery Park/Tribeca,2015,Dollars,2744.16595,101
+Greenwich Village,2015,Dollars,2744.16595,102
+Lower East Side,2015,Dollars,1067.2356,103
+Chelsea/Clinton,2015,Dollars,2258.56836,104
+Midtown Business District,2015,Dollars,2258.56836,105
+Murray Hill/Stuyvesant,2015,Dollars,2542.37317,106
+Upper West Side,2015,Dollars,1848.50817,107
+Upper East Side,2015,Dollars,2133.39209,108
+Manhattanville,2015,Dollars,1266.87016,109
+Central Harlem,2015,Dollars,1042.41617,110
+East Harlem,2015,Dollars,798.53826,111
+Washington Heights,2015,Dollars,1206.44024,112
+Mott Haven,2015,Dollars,833.06965,201
+Hunts Point,2015,Dollars,833.06965,202
+Morrisania,2015,Dollars,921.55632,203
+Concourse/Highbridge,2015,Dollars,1049.96991,204
+University Heights,2015,Dollars,1048.8908,205
+East Tremont,2015,Dollars,921.55632,206
+Bedford Park,2015,Dollars,1158.95959,207
+Riverdale,2015,Dollars,1269.02837,208
+Unionport/Soundview,2015,Dollars,1121.19089,209
+Throgs Neck,2015,Dollars,1066.15649,210
+Pelham Parkway,2015,Dollars,1204.28203,211
+Williamsbridge,2015,Dollars,1188.09544,212
+Williamsburg/Greenpoint,2015,Dollars,1625.13328,301
+Fort Greene/Brooklyn Hts,2015,Dollars,1771.89166,302
+Bedford Stuyvesant,2015,Dollars,1179.4626,303
+Bushwick,2015,Dollars,1265.79106,304
+East New York,2015,Dollars,1102.84609,305
+Park Slope,2015,Dollars,2124.75924,306
+Sunset Park,2015,Dollars,1259.31642,307
+Crown Heights North,2015,Dollars,1199.96561,308
+Crown Heights South,2015,Dollars,1233.41788,309
+Bay Ridge,2015,Dollars,1374.78074,310
+Bensonhurst,2015,Dollars,1235.5761,311
+Borough Park,2015,Dollars,1311.1135,312
+Coney Island,2015,Dollars,1038.09974,313
+Flatbush/Midwood,2015,Dollars,1288.45228,314
+Sheepshead Bay,2015,Dollars,1287.37317,315
+Brownsville,2015,Dollars,866.52193,316
+East Flatbush,2015,Dollars,1209.67756,317
+Canarsie,2015,Dollars,1266.87016,318
+Astoria,2015,Dollars,1524.77644,401
+Sunnyside/Woodside,2015,Dollars,1562.54514,402
+Jackson Heights,2015,Dollars,1399.60017,403
+Elmhurst/Corona,2015,Dollars,1420.10318,404
+Ridgewood/Glendale,2015,Dollars,1417.94497,405
+Rego Park/Forest Hills,2015,Dollars,1587.36457,406
+Flushing,2015,Dollars,1413.62855,407
+Fresh Meadows/Briarwood,2015,Dollars,1480.5331,408
+Woodhaven,2015,Dollars,1412.54944,409
+Howard Beach,2015,Dollars,1382.33448,410
+Bayside,2015,Dollars,1696.35426,411
+Jamaica/St. Albans,2015,Dollars,1237.73431,412
+Queens Village,2015,Dollars,1506.43164,413
+The Rockaways,2015,Dollars,1162.1969,414
+St. George,2015,Dollars,1139.53568,501
+South Beach,2015,Dollars,1204.28203,502
+Tottenville,2015,Dollars,1143.85211,503
+Bronx,2015,Dollars,1085.5804,36005
+Brooklyn,2015,Dollars,1263.63285,36047
+Manhattan,2015,Dollars,1644.55718,36061
+Queens,2015,Dollars,1434.13156,36081
+Staten Island,2015,Dollars,1154.64316,36085
+New York City,2015,Dollars,1293.84781,3651000
+Battery Park/Tribeca,2016,Dollars,2603.75212,101
+Greenwich Village,2016,Dollars,2603.75212,102
+Lower East Side,2016,Dollars,1038.7309,103
+Chelsea/Clinton,2016,Dollars,2318.2343,104
+Midtown Business District,2016,Dollars,2318.2343,105
+Murray Hill/Stuyvesant,2016,Dollars,2614.40577,106
+Upper West Side,2016,Dollars,2228.74363,107
+Upper East Side,2016,Dollars,2342.73769,108
+Manhattanville,2016,Dollars,1215.58149,109
+Central Harlem,2016,Dollars,985.46265,110
+East Harlem,2016,Dollars,878.92615,111
+Washington Heights,2016,Dollars,1264.58829,112
+Mott Haven,2016,Dollars,917.27929,201
+Hunts Point,2016,Dollars,917.27929,202
+Morrisania,2016,Dollars,930.06367,203
+Concourse/Highbridge,2016,Dollars,1041.92699,204
+University Heights,2016,Dollars,1080.28014,205
+East Tremont,2016,Dollars,930.06367,206
+Bedford Park,2016,Dollars,1135.67912,207
+Riverdale,2016,Dollars,1258.1961,208
+Unionport/Soundview,2016,Dollars,1148.4635,209
+Throgs Neck,2016,Dollars,1215.58149,210
+Pelham Parkway,2016,Dollars,1234.75806,211
+Williamsbridge,2016,Dollars,1187.882,212
+Williamsburg/Greenpoint,2016,Dollars,1739.74109,301
+Fort Greene/Brooklyn Hts,2016,Dollars,1840.95076,302
+Bedford Stuyvesant,2016,Dollars,1244.34635,303
+Bushwick,2016,Dollars,1362.60187,304
+East New York,2016,Dollars,1107.97963,305
+Park Slope,2016,Dollars,2033.78183,306
+Sunset Park,2016,Dollars,1360.47114,307
+Crown Heights North,2016,Dollars,1302.94143,308
+Crown Heights South,2016,Dollars,1276.3073,309
+Bay Ridge,2016,Dollars,1449.9618,310
+Bensonhurst,2016,Dollars,1296.54924,311
+Borough Park,2016,Dollars,1406.28183,312
+Coney Island,2016,Dollars,983.33192,313
+Flatbush/Midwood,2016,Dollars,1262.45756,314
+Sheepshead Bay,2016,Dollars,1280.56876,315
+Brownsville,2016,Dollars,959.89389,316
+East Flatbush,2016,Dollars,1272.04584,317
+Canarsie,2016,Dollars,1343.4253,318
+Astoria,2016,Dollars,1549.04075,401
+Sunnyside/Woodside,2016,Dollars,1585.26316,402
+Jackson Heights,2016,Dollars,1448.89643,403
+Elmhurst/Corona,2016,Dollars,1368.99406,404
+Ridgewood/Glendale,2016,Dollars,1461.68081,405
+Rego Park/Forest Hills,2016,Dollars,1591.65535,406
+Flushing,2016,Dollars,1505.36078,407
+Fresh Meadows/Briarwood,2016,Dollars,1531.99491,408
+Woodhaven,2016,Dollars,1459.55008,409
+Howard Beach,2016,Dollars,1469.13837,410
+Bayside,2016,Dollars,1661.96944,411
+Jamaica/St. Albans,2016,Dollars,1216.64686,412
+Queens Village,2016,Dollars,1437.17742,413
+The Rockaways,2016,Dollars,1050.44992,414
+St. George,2016,Dollars,1174.03226,501
+South Beach,2016,Dollars,1220.90832,502
+Tottenville,2016,Dollars,1185.75127,503
+Bronx,2016,Dollars,1099.45671,36005
+Brooklyn,2016,Dollars,1307.20289,36047
+Manhattan,2016,Dollars,1689.66893,36061
+Queens,2016,Dollars,1447.83107,36081
+Staten Island,2016,Dollars,1188.94737,36085
+New York City,2016,Dollars,1315.72581,3651000
+Battery Park/Tribeca,2017,Dollars,2583.35319,101
+Greenwich Village,2017,Dollars,2583.35319,102
+Lower East Side,2017,Dollars,1080.48199,103
+Chelsea/Clinton,2017,Dollars,2119.24654,104
+Midtown Business District,2017,Dollars,2119.24654,105
+Murray Hill/Stuyvesant,2017,Dollars,2488.44598,106
+Upper West Side,2017,Dollars,1886.67175,107
+Upper East Side,2017,Dollars,2395.62465,108
+Manhattanville,2017,Dollars,1198.3338,109
+Central Harlem,2017,Dollars,1018.94875,110
+East Harlem,2017,Dollars,873.98061,111
+Washington Heights,2017,Dollars,1203.54848,112
+Mott Haven,2017,Dollars,888.58172,201
+Hunts Point,2017,Dollars,888.58172,202
+Morrisania,2017,Dollars,956.37258,203
+Concourse/Highbridge,2017,Dollars,1060.6662,204
+University Heights,2017,Dollars,1079.43906,205
+East Tremont,2017,Dollars,956.37258,206
+Bedford Park,2017,Dollars,1178.51801,207
+Riverdale,2017,Dollars,1339.13019,208
+Unionport/Soundview,2017,Dollars,1126.37119,209
+Throgs Neck,2017,Dollars,1173.30332,210
+Pelham Parkway,2017,Dollars,1223.36427,211
+Williamsbridge,2017,Dollars,1325.57202,212
+Williamsburg/Greenpoint,2017,Dollars,1931.51801,301
+Fort Greene/Brooklyn Hts,2017,Dollars,1903.35873,302
+Bedford Stuyvesant,2017,Dollars,1192.07618,303
+Bushwick,2017,Dollars,1400.66343,304
+East New York,2017,Dollars,1164.95983,305
+Park Slope,2017,Dollars,2242.31302,306
+Sunset Park,2017,Dollars,1379.80471,307
+Crown Heights North,2017,Dollars,1234.83657,308
+Crown Heights South,2017,Dollars,1229.62188,309
+Bay Ridge,2017,Dollars,1400.66343,310
+Bensonhurst,2017,Dollars,1316.1856,311
+Borough Park,2017,Dollars,1317.22853,312
+Coney Island,2017,Dollars,998.09003,313
+Flatbush/Midwood,2017,Dollars,1337.04432,314
+Sheepshead Bay,2017,Dollars,1349.55956,315
+Brownsville,2017,Dollars,851.03601,316
+East Flatbush,2017,Dollars,1230.66482,317
+Canarsie,2017,Dollars,1331.82964,318
+Astoria,2017,Dollars,1633.23823,401
+Sunnyside/Woodside,2017,Dollars,1543.54571,402
+Jackson Heights,2017,Dollars,1483.0554,403
+Elmhurst/Corona,2017,Dollars,1445.5097,404
+Ridgewood/Glendale,2017,Dollars,1446.55263,405
+Rego Park/Forest Hills,2017,Dollars,1667.65512,406
+Flushing,2017,Dollars,1479.92659,407
+Fresh Meadows/Briarwood,2017,Dollars,1439.25208,408
+Woodhaven,2017,Dollars,1448.6385,409
+Howard Beach,2017,Dollars,1478.88366,410
+Bayside,2017,Dollars,1756.30471,411
+Jamaica/St. Albans,2017,Dollars,1230.66482,412
+Queens Village,2017,Dollars,1491.39889,413
+The Rockaways,2017,Dollars,1167.04571,414
+St. George,2017,Dollars,1108.64127,501
+South Beach,2017,Dollars,1296.36981,502
+Tottenville,2017,Dollars,1223.36427,503
+Bronx,2017,Dollars,1111.77008,36005
+Brooklyn,2017,Dollars,1306.79917,36047
+Manhattan,2017,Dollars,1588.39197,36061
+Queens,2017,Dollars,1468.45429,36081
+Staten Island,2017,Dollars,1191.03324,36085
+New York City,2017,Dollars,1317.22853,3651000
+Battery Park/Tribeca,2018,Dollars,2614.52677,101
+Greenwich Village,2018,Dollars,2614.52677,102
+Lower East Side,2018,Dollars,1102.62169,103
+Chelsea/Clinton,2018,Dollars,2075.9424,104
+Midtown Business District,2018,Dollars,2075.9424,105
+Murray Hill/Stuyvesant,2018,Dollars,2417.0119,106
+Upper West Side,2018,Dollars,2213.38832,107
+Upper East Side,2018,Dollars,2287.71092,108
+Manhattanville,2018,Dollars,1466.08978,109
+Central Harlem,2018,Dollars,1082.25933,110
+East Harlem,2018,Dollars,990.62872,111
+Washington Heights,2018,Dollars,1255.33937,112
+Mott Haven,2018,Dollars,848.09221,201
+Hunts Point,2018,Dollars,848.09221,202
+Morrisania,2018,Dollars,960.08518,203
+Concourse/Highbridge,2018,Dollars,1077.16874,204
+University Heights,2018,Dollars,1086.3318,205
+East Tremont,2018,Dollars,960.08518,206
+Bedford Park,2018,Dollars,1162.69064,207
+Riverdale,2018,Dollars,1256.35749,208
+Unionport/Soundview,2018,Dollars,1139.27393,209
+Throgs Neck,2018,Dollars,1125.02028,210
+Pelham Parkway,2018,Dollars,1252.28502,211
+Williamsbridge,2018,Dollars,1274.68361,212
+Williamsburg/Greenpoint,2018,Dollars,1823.44916,301
+Fort Greene/Brooklyn Hts,2018,Dollars,2072.88805,302
+Bedford Stuyvesant,2018,Dollars,1316.42645,303
+Bushwick,2018,Dollars,1483.39778,304
+East New York,2018,Dollars,1166.76312,305
+Park Slope,2018,Dollars,2095.28664,306
+Sunset Park,2018,Dollars,1528.19497,307
+Crown Heights North,2018,Dollars,1323.55327,308
+Crown Heights South,2018,Dollars,1389.73094,309
+Bay Ridge,2018,Dollars,1388.71282,310
+Bensonhurst,2018,Dollars,1338.82504,311
+Borough Park,2018,Dollars,1453.87236,312
+Coney Island,2018,Dollars,1102.62169,313
+Flatbush/Midwood,2018,Dollars,1290.9735,314
+Sheepshead Bay,2018,Dollars,1333.73445,315
+Brownsville,2018,Dollars,923.43294,316
+East Flatbush,2018,Dollars,1252.28502,317
+Canarsie,2018,Dollars,1375.47729,318
+Astoria,2018,Dollars,1655.45971,401
+Sunnyside/Woodside,2018,Dollars,1674.80395,402
+Jackson Heights,2018,Dollars,1479.32531,403
+Elmhurst/Corona,2018,Dollars,1549.57545,404
+Ridgewood/Glendale,2018,Dollars,1512.9232,405
+Rego Park/Forest Hills,2018,Dollars,1735.89102,406
+Flushing,2018,Dollars,1473.2166,407
+Fresh Meadows/Briarwood,2018,Dollars,1428.41942,408
+Woodhaven,2018,Dollars,1568.91969,409
+Howard Beach,2018,Dollars,1551.61168,410
+Bayside,2018,Dollars,1801.05057,411
+Jamaica/St. Albans,2018,Dollars,1238.03137,412
+Queens Village,2018,Dollars,1451.83613,413
+The Rockaways,2018,Dollars,1185.08924,414
+St. George,2018,Dollars,1118.91157,501
+South Beach,2018,Dollars,1191.19794,502
+Tottenville,2018,Dollars,1231.92266,503
+Bronx,2018,Dollars,1107.71228,36005
+Brooklyn,2018,Dollars,1355.11493,36047
+Manhattan,2018,Dollars,1703.31125,36061
+Queens,2018,Dollars,1508.85073,36081
+Staten Island,2018,Dollars,1173.88994,36085
+New York City,2018,Dollars,1361.22363,3651000
+Battery Park/Tribeca,2019,Dollars,2740,101
+Greenwich Village,2019,Dollars,2740,102
+Lower East Side,2019,Dollars,975,103
+Chelsea/Clinton,2019,Dollars,1953,104
+Midtown Business District,2019,Dollars,1953,105
+Murray Hill/Stuyvesant,2019,Dollars,2712,106
+Upper West Side,2019,Dollars,1945,107
+Upper East Side,2019,Dollars,2288,108
+Manhattanville,2019,Dollars,1460,109
+Central Harlem,2019,Dollars,1112,110
+East Harlem,2019,Dollars,871,111
+Washington Heights,2019,Dollars,1216,112
+Mott Haven,2019,Dollars,852,201
+Hunts Point,2019,Dollars,852,202
+Morrisania,2019,Dollars,982,203
+Concourse/Highbridge,2019,Dollars,1071,204
+University Heights,2019,Dollars,1107,205
+East Tremont,2019,Dollars,982,206
+Bedford Park,2019,Dollars,1196,207
+Riverdale,2019,Dollars,1291,208
+Unionport/Soundview,2019,Dollars,1126,209
+Throgs Neck,2019,Dollars,1155,210
+Pelham Parkway,2019,Dollars,1287,211
+Williamsbridge,2019,Dollars,1228,212
+Williamsburg/Greenpoint,2019,Dollars,1914,301
+Fort Greene/Brooklyn Hts,2019,Dollars,2157,302
+Bedford Stuyvesant,2019,Dollars,1338,303
+Bushwick,2019,Dollars,1591,304
+East New York,2019,Dollars,1131,305
+Park Slope,2019,Dollars,2247,306
+Sunset Park,2019,Dollars,1431,307
+Crown Heights North,2019,Dollars,1434,308
+Crown Heights South,2019,Dollars,1315,309
+Bay Ridge,2019,Dollars,1559,310
+Bensonhurst,2019,Dollars,1359,311
+Borough Park,2019,Dollars,1473,312
+Coney Island,2019,Dollars,1032,313
+Flatbush/Midwood,2019,Dollars,1402,314
+Sheepshead Bay,2019,Dollars,1346,315
+Brownsville,2019,Dollars,1015,316
+East Flatbush,2019,Dollars,1311,317
+Canarsie,2019,Dollars,1321,318
+Astoria,2019,Dollars,1696,401
+Sunnyside/Woodside,2019,Dollars,1742,402
+Jackson Heights,2019,Dollars,1551,403
+Elmhurst/Corona,2019,Dollars,1540,404
+Ridgewood/Glendale,2019,Dollars,1607,405
+Rego Park/Forest Hills,2019,Dollars,1712,406
+Flushing,2019,Dollars,1506,407
+Fresh Meadows/Briarwood,2019,Dollars,1493,408
+Woodhaven,2019,Dollars,1527,409
+Howard Beach,2019,Dollars,1603,410
+Bayside,2019,Dollars,1794,411
+Jamaica/St. Albans,2019,Dollars,1214,412
+Queens Village,2019,Dollars,1662,413
+The Rockaways,2019,Dollars,1190,414
+St. George,2019,Dollars,1105,501
+South Beach,2019,Dollars,1235,502
+Tottenville,2019,Dollars,1324,503
+Bronx,2019,Dollars,1122,36005
+Brooklyn,2019,Dollars,1389,36047
+Manhattan,2019,Dollars,1679,36061
+Queens,2019,Dollars,1558,36081
+Staten Island,2019,Dollars,1170,36085
+New York City,2019,Dollars,1385,3651000

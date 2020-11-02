@@ -1,0 +1,36 @@
+"Name","Homeless Shelter Population by Family Type"
+"Description",""
+"Source Notes","New York City Department of Homeless Services, DHS Data Dashboard (FY 2011 - FY 2014); retrieved&nbsp;<g class=""gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""3"" data-gr-id=""3"">from:</g>&nbsp;<a href=""https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page"">https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page</a>"
+"Notes","<g class=""gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins doubleReplace replaceWithoutSep"" id=""3"" data-gr-id=""3"">Number</g>&nbsp;of unduplicated individuals served in the New York City Department of Homeless Services shelter system."
+
+Location,Family Type,TimeFrame,DataFormat,Data,Fips
+New York City,Families with Children,2011,Number,70476,3651000
+New York City,Families with Children,2012,Number,66198,3651000
+New York City,Families with Children,2013,Number,70869,3651000
+New York City,Families with Children,2014,Number,73124,3651000
+New York City,Families with Children,2015,Number,89228,3651000
+New York City,Families with Children,2011,Percent,0.64004,3651000
+New York City,Families with Children,2012,Percent,0.63194,3651000
+New York City,Families with Children,2013,Percent,0.63725,3651000
+New York City,Families with Children,2014,Percent,0.62879,3651000
+New York City,Families with Children,2015,Percent,0.66646,3651000
+New York City,Adult Families,2011,Number,7654,3651000
+New York City,Adult Families,2012,Number,8032,3651000
+New York City,Adult Families,2013,Number,8471,3651000
+New York City,Adult Families,2014,Number,8672,3651000
+New York City,Adult Families,2015,Number,9092,3651000
+New York City,Adult Families,2011,Percent,0.06951,3651000
+New York City,Adult Families,2012,Percent,0.07667,3651000
+New York City,Adult Families,2013,Percent,0.07617,3651000
+New York City,Adult Families,2014,Percent,0.07457,3651000
+New York City,Adult Families,2015,Percent,0.06791,3651000
+New York City,Single Adults,2011,Number,31982,3651000
+New York City,Single Adults,2012,Number,30524,3651000
+New York City,Single Adults,2013,Number,31870,3651000
+New York City,Single Adults,2014,Number,34498,3651000
+New York City,Single Adults,2015,Number,35563,3651000
+New York City,Single Adults,2011,Percent,0.29045,3651000
+New York City,Single Adults,2012,Percent,0.29139,3651000
+New York City,Single Adults,2013,Percent,0.28657,3651000
+New York City,Single Adults,2014,Percent,0.29664,3651000
+New York City,Single Adults,2015,Percent,0.26563,3651000

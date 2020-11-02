@@ -1,0 +1,1581 @@
+"Name","Graduation Rate"
+"Description","New York City public high school students who graduated as of June after four years&nbsp;or six years of instruction. Six-year graduation rate data represent graduation rates for the cohort entering 6 years prior to the current school year (e.g. the 2019 six-year graduation rate reflect data for the 2013 cohort).&nbsp;"
+"Source Notes","New York City Department of Education, Graduation Results (School Years 2004-05 to 2018-19); retrieved from&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a><a href=""https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results"">https://infohub.nyced.org/reports-and-policies/citywide-information-and-data/graduation-results</a>&nbsp;<a href=""http://schools.nyc.gov/Accountability/data/GraduationDropoutReports/default.ht""></a>"
+"Notes","Data represent outcomes by graduation year. In order to comply with FERPA regulations on public reporting of education outcomes, breakdowns where the number of students in the cohort is 5 or less are suppressed and maps and tables display ""no data"" or ""0"". CCC used school-level<br />
+results to aggregate data to the community-district level."
+
+Location,Total,TimeFrame,DataFormat,Data,Fips
+Bronx,Within 4 years,2007,Percent,0.46868,36005
+Brooklyn,Within 4 years,2007,Percent,0.51861,36047
+Manhattan,Within 4 years,2007,Percent,0.54853,36061
+Queens,Within 4 years,2007,Percent,0.56774,36081
+Staten Island,Within 4 years,2007,Percent,0.66667,36085
+New York City,Within 4 years,2007,Percent,0.52769,3651000
+Lower East Side,Within 4 years,2007,Percent,0.54395,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2007,Percent,0.52174,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2007,Percent,0.49739,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2007,Percent,0.39278,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2007,Percent,0.73873,SD13
+"Williamsburg, Greenpoint",Within 4 years,2007,Percent,0.53689,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2007,Percent,0.41235,SD15
+Bedford Stuyvesant,Within 4 years,2007,Percent,0.37098,SD16
+Crown Heights,Within 4 years,2007,Percent,0.58128,SD17
+"East Flatbush, Canarsie",Within 4 years,2007,Percent,0.32476,SD18
+East New York,Within 4 years,2007,Percent,0.39789,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2007,Percent,0.54562,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2007,Percent,0.53365,SD20
+"Gravesend, Coney Island",Within 4 years,2007,Percent,0.51966,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2007,Percent,0.65092,SD22
+"Brownsville, Ocean Hill",Within 4 years,2007,Percent,0.48198,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2007,Percent,0.49595,SD24
+"Flushing, Whitestone",Within 4 years,2007,Percent,0.5134,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2007,Percent,0.74545,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2007,Percent,0.421,SD27
+"Jamaica, Forest Hills",Within 4 years,2007,Percent,0.64594,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2007,Percent,0.47423,SD29
+Upper West Side,Within 4 years,2007,Percent,0.58618,SD3
+"Long Island City, Astoria",Within 4 years,2007,Percent,0.55542,SD30
+Staten Island,Within 4 years,2007,Percent,0.67152,SD31
+Bushwick,Within 4 years,2007,Percent,0.4917,SD32
+East Harlem,Within 4 years,2007,Percent,0.64352,SD4
+Central Harlem,Within 4 years,2007,Percent,0.55769,SD5
+Washington Heights,Within 4 years,2007,Percent,0.61989,SD6
+Mott Haven,Within 4 years,2007,Percent,0.53144,SD7
+"Hunts Point, Port Morris",Within 4 years,2007,Percent,0.3799,SD8
+"East Tremont, Morris Heights",Within 4 years,2007,Percent,0.47929,SD9
+Bronx,Within 6 years,2007,Percent,0.55531,36005
+Brooklyn,Within 6 years,2007,Percent,0.6156,36047
+Manhattan,Within 6 years,2007,Percent,0.69203,36061
+Queens,Within 6 years,2007,Percent,0.66769,36081
+Staten Island,Within 6 years,2007,Percent,0.74199,36085
+New York City,Within 6 years,2007,Percent,0.58469,3651000
+Lower East Side,Within 6 years,2007,Percent,0.75,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2007,Percent,0.59151,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2007,Percent,0.53927,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2007,Percent,0.525,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2007,Percent,0.83637,SD13
+"Williamsburg, Greenpoint",Within 6 years,2007,Percent,0.57757,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2007,Percent,0.6201,SD15
+Bedford Stuyvesant,Within 6 years,2007,Percent,0.51603,SD16
+Crown Heights,Within 6 years,2007,Percent,0.60597,SD17
+"East Flatbush, Canarsie",Within 6 years,2007,Percent,0.49021,SD18
+East New York,Within 6 years,2007,Percent,0.47977,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2007,Percent,0.69127,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2007,Percent,0.6218,SD20
+"Gravesend, Coney Island",Within 6 years,2007,Percent,0.64899,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2007,Percent,0.72803,SD22
+"Brownsville, Ocean Hill",Within 6 years,2007,Percent,0.40559,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2007,Percent,0.65149,SD24
+"Flushing, Whitestone",Within 6 years,2007,Percent,0.66255,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2007,Percent,0.80062,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2007,Percent,0.54562,SD27
+"Jamaica, Forest Hills",Within 6 years,2007,Percent,0.73222,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2007,Percent,0.54229,SD29
+Upper West Side,Within 6 years,2007,Percent,0.74083,SD3
+"Long Island City, Astoria",Within 6 years,2007,Percent,0.65236,SD30
+Staten Island,Within 6 years,2007,Percent,0.74778,SD31
+Bushwick,Within 6 years,2007,Percent,0.45526,SD32
+East Harlem,Within 6 years,2007,Percent,0.72216,SD4
+Central Harlem,Within 6 years,2007,Percent,0.76731,SD5
+Washington Heights,Within 6 years,2007,Percent,0.69468,SD6
+Mott Haven,Within 6 years,2007,Percent,0.60503,SD7
+"Hunts Point, Port Morris",Within 6 years,2007,Percent,0.58763,SD8
+"East Tremont, Morris Heights",Within 6 years,2007,Percent,0.43022,SD9
+Bronx,Within 4 years,2008,Percent,0.51852,36005
+Brooklyn,Within 4 years,2008,Percent,0.5504,36047
+Manhattan,Within 4 years,2008,Percent,0.58042,36061
+Queens,Within 4 years,2008,Percent,0.58328,36081
+Staten Island,Within 4 years,2008,Percent,0.6731,36085
+New York City,Within 4 years,2008,Percent,0.56411,3651000
+Lower East Side,Within 4 years,2008,Percent,0.62169,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2008,Percent,0.57846,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2008,Percent,0.57774,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2008,Percent,0.43266,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2008,Percent,0.76887,SD13
+"Williamsburg, Greenpoint",Within 4 years,2008,Percent,0.6165,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2008,Percent,0.46388,SD15
+Bedford Stuyvesant,Within 4 years,2008,Percent,0.405,SD16
+Crown Heights,Within 4 years,2008,Percent,0.59762,SD17
+"East Flatbush, Canarsie",Within 4 years,2008,Percent,0.32381,SD18
+East New York,Within 4 years,2008,Percent,0.42832,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2008,Percent,0.58401,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2008,Percent,0.56315,SD20
+"Gravesend, Coney Island",Within 4 years,2008,Percent,0.52763,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2008,Percent,0.66822,SD22
+"Brownsville, Ocean Hill",Within 4 years,2008,Percent,0.6129,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2008,Percent,0.54321,SD24
+"Flushing, Whitestone",Within 4 years,2008,Percent,0.57343,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2008,Percent,0.75223,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2008,Percent,0.42828,SD27
+"Jamaica, Forest Hills",Within 4 years,2008,Percent,0.6346,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2008,Percent,0.58586,SD29
+Upper West Side,Within 4 years,2008,Percent,0.62526,SD3
+"Long Island City, Astoria",Within 4 years,2008,Percent,0.54434,SD30
+Staten Island,Within 4 years,2008,Percent,0.67755,SD31
+Bushwick,Within 4 years,2008,Percent,0.51499,SD32
+East Harlem,Within 4 years,2008,Percent,0.63577,SD4
+Central Harlem,Within 4 years,2008,Percent,0.57196,SD5
+Washington Heights,Within 4 years,2008,Percent,0.60328,SD6
+Mott Haven,Within 4 years,2008,Percent,0.531,SD7
+"Hunts Point, Port Morris",Within 4 years,2008,Percent,0.40077,SD8
+"East Tremont, Morris Heights",Within 4 years,2008,Percent,0.60074,SD9
+Bronx,Within 6 years,2008,Percent,0.57879,36005
+Brooklyn,Within 6 years,2008,Percent,0.62947,36047
+Manhattan,Within 6 years,2008,Percent,0.68967,36061
+Queens,Within 6 years,2008,Percent,0.67233,36081
+Staten Island,Within 6 years,2008,Percent,0.74069,36085
+New York City,Within 6 years,2008,Percent,0.61826,3651000
+Lower East Side,Within 6 years,2008,Percent,0.71654,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2008,Percent,0.59878,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2008,Percent,0.58046,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2008,Percent,0.53221,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2008,Percent,0.84119,SD13
+"Williamsburg, Greenpoint",Within 6 years,2008,Percent,0.63959,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2008,Percent,0.58772,SD15
+Bedford Stuyvesant,Within 6 years,2008,Percent,0.55319,SD16
+Crown Heights,Within 6 years,2008,Percent,0.61909,SD17
+"East Flatbush, Canarsie",Within 6 years,2008,Percent,0.47403,SD18
+East New York,Within 6 years,2008,Percent,0.49661,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2008,Percent,0.69647,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2008,Percent,0.63994,SD20
+"Gravesend, Coney Island",Within 6 years,2008,Percent,0.65607,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2008,Percent,0.74596,SD22
+"Brownsville, Ocean Hill",Within 6 years,2008,Percent,0.56,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2008,Percent,0.64704,SD24
+"Flushing, Whitestone",Within 6 years,2008,Percent,0.61356,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2008,Percent,0.81318,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2008,Percent,0.57122,SD27
+"Jamaica, Forest Hills",Within 6 years,2008,Percent,0.74768,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2008,Percent,0.58175,SD29
+Upper West Side,Within 6 years,2008,Percent,0.74986,SD3
+"Long Island City, Astoria",Within 6 years,2008,Percent,0.6521,SD30
+Staten Island,Within 6 years,2008,Percent,0.74658,SD31
+Bushwick,Within 6 years,2008,Percent,0.5218,SD32
+East Harlem,Within 6 years,2008,Percent,0.74053,SD4
+Central Harlem,Within 6 years,2008,Percent,0.69471,SD5
+Washington Heights,Within 6 years,2008,Percent,0.61704,SD6
+Mott Haven,Within 6 years,2008,Percent,0.64646,SD7
+"Hunts Point, Port Morris",Within 6 years,2008,Percent,0.56331,SD8
+"East Tremont, Morris Heights",Within 6 years,2008,Percent,0.55556,SD9
+Bronx,Within 4 years,2009,Percent,0.54227,36005
+Brooklyn,Within 4 years,2009,Percent,0.56437,36047
+Manhattan,Within 4 years,2009,Percent,0.61958,36061
+Queens,Within 4 years,2009,Percent,0.60802,36081
+Staten Island,Within 4 years,2009,Percent,0.69462,36085
+New York City,Within 4 years,2009,Percent,0.58951,3651000
+Lower East Side,Within 4 years,2009,Percent,0.58916,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2009,Percent,0.60804,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2009,Percent,0.57255,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2009,Percent,0.48578,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2009,Percent,0.74286,SD13
+"Williamsburg, Greenpoint",Within 4 years,2009,Percent,0.64453,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2009,Percent,0.51618,SD15
+Bedford Stuyvesant,Within 4 years,2009,Percent,0.39094,SD16
+Crown Heights,Within 4 years,2009,Percent,0.58652,SD17
+"East Flatbush, Canarsie",Within 4 years,2009,Percent,0.34637,SD18
+East New York,Within 4 years,2009,Percent,0.47878,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2009,Percent,0.62387,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2009,Percent,0.57695,SD20
+"Gravesend, Coney Island",Within 4 years,2009,Percent,0.57809,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2009,Percent,0.68479,SD22
+"Brownsville, Ocean Hill",Within 4 years,2009,Percent,0.44,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2009,Percent,0.57698,SD24
+"Flushing, Whitestone",Within 4 years,2009,Percent,0.56388,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2009,Percent,0.76092,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2009,Percent,0.46031,SD27
+"Jamaica, Forest Hills",Within 4 years,2009,Percent,0.71446,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2009,Percent,0.61348,SD29
+Upper West Side,Within 4 years,2009,Percent,0.6519,SD3
+"Long Island City, Astoria",Within 4 years,2009,Percent,0.54015,SD30
+Staten Island,Within 4 years,2009,Percent,0.69898,SD31
+Bushwick,Within 4 years,2009,Percent,0.48223,SD32
+East Harlem,Within 4 years,2009,Percent,0.66667,SD4
+Central Harlem,Within 4 years,2009,Percent,0.63431,SD5
+Washington Heights,Within 4 years,2009,Percent,0.69663,SD6
+Mott Haven,Within 4 years,2009,Percent,0.50758,SD7
+"Hunts Point, Port Morris",Within 4 years,2009,Percent,0.41722,SD8
+"East Tremont, Morris Heights",Within 4 years,2009,Percent,0.66764,SD9
+Bronx,Within 6 years,2009,Percent,0.59835,36005
+Brooklyn,Within 6 years,2009,Percent,0.65223,36047
+Manhattan,Within 6 years,2009,Percent,0.69803,36061
+Queens,Within 6 years,2009,Percent,0.70138,36081
+Staten Island,Within 6 years,2009,Percent,0.74653,36085
+New York City,Within 6 years,2009,Percent,0.65633,3651000
+Lower East Side,Within 6 years,2009,Percent,0.73159,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2009,Percent,0.64055,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2009,Percent,0.61758,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2009,Percent,0.56216,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2009,Percent,0.8393,SD13
+"Williamsburg, Greenpoint",Within 6 years,2009,Percent,0.64585,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2009,Percent,0.63167,SD15
+Bedford Stuyvesant,Within 6 years,2009,Percent,0.49594,SD16
+Crown Heights,Within 6 years,2009,Percent,0.71727,SD17
+"East Flatbush, Canarsie",Within 6 years,2009,Percent,0.50084,SD18
+East New York,Within 6 years,2009,Percent,0.50773,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2009,Percent,0.70619,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2009,Percent,0.67221,SD20
+"Gravesend, Coney Island",Within 6 years,2009,Percent,0.66233,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2009,Percent,0.76646,SD22
+"Brownsville, Ocean Hill",Within 6 years,2009,Percent,0.56195,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2009,Percent,0.6709,SD24
+"Flushing, Whitestone",Within 6 years,2009,Percent,0.67371,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2009,Percent,0.84336,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2009,Percent,0.56342,SD27
+"Jamaica, Forest Hills",Within 6 years,2009,Percent,0.75905,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2009,Percent,0.63265,SD29
+Upper West Side,Within 6 years,2009,Percent,0.70115,SD3
+"Long Island City, Astoria",Within 6 years,2009,Percent,0.69098,SD30
+Staten Island,Within 6 years,2009,Percent,0.75113,SD31
+Bushwick,Within 6 years,2009,Percent,0.62073,SD32
+East Harlem,Within 6 years,2009,Percent,0.7557,SD4
+Central Harlem,Within 6 years,2009,Percent,0.68451,SD5
+Washington Heights,Within 6 years,2009,Percent,0.73896,SD6
+Mott Haven,Within 6 years,2009,Percent,0.64439,SD7
+"Hunts Point, Port Morris",Within 6 years,2009,Percent,0.53391,SD8
+"East Tremont, Morris Heights",Within 6 years,2009,Percent,0.62187,SD9
+Battery Park/Tribeca,Within 4 years,2010,Percent,0.77778,101
+Greenwich Village,Within 4 years,2010,Percent,0.46499,102
+Lower East Side,Within 4 years,2010,Percent,0.68731,103
+Chelsea/Clinton,Within 4 years,2010,Percent,0.64499,104
+Midtown Business District,Within 4 years,2010,Percent,0.51247,105
+Murray Hill/Stuyvesant,Within 4 years,2010,Percent,0.63305,106
+Upper West Side,Within 4 years,2010,Percent,0.67958,107
+Upper East Side,Within 4 years,2010,Percent,0.75897,108
+Manhattanville,Within 4 years,2010,Percent,0.76782,109
+Central Harlem,Within 4 years,2010,Percent,0.66755,110
+East Harlem,Within 4 years,2010,Percent,0.68635,111
+Washington Heights,Within 4 years,2010,Percent,0.68146,112
+Mott Haven,Within 4 years,2010,Percent,0.56806,201
+Hunts Point,Within 4 years,2010,Percent,0.48611,202
+Morrisania,Within 4 years,2010,Percent,0.6056,203
+Concourse/Highbridge,Within 4 years,2010,Percent,0.59939,204
+University Heights,Within 4 years,2010,Percent,0.93548,205
+East Tremont,Within 4 years,2010,Percent,0.49333,206
+Bedford Park,Within 4 years,2010,Percent,0.70921,207
+Riverdale,Within 4 years,2010,Percent,0.58956,208
+Unionport/Soundview,Within 4 years,2010,Percent,0.4675,209
+Throgs Neck,Within 4 years,2010,Percent,0.52293,210
+Pelham Parkway,Within 4 years,2010,Percent,0.57479,211
+Williamsbridge,Within 4 years,2010,Percent,0.67647,212
+Williamsburg/Greenpoint,Within 4 years,2010,Percent,0.67408,301
+Fort Greene/Brooklyn Hts,Within 4 years,2010,Percent,0.77597,302
+Bedford Stuyvesant,Within 4 years,2010,Percent,0.46474,303
+Bushwick,Within 4 years,2010,Percent,0.53553,304
+East New York,Within 4 years,2010,Percent,0.5153,305
+Park Slope,Within 4 years,2010,Percent,0.58226,306
+Sunset Park,Within 4 years,2010,Percent,0.95833,307
+Crown Heights North,Within 4 years,2010,Percent,0.56399,308
+Crown Heights South,Within 4 years,2010,Percent,0.61272,309
+Bay Ridge,Within 4 years,2010,Percent,0.682,310
+Bensonhurst,Within 4 years,2010,Percent,0.64915,311
+Borough Park,Within 4 years,2010,Percent,0.48033,312
+Coney Island,Within 4 years,2010,Percent,0.54116,313
+Flatbush/Midwood,Within 4 years,2010,Percent,0.79663,314
+Sheepshead Bay,Within 4 years,2010,Percent,0.67953,315
+Brownsville,Within 4 years,2010,Percent,0.41351,316
+East Flatbush,Within 4 years,2010,Percent,0.43725,317
+Canarsie,Within 4 years,2010,Percent,0.35618,318
+Astoria,Within 4 years,2010,Percent,0.63972,401
+Sunnyside/Woodside,Within 4 years,2010,Percent,0.71301,402
+Jackson Heights,Within 4 years,2010,Percent,0.66595,403
+Elmhurst/Corona,Within 4 years,2010,Percent,0.49569,404
+Ridgewood/Glendale,Within 4 years,2010,Percent,0.54196,405
+Rego Park/Forest Hills,Within 4 years,2010,Percent,0.84567,406
+Flushing,Within 4 years,2010,Percent,0.53708,407
+Fresh Meadows/Briarwood,Within 4 years,2010,Percent,0.68535,408
+Woodhaven,Within 4 years,2010,Percent,0.58142,409
+Howard Beach,Within 4 years,2010,Percent,0.56931,410
+Bayside,Within 4 years,2010,Percent,0.7804,411
+Jamaica/St. Albans,Within 4 years,2010,Percent,0.6989,412
+Queens Village,Within 4 years,2010,Percent,0.66126,413
+The Rockaways,Within 4 years,2010,Percent,0.54242,414
+St. George,Within 4 years,2010,Percent,0.64086,501
+South Beach,Within 4 years,2010,Percent,0.80442,502
+Tottenville,Within 4 years,2010,Percent,0.82039,503
+Bronx,Within 4 years,2010,Percent,0.54715,36005
+Brooklyn,Within 4 years,2010,Percent,0.588,36047
+Manhattan,Within 4 years,2010,Percent,0.6342,36061
+Queens,Within 4 years,2010,Percent,0.63734,36081
+Staten Island,Within 4 years,2010,Percent,0.72692,36085
+New York City,Within 4 years,2010,Percent,0.60994,3651000
+Lower East Side,Within 4 years,2010,Percent,0.60663,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2010,Percent,0.61031,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2010,Percent,0.58824,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2010,Percent,0.49814,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2010,Percent,0.74042,SD13
+"Williamsburg, Greenpoint",Within 4 years,2010,Percent,0.654,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2010,Percent,0.5,SD15
+Bedford Stuyvesant,Within 4 years,2010,Percent,0.4034,SD16
+Crown Heights,Within 4 years,2010,Percent,0.58497,SD17
+"East Flatbush, Canarsie",Within 4 years,2010,Percent,0.34953,SD18
+East New York,Within 4 years,2010,Percent,0.48422,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2010,Percent,0.64202,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2010,Percent,0.60914,SD20
+"Gravesend, Coney Island",Within 4 years,2010,Percent,0.60066,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2010,Percent,0.7304,SD22
+"Brownsville, Ocean Hill",Within 4 years,2010,Percent,0.41022,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2010,Percent,0.58455,SD24
+"Flushing, Whitestone",Within 4 years,2010,Percent,0.58592,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2010,Percent,0.74808,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2010,Percent,0.5369,SD27
+"Jamaica, Forest Hills",Within 4 years,2010,Percent,0.74014,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2010,Percent,0.60371,SD29
+Upper West Side,Within 4 years,2010,Percent,0.65602,SD3
+"Long Island City, Astoria",Within 4 years,2010,Percent,0.61912,SD30
+Staten Island,Within 4 years,2010,Percent,0.73196,SD31
+Bushwick,Within 4 years,2010,Percent,0.52697,SD32
+East Harlem,Within 4 years,2010,Percent,0.71145,SD4
+Central Harlem,Within 4 years,2010,Percent,0.61497,SD5
+Washington Heights,Within 4 years,2010,Percent,0.66358,SD6
+Mott Haven,Within 4 years,2010,Percent,0.51757,SD7
+"Hunts Point, Port Morris",Within 4 years,2010,Percent,0.43678,SD8
+"East Tremont, Morris Heights",Within 4 years,2010,Percent,0.61641,SD9
+Bronx,Within 6 years,2010,Percent,0.64399,36005
+Brooklyn,Within 6 years,2010,Percent,0.68183,36047
+Manhattan,Within 6 years,2010,Percent,0.717,36061
+Queens,Within 6 years,2010,Percent,0.71535,36081
+Staten Island,Within 6 years,2010,Percent,0.75334,36085
+New York City,Within 6 years,2010,Percent,0.69229,3651000
+Lower East Side,Within 6 years,2010,Percent,0.73316,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2010,Percent,0.69625,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2010,Percent,0.68919,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2010,Percent,0.5835,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2010,Percent,0.85489,SD13
+"Williamsburg, Greenpoint",Within 6 years,2010,Percent,0.70935,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2010,Percent,0.6425,SD15
+Bedford Stuyvesant,Within 6 years,2010,Percent,0.53155,SD16
+Crown Heights,Within 6 years,2010,Percent,0.74761,SD17
+"East Flatbush, Canarsie",Within 6 years,2010,Percent,0.4798,SD18
+East New York,Within 6 years,2010,Percent,0.56789,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2010,Percent,0.72387,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2010,Percent,0.70262,SD20
+"Gravesend, Coney Island",Within 6 years,2010,Percent,0.68638,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2010,Percent,0.77747,SD22
+"Brownsville, Ocean Hill",Within 6 years,2010,Percent,0.67123,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2010,Percent,0.7089,SD24
+"Flushing, Whitestone",Within 6 years,2010,Percent,0.71296,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2010,Percent,0.85449,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2010,Percent,0.58147,SD27
+"Jamaica, Forest Hills",Within 6 years,2010,Percent,0.75095,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2010,Percent,0.70117,SD29
+Upper West Side,Within 6 years,2010,Percent,0.74695,SD3
+"Long Island City, Astoria",Within 6 years,2010,Percent,0.69308,SD30
+Staten Island,Within 6 years,2010,Percent,0.75816,SD31
+Bushwick,Within 6 years,2010,Percent,0.62043,SD32
+East Harlem,Within 6 years,2010,Percent,0.75202,SD4
+Central Harlem,Within 6 years,2010,Percent,0.73418,SD5
+Washington Heights,Within 6 years,2010,Percent,0.73881,SD6
+Mott Haven,Within 6 years,2010,Percent,0.65392,SD7
+"Hunts Point, Port Morris",Within 6 years,2010,Percent,0.56996,SD8
+"East Tremont, Morris Heights",Within 6 years,2010,Percent,0.69597,SD9
+Battery Park/Tribeca,Within 4 years,2011,Percent,0.7803,101
+Greenwich Village,Within 4 years,2011,Percent,0.41093,102
+Lower East Side,Within 4 years,2011,Percent,0.64099,103
+Chelsea/Clinton,Within 4 years,2011,Percent,0.68831,104
+Midtown Business District,Within 4 years,2011,Percent,0.64829,105
+Murray Hill/Stuyvesant,Within 4 years,2011,Percent,0.64877,106
+Upper West Side,Within 4 years,2011,Percent,0.69828,107
+Upper East Side,Within 4 years,2011,Percent,0.76754,108
+Manhattanville,Within 4 years,2011,Percent,0.81462,109
+Central Harlem,Within 4 years,2011,Percent,0.67468,110
+East Harlem,Within 4 years,2011,Percent,0.67104,111
+Washington Heights,Within 4 years,2011,Percent,0.57576,112
+Mott Haven,Within 4 years,2011,Percent,0.56245,201
+Hunts Point,Within 4 years,2011,Percent,0.34259,202
+Morrisania,Within 4 years,2011,Percent,0.64086,203
+Concourse/Highbridge,Within 4 years,2011,Percent,0.53364,204
+University Heights,Within 4 years,2011,Percent,0.76,205
+East Tremont,Within 4 years,2011,Percent,0.57381,206
+Bedford Park,Within 4 years,2011,Percent,0.68656,207
+Riverdale,Within 4 years,2011,Percent,0.70735,208
+Unionport/Soundview,Within 4 years,2011,Percent,0.50065,209
+Throgs Neck,Within 4 years,2011,Percent,0.53195,210
+Pelham Parkway,Within 4 years,2011,Percent,0.72468,211
+Williamsbridge,Within 4 years,2011,Percent,0.61157,212
+Williamsburg/Greenpoint,Within 4 years,2011,Percent,0.64659,301
+Fort Greene/Brooklyn Hts,Within 4 years,2011,Percent,0.83753,302
+Bedford Stuyvesant,Within 4 years,2011,Percent,0.42986,303
+Bushwick,Within 4 years,2011,Percent,0.50122,304
+East New York,Within 4 years,2011,Percent,0.59877,305
+Park Slope,Within 4 years,2011,Percent,0.56441,306
+Sunset Park,Within 4 years,2011,Percent,0.98013,307
+Crown Heights North,Within 4 years,2011,Percent,0.66092,308
+Crown Heights South,Within 4 years,2011,Percent,0.5878,309
+Bay Ridge,Within 4 years,2011,Percent,0.67797,310
+Bensonhurst,Within 4 years,2011,Percent,0.68735,311
+Borough Park,Within 4 years,2011,Percent,0.50596,312
+Coney Island,Within 4 years,2011,Percent,0.56127,313
+Flatbush/Midwood,Within 4 years,2011,Percent,0.75252,314
+Sheepshead Bay,Within 4 years,2011,Percent,0.67206,315
+Brownsville,Within 4 years,2011,Percent,0.37576,316
+East Flatbush,Within 4 years,2011,Percent,0.58382,317
+Canarsie,Within 4 years,2011,Percent,0.46847,318
+Astoria,Within 4 years,2011,Percent,0.64132,401
+Sunnyside/Woodside,Within 4 years,2011,Percent,0.75,402
+Jackson Heights,Within 4 years,2011,Percent,0.6684,403
+Elmhurst/Corona,Within 4 years,2011,Percent,0.55375,404
+Ridgewood/Glendale,Within 4 years,2011,Percent,0.49172,405
+Rego Park/Forest Hills,Within 4 years,2011,Percent,0.81792,406
+Flushing,Within 4 years,2011,Percent,0.51487,407
+Fresh Meadows/Briarwood,Within 4 years,2011,Percent,0.73062,408
+Woodhaven,Within 4 years,2011,Percent,0.58108,409
+Howard Beach,Within 4 years,2011,Percent,0.57317,410
+Bayside,Within 4 years,2011,Percent,0.82176,411
+Jamaica/St. Albans,Within 4 years,2011,Percent,0.59961,412
+Queens Village,Within 4 years,2011,Percent,0.63523,413
+The Rockaways,Within 4 years,2011,Percent,0.80189,414
+St. George,Within 4 years,2011,Percent,0.63442,501
+South Beach,Within 4 years,2011,Percent,0.8072,502
+Tottenville,Within 4 years,2011,Percent,0.80578,503
+Bronx,Within 4 years,2011,Percent,0.52674,36005
+Brooklyn,Within 4 years,2011,Percent,0.59504,36047
+Manhattan,Within 4 years,2011,Percent,0.62656,36061
+Queens,Within 4 years,2011,Percent,0.64961,36081
+Staten Island,Within 4 years,2011,Percent,0.72138,36085
+New York City,Within 4 years,2011,Percent,0.60874,3651000
+Lower East Side,Within 4 years,2011,Percent,0.56876,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2011,Percent,0.59867,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2011,Percent,0.55599,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2011,Percent,0.39912,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2011,Percent,0.73441,SD13
+"Williamsburg, Greenpoint",Within 4 years,2011,Percent,0.62714,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2011,Percent,0.49021,SD15
+Bedford Stuyvesant,Within 4 years,2011,Percent,0.42014,SD16
+Crown Heights,Within 4 years,2011,Percent,0.55157,SD17
+"East Flatbush, Canarsie",Within 4 years,2011,Percent,0.43474,SD18
+East New York,Within 4 years,2011,Percent,0.54043,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2011,Percent,0.63551,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2011,Percent,0.62984,SD20
+"Gravesend, Coney Island",Within 4 years,2011,Percent,0.5997,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2011,Percent,0.72317,SD22
+"Brownsville, Ocean Hill",Within 4 years,2011,Percent,0.38343,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2011,Percent,0.61143,SD24
+"Flushing, Whitestone",Within 4 years,2011,Percent,0.60114,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2011,Percent,0.76896,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2011,Percent,0.5472,SD27
+"Jamaica, Forest Hills",Within 4 years,2011,Percent,0.70895,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2011,Percent,0.57101,SD29
+Upper West Side,Within 4 years,2011,Percent,0.62495,SD3
+"Long Island City, Astoria",Within 4 years,2011,Percent,0.62819,SD30
+Staten Island,Within 4 years,2011,Percent,0.72138,SD31
+Bushwick,Within 4 years,2011,Percent,0.47586,SD32
+East Harlem,Within 4 years,2011,Percent,0.63797,SD4
+Central Harlem,Within 4 years,2011,Percent,0.61593,SD5
+Washington Heights,Within 4 years,2011,Percent,0.61034,SD6
+Mott Haven,Within 4 years,2011,Percent,0.50127,SD7
+"Hunts Point, Port Morris",Within 4 years,2011,Percent,0.43954,SD8
+"East Tremont, Morris Heights",Within 4 years,2011,Percent,0.55984,SD9
+Bronx,Within 6 years,2011,Percent,0.6554,36005
+Brooklyn,Within 6 years,2011,Percent,0.69944,36047
+Manhattan,Within 6 years,2011,Percent,0.73949,36061
+Queens,Within 6 years,2011,Percent,0.72355,36081
+Staten Island,Within 6 years,2011,Percent,0.76374,36085
+New York City,Within 6 years,2011,Percent,0.70873,3651000
+Lower East Side,Within 6 years,2011,Percent,0.74396,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2011,Percent,0.70108,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2011,Percent,0.68458,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2011,Percent,0.63879,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2011,Percent,0.85918,SD13
+"Williamsburg, Greenpoint",Within 6 years,2011,Percent,0.74904,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2011,Percent,0.69488,SD15
+Bedford Stuyvesant,Within 6 years,2011,Percent,0.57684,SD16
+Crown Heights,Within 6 years,2011,Percent,0.73946,SD17
+"East Flatbush, Canarsie",Within 6 years,2011,Percent,0.47948,SD18
+East New York,Within 6 years,2011,Percent,0.60706,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2011,Percent,0.74657,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2011,Percent,0.7059,SD20
+"Gravesend, Coney Island",Within 6 years,2011,Percent,0.73853,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2011,Percent,0.78001,SD22
+"Brownsville, Ocean Hill",Within 6 years,2011,Percent,0.64437,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2011,Percent,0.73988,SD24
+"Flushing, Whitestone",Within 6 years,2011,Percent,0.66868,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2011,Percent,0.85559,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2011,Percent,0.59012,SD27
+"Jamaica, Forest Hills",Within 6 years,2011,Percent,0.79945,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2011,Percent,0.73325,SD29
+Upper West Side,Within 6 years,2011,Percent,0.75132,SD3
+"Long Island City, Astoria",Within 6 years,2011,Percent,0.68938,SD30
+Staten Island,Within 6 years,2011,Percent,0.76923,SD31
+Bushwick,Within 6 years,2011,Percent,0.60382,SD32
+East Harlem,Within 6 years,2011,Percent,0.77503,SD4
+Central Harlem,Within 6 years,2011,Percent,0.73333,SD5
+Washington Heights,Within 6 years,2011,Percent,0.79511,SD6
+Mott Haven,Within 6 years,2011,Percent,0.63221,SD7
+"Hunts Point, Port Morris",Within 6 years,2011,Percent,0.57613,SD8
+"East Tremont, Morris Heights",Within 6 years,2011,Percent,0.72066,SD9
+Battery Park/Tribeca,Within 4 years,2012,Percent,0.78475,101
+Greenwich Village,Within 4 years,2012,Percent,0.49905,102
+Lower East Side,Within 4 years,2012,Percent,0.63042,103
+Chelsea/Clinton,Within 4 years,2012,Percent,0.68191,104
+Midtown Business District,Within 4 years,2012,Percent,0.7049,105
+Murray Hill/Stuyvesant,Within 4 years,2012,Percent,0.65221,106
+Upper West Side,Within 4 years,2012,Percent,0.68277,107
+Upper East Side,Within 4 years,2012,Percent,0.75045,108
+Manhattanville,Within 4 years,2012,Percent,0.714,109
+Central Harlem,Within 4 years,2012,Percent,0.60567,110
+East Harlem,Within 4 years,2012,Percent,0.72642,111
+Washington Heights,Within 4 years,2012,Percent,0.60832,112
+Mott Haven,Within 4 years,2012,Percent,0.56143,201
+Hunts Point,Within 4 years,2012,Percent,0.32716,202
+Morrisania,Within 4 years,2012,Percent,0.64104,203
+Concourse/Highbridge,Within 4 years,2012,Percent,0.53325,204
+University Heights,Within 4 years,2012,Percent,0.77083,205
+East Tremont,Within 4 years,2012,Percent,0.52318,206
+Bedford Park,Within 4 years,2012,Percent,0.626,207
+Riverdale,Within 4 years,2012,Percent,0.72784,208
+Unionport/Soundview,Within 4 years,2012,Percent,0.43567,209
+Throgs Neck,Within 4 years,2012,Percent,0.53551,210
+Pelham Parkway,Within 4 years,2012,Percent,0.70264,211
+Williamsbridge,Within 4 years,2012,Percent,0.61073,212
+Williamsburg/Greenpoint,Within 4 years,2012,Percent,0.67107,301
+Fort Greene/Brooklyn Hts,Within 4 years,2012,Percent,0.81873,302
+Bedford Stuyvesant,Within 4 years,2012,Percent,0.39657,303
+Bushwick,Within 4 years,2012,Percent,0.44951,304
+East New York,Within 4 years,2012,Percent,0.56694,305
+Park Slope,Within 4 years,2012,Percent,0.6092,306
+Sunset Park,Within 4 years,2012,Percent,0.89552,307
+Crown Heights North,Within 4 years,2012,Percent,0.66176,308
+Crown Heights South,Within 4 years,2012,Percent,0.65913,309
+Bay Ridge,Within 4 years,2012,Percent,0.65833,310
+Bensonhurst,Within 4 years,2012,Percent,0.69955,311
+Borough Park,Within 4 years,2012,Percent,0.51492,312
+Coney Island,Within 4 years,2012,Percent,0.60843,313
+Flatbush/Midwood,Within 4 years,2012,Percent,0.77033,314
+Sheepshead Bay,Within 4 years,2012,Percent,0.63549,315
+Brownsville,Within 4 years,2012,Percent,0.35636,316
+East Flatbush,Within 4 years,2012,Percent,0.58678,317
+Canarsie,Within 4 years,2012,Percent,0.58744,318
+Astoria,Within 4 years,2012,Percent,0.63202,401
+Sunnyside/Woodside,Within 4 years,2012,Percent,0.74987,402
+Jackson Heights,Within 4 years,2012,Percent,0.6679,403
+Elmhurst/Corona,Within 4 years,2012,Percent,0.60667,404
+Ridgewood/Glendale,Within 4 years,2012,Percent,0.48645,405
+Rego Park/Forest Hills,Within 4 years,2012,Percent,0.82996,406
+Flushing,Within 4 years,2012,Percent,0.52321,407
+Fresh Meadows/Briarwood,Within 4 years,2012,Percent,0.71751,408
+Woodhaven,Within 4 years,2012,Percent,0.61149,409
+Howard Beach,Within 4 years,2012,Percent,0.52655,410
+Bayside,Within 4 years,2012,Percent,0.84613,411
+Jamaica/St. Albans,Within 4 years,2012,Percent,0.5591,412
+Queens Village,Within 4 years,2012,Percent,0.59339,413
+The Rockaways,Within 4 years,2012,Percent,0.80916,414
+St. George,Within 4 years,2012,Percent,0.63551,501
+South Beach,Within 4 years,2012,Percent,0.7959,502
+Tottenville,Within 4 years,2012,Percent,0.81503,503
+Bronx,Within 4 years,2012,Percent,0.50715,36005
+Brooklyn,Within 4 years,2012,Percent,0.60144,36047
+Manhattan,Within 4 years,2012,Percent,0.62772,36061
+Queens,Within 4 years,2012,Percent,0.63586,36081
+Staten Island,Within 4 years,2012,Percent,0.72006,36085
+New York City,Within 4 years,2012,Percent,0.60429,3651000
+Lower East Side,Within 4 years,2012,Percent,0.56649,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2012,Percent,0.56749,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2012,Percent,0.54439,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2012,Percent,0.38437,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2012,Percent,0.73643,SD13
+"Williamsburg, Greenpoint",Within 4 years,2012,Percent,0.64129,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2012,Percent,0.5329,SD15
+Bedford Stuyvesant,Within 4 years,2012,Percent,0.35628,SD16
+Crown Heights,Within 4 years,2012,Percent,0.58987,SD17
+"East Flatbush, Canarsie",Within 4 years,2012,Percent,0.5164,SD18
+East New York,Within 4 years,2012,Percent,0.53341,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2012,Percent,0.64184,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2012,Percent,0.61619,SD20
+"Gravesend, Coney Island",Within 4 years,2012,Percent,0.63597,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2012,Percent,0.68029,SD22
+"Brownsville, Ocean Hill",Within 4 years,2012,Percent,0.31496,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2012,Percent,0.59071,SD24
+"Flushing, Whitestone",Within 4 years,2012,Percent,0.59216,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2012,Percent,0.77591,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2012,Percent,0.52158,SD27
+"Jamaica, Forest Hills",Within 4 years,2012,Percent,0.70226,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2012,Percent,0.54343,SD29
+Upper West Side,Within 4 years,2012,Percent,0.63755,SD3
+"Long Island City, Astoria",Within 4 years,2012,Percent,0.62447,SD30
+Staten Island,Within 4 years,2012,Percent,0.72006,SD31
+Bushwick,Within 4 years,2012,Percent,0.43059,SD32
+East Harlem,Within 4 years,2012,Percent,0.68317,SD4
+Central Harlem,Within 4 years,2012,Percent,0.53988,SD5
+Washington Heights,Within 4 years,2012,Percent,0.58548,SD6
+Mott Haven,Within 4 years,2012,Percent,0.48887,SD7
+"Hunts Point, Port Morris",Within 4 years,2012,Percent,0.40261,SD8
+"East Tremont, Morris Heights",Within 4 years,2012,Percent,0.5566,SD9
+Bronx,Within 6 years,2012,Percent,0.66873,36005
+Brooklyn,Within 6 years,2012,Percent,0.72435,36047
+Manhattan,Within 6 years,2012,Percent,0.75318,36061
+Queens,Within 6 years,2012,Percent,0.75861,36081
+Staten Island,Within 6 years,2012,Percent,0.79184,36085
+New York City,Within 6 years,2012,Percent,0.73189,3651000
+Lower East Side,Within 6 years,2012,Percent,0.68571,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2012,Percent,0.71256,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2012,Percent,0.68942,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2012,Percent,0.58097,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2012,Percent,0.83673,SD13
+"Williamsburg, Greenpoint",Within 6 years,2012,Percent,0.76035,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2012,Percent,0.69438,SD15
+Bedford Stuyvesant,Within 6 years,2012,Percent,0.55486,SD16
+Crown Heights,Within 6 years,2012,Percent,0.74809,SD17
+"East Flatbush, Canarsie",Within 6 years,2012,Percent,0.51129,SD18
+East New York,Within 6 years,2012,Percent,0.65735,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2012,Percent,0.75491,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2012,Percent,0.7187,SD20
+"Gravesend, Coney Island",Within 6 years,2012,Percent,0.74291,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2012,Percent,0.82462,SD22
+"Brownsville, Ocean Hill",Within 6 years,2012,Percent,0.56628,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2012,Percent,0.7322,SD24
+"Flushing, Whitestone",Within 6 years,2012,Percent,0.70814,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2012,Percent,0.87,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2012,Percent,0.64822,SD27
+"Jamaica, Forest Hills",Within 6 years,2012,Percent,0.80789,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2012,Percent,0.72883,SD29
+Upper West Side,Within 6 years,2012,Percent,0.75445,SD3
+"Long Island City, Astoria",Within 6 years,2012,Percent,0.73234,SD30
+Staten Island,Within 6 years,2012,Percent,0.79184,SD31
+Bushwick,Within 6 years,2012,Percent,0.57566,SD32
+East Harlem,Within 6 years,2012,Percent,0.78947,SD4
+Central Harlem,Within 6 years,2012,Percent,0.74155,SD5
+Washington Heights,Within 6 years,2012,Percent,0.78006,SD6
+Mott Haven,Within 6 years,2012,Percent,0.63152,SD7
+"Hunts Point, Port Morris",Within 6 years,2012,Percent,0.60069,SD8
+"East Tremont, Morris Heights",Within 6 years,2012,Percent,0.73129,SD9
+Battery Park/Tribeca,Within 4 years,2013,Percent,0.75712,101
+Greenwich Village,Within 4 years,2013,Percent,0.53151,102
+Lower East Side,Within 4 years,2013,Percent,0.61355,103
+Chelsea/Clinton,Within 4 years,2013,Percent,0.68428,104
+Midtown Business District,Within 4 years,2013,Percent,0.68996,105
+Murray Hill/Stuyvesant,Within 4 years,2013,Percent,0.64101,106
+Upper West Side,Within 4 years,2013,Percent,0.64949,107
+Upper East Side,Within 4 years,2013,Percent,0.73724,108
+Manhattanville,Within 4 years,2013,Percent,0.70702,109
+Central Harlem,Within 4 years,2013,Percent,0.60771,110
+East Harlem,Within 4 years,2013,Percent,0.71007,111
+Washington Heights,Within 4 years,2013,Percent,0.56004,112
+Mott Haven,Within 4 years,2013,Percent,0.47978,201
+Hunts Point,Within 4 years,2013,Percent,0.35581,202
+Morrisania,Within 4 years,2013,Percent,0.58689,203
+Concourse/Highbridge,Within 4 years,2013,Percent,0.54234,204
+University Heights,Within 4 years,2013,Percent,0.80247,205
+East Tremont,Within 4 years,2013,Percent,0.5322,206
+Bedford Park,Within 4 years,2013,Percent,0.65975,207
+Riverdale,Within 4 years,2013,Percent,0.69353,208
+Unionport/Soundview,Within 4 years,2013,Percent,0.43311,209
+Throgs Neck,Within 4 years,2013,Percent,0.53862,210
+Pelham Parkway,Within 4 years,2013,Percent,0.708,211
+Williamsbridge,Within 4 years,2013,Percent,0.64339,212
+Williamsburg/Greenpoint,Within 4 years,2013,Percent,0.58591,301
+Fort Greene/Brooklyn Hts,Within 4 years,2013,Percent,0.82802,302
+Bedford Stuyvesant,Within 4 years,2013,Percent,0.42063,303
+Bushwick,Within 4 years,2013,Percent,0.49655,304
+East New York,Within 4 years,2013,Percent,0.51264,305
+Park Slope,Within 4 years,2013,Percent,0.62117,306
+Sunset Park,Within 4 years,2013,Percent,0.65461,307
+Crown Heights North,Within 4 years,2013,Percent,0.6646,308
+Crown Heights South,Within 4 years,2013,Percent,0.6558,309
+Bay Ridge,Within 4 years,2013,Percent,0.67076,310
+Bensonhurst,Within 4 years,2013,Percent,0.64809,311
+Borough Park,Within 4 years,2013,Percent,0.45322,312
+Coney Island,Within 4 years,2013,Percent,0.63821,313
+Flatbush/Midwood,Within 4 years,2013,Percent,0.74756,314
+Sheepshead Bay,Within 4 years,2013,Percent,0.62374,315
+Brownsville,Within 4 years,2013,Percent,0.34056,316
+East Flatbush,Within 4 years,2013,Percent,0.51389,317
+Canarsie,Within 4 years,2013,Percent,0.56761,318
+Astoria,Within 4 years,2013,Percent,0.64585,401
+Sunnyside/Woodside,Within 4 years,2013,Percent,0.77765,402
+Jackson Heights,Within 4 years,2013,Percent,0.66319,403
+Elmhurst/Corona,Within 4 years,2013,Percent,0.53241,404
+Ridgewood/Glendale,Within 4 years,2013,Percent,0.50997,405
+Rego Park/Forest Hills,Within 4 years,2013,Percent,0.82534,406
+Flushing,Within 4 years,2013,Percent,0.48121,407
+Fresh Meadows/Briarwood,Within 4 years,2013,Percent,0.72111,408
+Woodhaven,Within 4 years,2013,Percent,0.6179,409
+Howard Beach,Within 4 years,2013,Percent,0.50768,410
+Bayside,Within 4 years,2013,Percent,0.83719,411
+Jamaica/St. Albans,Within 4 years,2013,Percent,0.56364,412
+Queens Village,Within 4 years,2013,Percent,0.56498,413
+The Rockaways,Within 4 years,2013,Percent,0.68071,414
+St. George,Within 4 years,2013,Percent,0.6363,501
+South Beach,Within 4 years,2013,Percent,0.79836,502
+Tottenville,Within 4 years,2013,Percent,0.80175,503
+Bronx,Within 4 years,2013,Percent,0.52347,36005
+Brooklyn,Within 4 years,2013,Percent,0.60986,36047
+Manhattan,Within 4 years,2013,Percent,0.63354,36061
+Queens,Within 4 years,2013,Percent,0.63932,36081
+Staten Island,Within 4 years,2013,Percent,0.72815,36085
+New York City,Within 4 years,2013,Percent,0.61275,3651000
+Lower East Side,Within 4 years,2013,Percent,0.52685,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2013,Percent,0.58792,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2013,Percent,0.58606,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2013,Percent,0.43329,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2013,Percent,0.75888,SD13
+"Williamsburg, Greenpoint",Within 4 years,2013,Percent,0.56473,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2013,Percent,0.60508,SD15
+Bedford Stuyvesant,Within 4 years,2013,Percent,0.39402,SD16
+Crown Heights,Within 4 years,2013,Percent,0.60148,SD17
+"East Flatbush, Canarsie",Within 4 years,2013,Percent,0.50175,SD18
+East New York,Within 4 years,2013,Percent,0.51905,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2013,Percent,0.64861,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2013,Percent,0.61029,SD20
+"Gravesend, Coney Island",Within 4 years,2013,Percent,0.65618,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2013,Percent,0.6797,SD22
+"Brownsville, Ocean Hill",Within 4 years,2013,Percent,0.33882,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2013,Percent,0.56631,SD24
+"Flushing, Whitestone",Within 4 years,2013,Percent,0.58966,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2013,Percent,0.76914,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2013,Percent,0.51213,SD27
+"Jamaica, Forest Hills",Within 4 years,2013,Percent,0.73032,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2013,Percent,0.58909,SD29
+Upper West Side,Within 4 years,2013,Percent,0.65193,SD3
+"Long Island City, Astoria",Within 4 years,2013,Percent,0.64248,SD30
+Staten Island,Within 4 years,2013,Percent,0.72815,SD31
+Bushwick,Within 4 years,2013,Percent,0.47809,SD32
+East Harlem,Within 4 years,2013,Percent,0.7251,SD4
+Central Harlem,Within 4 years,2013,Percent,0.56957,SD5
+Washington Heights,Within 4 years,2013,Percent,0.56899,SD6
+Mott Haven,Within 4 years,2013,Percent,0.44973,SD7
+"Hunts Point, Port Morris",Within 4 years,2013,Percent,0.41869,SD8
+"East Tremont, Morris Heights",Within 4 years,2013,Percent,0.56144,SD9
+Bronx,Within 6 years,2013,Percent,0.66055,36005
+Brooklyn,Within 6 years,2013,Percent,0.73074,36047
+Manhattan,Within 6 years,2013,Percent,0.73945,36061
+Queens,Within 6 years,2013,Percent,0.75999,36081
+Staten Island,Within 6 years,2013,Percent,0.79544,36085
+New York City,Within 6 years,2013,Percent,0.72978,3651000
+Lower East Side,Within 6 years,2013,Percent,0.68722,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2013,Percent,0.71746,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2013,Percent,0.67211,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2013,Percent,0.55654,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2013,Percent,0.84347,SD13
+"Williamsburg, Greenpoint",Within 6 years,2013,Percent,0.76301,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2013,Percent,0.66448,SD15
+Bedford Stuyvesant,Within 6 years,2013,Percent,0.58874,SD16
+Crown Heights,Within 6 years,2013,Percent,0.71528,SD17
+"East Flatbush, Canarsie",Within 6 years,2013,Percent,0.59646,SD18
+East New York,Within 6 years,2013,Percent,0.69685,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2013,Percent,0.74728,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2013,Percent,0.73675,SD20
+"Gravesend, Coney Island",Within 6 years,2013,Percent,0.74522,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2013,Percent,0.82604,SD22
+"Brownsville, Ocean Hill",Within 6 years,2013,Percent,0.5625,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2013,Percent,0.68933,SD24
+"Flushing, Whitestone",Within 6 years,2013,Percent,0.7419,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2013,Percent,0.8691,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2013,Percent,0.69003,SD27
+"Jamaica, Forest Hills",Within 6 years,2013,Percent,0.80126,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2013,Percent,0.72069,SD29
+Upper West Side,Within 6 years,2013,Percent,0.72616,SD3
+"Long Island City, Astoria",Within 6 years,2013,Percent,0.74366,SD30
+Staten Island,Within 6 years,2013,Percent,0.79544,SD31
+Bushwick,Within 6 years,2013,Percent,0.58315,SD32
+East Harlem,Within 6 years,2013,Percent,0.72941,SD4
+Central Harlem,Within 6 years,2013,Percent,0.73962,SD5
+Washington Heights,Within 6 years,2013,Percent,0.76353,SD6
+Mott Haven,Within 6 years,2013,Percent,0.64488,SD7
+"Hunts Point, Port Morris",Within 6 years,2013,Percent,0.59668,SD8
+"East Tremont, Morris Heights",Within 6 years,2013,Percent,0.69434,SD9
+Battery Park/Tribeca,Within 4 years,2014,Percent,0.76828,101
+Greenwich Village,Within 4 years,2014,Percent,0.50664,102
+Lower East Side,Within 4 years,2014,Percent,0.6058,103
+Chelsea/Clinton,Within 4 years,2014,Percent,0.71326,104
+Midtown Business District,Within 4 years,2014,Percent,0.70642,105
+Murray Hill/Stuyvesant,Within 4 years,2014,Percent,0.64942,106
+Upper West Side,Within 4 years,2014,Percent,0.7241,107
+Upper East Side,Within 4 years,2014,Percent,0.79472,108
+Manhattanville,Within 4 years,2014,Percent,0.76102,109
+Central Harlem,Within 4 years,2014,Percent,0.58333,110
+East Harlem,Within 4 years,2014,Percent,0.73733,111
+Washington Heights,Within 4 years,2014,Percent,0.599,112
+Mott Haven,Within 4 years,2014,Percent,0.49066,201
+Hunts Point,Within 4 years,2014,Percent,0.33844,202
+Morrisania,Within 4 years,2014,Percent,0.59803,203
+Concourse/Highbridge,Within 4 years,2014,Percent,0.56024,204
+University Heights,Within 4 years,2014,Percent,0.81818,205
+East Tremont,Within 4 years,2014,Percent,0.56713,206
+Bedford Park,Within 4 years,2014,Percent,0.65829,207
+Riverdale,Within 4 years,2014,Percent,0.6977,208
+Unionport/Soundview,Within 4 years,2014,Percent,0.50694,209
+Throgs Neck,Within 4 years,2014,Percent,0.56691,210
+Pelham Parkway,Within 4 years,2014,Percent,0.69526,211
+Williamsbridge,Within 4 years,2014,Percent,0.6568,212
+Williamsburg/Greenpoint,Within 4 years,2014,Percent,0.63788,301
+Fort Greene/Brooklyn Hts,Within 4 years,2014,Percent,0.82737,302
+Bedford Stuyvesant,Within 4 years,2014,Percent,0.45145,303
+Bushwick,Within 4 years,2014,Percent,0.50363,304
+East New York,Within 4 years,2014,Percent,0.51798,305
+Park Slope,Within 4 years,2014,Percent,0.62058,306
+Sunset Park,Within 4 years,2014,Percent,0.76157,307
+Crown Heights North,Within 4 years,2014,Percent,0.62319,308
+Crown Heights South,Within 4 years,2014,Percent,0.69496,309
+Bay Ridge,Within 4 years,2014,Percent,0.67543,310
+Bensonhurst,Within 4 years,2014,Percent,0.69231,311
+Borough Park,Within 4 years,2014,Percent,0.51563,312
+Coney Island,Within 4 years,2014,Percent,0.66667,313
+Flatbush/Midwood,Within 4 years,2014,Percent,0.79749,314
+Sheepshead Bay,Within 4 years,2014,Percent,0.64856,315
+Brownsville,Within 4 years,2014,Percent,0.36364,316
+East Flatbush,Within 4 years,2014,Percent,0.59777,317
+Canarsie,Within 4 years,2014,Percent,0.56988,318
+Astoria,Within 4 years,2014,Percent,0.66623,401
+Sunnyside/Woodside,Within 4 years,2014,Percent,0.80203,402
+Jackson Heights,Within 4 years,2014,Percent,0.6931,403
+Elmhurst/Corona,Within 4 years,2014,Percent,0.58774,404
+Ridgewood/Glendale,Within 4 years,2014,Percent,0.51546,405
+Rego Park/Forest Hills,Within 4 years,2014,Percent,0.82919,406
+Flushing,Within 4 years,2014,Percent,0.51695,407
+Fresh Meadows/Briarwood,Within 4 years,2014,Percent,0.73102,408
+Woodhaven,Within 4 years,2014,Percent,0.61812,409
+Howard Beach,Within 4 years,2014,Percent,0.57247,410
+Bayside,Within 4 years,2014,Percent,0.82736,411
+Jamaica/St. Albans,Within 4 years,2014,Percent,0.57985,412
+Queens Village,Within 4 years,2014,Percent,0.59868,413
+The Rockaways,Within 4 years,2014,Percent,0.69779,414
+St. George,Within 4 years,2014,Percent,0.6869,501
+South Beach,Within 4 years,2014,Percent,0.82395,502
+Tottenville,Within 4 years,2014,Percent,0.8359,503
+Bronx,Within 4 years,2014,Percent,0.54684,36005
+Brooklyn,Within 4 years,2014,Percent,0.63806,36047
+Manhattan,Within 4 years,2014,Percent,0.66622,36061
+Queens,Within 4 years,2014,Percent,0.66526,36081
+Staten Island,Within 4 years,2014,Percent,0.7633,36085
+New York City,Within 4 years,2014,Percent,0.6415,3651000
+Lower East Side,Within 4 years,2014,Percent,0.51087,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2014,Percent,0.60228,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2014,Percent,0.62363,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2014,Percent,0.4916,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2014,Percent,0.77344,SD13
+"Williamsburg, Greenpoint",Within 4 years,2014,Percent,0.62009,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2014,Percent,0.57865,SD15
+Bedford Stuyvesant,Within 4 years,2014,Percent,0.39658,SD16
+Crown Heights,Within 4 years,2014,Percent,0.65151,SD17
+"East Flatbush, Canarsie",Within 4 years,2014,Percent,0.53526,SD18
+East New York,Within 4 years,2014,Percent,0.51777,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2014,Percent,0.68286,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2014,Percent,0.63093,SD20
+"Gravesend, Coney Island",Within 4 years,2014,Percent,0.6938,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2014,Percent,0.72696,SD22
+"Brownsville, Ocean Hill",Within 4 years,2014,Percent,0.36295,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2014,Percent,0.60227,SD24
+"Flushing, Whitestone",Within 4 years,2014,Percent,0.61364,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2014,Percent,0.76742,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2014,Percent,0.55524,SD27
+"Jamaica, Forest Hills",Within 4 years,2014,Percent,0.75768,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2014,Percent,0.62406,SD29
+Upper West Side,Within 4 years,2014,Percent,0.71262,SD3
+"Long Island City, Astoria",Within 4 years,2014,Percent,0.66082,SD30
+Staten Island,Within 4 years,2014,Percent,0.7633,SD31
+Bushwick,Within 4 years,2014,Percent,0.47874,SD32
+East Harlem,Within 4 years,2014,Percent,0.7593,SD4
+Central Harlem,Within 4 years,2014,Percent,0.59174,SD5
+Washington Heights,Within 4 years,2014,Percent,0.59579,SD6
+Mott Haven,Within 4 years,2014,Percent,0.48345,SD7
+"Hunts Point, Port Morris",Within 4 years,2014,Percent,0.44886,SD8
+"East Tremont, Morris Heights",Within 4 years,2014,Percent,0.55639,SD9
+Bronx,Within 6 years,2014,Percent,0.6456,36005
+Brooklyn,Within 6 years,2014,Percent,0.73455,36047
+Manhattan,Within 6 years,2014,Percent,0.74234,36061
+Queens,Within 6 years,2014,Percent,0.74993,36081
+Staten Island,Within 6 years,2014,Percent,0.79822,36085
+New York City,Within 6 years,2014,Percent,0.72665,3651000
+Lower East Side,Within 6 years,2014,Percent,0.67498,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2014,Percent,0.70059,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2014,Percent,0.66306,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2014,Percent,0.55215,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2014,Percent,0.84645,SD13
+"Williamsburg, Greenpoint",Within 6 years,2014,Percent,0.76525,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2014,Percent,0.68306,SD15
+Bedford Stuyvesant,Within 6 years,2014,Percent,0.51942,SD16
+Crown Heights,Within 6 years,2014,Percent,0.72929,SD17
+"East Flatbush, Canarsie",Within 6 years,2014,Percent,0.67866,SD18
+East New York,Within 6 years,2014,Percent,0.66787,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2014,Percent,0.75579,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2014,Percent,0.74205,SD20
+"Gravesend, Coney Island",Within 6 years,2014,Percent,0.76753,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2014,Percent,0.79127,SD22
+"Brownsville, Ocean Hill",Within 6 years,2014,Percent,0.55022,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2014,Percent,0.6981,SD24
+"Flushing, Whitestone",Within 6 years,2014,Percent,0.71367,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2014,Percent,0.86697,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2014,Percent,0.67576,SD27
+"Jamaica, Forest Hills",Within 6 years,2014,Percent,0.79378,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2014,Percent,0.69157,SD29
+Upper West Side,Within 6 years,2014,Percent,0.73872,SD3
+"Long Island City, Astoria",Within 6 years,2014,Percent,0.74338,SD30
+Staten Island,Within 6 years,2014,Percent,0.79822,SD31
+Bushwick,Within 6 years,2014,Percent,0.57858,SD32
+East Harlem,Within 6 years,2014,Percent,0.77287,SD4
+Central Harlem,Within 6 years,2014,Percent,0.69142,SD5
+Washington Heights,Within 6 years,2014,Percent,0.72636,SD6
+Mott Haven,Within 6 years,2014,Percent,0.63014,SD7
+"Hunts Point, Port Morris",Within 6 years,2014,Percent,0.56963,SD8
+"East Tremont, Morris Heights",Within 6 years,2014,Percent,0.67163,SD9
+Battery Park/Tribeca,Within 4 years,2015,Percent,0.78193,101
+Greenwich Village,Within 4 years,2015,Percent,0.58584,102
+Lower East Side,Within 4 years,2015,Percent,0.66528,103
+Chelsea/Clinton,Within 4 years,2015,Percent,0.72911,104
+Midtown Business District,Within 4 years,2015,Percent,0.70789,105
+Murray Hill/Stuyvesant,Within 4 years,2015,Percent,0.69655,106
+Upper West Side,Within 4 years,2015,Percent,0.73224,107
+Upper East Side,Within 4 years,2015,Percent,0.81132,108
+Manhattanville,Within 4 years,2015,Percent,0.81667,109
+Central Harlem,Within 4 years,2015,Percent,0.59942,110
+East Harlem,Within 4 years,2015,Percent,0.76641,111
+Washington Heights,Within 4 years,2015,Percent,0.59457,112
+Mott Haven,Within 4 years,2015,Percent,0.52265,201
+Hunts Point,Within 4 years,2015,Percent,0.37217,202
+Morrisania,Within 4 years,2015,Percent,0.64255,203
+Concourse/Highbridge,Within 4 years,2015,Percent,0.61591,204
+University Heights,Within 4 years,2015,Percent,0.82927,205
+East Tremont,Within 4 years,2015,Percent,0.5696,206
+Bedford Park,Within 4 years,2015,Percent,0.67624,207
+Riverdale,Within 4 years,2015,Percent,0.70781,208
+Unionport/Soundview,Within 4 years,2015,Percent,0.55792,209
+Throgs Neck,Within 4 years,2015,Percent,0.51641,210
+Pelham Parkway,Within 4 years,2015,Percent,0.71593,211
+Williamsbridge,Within 4 years,2015,Percent,0.65805,212
+Williamsburg/Greenpoint,Within 4 years,2015,Percent,0.7107,301
+Fort Greene/Brooklyn Hts,Within 4 years,2015,Percent,0.85059,302
+Bedford Stuyvesant,Within 4 years,2015,Percent,0.48729,303
+Bushwick,Within 4 years,2015,Percent,0.55956,304
+East New York,Within 4 years,2015,Percent,0.56654,305
+Park Slope,Within 4 years,2015,Percent,0.71791,306
+Sunset Park,Within 4 years,2015,Percent,0.74468,307
+Crown Heights North,Within 4 years,2015,Percent,0.55183,308
+Crown Heights South,Within 4 years,2015,Percent,0.7004,309
+Bay Ridge,Within 4 years,2015,Percent,0.74773,310
+Bensonhurst,Within 4 years,2015,Percent,0.72459,311
+Borough Park,Within 4 years,2015,Percent,0.5593,312
+Coney Island,Within 4 years,2015,Percent,0.64607,313
+Flatbush/Midwood,Within 4 years,2015,Percent,0.80901,314
+Sheepshead Bay,Within 4 years,2015,Percent,0.70956,315
+Brownsville,Within 4 years,2015,Percent,0.40924,316
+East Flatbush,Within 4 years,2015,Percent,0.61538,317
+Canarsie,Within 4 years,2015,Percent,0.63297,318
+Astoria,Within 4 years,2015,Percent,0.72533,401
+Sunnyside/Woodside,Within 4 years,2015,Percent,0.82183,402
+Elmhurst/Corona,Within 4 years,2015,Percent,0.66055,404
+Ridgewood/Glendale,Within 4 years,2015,Percent,0.73145,405
+Rego Park/Forest Hills,Within 4 years,2015,Percent,0.86263,406
+Flushing,Within 4 years,2015,Percent,0.53321,407
+Fresh Meadows/Briarwood,Within 4 years,2015,Percent,0.76481,408
+Woodhaven,Within 4 years,2015,Percent,0.6433,409
+Howard Beach,Within 4 years,2015,Percent,0.64194,410
+Bayside,Within 4 years,2015,Percent,0.85672,411
+Jamaica/St. Albans,Within 4 years,2015,Percent,0.59857,412
+Queens Village,Within 4 years,2015,Percent,0.65432,413
+The Rockaways,Within 4 years,2015,Percent,0.64129,414
+St. George,Within 4 years,2015,Percent,0.6498,501
+South Beach,Within 4 years,2015,Percent,0.81108,502
+Tottenville,Within 4 years,2015,Percent,0.86354,503
+Bronx,Within 4 years,2015,Percent,0.58299,36005
+Brooklyn,Within 4 years,2015,Percent,0.66988,36047
+Manhattan,Within 4 years,2015,Percent,0.69232,36061
+Queens,Within 4 years,2015,Percent,0.70516,36081
+Staten Island,Within 4 years,2015,Percent,0.75697,36085
+New York City,Within 4 years,2015,Percent,0.67236,3651000
+Lower East Side,Within 4 years,2015,Percent,0.57535,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2015,Percent,0.6405,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2015,Percent,0.64746,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2015,Percent,0.55778,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2015,Percent,0.77934,SD13
+"Williamsburg, Greenpoint",Within 4 years,2015,Percent,0.6864,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2015,Percent,0.63868,SD15
+Bedford Stuyvesant,Within 4 years,2015,Percent,0.48785,SD16
+Crown Heights,Within 4 years,2015,Percent,0.65617,SD17
+"East Flatbush, Canarsie",Within 4 years,2015,Percent,0.5807,SD18
+East New York,Within 4 years,2015,Percent,0.55069,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2015,Percent,0.71122,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2015,Percent,0.68387,SD20
+"Gravesend, Coney Island",Within 4 years,2015,Percent,0.68889,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2015,Percent,0.77099,SD22
+"Brownsville, Ocean Hill",Within 4 years,2015,Percent,0.40034,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2015,Percent,0.68166,SD24
+"Flushing, Whitestone",Within 4 years,2015,Percent,0.65491,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2015,Percent,0.80412,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2015,Percent,0.579,SD27
+"Jamaica, Forest Hills",Within 4 years,2015,Percent,0.78108,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2015,Percent,0.63463,SD29
+Upper West Side,Within 4 years,2015,Percent,0.72866,SD3
+"Long Island City, Astoria",Within 4 years,2015,Percent,0.72022,SD30
+Staten Island,Within 4 years,2015,Percent,0.75697,SD31
+Bushwick,Within 4 years,2015,Percent,0.53523,SD32
+East Harlem,Within 4 years,2015,Percent,0.77882,SD4
+Central Harlem,Within 4 years,2015,Percent,0.61776,SD5
+Washington Heights,Within 4 years,2015,Percent,0.59564,SD6
+Mott Haven,Within 4 years,2015,Percent,0.51704,SD7
+"Hunts Point, Port Morris",Within 4 years,2015,Percent,0.43229,SD8
+"East Tremont, Morris Heights",Within 4 years,2015,Percent,0.61752,SD9
+Bronx,Within 6 years,2015,Percent,0.67362,36005
+Brooklyn,Within 6 years,2015,Percent,0.75565,36047
+Manhattan,Within 6 years,2015,Percent,0.76177,36061
+Queens,Within 6 years,2015,Percent,0.76589,36081
+Staten Island,Within 6 years,2015,Percent,0.81354,36085
+New York City,Within 6 years,2015,Percent,0.74731,3651000
+Lower East Side,Within 6 years,2015,Percent,0.6853,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2015,Percent,0.72351,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2015,Percent,0.71986,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2015,Percent,0.59438,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2015,Percent,0.85067,SD13
+"Williamsburg, Greenpoint",Within 6 years,2015,Percent,0.72988,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2015,Percent,0.75381,SD15
+Bedford Stuyvesant,Within 6 years,2015,Percent,0.59198,SD16
+Crown Heights,Within 6 years,2015,Percent,0.75647,SD17
+"East Flatbush, Canarsie",Within 6 years,2015,Percent,0.68416,SD18
+East New York,Within 6 years,2015,Percent,0.70691,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2015,Percent,0.76811,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2015,Percent,0.74442,SD20
+"Gravesend, Coney Island",Within 6 years,2015,Percent,0.7905,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2015,Percent,0.81459,SD22
+"Brownsville, Ocean Hill",Within 6 years,2015,Percent,0.55951,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2015,Percent,0.67301,SD24
+"Flushing, Whitestone",Within 6 years,2015,Percent,0.74931,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2015,Percent,0.86815,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2015,Percent,0.68183,SD27
+"Jamaica, Forest Hills",Within 6 years,2015,Percent,0.83054,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2015,Percent,0.74427,SD29
+Upper West Side,Within 6 years,2015,Percent,0.77204,SD3
+"Long Island City, Astoria",Within 6 years,2015,Percent,0.78322,SD30
+Staten Island,Within 6 years,2015,Percent,0.81354,SD31
+Bushwick,Within 6 years,2015,Percent,0.65955,SD32
+East Harlem,Within 6 years,2015,Percent,0.81485,SD4
+Central Harlem,Within 6 years,2015,Percent,0.73143,SD5
+Washington Heights,Within 6 years,2015,Percent,0.74787,SD6
+Mott Haven,Within 6 years,2015,Percent,0.63811,SD7
+"Hunts Point, Port Morris",Within 6 years,2015,Percent,0.59413,SD8
+"East Tremont, Morris Heights",Within 6 years,2015,Percent,0.69513,SD9
+Battery Park/Tribeca,Within 4 years,2016,Percent,0.82573,101
+Greenwich Village,Within 4 years,2016,Percent,0.62867,102
+Lower East Side,Within 4 years,2016,Percent,0.68913,103
+Chelsea/Clinton,Within 4 years,2016,Percent,0.77752,104
+Midtown Business District,Within 4 years,2016,Percent,0.71077,105
+Murray Hill/Stuyvesant,Within 4 years,2016,Percent,0.71719,106
+Upper West Side,Within 4 years,2016,Percent,0.74555,107
+Upper East Side,Within 4 years,2016,Percent,0.78974,108
+Manhattanville,Within 4 years,2016,Percent,0.77439,109
+Central Harlem,Within 4 years,2016,Percent,0.67227,110
+East Harlem,Within 4 years,2016,Percent,0.75492,111
+Washington Heights,Within 4 years,2016,Percent,0.62564,112
+Mott Haven,Within 4 years,2016,Percent,0.57018,201
+Hunts Point,Within 4 years,2016,Percent,0.33776,202
+Morrisania,Within 4 years,2016,Percent,0.66893,203
+Concourse/Highbridge,Within 4 years,2016,Percent,0.67177,204
+University Heights,Within 4 years,2016,Percent,0.84106,205
+East Tremont,Within 4 years,2016,Percent,0.66725,206
+Bedford Park,Within 4 years,2016,Percent,0.70933,207
+Riverdale,Within 4 years,2016,Percent,0.74441,208
+Unionport/Soundview,Within 4 years,2016,Percent,0.54934,209
+Throgs Neck,Within 4 years,2016,Percent,0.61896,210
+Pelham Parkway,Within 4 years,2016,Percent,0.72955,211
+Williamsbridge,Within 4 years,2016,Percent,0.66775,212
+Williamsburg/Greenpoint,Within 4 years,2016,Percent,0.74246,301
+Fort Greene/Brooklyn Hts,Within 4 years,2016,Percent,0.8684,302
+Bedford Stuyvesant,Within 4 years,2016,Percent,0.48157,303
+Bushwick,Within 4 years,2016,Percent,0.65064,304
+East New York,Within 4 years,2016,Percent,0.63614,305
+Park Slope,Within 4 years,2016,Percent,0.7433,306
+Sunset Park,Within 4 years,2016,Percent,0.7413,307
+Crown Heights North,Within 4 years,2016,Percent,0.65495,308
+Crown Heights South,Within 4 years,2016,Percent,0.73672,309
+Bay Ridge,Within 4 years,2016,Percent,0.74945,310
+Bensonhurst,Within 4 years,2016,Percent,0.71091,311
+Borough Park,Within 4 years,2016,Percent,0.56284,312
+Coney Island,Within 4 years,2016,Percent,0.65558,313
+Flatbush/Midwood,Within 4 years,2016,Percent,0.80946,314
+Sheepshead Bay,Within 4 years,2016,Percent,0.74476,315
+Brownsville,Within 4 years,2016,Percent,0.39307,316
+East Flatbush,Within 4 years,2016,Percent,0.62356,317
+Canarsie,Within 4 years,2016,Percent,0.61433,318
+Astoria,Within 4 years,2016,Percent,0.74209,401
+Sunnyside/Woodside,Within 4 years,2016,Percent,0.84859,402
+Elmhurst/Corona,Within 4 years,2016,Percent,0.70311,404
+Ridgewood/Glendale,Within 4 years,2016,Percent,0.7424,405
+Rego Park/Forest Hills,Within 4 years,2016,Percent,0.86138,406
+Flushing,Within 4 years,2016,Percent,0.54398,407
+Fresh Meadows/Briarwood,Within 4 years,2016,Percent,0.77643,408
+Woodhaven,Within 4 years,2016,Percent,0.69462,409
+Howard Beach,Within 4 years,2016,Percent,0.65525,410
+Bayside,Within 4 years,2016,Percent,0.86866,411
+Jamaica/St. Albans,Within 4 years,2016,Percent,0.63831,412
+Queens Village,Within 4 years,2016,Percent,0.73431,413
+The Rockaways,Within 4 years,2016,Percent,0.73662,414
+St. George,Within 4 years,2016,Percent,0.63025,501
+South Beach,Within 4 years,2016,Percent,0.85459,502
+Tottenville,Within 4 years,2016,Percent,0.85832,503
+Bronx,Within 4 years,2016,Percent,0.6201,36005
+Brooklyn,Within 4 years,2016,Percent,0.69183,36047
+Manhattan,Within 4 years,2016,Percent,0.71912,36061
+Queens,Within 4 years,2016,Percent,0.73203,36081
+Staten Island,Within 4 years,2016,Percent,0.77619,36085
+New York City,Within 4 years,2016,Percent,0.69986,3651000
+Lower East Side,Within 4 years,2016,Percent,0.5884,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2016,Percent,0.69326,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2016,Percent,0.662,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2016,Percent,0.53878,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2016,Percent,0.82115,SD13
+"Williamsburg, Greenpoint",Within 4 years,2016,Percent,0.71944,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2016,Percent,0.65244,SD15
+Bedford Stuyvesant,Within 4 years,2016,Percent,0.464,SD16
+Crown Heights,Within 4 years,2016,Percent,0.67739,SD17
+"East Flatbush, Canarsie",Within 4 years,2016,Percent,0.56623,SD18
+East New York,Within 4 years,2016,Percent,0.63094,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2016,Percent,0.74098,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2016,Percent,0.68224,SD20
+"Gravesend, Coney Island",Within 4 years,2016,Percent,0.69304,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2016,Percent,0.78925,SD22
+"Brownsville, Ocean Hill",Within 4 years,2016,Percent,0.39516,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2016,Percent,0.70923,SD24
+"Flushing, Whitestone",Within 4 years,2016,Percent,0.67015,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2016,Percent,0.83204,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2016,Percent,0.63094,SD27
+"Jamaica, Forest Hills",Within 4 years,2016,Percent,0.78947,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2016,Percent,0.68169,SD29
+Upper West Side,Within 4 years,2016,Percent,0.75798,SD3
+"Long Island City, Astoria",Within 4 years,2016,Percent,0.73142,SD30
+Staten Island,Within 4 years,2016,Percent,0.77619,SD31
+Bushwick,Within 4 years,2016,Percent,0.62595,SD32
+East Harlem,Within 4 years,2016,Percent,0.79095,SD4
+Central Harlem,Within 4 years,2016,Percent,0.63765,SD5
+Washington Heights,Within 4 years,2016,Percent,0.6224,SD6
+Mott Haven,Within 4 years,2016,Percent,0.56723,SD7
+"Hunts Point, Port Morris",Within 4 years,2016,Percent,0.50157,SD8
+"East Tremont, Morris Heights",Within 4 years,2016,Percent,0.64635,SD9
+Bronx,Within 6 years,2016,Percent,0.68508,36005
+Brooklyn,Within 6 years,2016,Percent,0.77672,36047
+Manhattan,Within 6 years,2016,Percent,0.78179,36061
+Queens,Within 6 years,2016,Percent,0.78269,36081
+Staten Island,Within 6 years,2016,Percent,0.83726,36085
+New York City,Within 6 years,2016,Percent,0.76585,3651000
+Lower East Side,Within 6 years,2016,Percent,0.62228,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2016,Percent,0.71717,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2016,Percent,0.71543,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2016,Percent,0.64885,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2016,Percent,0.88816,SD13
+"Williamsburg, Greenpoint",Within 6 years,2016,Percent,0.76162,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2016,Percent,0.72325,SD15
+Bedford Stuyvesant,Within 6 years,2016,Percent,0.56875,SD16
+Crown Heights,Within 6 years,2016,Percent,0.78324,SD17
+"East Flatbush, Canarsie",Within 6 years,2016,Percent,0.72951,SD18
+East New York,Within 6 years,2016,Percent,0.70567,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2016,Percent,0.79413,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2016,Percent,0.76887,SD20
+"Gravesend, Coney Island",Within 6 years,2016,Percent,0.81531,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2016,Percent,0.83416,SD22
+"Brownsville, Ocean Hill",Within 6 years,2016,Percent,0.58854,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2016,Percent,0.70415,SD24
+"Flushing, Whitestone",Within 6 years,2016,Percent,0.75767,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2016,Percent,0.87389,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2016,Percent,0.70223,SD27
+"Jamaica, Forest Hills",Within 6 years,2016,Percent,0.84954,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2016,Percent,0.77273,SD29
+Upper West Side,Within 6 years,2016,Percent,0.808,SD3
+"Long Island City, Astoria",Within 6 years,2016,Percent,0.78309,SD30
+Staten Island,Within 6 years,2016,Percent,0.83726,SD31
+Bushwick,Within 6 years,2016,Percent,0.64987,SD32
+East Harlem,Within 6 years,2016,Percent,0.85603,SD4
+Central Harlem,Within 6 years,2016,Percent,0.74322,SD5
+Washington Heights,Within 6 years,2016,Percent,0.76713,SD6
+Mott Haven,Within 6 years,2016,Percent,0.65527,SD7
+"Hunts Point, Port Morris",Within 6 years,2016,Percent,0.61901,SD8
+"East Tremont, Morris Heights",Within 6 years,2016,Percent,0.71304,SD9
+Bronx,Within 4 years,2017,Percent,0.62913,36005
+Brooklyn,Within 4 years,2017,Percent,0.70681,36047
+Manhattan,Within 4 years,2017,Percent,0.71963,36061
+Queens,Within 4 years,2017,Percent,0.74847,36081
+Staten Island,Within 4 years,2017,Percent,0.78752,36085
+New York City,Within 4 years,2017,Percent,0.71108,3651000
+Lower East Side,Within 4 years,2017,Percent,0.58773,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2017,Percent,0.70581,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2017,Percent,0.67537,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2017,Percent,0.5399,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2017,Percent,0.82677,SD13
+"Williamsburg, Greenpoint",Within 4 years,2017,Percent,0.75793,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2017,Percent,0.65959,SD15
+Bedford Stuyvesant,Within 4 years,2017,Percent,0.50787,SD16
+Crown Heights,Within 4 years,2017,Percent,0.70313,SD17
+"East Flatbush, Canarsie",Within 4 years,2017,Percent,0.61794,SD18
+East New York,Within 4 years,2017,Percent,0.6112,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2017,Percent,0.73195,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2017,Percent,0.7065,SD20
+"Gravesend, Coney Island",Within 4 years,2017,Percent,0.70311,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2017,Percent,0.80525,SD22
+"Brownsville, Ocean Hill",Within 4 years,2017,Percent,0.40266,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2017,Percent,0.72008,SD24
+"Flushing, Whitestone",Within 4 years,2017,Percent,0.6659,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2017,Percent,0.85565,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2017,Percent,0.67968,SD27
+"Jamaica, Forest Hills",Within 4 years,2017,Percent,0.78705,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2017,Percent,0.69004,SD29
+Upper West Side,Within 4 years,2017,Percent,0.76267,SD3
+"Long Island City, Astoria",Within 4 years,2017,Percent,0.77177,SD30
+Staten Island,Within 4 years,2017,Percent,0.78752,SD31
+Bushwick,Within 4 years,2017,Percent,0.64286,SD32
+East Harlem,Within 4 years,2017,Percent,0.84275,SD4
+Central Harlem,Within 4 years,2017,Percent,0.657,SD5
+Washington Heights,Within 4 years,2017,Percent,0.62047,SD6
+Mott Haven,Within 4 years,2017,Percent,0.5654,SD7
+"Hunts Point, Port Morris",Within 4 years,2017,Percent,0.52303,SD8
+"East Tremont, Morris Heights",Within 4 years,2017,Percent,0.66076,SD9
+Bronx,Within 6 years,2017,Percent,0.69791,36005
+Brooklyn,Within 6 years,2017,Percent,0.78895,36047
+Manhattan,Within 6 years,2017,Percent,0.79427,36061
+Queens,Within 6 years,2017,Percent,0.79809,36081
+Staten Island,Within 6 years,2017,Percent,0.82706,36085
+New York City,Within 6 years,2017,Percent,0.77731,3651000
+Lower East Side,Within 6 years,2017,Percent,0.68542,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2017,Percent,0.74189,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2017,Percent,0.73501,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2017,Percent,0.66128,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2017,Percent,0.87513,SD13
+"Williamsburg, Greenpoint",Within 6 years,2017,Percent,0.7856,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2017,Percent,0.73518,SD15
+Bedford Stuyvesant,Within 6 years,2017,Percent,0.5959,SD16
+Crown Heights,Within 6 years,2017,Percent,0.80285,SD17
+"East Flatbush, Canarsie",Within 6 years,2017,Percent,0.75212,SD18
+East New York,Within 6 years,2017,Percent,0.71863,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2017,Percent,0.80887,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2017,Percent,0.7989,SD20
+"Gravesend, Coney Island",Within 6 years,2017,Percent,0.81219,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2017,Percent,0.85612,SD22
+"Brownsville, Ocean Hill",Within 6 years,2017,Percent,0.61224,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2017,Percent,0.74362,SD24
+"Flushing, Whitestone",Within 6 years,2017,Percent,0.75775,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2017,Percent,0.89314,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2017,Percent,0.70704,SD27
+"Jamaica, Forest Hills",Within 6 years,2017,Percent,0.8667,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2017,Percent,0.77691,SD29
+Upper West Side,Within 6 years,2017,Percent,0.82093,SD3
+"Long Island City, Astoria",Within 6 years,2017,Percent,0.80572,SD30
+Staten Island,Within 6 years,2017,Percent,0.82706,SD31
+Bushwick,Within 6 years,2017,Percent,0.6411,SD32
+East Harlem,Within 6 years,2017,Percent,0.84906,SD4
+Central Harlem,Within 6 years,2017,Percent,0.73193,SD5
+Washington Heights,Within 6 years,2017,Percent,0.75248,SD6
+Mott Haven,Within 6 years,2017,Percent,0.65886,SD7
+"Hunts Point, Port Morris",Within 6 years,2017,Percent,0.59295,SD8
+"East Tremont, Morris Heights",Within 6 years,2017,Percent,0.73436,SD9
+Battery Park/Tribeca,Within 4 years,2018,Percent,0.89,101
+Greenwich Village,Within 4 years,2018,Percent,0.64,102
+Lower East Side,Within 4 years,2018,Percent,0.72,103
+Chelsea/Clinton,Within 4 years,2018,Percent,0.77,104
+Midtown Business District,Within 4 years,2018,Percent,0.75,105
+Murray Hill/Stuyvesant,Within 4 years,2018,Percent,0.73,106
+Upper West Side,Within 4 years,2018,Percent,0.73,107
+Upper East Side,Within 4 years,2018,Percent,0.81,108
+Manhattanville,Within 4 years,2018,Percent,0.82,109
+Central Harlem,Within 4 years,2018,Percent,0.74,110
+East Harlem,Within 4 years,2018,Percent,0.82,111
+Washington Heights,Within 4 years,2018,Percent,0.7,112
+Mott Haven,Within 4 years,2018,Percent,0.6,201
+Hunts Point,Within 4 years,2018,Percent,0.35,202
+Morrisania,Within 4 years,2018,Percent,0.65,203
+Concourse/Highbridge,Within 4 years,2018,Percent,0.67,204
+University Heights,Within 4 years,2018,Percent,0.82,205
+East Tremont,Within 4 years,2018,Percent,0.69,206
+Bedford Park,Within 4 years,2018,Percent,0.81,207
+Riverdale,Within 4 years,2018,Percent,0.72,208
+Unionport/Soundview,Within 4 years,2018,Percent,0.57,209
+Throgs Neck,Within 4 years,2018,Percent,0.72,210
+Pelham Parkway,Within 4 years,2018,Percent,0.78,211
+Williamsbridge,Within 4 years,2018,Percent,0.65,212
+Williamsburg/Greenpoint,Within 4 years,2018,Percent,0.81,301
+Fort Greene/Brooklyn Hts,Within 4 years,2018,Percent,0.87,302
+Bedford Stuyvesant,Within 4 years,2018,Percent,0.56,303
+Bushwick,Within 4 years,2018,Percent,0.67,304
+East New York,Within 4 years,2018,Percent,0.71,305
+Park Slope,Within 4 years,2018,Percent,0.75,306
+Sunset Park,Within 4 years,2018,Percent,0.86,307
+Crown Heights North,Within 4 years,2018,Percent,0.72,308
+Crown Heights South,Within 4 years,2018,Percent,0.8,309
+Bay Ridge,Within 4 years,2018,Percent,0.78,310
+Bensonhurst,Within 4 years,2018,Percent,0.76,311
+Borough Park,Within 4 years,2018,Percent,0.59,312
+Coney Island,Within 4 years,2018,Percent,0.74,313
+Flatbush/Midwood,Within 4 years,2018,Percent,0.83,314
+Sheepshead Bay,Within 4 years,2018,Percent,0.78,315
+Brownsville,Within 4 years,2018,Percent,0.49,316
+East Flatbush,Within 4 years,2018,Percent,0.67,317
+Canarsie,Within 4 years,2018,Percent,0.58,318
+Astoria,Within 4 years,2018,Percent,0.79,401
+Sunnyside/Woodside,Within 4 years,2018,Percent,0.86,402
+Elmhurst/Corona,Within 4 years,2018,Percent,0.71,404
+Ridgewood/Glendale,Within 4 years,2018,Percent,0.74,405
+Rego Park/Forest Hills,Within 4 years,2018,Percent,0.88,406
+Flushing,Within 4 years,2018,Percent,0.6,407
+Fresh Meadows/Briarwood,Within 4 years,2018,Percent,0.78,408
+Woodhaven,Within 4 years,2018,Percent,0.77,409
+Howard Beach,Within 4 years,2018,Percent,0.74,410
+Bayside,Within 4 years,2018,Percent,0.87,411
+Jamaica/St. Albans,Within 4 years,2018,Percent,0.68,412
+Queens Village,Within 4 years,2018,Percent,0.81,413
+The Rockaways,Within 4 years,2018,Percent,0.78,414
+St. George,Within 4 years,2018,Percent,0.67,501
+South Beach,Within 4 years,2018,Percent,0.88,502
+Tottenville,Within 4 years,2018,Percent,0.89,503
+Bronx,Within 4 years,2018,Percent,0.63537,36005
+Brooklyn,Within 4 years,2018,Percent,0.7296,36047
+Manhattan,Within 4 years,2018,Percent,0.73739,36061
+Queens,Within 4 years,2018,Percent,0.76374,36081
+Staten Island,Within 4 years,2018,Percent,0.78992,36085
+New York City,Within 4 years,2018,Percent,0.72665,3651000
+Lower East Side,Within 4 years,2018,Percent,0.64159,SD1
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2018,Percent,0.72795,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2018,Percent,0.68446,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2018,Percent,0.5304,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2018,Percent,0.82106,SD13
+"Williamsburg, Greenpoint",Within 4 years,2018,Percent,0.79617,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2018,Percent,0.67032,SD15
+Bedford Stuyvesant,Within 4 years,2018,Percent,0.59961,SD16
+Crown Heights,Within 4 years,2018,Percent,0.74487,SD17
+"East Flatbush, Canarsie",Within 4 years,2018,Percent,0.59226,SD18
+East New York,Within 4 years,2018,Percent,0.6804,SD19
+"Stuyvesant Town, Upper E. Side",Within 4 years,2018,Percent,0.75422,SD2
+"Bay Ridge, Bensonhurst",Within 4 years,2018,Percent,0.72361,SD20
+"Gravesend, Coney Island",Within 4 years,2018,Percent,0.74328,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2018,Percent,0.80567,SD22
+"Brownsville, Ocean Hill",Within 4 years,2018,Percent,0.47115,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2018,Percent,0.74436,SD24
+"Flushing, Whitestone",Within 4 years,2018,Percent,0.68486,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2018,Percent,0.85722,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2018,Percent,0.70462,SD27
+"Jamaica, Forest Hills",Within 4 years,2018,Percent,0.80051,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2018,Percent,0.71213,SD29
+Upper West Side,Within 4 years,2018,Percent,0.75167,SD3
+"Long Island City, Astoria",Within 4 years,2018,Percent,0.77161,SD30
+Staten Island,Within 4 years,2018,Percent,0.78992,SD31
+Bushwick,Within 4 years,2018,Percent,0.64117,SD32
+East Harlem,Within 4 years,2018,Percent,0.82881,SD4
+Central Harlem,Within 4 years,2018,Percent,0.63386,SD5
+Washington Heights,Within 4 years,2018,Percent,0.67308,SD6
+Mott Haven,Within 4 years,2018,Percent,0.57738,SD7
+"Hunts Point, Port Morris",Within 4 years,2018,Percent,0.53442,SD8
+"East Tremont, Morris Heights",Within 4 years,2018,Percent,0.64296,SD9
+Bronx,Within 6 years,2018,Percent,0.72404,36005
+Brooklyn,Within 6 years,2018,Percent,0.79979,36047
+Manhattan,Within 6 years,2018,Percent,0.81061,36061
+Queens,Within 6 years,2018,Percent,0.81851,36081
+Staten Island,Within 6 years,2018,Percent,0.84229,36085
+New York City,Within 6 years,2018,Percent,0.79545,3651000
+Lower East Side,Within 6 years,2018,Percent,0.71691,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2018,Percent,0.77541,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2018,Percent,0.75357,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2018,Percent,0.66932,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2018,Percent,0.89255,SD13
+"Williamsburg, Greenpoint",Within 6 years,2018,Percent,0.80434,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2018,Percent,0.76866,SD15
+Bedford Stuyvesant,Within 6 years,2018,Percent,0.63168,SD16
+Crown Heights,Within 6 years,2018,Percent,0.78339,SD17
+"East Flatbush, Canarsie",Within 6 years,2018,Percent,0.73344,SD18
+East New York,Within 6 years,2018,Percent,0.74432,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2018,Percent,0.82974,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2018,Percent,0.79264,SD20
+"Gravesend, Coney Island",Within 6 years,2018,Percent,0.81229,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2018,Percent,0.87145,SD22
+"Brownsville, Ocean Hill",Within 6 years,2018,Percent,0.62709,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2018,Percent,0.77787,SD24
+"Flushing, Whitestone",Within 6 years,2018,Percent,0.76153,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2018,Percent,0.90867,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2018,Percent,0.74396,SD27
+"Jamaica, Forest Hills",Within 6 years,2018,Percent,0.87658,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2018,Percent,0.79376,SD29
+Upper West Side,Within 6 years,2018,Percent,0.82376,SD3
+"Long Island City, Astoria",Within 6 years,2018,Percent,0.81069,SD30
+Staten Island,Within 6 years,2018,Percent,0.84229,SD31
+Bushwick,Within 6 years,2018,Percent,0.72331,SD32
+East Harlem,Within 6 years,2018,Percent,0.84946,SD4
+Central Harlem,Within 6 years,2018,Percent,0.73824,SD5
+Washington Heights,Within 6 years,2018,Percent,0.76054,SD6
+Mott Haven,Within 6 years,2018,Percent,0.68529,SD7
+"Hunts Point, Port Morris",Within 6 years,2018,Percent,0.64226,SD8
+"East Tremont, Morris Heights",Within 6 years,2018,Percent,0.74369,SD9
+New York City,Within 4 years,2019,Percent,0.73867,3651000
+Bronx,Within 4 years,2019,Percent,0.66252,36005
+Brooklyn,Within 4 years,2019,Percent,0.73059,36047
+Manhattan,Within 4 years,2019,Percent,0.75318,36061
+Queens,Within 4 years,2019,Percent,0.77315,36081
+Staten Island,Within 4 years,2019,Percent,0.81055,36085
+Lower East Side,Within 4 years,2019,Percent,0.67097,SD1
+"Stuyvesant Town, Upper E. Side",Within 4 years,2019,Percent,0.764,SD2
+Upper West Side,Within 4 years,2019,Percent,0.78113,SD3
+East Harlem,Within 4 years,2019,Percent,0.8531,SD4
+Central Harlem,Within 4 years,2019,Percent,0.65705,SD5
+Washington Heights,Within 4 years,2019,Percent,0.69265,SD6
+Mott Haven,Within 4 years,2019,Percent,0.62396,SD7
+"Hunts Point, Port Morris",Within 4 years,2019,Percent,0.56444,SD8
+"East Tremont, Morris Heights",Within 4 years,2019,Percent,0.66286,SD9
+"Riverdale, Kingsbridge, Fordham",Within 4 years,2019,Percent,0.74893,SD10
+"Eastchester, Baychester, Co-op City",Within 4 years,2019,Percent,0.69293,SD11
+"Crotona Park, Morrisania, Melrose",Within 4 years,2019,Percent,0.56977,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 4 years,2019,Percent,0.84647,SD13
+"Williamsburg, Greenpoint",Within 4 years,2019,Percent,0.78738,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 4 years,2019,Percent,0.67492,SD15
+Bedford Stuyvesant,Within 4 years,2019,Percent,0.53878,SD16
+Crown Heights,Within 4 years,2019,Percent,0.72541,SD17
+"East Flatbush, Canarsie",Within 4 years,2019,Percent,0.5877,SD18
+East New York,Within 4 years,2019,Percent,0.73445,SD19
+"Bay Ridge, Bensonhurst",Within 4 years,2019,Percent,0.71778,SD20
+"Gravesend, Coney Island",Within 4 years,2019,Percent,0.73505,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 4 years,2019,Percent,0.81618,SD22
+"Brownsville, Ocean Hill",Within 4 years,2019,Percent,0.40257,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 4 years,2019,Percent,0.75744,SD24
+"Flushing, Whitestone",Within 4 years,2019,Percent,0.70952,SD25
+"Bayside, Douglaston, Little Neck",Within 4 years,2019,Percent,0.86586,SD26
+"Jamaica, Howard Beach, Rockaways",Within 4 years,2019,Percent,0.70593,SD27
+"Jamaica, Forest Hills",Within 4 years,2019,Percent,0.8097,SD28
+"Queens Village, Rosedale, Hollis",Within 4 years,2019,Percent,0.74564,SD29
+"Long Island City, Astoria",Within 4 years,2019,Percent,0.76359,SD30
+Staten Island,Within 4 years,2019,Percent,0.81055,SD31
+Bushwick,Within 4 years,2019,Percent,0.64734,SD32
+Bronx,Within 6 years,2019,Percent,0.73833,36005
+Brooklyn,Within 6 years,2019,Percent,0.81825,36047
+Manhattan,Within 6 years,2019,Percent,0.81035,36061
+Queens,Within 6 years,2019,Percent,0.82373,36081
+Staten Island,Within 6 years,2019,Percent,0.84699,36085
+New York City,Within 6 years,2019,Percent,0.80496,3651000
+Lower East Side,Within 6 years,2019,Percent,0.68669,SD1
+"Riverdale, Kingsbridge, Fordham",Within 6 years,2019,Percent,0.78683,SD10
+"Eastchester, Baychester, Co-op City",Within 6 years,2019,Percent,0.75979,SD11
+"Crotona Park, Morrisania, Melrose",Within 6 years,2019,Percent,0.67615,SD12
+"Brooklyn Hts, Downtown Brooklyn",Within 6 years,2019,Percent,0.89605,SD13
+"Williamsburg, Greenpoint",Within 6 years,2019,Percent,0.84984,SD14
+"S. Brooklyn, Park Slope, Sunset Park",Within 6 years,2019,Percent,0.78454,SD15
+Bedford Stuyvesant,Within 6 years,2019,Percent,0.70408,SD16
+Crown Heights,Within 6 years,2019,Percent,0.82375,SD17
+"East Flatbush, Canarsie",Within 6 years,2019,Percent,0.77806,SD18
+East New York,Within 6 years,2019,Percent,0.72993,SD19
+"Stuyvesant Town, Upper E. Side",Within 6 years,2019,Percent,0.82474,SD2
+"Bay Ridge, Bensonhurst",Within 6 years,2019,Percent,0.81539,SD20
+"Gravesend, Coney Island",Within 6 years,2019,Percent,0.82257,SD21
+"Flatbush, Midwood, Sheepshead Bay",Within 6 years,2019,Percent,0.88392,SD22
+"Brownsville, Ocean Hill",Within 6 years,2019,Percent,0.6352,SD23
+"Sunnyside, Woodside, Jackson Hts",Within 6 years,2019,Percent,0.75034,SD24
+"Flushing, Whitestone",Within 6 years,2019,Percent,0.77552,SD25
+"Bayside, Douglaston, Little Neck",Within 6 years,2019,Percent,0.92412,SD26
+"Jamaica, Howard Beach, Rockaways",Within 6 years,2019,Percent,0.76603,SD27
+"Jamaica, Forest Hills",Within 6 years,2019,Percent,0.8696,SD28
+"Queens Village, Rosedale, Hollis",Within 6 years,2019,Percent,0.81202,SD29
+Upper West Side,Within 6 years,2019,Percent,0.82585,SD3
+"Long Island City, Astoria",Within 6 years,2019,Percent,0.84567,SD30
+Staten Island,Within 6 years,2019,Percent,0.84699,SD31
+Bushwick,Within 6 years,2019,Percent,0.73778,SD32
+East Harlem,Within 6 years,2019,Percent,0.86912,SD4
+Central Harlem,Within 6 years,2019,Percent,0.78803,SD5
+Washington Heights,Within 6 years,2019,Percent,0.7577,SD6
+Mott Haven,Within 6 years,2019,Percent,0.70782,SD7
+"Hunts Point, Port Morris",Within 6 years,2019,Percent,0.66509,SD8
+"East Tremont, Morris Heights",Within 6 years,2019,Percent,0.76716,SD9
+Battery Park/Tribeca,Within 4 years,2009,Percent,0.75364,101
+Greenwich Village,Within 4 years,2009,Percent,0.43219,102
+Lower East Side,Within 4 years,2009,Percent,0.6764,103
+Chelsea/Clinton,Within 4 years,2009,Percent,0.622,104
+Midtown Business District,Within 4 years,2009,Percent,0.49378,105
+Murray Hill/Stuyvesant,Within 4 years,2009,Percent,0.57133,106
+Upper West Side,Within 4 years,2009,Percent,0.67377,107
+Upper East Side,Within 4 years,2009,Percent,0.80244,108
+Manhattanville,Within 4 years,2009,Percent,0.90476,109
+Central Harlem,Within 4 years,2009,Percent,0.71837,110
+East Harlem,Within 4 years,2009,Percent,0.66401,111
+Washington Heights,Within 4 years,2009,Percent,0.69187,112
+Mott Haven,Within 4 years,2009,Percent,0.51869,201
+Hunts Point,Within 4 years,2009,Percent,0.54018,202
+Morrisania,Within 4 years,2009,Percent,0.64246,203
+Concourse/Highbridge,Within 4 years,2009,Percent,0.69608,204
+University Heights,Within 4 years,2009,Percent,0.91549,205
+East Tremont,Within 4 years,2009,Percent,0.50397,206
+Bedford Park,Within 4 years,2009,Percent,0.70731,207
+Riverdale,Within 4 years,2009,Percent,0.58372,208
+Unionport/Soundview,Within 4 years,2009,Percent,0.39524,209
+Throgs Neck,Within 4 years,2009,Percent,0.53266,210
+Pelham Parkway,Within 4 years,2009,Percent,0.51992,211
+Williamsbridge,Within 4 years,2009,Percent,0.69406,212
+Williamsburg/Greenpoint,Within 4 years,2009,Percent,0.67675,301
+Fort Greene/Brooklyn Hts,Within 4 years,2009,Percent,0.76393,302
+Bedford Stuyvesant,Within 4 years,2009,Percent,0.47566,303
+Bushwick,Within 4 years,2009,Percent,0.50541,304
+East New York,Within 4 years,2009,Percent,0.50119,305
+Park Slope,Within 4 years,2009,Percent,0.58322,306
+Sunset Park,Within 4 years,2009,Percent,0.95161,307
+Crown Heights North,Within 4 years,2009,Percent,0.46154,308
+Crown Heights South,Within 4 years,2009,Percent,0.66554,309
+Bay Ridge,Within 4 years,2009,Percent,0.63946,310
+Bensonhurst,Within 4 years,2009,Percent,0.62471,311
+Borough Park,Within 4 years,2009,Percent,0.45406,312
+Coney Island,Within 4 years,2009,Percent,0.55697,313
+Flatbush/Midwood,Within 4 years,2009,Percent,0.74787,314
+Sheepshead Bay,Within 4 years,2009,Percent,0.63219,315
+Brownsville,Within 4 years,2009,Percent,0.437,316
+East Flatbush,Within 4 years,2009,Percent,0.36905,317
+Canarsie,Within 4 years,2009,Percent,0.32242,318
+Astoria,Within 4 years,2009,Percent,0.59867,401
+Sunnyside/Woodside,Within 4 years,2009,Percent,0.66739,402
+Jackson Heights,Within 4 years,2009,Percent,0.63629,403
+Elmhurst/Corona,Within 4 years,2009,Percent,0.48976,404
+Ridgewood/Glendale,Within 4 years,2009,Percent,0.50805,405
+Rego Park/Forest Hills,Within 4 years,2009,Percent,0.80127,406
+Flushing,Within 4 years,2009,Percent,0.52381,407
+Fresh Meadows/Briarwood,Within 4 years,2009,Percent,0.66265,408
+Woodhaven,Within 4 years,2009,Percent,0.45377,409
+Howard Beach,Within 4 years,2009,Percent,0.46809,410
+Bayside,Within 4 years,2009,Percent,0.78094,411
+Jamaica/St. Albans,Within 4 years,2009,Percent,0.64686,412
+Queens Village,Within 4 years,2009,Percent,0.69164,413
+The Rockaways,Within 4 years,2009,Percent,0.51478,414
+St. George,Within 4 years,2009,Percent,0.62137,501
+South Beach,Within 4 years,2009,Percent,0.7534,502
+Tottenville,Within 4 years,2009,Percent,0.82302,503
+Battery Park/Tribeca,Within 4 years,2017,Percent,0.84107,101
+Greenwich Village,Within 4 years,2017,Percent,0.57331,102
+Lower East Side,Within 4 years,2017,Percent,0.67873,103
+Chelsea/Clinton,Within 4 years,2017,Percent,0.76549,104
+Midtown Business District,Within 4 years,2017,Percent,0.72571,105
+Murray Hill/Stuyvesant,Within 4 years,2017,Percent,0.70303,106
+Upper West Side,Within 4 years,2017,Percent,0.75677,107
+Upper East Side,Within 4 years,2017,Percent,0.77147,108
+Manhattanville,Within 4 years,2017,Percent,0.76766,109
+Central Harlem,Within 4 years,2017,Percent,0.73558,110
+East Harlem,Within 4 years,2017,Percent,0.81121,111
+Washington Heights,Within 4 years,2017,Percent,0.62641,112
+Mott Haven,Within 4 years,2017,Percent,0.57153,201
+Hunts Point,Within 4 years,2017,Percent,0.3602,202
+Morrisania,Within 4 years,2017,Percent,0.68375,203
+Concourse/Highbridge,Within 4 years,2017,Percent,0.689,204
+University Heights,Within 4 years,2017,Percent,0.84932,205
+East Tremont,Within 4 years,2017,Percent,0.6607,206
+Bedford Park,Within 4 years,2017,Percent,0.76153,207
+Riverdale,Within 4 years,2017,Percent,0.72017,208
+Unionport/Soundview,Within 4 years,2017,Percent,0.54364,209
+Throgs Neck,Within 4 years,2017,Percent,0.69091,210
+Pelham Parkway,Within 4 years,2017,Percent,0.77581,211
+Williamsbridge,Within 4 years,2017,Percent,0.65389,212
+Williamsburg/Greenpoint,Within 4 years,2017,Percent,0.77147,301
+Fort Greene/Brooklyn Hts,Within 4 years,2017,Percent,0.86364,302
+Bedford Stuyvesant,Within 4 years,2017,Percent,0.51824,303
+Bushwick,Within 4 years,2017,Percent,0.66405,304
+East New York,Within 4 years,2017,Percent,0.62009,305
+Park Slope,Within 4 years,2017,Percent,0.73052,306
+Sunset Park,Within 4 years,2017,Percent,0.83981,307
+Crown Heights North,Within 4 years,2017,Percent,0.76667,308
+Crown Heights South,Within 4 years,2017,Percent,0.74106,309
+Bay Ridge,Within 4 years,2017,Percent,0.73932,310
+Bensonhurst,Within 4 years,2017,Percent,0.77998,311
+Borough Park,Within 4 years,2017,Percent,0.5876,312
+Coney Island,Within 4 years,2017,Percent,0.68904,313
+Flatbush/Midwood,Within 4 years,2017,Percent,0.80405,314
+Sheepshead Bay,Within 4 years,2017,Percent,0.7734,315
+Brownsville,Within 4 years,2017,Percent,0.41391,316
+East Flatbush,Within 4 years,2017,Percent,0.71014,317
+Canarsie,Within 4 years,2017,Percent,0.65296,318
+Astoria,Within 4 years,2017,Percent,0.7741,401
+Sunnyside/Woodside,Within 4 years,2017,Percent,0.87927,402
+Elmhurst/Corona,Within 4 years,2017,Percent,0.6776,404
+Ridgewood/Glendale,Within 4 years,2017,Percent,0.73621,405
+Rego Park/Forest Hills,Within 4 years,2017,Percent,0.83119,406
+Flushing,Within 4 years,2017,Percent,0.57852,407
+Fresh Meadows/Briarwood,Within 4 years,2017,Percent,0.76835,408
+Woodhaven,Within 4 years,2017,Percent,0.76694,409
+Howard Beach,Within 4 years,2017,Percent,0.71605,410
+Bayside,Within 4 years,2017,Percent,0.89016,411
+Jamaica/St. Albans,Within 4 years,2017,Percent,0.69565,412
+Queens Village,Within 4 years,2017,Percent,0.74305,413
+The Rockaways,Within 4 years,2017,Percent,0.7622,414
+St. George,Within 4 years,2017,Percent,0.66828,501
+South Beach,Within 4 years,2017,Percent,0.86102,502
+Tottenville,Within 4 years,2017,Percent,0.87172,503

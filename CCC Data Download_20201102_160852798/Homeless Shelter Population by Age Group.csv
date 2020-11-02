@@ -1,0 +1,46 @@
+"Name","Homeless Shelter Population by Age Group"
+"Description","<g class=""gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_run_anim Grammar only-ins doubleReplace replaceWithoutSep"" id=""3"" data-gr-id=""3"">Number</g>&nbsp;of unduplicated individuals served in the New York City Department of Homeless Services shelter system."
+"Source Notes","New York City Department of Homeless Services, DHS Data Dashboard (FY 2011 - FY 2014); retrieved&nbsp;from&nbsp;<a href=""https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page"">https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page</a>"
+"Notes",""
+
+Location,Age Group,TimeFrame,DataFormat,Data,Fips
+New York City,0 to 5 years,2011,Number,21834,3651000
+New York City,0 to 5 years,2012,Number,18103,3651000
+New York City,0 to 5 years,2013,Number,18630,3651000
+New York City,0 to 5 years,2014,Number,18984,3651000
+New York City,0 to 5 years,2015,Number,20256,3651000
+New York City,0 to 5 years,2011,Percent,0.19829,3651000
+New York City,0 to 5 years,2012,Percent,0.17281,3651000
+New York City,0 to 5 years,2013,Percent,0.16752,3651000
+New York City,0 to 5 years,2014,Percent,0.16324,3651000
+New York City,0 to 5 years,2015,Percent,0.1513,3651000
+New York City,6 to 13 years,2011,Number,13735,3651000
+New York City,6 to 13 years,2012,Number,14261,3651000
+New York City,6 to 13 years,2013,Number,16012,3651000
+New York City,6 to 13 years,2014,Number,17055,3651000
+New York City,6 to 13 years,2015,Number,19161,3651000
+New York City,6 to 13 years,2011,Percent,0.12474,3651000
+New York City,6 to 13 years,2012,Percent,0.13614,3651000
+New York City,6 to 13 years,2013,Percent,0.14398,3651000
+New York City,6 to 13 years,2014,Percent,0.14665,3651000
+New York City,6 to 13 years,2015,Percent,0.14312,3651000
+New York City,14 to 17 years,2011,Number,4669,3651000
+New York City,14 to 17 years,2012,Number,4987,3651000
+New York City,14 to 17 years,2013,Number,5547,3651000
+New York City,14 to 17 years,2014,Number,5775,3651000
+New York City,14 to 17 years,2015,Number,6255,3651000
+New York City,14 to 17 years,2011,Percent,0.0424,3651000
+New York City,14 to 17 years,2012,Percent,0.04761,3651000
+New York City,14 to 17 years,2013,Percent,0.04988,3651000
+New York City,14 to 17 years,2014,Percent,0.04966,3651000
+New York City,14 to 17 years,2015,Percent,0.04672,3651000
+New York City,18 Years and Older,2011,Number,69874,3651000
+New York City,18 Years and Older,2012,Number,67403,3651000
+New York City,18 Years and Older,2013,Number,71021,3651000
+New York City,18 Years and Older,2014,Number,74480,3651000
+New York City,18 Years and Older,2015,Number,88211,3651000
+New York City,18 Years and Older,2011,Percent,0.63457,3651000
+New York City,18 Years and Older,2012,Percent,0.64344,3651000
+New York City,18 Years and Older,2013,Percent,0.63862,3651000
+New York City,18 Years and Older,2014,Percent,0.64045,3651000
+New York City,18 Years and Older,2015,Percent,0.65887,3651000

@@ -1,0 +1,46 @@
+"Name","Juvenile Arrests (Under 16 Years)"
+"Description","Arrests of children under 16 years."
+"Source Notes","Unpublished data provided to CCC by the New York State Division of Criminal Justice Services (2010-2012)<br />
+New York State Division of Criminal Justice Services, County Juvenile Justice Profiles (2013-2018); retrieved <g class=""gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""3"" data-gr-id=""3"">from:<a href=""https://www.criminaljustice.ny.gov/crimnet/ojsa/jj-profiles.htm"" target=""_blank"">&nbsp;<normal>https://www.criminaljustice.ny.gov/crimnet/ojsa/jj-profiles.htm</normal></a></g>"
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2011,Number,12371,3651000
+New York City,2012,Number,9675,3651000
+New York City,2013,Number,7604,3651000
+New York City,2014,Number,6086,3651000
+New York City,2015,Number,5704,3651000
+New York City,2016,Number,4615,3651000
+New York City,2017,Number,4099,3651000
+Bronx,2013,Number,2071,36005
+Bronx,2014,Number,1728,36005
+Bronx,2015,Number,1582,36005
+Bronx,2016,Number,1308,36005
+Bronx,2017,Number,1035,36005
+Brooklyn,2013,Number,2346,36047
+Brooklyn,2014,Number,1867,36047
+Brooklyn,2015,Number,1853,36047
+Brooklyn,2016,Number,1408,36047
+Brooklyn,2017,Number,1330,36047
+Manhattan,2013,Number,1310,36061
+Manhattan,2014,Number,1114,36061
+Manhattan,2015,Number,1086,36061
+Manhattan,2016,Number,891,36061
+Manhattan,2017,Number,715,36061
+Queens,2013,Number,1415,36081
+Queens,2014,Number,1031,36081
+Queens,2015,Number,894,36081
+Queens,2016,Number,740,36081
+Queens,2017,Number,808,36081
+Staten Island,2013,Number,462,36085
+Staten Island,2014,Number,346,36085
+Staten Island,2015,Number,289,36085
+Staten Island,2016,Number,268,36085
+Staten Island,2017,Number,211,36085
+New York City,2010,Number,12744,3651000
+Bronx,2018,Number,872,36005
+Brooklyn,2018,Number,954,36047
+Manhattan,2018,Number,742,36061
+Queens,2018,Number,661,36081
+Staten Island,2018,Number,201,36085
+New York City,2018,Number,3430,3651000
