@@ -1,9 +1,7 @@
 library(shiny)
-<<<<<<< Updated upstream
 library(tidyverse)
 
 medianIncomes <- read_csv("MedianIncomes.csv")
-=======
 library(rvest)
 library(geojsonio)
 
@@ -16,7 +14,6 @@ nhoods3 <- left_join(nhoods2,
                               med.income,
                               by = "")
 #we might need to make the data as.numeric before graphing it
->>>>>>> Stashed changes
 
 ui <- fluidPage(
   
