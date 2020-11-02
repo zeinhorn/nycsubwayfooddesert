@@ -1,7 +1,7 @@
 library(shiny)
+library(tidyverse)
 
-# this is a comment
-# this is another comment
+medianIncomes <- read_csv("MedianIncomes.csv")
 
 ui <- fluidPage(
   
