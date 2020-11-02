@@ -1,6 +1,7 @@
 library(shiny)
 
 # this is a comment
+# this is another comment
 
 ui <- fluidPage(
   
