@@ -1,18 +1,26 @@
 library(shiny)
 library(tidyverse)
 
-medianIncomes <- read_csv("Median Incomes.csv")
+medianIncomes <- read_csv("MedianIncomes.csv")
 library(rvest)
 library(geojsonio)
 library(leaflet)
 
-
-stores <- read_csv("Recognized_Shop_Healthy_Stores.csv")
-
-#med.income <- read.csv(file.choose())
-nhoods <- geojson_read(file.choose(),
+nhoods <- geojson_read("NYCNeighborhoods.geojson",
                        what = "sp")
-nhoods.data <- nhoods
+nhoods.copy <- nhoods
+medianIncomesFiltered <- medianIncomes %>%
+  filter(`Household Type` == "All Households" &
+         TimeFrame == 2019) %>%
+  select(Location, Data)
+
+nhoods.copy@data <- left_join(nhoods.copy@data,
+                              medianIncomesFiltered,
+                              by = c("ntaname" = "Location"))
+nhoods.copy@data <- nhoods.copy@data %>%
+  rename("Income" = "Data")
+  
+
 map <- nhoods.data %>%
   leaflet()
 
