@@ -7,6 +7,8 @@ library(geojsonio)
 library(leaflet)
 
 
+stores <- read_csv("Recognized_Shop_Healthy_Stores.csv")
+
 #med.income <- read.csv(file.choose())
 nhoods <- geojson_read(file.choose(),
                        what = "sp")
