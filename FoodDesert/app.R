@@ -36,7 +36,7 @@ ui <- fluidPage(
 )
 
 server <- function(input, output, session) {
-  output$leaflet1 <- renderLeaflet({
+  output$nyc_cd <- renderLeaflet({
     map %>% 
       addPolygons(fillColor = ~colors(Income),
                   color = "black",
