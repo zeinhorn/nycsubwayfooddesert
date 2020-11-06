@@ -1,3 +1,8 @@
+# Infant mortality
+# Live births
+# Enrollment in public funded childcare
+# Child abuse
+
 library(shiny)
 library(tidyverse)
 library(rvest)
@@ -7,9 +12,16 @@ library(leaflet)
 medianIncomes <- read_csv("MedianIncomes.csv")
 nhoods <- geojson_read("CommunityDistricts.geojson",
                        what = "sp")
-parks <- read_csv("WalkingDistanceToAPark.csv")
+#Getting obesity   ready
+obesity <- read_csv("ObesityAmongKids.csv")
+parks$Fips <- str_replace_all(parks$Fips,
+                              "uhf",
+                              "")
+parks <- left_join(parks,
+                   medianIncomesFiltered,
+                   by = c("Fips.copy" = "Fips"))
 
-#Getting median incomes ready
+#parksng median incomes ready
 nhoods.copy <- nhoods
 medianIncomesFiltered <- medianIncomes %>%
   filter(`Household Type` == "All Households" &
