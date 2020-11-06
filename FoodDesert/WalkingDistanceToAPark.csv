@@ -1,0 +1,49 @@
+Location,Data,Fips
+Kingsbridge - Riverdale,0.88,uhf101
+Northeast Bronx,0.54,uhf102
+Fordham - Bronx Park,0.98,uhf103
+Pelham - Throgs Neck,0.78,uhf104
+Crotona - Tremont,0.99,uhf105
+High Bridge - Morrisania,0.98,uhf106
+Hunts Point - Mott Haven,0.96,uhf107
+Greenpoint,0.94,uhf201
+Downtown  - Heights - Slope,0.94,uhf202
+Bedford Stuyvesant - Crown Heights,0.94,uhf203
+East New York,0.84,uhf204
+Sunset Park,0.87,uhf205
+Borough Park,0.73,uhf206
+East Flatbush - Flatbush,0.62,uhf207
+Canarsie - Flatlands,0.76,uhf208
+Bensonhurst - Bay Ridge,0.8,uhf209
+Coney Island - Sheepshead Bay,0.78,uhf210
+Williamsburg - Bushwick,0.93,uhf211
+Washington Heights - Inwood,1,uhf301
+Central Harlem - Morningside Heights,0.99,uhf302
+East Harlem,0.99,uhf303
+Upper West Side,0.99,uhf304
+Upper East Side,0.95,uhf305
+Chelsea - Clinton,0.94,uhf306
+Gramercy Park -  Murray Hill,0.91,uhf307
+Greenwich Village - Soho,0.99,uhf308
+Union Square - Lower East Side,1,uhf309
+Lower Manhattan,0.99,uhf310
+Long Island City - Astoria,0.66,uhf401
+West Queens,0.72,uhf402
+Flushing - Clearview,0.77,uhf403
+Bayside - Little Neck,0.74,uhf404
+Ridgewood - Forest Hills,0.71,uhf405
+Fresh Meadows,0.62,uhf406
+Southwest Queens,0.65,uhf407
+Jamaica,0.74,uhf408
+Southeast Queens,0.4,uhf409
+Rockaway,0.84,uhf410
+Port  Richmond,0.55,uhf501
+Stapleton - St. George,0.73,uhf502
+Willowbrook,0.56,uhf503
+South Beach - Tottenville,0.6,uhf504
+Bronx,0.87,36005
+Brooklyn,0.82,36047
+Manhattan,0.97,36061
+Queens,0.69,36081
+Staten Island,0.62,36085
+New York City,0.81,3651000
