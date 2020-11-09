@@ -8,6 +8,7 @@ library(tidyverse)
 library(rvest)
 library(geojsonio)
 library(leaflet)
+
 #Reading in the data sets
 medianIncomes <- read_csv("MedianIncomes.csv")
 nhoods <- geojson_read("CommunityDistricts.geojson",
@@ -18,11 +19,17 @@ infantmortality <- read_csv("InfantMortality.csv")
 childabuse <- read_csv("ChildAbuseAndNeglectInvestigations.csv")
 childcare <- read_csv("EnrollmentInPubliclyFundedCareForChildrenUnder5.csv")
 
-#Making live births ready
+#Preparing Live Births
 lb.2$X5 <- as.numeric(lb.2$X5)
 lb.3<- lb.2 [ ,-1]
+lb.2 <- livebirths%>%
+  filter(`Live Births`== 2017,
+         X3 == "Rate")
 
 #Joining live births and median income
+mi.filter <- medianIncomes%>%
+  filter(TimeFrame== 2019)
+
 join.1 <- mi.filter%>%
   left_join(lb.3,
             by= c("Fips" = "X5"))
@@ -46,19 +53,36 @@ im.3$Fips<- as.numeric(im.3$Fips)
 join2 <- join1.5%>%
   left_join(im.3,
             by="Fips")
-  
 
-
-lb.2 <- livebirths%>%
-  filter(`Live Births`== 2017,
-         X3 == "Rate")
-
+#Joining mi/lb/im and child care
 childcare2 <- childcare[-1,-1]
-childcare2%>%
-  filter(`Enrollment in Publicly Funded Care for Children Under 5`== 2019)
+childcare3 <- childcare2%>%
+  filter(`Enrollment in Publicly Funded Care for Children Under 5`== 2019)%>%
+  rename("Fips" = "X4",
+         "Enrollment" = "X3",
+         "Year(CC)" = `Enrollment in Publicly Funded Care for Children Under 5`)
+childcare3$Fips <- as.numeric(childcare3$Fips)
 
-mi.filter <- medianIncomes%>%
-  filter(TimeFrame== 2019)
+
+join3 <- join2%>%
+  left_join(childcare3,
+            by= "Fips")
+
+#Joining mi/lb/im/cc and child abuse
+childabuse2 <- childabuse[-1,-1]
+childabuse3 <- childabuse2%>%
+  filter(`Child Abuse and Neglect Investigations`== 2019)%>%
+  rename("Year(CA)" = `Child Abuse and Neglect Investigations`,
+         "Fips" = "X4",
+         "Investigations" = "X3")
+childabuse3$Fips <- as.numeric(childabuse3$Fips)
+
+
+join4 <- join3%>%
+  left_join(childabuse3,
+            by= "Fips")
+
+#------------------------------------------------#
 
 #getting median incomes ready
 nhoods.copy <- nhoods
