@@ -35,7 +35,7 @@ join.1 <- mi.filter%>%
             by= c("Fips" = "X5"))
 join1.25 <- join.1 [ ,-4]
 join1.3 <- join1.25[ ,-7]
-    
+
 join1.5 <- join1.3%>%
   rename("LBRate" = "X4",
          "Income" = "Data")
@@ -77,10 +77,22 @@ childabuse3 <- childabuse2%>%
          "Investigations" = "X3")
 childabuse3$Fips <- as.numeric(childabuse3$Fips)
 
-
 join4 <- join3%>%
   left_join(childabuse3,
             by= "Fips")
+#Removing duplicate year columns
+join4.1 <- join4 [ ,-c(3,6,8,10,12)]
+join4.2 <- join4.1 %>%
+  filter(`Household Type` == "All Households") %>%
+  rename("Neighborhood" = "Location",
+         "MedianIncome" = "Income",
+         "District" = "Fips",
+         "LiveBirthRate" = "LBRate",
+         "InfantMortalityRate" = "DeathRate",
+         "EnrollmentInPublicFundedChildcare" = "Enrollment",
+         "ChildAbuseAndNeglectInvestigations" = "Investigations")
+join5 <- join4.2 [ , -2]
+
 
 #------------------------------------------------#
 
@@ -90,10 +102,8 @@ medianIncomesFiltered <- medianIncomes %>%
   filter(`Household Type` == "All Households" &
            TimeFrame == 2017) %>%
   select(Location, Data, Fips)
-
+#Joining neighborhoods and median income to make leaflet
 nhoods.copy@data$boro_cd <- as.numeric(nhoods.copy@data$boro_cd)
-
-#Joining neighborhoods and income; boro_cd = fips = neighborhood codes
 nhoods.copy@data <- left_join(nhoods.copy@data,
                               medianIncomesFiltered,
                               by = c("boro_cd" = "Fips"))
@@ -111,8 +121,20 @@ colors <- colorBin(palette = "YlOrRd",
                    bins = bins)
 
 ui <- fluidPage(
-  leafletOutput(outputId = "nyc_cd")
-  
+  leafletOutput(outputId = "nyc_cd"),
+  selectizeInput(inputId = "var1",
+                 label = "Choose an x-variable",
+                 choices = c("Live Birth Rate" = "LiveBirthRate",
+                             "Infant Mortality Rate" = "InfantMortalityRate",
+                             "Enrollment in Public Funded Childcare" = "EnrollmentInPublicFundedChildcare", 
+                             "Child Abuse and Neglect Investigations" = "ChildAbuseAndNeglectInvestigations")),
+  selectizeInput(inputId = "var2",
+                 label = "Choose a y-variable",
+                 choices = c("Live Birth Rate" = "LiveBirthRate",
+                             "Infant Mortality Rate" = "InfantMortalityRate",
+                             "Enrollment in Public Funded Childcare" = "EnrollmentInPublicFundedChildcare", 
+                             "Child Abuse and Neglect Investigations" = "ChildAbuseAndNeglectInvestigations")),
+  plotOutput(outputId = "plot1")
 )
 
 server <- function(input, output, session) {
@@ -122,11 +144,28 @@ server <- function(input, output, session) {
                   color = "black",
                   opacity = 1,
                   fillOpacity = .7,
-                  layerId = ~Location) %>%
+                  layerId = ~Location,
+                  popup = ~Location) %>%
       setView(-74, 40.7, 10) %>% 
       addLegend(pal = colors,
                 values = nhoods.copy@data$Income)
+  })  
+  
+  joindistrictselected <- join5 %>%
+    filter(District == input$nyc_cd_shape_click$id)
+  
+  output$plot1 <- renderPlot({
+    join5 %>%
+      ggplot(aes_string(x = input$var1,
+                        y = input$var2)) +
+      geom_point(size = 3) +
+      geom_point(data = joindistrictselected,
+                 color = "red")
+    
   })
+  
+  
+  
   
 }
 
