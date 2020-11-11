@@ -1,0 +1,12 @@
+name: IncomeAndChildLifeQualityInNYC
+title: IncomeAndChildLifeQualityInNYC
+username:
+account: zeinhorn
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3211729
+bundleId: 3848503
+url: https://zeinhorn.shinyapps.io/IncomeAndChildLifeQualityInNYC/
+when: 1605120015.72738
+asMultiple: FALSE
+asStatic: FALSE

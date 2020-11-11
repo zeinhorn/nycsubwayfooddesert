@@ -93,6 +93,10 @@ join.rename <- join.incomebirthsmortalitycareabuse.2 %>%
          "ChildAbuseAndNeglectInvestigations" = "Investigations")
 join.final <- join.rename [ , -2]
 
+#remove data that is not assigned to a community district 
+join.final <- join.final %>% 
+  filter(District < 1000)
+
 #Making columns as numeric
 join.final$MedianIncome <- as.numeric(join.final$MedianIncome)
 join.final$LiveBirthRate <- as.numeric(join.final$LiveBirthRate)
@@ -126,17 +130,24 @@ colors <- colorBin(palette = "YlOrRd",
 
 
 ui <- fluidPage(
-  leafletOutput(outputId = "nyc_cd"),
-  selectizeInput(inputId = "var2",
-                 label = "Choose a y-variable",
-                 choices = c("Live Birth Rate" = "LiveBirthRate",
-                             "Infant Mortality Rate" = "InfantMortalityRate",
-                             "Enrollment in Public Funded Childcare" = "EnrollmentInPublicFundedChildcare", 
-                             "Child Abuse and Neglect Investigations" = "ChildAbuseAndNeglectInvestigations"),
-                 selected= "LiveBirthRate"),
-  plotOutput(outputId = "plot1"),
-  textOutput(outputId="textout")
+  sidebarLayout(
+    sidebarPanel(
+      leafletOutput(outputId = "nyc_cd"),
+      selectizeInput(inputId = "var2",
+                     label = "Choose a y-variable and then click a community distrct on the map.",
+                     choices = c("Live Birth Rate" = "LiveBirthRate",
+                                 "Infant Mortality Rate" = "InfantMortalityRate",
+                                 "Enrollment in Public Funded Childcare" = "EnrollmentInPublicFundedChildcare", 
+                                 "Child Abuse and Neglect Investigations" = "ChildAbuseAndNeglectInvestigations"),
+                     selected= "LiveBirthRate"),
+    ),
+    mainPanel(
+      plotOutput(outputId = "plot1"),
+      textOutput(outputId="textout")
+    )
+  )
   
+ 
 )
 
 server <- function(input, output, session) {
@@ -151,19 +162,19 @@ server <- function(input, output, session) {
                   fillOpacity = .7,
                   layerId = ~Location,
                   popup = ~Location) %>%
-      setView(-74, 40.7, 10) %>% 
+      setView(-73.9, 40.7, 9.9) %>% 
       addLegend(pal = colors,
                 values = nhoods.copy@data$Income)
     
   })  
   
-  observeEvent(input$map_marker_click,
-               {click.map$clickedMarker <- input$map_marker_click})
-  
   output$plot1 <- renderPlot({
     
+    cdChoice <- "Riverdale"
+    ifelse(input$nyc_cd_shape_click$id != "", cdChoice <-input$nyc_cd_shape_click$id)
+    
     joindistrictselected <- join.final %>%
-      filter(Neighborhood == input$nyc_cd_shape_click$id)
+      filter(Neighborhood == cdChoice)
     
     join.final %>%
       ggplot(aes_string(x = "MedianIncome",
