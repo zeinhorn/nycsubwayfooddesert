@@ -1,0 +1,132 @@
+Name,Enrollment in Publicly Funded Care for Children Under 5,,
+Location,TimeFrame,Data,Fips
+New York City,2018,123658,3651000
+New York City,2019,124971,3651000
+Manhattan,2018,14734,36061
+Manhattan,2019,14965,36061
+Battery Park/Tribeca,2019,503,101
+Battery Park/Tribeca,2018,509,101
+Greenwich Village,2018,176,102
+Greenwich Village,2019,198,102
+Lower East Side,2019,1972,103
+Lower East Side,2018,2099,103
+Chelsea/Clinton,2018,499,104
+Chelsea/Clinton,2019,487,104
+Midtown Business District,2019,258,105
+Midtown Business District,2018,306,105
+Murray Hill/Stuyvesant,2018,337,106
+Murray Hill/Stuyvesant,2019,436,106
+Upper West Side,2019,1104,107
+Upper West Side,2018,1063,107
+Upper East Side,2018,620,108
+Upper East Side,2019,700,108
+Manhattanville,2019,919,109
+Manhattanville,2018,989,109
+Central Harlem,2018,2457,110
+Central Harlem,2019,2559,110
+East Harlem,2019,2573,111
+East Harlem,2018,2461,111
+Washington Heights,2018,3087,112
+Washington Heights,2019,3189,112
+Bronx,2019,31809,36005
+Bronx,2018,32229,36005
+Mott Haven,2019,3683,201
+Mott Haven,2018,3426,201
+Hunts Point,2018,1468,202
+Hunts Point,2019,1411,202
+Morrisania,2019,3038,203
+Morrisania,2018,3205,203
+Concourse/Highbridge,2018,4088,204
+Concourse/Highbridge,2019,4144,204
+University Heights,2019,3928,205
+University Heights,2018,4200,205
+East Tremont,2018,2635,206
+East Tremont,2019,2390,206
+Bedford Park,2019,3099,207
+Bedford Park,2018,3059,207
+Riverdale,2018,1457,208
+Riverdale,2019,1483,208
+Unionport/Soundview,2019,2839,209
+Unionport/Soundview,2018,2949,209
+Throgs Neck,2018,1337,210
+Throgs Neck,2019,1403,210
+Pelham Parkway,2019,1726,211
+Pelham Parkway,2018,1831,211
+Williamsbridge,2018,2705,212
+Williamsbridge,2019,2718,212
+Brooklyn,2018,42775,36047
+Brooklyn,2019,43071,36047
+Williamsburg/Greenpoint,2019,2849,301
+Williamsburg/Greenpoint,2018,2964,301
+Fort Greene/Brooklyn Hts,2018,1162,302
+Fort Greene/Brooklyn Hts,2019,1142,302
+Bedford Stuyvesant,2019,3015,303
+Bedford Stuyvesant,2018,3018,303
+Bushwick,2018,2579,304
+Bushwick,2019,2631,304
+East New York,2019,4182,305
+East New York,2018,4238,305
+Park Slope,2018,1326,306
+Park Slope,2019,1279,306
+Sunset Park,2019,2569,307
+Sunset Park,2018,2452,307
+Crown Heights North,2018,1856,308
+Crown Heights North,2019,1908,308
+Crown Heights South,2019,1587,309
+Crown Heights South,2018,1600,309
+Bay Ridge,2018,1282,310
+Bay Ridge,2019,1429,310
+Bensonhurst,2019,2305,311
+Bensonhurst,2018,2061,311
+Borough Park,2018,5127,312
+Borough Park,2019,4756,312
+Coney Island,2019,1661,313
+Coney Island,2018,1690,313
+Flatbush/Midwood,2018,1969,314
+Flatbush/Midwood,2019,2018,314
+Sheepshead Bay,2019,1974,315
+Sheepshead Bay,2018,1835,315
+Brownsville,2018,2338,316
+Brownsville,2019,2552,316
+East Flatbush,2019,2960,317
+East Flatbush,2018,2955,317
+Canarsie,2018,2323,318
+Canarsie,2019,2254,318
+Queens,2019,29198,36081
+Queens,2018,28227,36081
+Astoria,2019,1734,401
+Astoria,2018,1803,401
+Sunnyside/Woodside,2018,1240,402
+Sunnyside/Woodside,2019,1381,402
+Jackson Heights,2019,2292,403
+Jackson Heights,2018,2312,403
+Elmhurst/Corona,2018,2243,404
+Elmhurst/Corona,2019,2292,404
+Ridgewood/Glendale,2019,1568,405
+Ridgewood/Glendale,2018,1563,405
+Rego Park/Forest Hills,2018,1365,406
+Rego Park/Forest Hills,2019,1439,406
+Flushing,2019,2559,407
+Flushing,2018,2511,407
+Fresh Meadows/Briarwood,2018,2173,408
+Fresh Meadows/Briarwood,2019,2087,408
+Woodhaven,2019,2218,409
+Woodhaven,2018,2071,409
+Howard Beach,2018,1067,410
+Howard Beach,2019,1510,410
+Bayside,2019,1279,411
+Bayside,2018,1355,411
+Jamaica/St. Albans,2018,4384,412
+Jamaica/St. Albans,2019,4377,412
+Queens Village,2019,2383,413
+Queens Village,2018,2296,413
+The Rockaways,2018,1844,414
+The Rockaways,2019,2071,414
+Staten Island,2018,5693,36085
+Staten Island,2019,5915,36085
+St. George,2019,2874,501
+St. George,2018,2854,501
+South Beach,2018,1548,502
+South Beach,2019,1625,502
+Tottenville,2019,1416,503
+Tottenville,2018,1291,503

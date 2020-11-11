@@ -1,0 +1,1176 @@
+"Name","Child Abuse and Neglect Investigations"
+"Description","Consolidated investigations of child abuse and neglect."
+"Source Notes","New York City Administration for Children's Services, Abuse/Neglect Reports, CONNECTIONS data (2002 - 2019); retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/acs/about/data-analysis.page"" target=""_blank"">https://www1.nyc.gov/site/acs/about/data-analysis.page</a>"
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2002,Number,55714,3651000
+New York City,2003,Number,52617,3651000
+New York City,2004,Number,48884,3651000
+New York City,2005,Number,47640,3651000
+New York City,2006,Number,63483,3651000
+New York City,2007,Number,58371,3651000
+New York City,2008,Number,60211,3651000
+New York City,2009,Number,59249,3651000
+New York City,2010,Number,59610,3651000
+New York City,2011,Number,58581,3651000
+New York City,2012,Number,55436,3651000
+New York City,2013,Number,54495,3651000
+New York City,2014,Number,55018,3651000
+New York City,2015,Number,54384,3651000
+New York City,2016,Number,56780,3651000
+New York City,2017,Number,59411,3651000
+New York City,2018,Number,57883,3651000
+New York City,2019,Number,54985,3651000
+Manhattan,2019,Number,7075,36061
+Manhattan,2018,Number,7006,36061
+Manhattan,2010,Number,7457,36061
+Manhattan,2011,Number,7134,36061
+Manhattan,2012,Number,7090,36061
+Manhattan,2013,Number,6751,36061
+Manhattan,2014,Number,5982,36061
+Manhattan,2015,Number,6125,36061
+Manhattan,2016,Number,6654,36061
+Manhattan,2017,Number,6960,36061
+Manhattan,2002,Number,8058,36061
+Manhattan,2003,Number,7288,36061
+Manhattan,2004,Number,6804,36061
+Manhattan,2005,Number,6817,36061
+Manhattan,2006,Number,9128,36061
+Manhattan,2007,Number,8234,36061
+Manhattan,2008,Number,7805,36061
+Manhattan,2009,Number,6369,36061
+Battery Park/Tribeca,2010,Number,93,101
+Battery Park/Tribeca,2012,Number,83,101
+Battery Park/Tribeca,2011,Number,122,101
+Battery Park/Tribeca,2016,Number,103,101
+Battery Park/Tribeca,2015,Number,79,101
+Battery Park/Tribeca,2014,Number,63,101
+Battery Park/Tribeca,2013,Number,113,101
+Battery Park/Tribeca,2009,Number,97,101
+Battery Park/Tribeca,2008,Number,127,101
+Battery Park/Tribeca,2007,Number,138,101
+Battery Park/Tribeca,2006,Number,160,101
+Battery Park/Tribeca,2005,Number,36,101
+Battery Park/Tribeca,2004,Number,39,101
+Battery Park/Tribeca,2003,Number,31,101
+Battery Park/Tribeca,2002,Number,39,101
+Battery Park/Tribeca,2017,Number,123,101
+Battery Park/Tribeca,2019,Number,110,101
+Battery Park/Tribeca,2018,Number,116,101
+Greenwich Village,2018,Number,79,102
+Greenwich Village,2019,Number,64,102
+Greenwich Village,2017,Number,74,102
+Greenwich Village,2002,Number,67,102
+Greenwich Village,2003,Number,68,102
+Greenwich Village,2004,Number,63,102
+Greenwich Village,2005,Number,61,102
+Greenwich Village,2006,Number,95,102
+Greenwich Village,2007,Number,76,102
+Greenwich Village,2008,Number,78,102
+Greenwich Village,2009,Number,75,102
+Greenwich Village,2013,Number,67,102
+Greenwich Village,2014,Number,60,102
+Greenwich Village,2015,Number,60,102
+Greenwich Village,2016,Number,69,102
+Greenwich Village,2011,Number,60,102
+Greenwich Village,2012,Number,73,102
+Greenwich Village,2010,Number,76,102
+Lower East Side,2010,Number,922,103
+Lower East Side,2012,Number,840,103
+Lower East Side,2011,Number,950,103
+Lower East Side,2016,Number,850,103
+Lower East Side,2015,Number,723,103
+Lower East Side,2014,Number,751,103
+Lower East Side,2013,Number,769,103
+Lower East Side,2009,Number,796,103
+Lower East Side,2008,Number,1032,103
+Lower East Side,2007,Number,1094,103
+Lower East Side,2006,Number,1144,103
+Lower East Side,2005,Number,834,103
+Lower East Side,2004,Number,756,103
+Lower East Side,2003,Number,799,103
+Lower East Side,2002,Number,846,103
+Lower East Side,2017,Number,866,103
+Lower East Side,2019,Number,855,103
+Lower East Side,2018,Number,855,103
+Chelsea/Clinton,2018,Number,343,104
+Chelsea/Clinton,2019,Number,364,104
+Chelsea/Clinton,2017,Number,325,104
+Chelsea/Clinton,2002,Number,325,104
+Chelsea/Clinton,2003,Number,299,104
+Chelsea/Clinton,2004,Number,245,104
+Chelsea/Clinton,2005,Number,269,104
+Chelsea/Clinton,2006,Number,384,104
+Chelsea/Clinton,2007,Number,347,104
+Chelsea/Clinton,2008,Number,267,104
+Chelsea/Clinton,2009,Number,263,104
+Chelsea/Clinton,2013,Number,281,104
+Chelsea/Clinton,2014,Number,271,104
+Chelsea/Clinton,2015,Number,268,104
+Chelsea/Clinton,2016,Number,276,104
+Chelsea/Clinton,2011,Number,278,104
+Chelsea/Clinton,2012,Number,263,104
+Chelsea/Clinton,2010,Number,269,104
+Midtown Business District,2010,Number,128,105
+Midtown Business District,2012,Number,120,105
+Midtown Business District,2011,Number,119,105
+Midtown Business District,2016,Number,130,105
+Midtown Business District,2015,Number,113,105
+Midtown Business District,2014,Number,132,105
+Midtown Business District,2013,Number,151,105
+Midtown Business District,2009,Number,89,105
+Midtown Business District,2008,Number,104,105
+Midtown Business District,2007,Number,101,105
+Midtown Business District,2006,Number,120,105
+Midtown Business District,2005,Number,74,105
+Midtown Business District,2004,Number,67,105
+Midtown Business District,2003,Number,79,105
+Midtown Business District,2002,Number,82,105
+Midtown Business District,2017,Number,176,105
+Midtown Business District,2019,Number,350,105
+Midtown Business District,2018,Number,341,105
+Murray Hill/Stuyvesant,2018,Number,162,106
+Murray Hill/Stuyvesant,2019,Number,158,106
+Murray Hill/Stuyvesant,2017,Number,148,106
+Murray Hill/Stuyvesant,2002,Number,122,106
+Murray Hill/Stuyvesant,2003,Number,101,106
+Murray Hill/Stuyvesant,2004,Number,149,106
+Murray Hill/Stuyvesant,2005,Number,125,106
+Murray Hill/Stuyvesant,2006,Number,157,106
+Murray Hill/Stuyvesant,2007,Number,121,106
+Murray Hill/Stuyvesant,2008,Number,120,106
+Murray Hill/Stuyvesant,2009,Number,107,106
+Murray Hill/Stuyvesant,2013,Number,146,106
+Murray Hill/Stuyvesant,2014,Number,94,106
+Murray Hill/Stuyvesant,2015,Number,130,106
+Murray Hill/Stuyvesant,2016,Number,134,106
+Murray Hill/Stuyvesant,2011,Number,149,106
+Murray Hill/Stuyvesant,2012,Number,156,106
+Murray Hill/Stuyvesant,2010,Number,156,106
+Upper West Side,2010,Number,542,107
+Upper West Side,2012,Number,507,107
+Upper West Side,2011,Number,513,107
+Upper West Side,2016,Number,565,107
+Upper West Side,2015,Number,507,107
+Upper West Side,2014,Number,471,107
+Upper West Side,2013,Number,463,107
+Upper West Side,2009,Number,475,107
+Upper West Side,2008,Number,564,107
+Upper West Side,2007,Number,572,107
+Upper West Side,2006,Number,577,107
+Upper West Side,2005,Number,470,107
+Upper West Side,2004,Number,478,107
+Upper West Side,2003,Number,519,107
+Upper West Side,2002,Number,492,107
+Upper West Side,2017,Number,611,107
+Upper West Side,2019,Number,633,107
+Upper West Side,2018,Number,560,107
+Upper East Side,2018,Number,259,108
+Upper East Side,2019,Number,277,108
+Upper East Side,2017,Number,242,108
+Upper East Side,2002,Number,212,108
+Upper East Side,2003,Number,164,108
+Upper East Side,2004,Number,232,108
+Upper East Side,2005,Number,192,108
+Upper East Side,2006,Number,247,108
+Upper East Side,2007,Number,213,108
+Upper East Side,2008,Number,224,108
+Upper East Side,2009,Number,243,108
+Upper East Side,2013,Number,225,108
+Upper East Side,2014,Number,230,108
+Upper East Side,2015,Number,237,108
+Upper East Side,2016,Number,220,108
+Upper East Side,2011,Number,216,108
+Upper East Side,2012,Number,268,108
+Upper East Side,2010,Number,262,108
+Manhattanville,2010,Number,803,109
+Manhattanville,2012,Number,745,109
+Manhattanville,2011,Number,751,109
+Manhattanville,2016,Number,774,109
+Manhattanville,2015,Number,681,109
+Manhattanville,2014,Number,670,109
+Manhattanville,2013,Number,720,109
+Manhattanville,2009,Number,687,109
+Manhattanville,2008,Number,856,109
+Manhattanville,2007,Number,926,109
+Manhattanville,2006,Number,1011,109
+Manhattanville,2005,Number,730,109
+Manhattanville,2004,Number,824,109
+Manhattanville,2003,Number,792,109
+Manhattanville,2002,Number,922,109
+Manhattanville,2017,Number,716,109
+Manhattanville,2019,Number,694,109
+Manhattanville,2018,Number,669,109
+Central Harlem,2018,Number,1283,110
+Central Harlem,2019,Number,1196,110
+Central Harlem,2017,Number,1351,110
+Central Harlem,2002,Number,1574,110
+Central Harlem,2003,Number,1354,110
+Central Harlem,2004,Number,1200,110
+Central Harlem,2005,Number,1208,110
+Central Harlem,2006,Number,1755,110
+Central Harlem,2007,Number,1595,110
+Central Harlem,2008,Number,1472,110
+Central Harlem,2009,Number,1144,110
+Central Harlem,2013,Number,1373,110
+Central Harlem,2014,Number,1133,110
+Central Harlem,2015,Number,1126,110
+Central Harlem,2016,Number,1269,110
+Central Harlem,2011,Number,1329,110
+Central Harlem,2012,Number,1356,110
+Central Harlem,2010,Number,1323,110
+East Harlem,2010,Number,1564,111
+East Harlem,2012,Number,1457,111
+East Harlem,2011,Number,1441,111
+East Harlem,2016,Number,1342,111
+East Harlem,2015,Number,1329,111
+East Harlem,2014,Number,1286,111
+East Harlem,2013,Number,1468,111
+East Harlem,2009,Number,1296,111
+East Harlem,2008,Number,1619,111
+East Harlem,2007,Number,1681,111
+East Harlem,2006,Number,1832,111
+East Harlem,2005,Number,1460,111
+East Harlem,2004,Number,1412,111
+East Harlem,2003,Number,1541,111
+East Harlem,2002,Number,1807,111
+East Harlem,2017,Number,1452,111
+East Harlem,2019,Number,1556,111
+East Harlem,2018,Number,1432,111
+Washington Heights,2018,Number,907,112
+Washington Heights,2019,Number,818,112
+Washington Heights,2017,Number,876,112
+Washington Heights,2002,Number,1359,112
+Washington Heights,2003,Number,1186,112
+Washington Heights,2004,Number,1119,112
+Washington Heights,2005,Number,1052,112
+Washington Heights,2006,Number,1358,112
+Washington Heights,2007,Number,1212,112
+Washington Heights,2008,Number,1092,112
+Washington Heights,2009,Number,903,112
+Washington Heights,2013,Number,975,112
+Washington Heights,2014,Number,821,112
+Washington Heights,2015,Number,872,112
+Washington Heights,2016,Number,922,112
+Washington Heights,2011,Number,1018,112
+Washington Heights,2012,Number,975,112
+Washington Heights,2010,Number,1084,112
+Bronx,2009,Number,20165,36005
+Bronx,2008,Number,16601,36005
+Bronx,2007,Number,16652,36005
+Bronx,2006,Number,18295,36005
+Bronx,2005,Number,13546,36005
+Bronx,2004,Number,13822,36005
+Bronx,2003,Number,14619,36005
+Bronx,2002,Number,14362,36005
+Bronx,2017,Number,17291,36005
+Bronx,2016,Number,16805,36005
+Bronx,2015,Number,15928,36005
+Bronx,2014,Number,16074,36005
+Bronx,2013,Number,15341,36005
+Bronx,2012,Number,16429,36005
+Bronx,2011,Number,16972,36005
+Bronx,2010,Number,17110,36005
+Bronx,2019,Number,15926,36005
+Bronx,2018,Number,16912,36005
+Mott Haven,2019,Number,1799,201
+Mott Haven,2018,Number,1826,201
+Mott Haven,2017,Number,1769,201
+Mott Haven,2010,Number,1638,201
+Mott Haven,2012,Number,1584,201
+Mott Haven,2011,Number,1790,201
+Mott Haven,2016,Number,1699,201
+Mott Haven,2015,Number,1674,201
+Mott Haven,2014,Number,1611,201
+Mott Haven,2013,Number,1500,201
+Mott Haven,2009,Number,1930,201
+Mott Haven,2008,Number,1514,201
+Mott Haven,2007,Number,1557,201
+Mott Haven,2006,Number,1811,201
+Mott Haven,2005,Number,1285,201
+Mott Haven,2004,Number,1265,201
+Mott Haven,2003,Number,1275,201
+Mott Haven,2002,Number,1131,201
+Hunts Point,2002,Number,693,202
+Hunts Point,2003,Number,840,202
+Hunts Point,2004,Number,720,202
+Hunts Point,2005,Number,699,202
+Hunts Point,2006,Number,1002,202
+Hunts Point,2007,Number,901,202
+Hunts Point,2008,Number,855,202
+Hunts Point,2009,Number,1188,202
+Hunts Point,2013,Number,980,202
+Hunts Point,2014,Number,983,202
+Hunts Point,2015,Number,929,202
+Hunts Point,2016,Number,933,202
+Hunts Point,2011,Number,974,202
+Hunts Point,2012,Number,1045,202
+Hunts Point,2010,Number,1003,202
+Hunts Point,2017,Number,1009,202
+Hunts Point,2018,Number,932,202
+Hunts Point,2019,Number,877,202
+Morrisania,2019,Number,1487,203
+Morrisania,2018,Number,1607,203
+Morrisania,2017,Number,1718,203
+Morrisania,2010,Number,1402,203
+Morrisania,2012,Number,1432,203
+Morrisania,2011,Number,1463,203
+Morrisania,2016,Number,1456,203
+Morrisania,2015,Number,1428,203
+Morrisania,2014,Number,1449,203
+Morrisania,2013,Number,1354,203
+Morrisania,2009,Number,1691,203
+Morrisania,2008,Number,1408,203
+Morrisania,2007,Number,1420,203
+Morrisania,2006,Number,1548,203
+Morrisania,2005,Number,1064,203
+Morrisania,2004,Number,1125,203
+Morrisania,2003,Number,1191,203
+Morrisania,2002,Number,1171,203
+Concourse/Highbridge,2002,Number,1719,204
+Concourse/Highbridge,2003,Number,1846,204
+Concourse/Highbridge,2004,Number,1772,204
+Concourse/Highbridge,2005,Number,1566,204
+Concourse/Highbridge,2006,Number,2234,204
+Concourse/Highbridge,2007,Number,2047,204
+Concourse/Highbridge,2008,Number,1871,204
+Concourse/Highbridge,2009,Number,2570,204
+Concourse/Highbridge,2013,Number,1836,204
+Concourse/Highbridge,2014,Number,1957,204
+Concourse/Highbridge,2015,Number,1831,204
+Concourse/Highbridge,2016,Number,2022,204
+Concourse/Highbridge,2011,Number,1861,204
+Concourse/Highbridge,2012,Number,1895,204
+Concourse/Highbridge,2010,Number,2047,204
+Concourse/Highbridge,2017,Number,2004,204
+Concourse/Highbridge,2018,Number,2034,204
+Concourse/Highbridge,2019,Number,1846,204
+University Heights,2019,Number,1632,205
+University Heights,2018,Number,1830,205
+University Heights,2017,Number,1854,205
+University Heights,2010,Number,1841,205
+University Heights,2012,Number,1706,205
+University Heights,2011,Number,1723,205
+University Heights,2016,Number,1849,205
+University Heights,2015,Number,1743,205
+University Heights,2014,Number,1744,205
+University Heights,2013,Number,1697,205
+University Heights,2009,Number,2347,205
+University Heights,2008,Number,1897,205
+University Heights,2007,Number,1946,205
+University Heights,2006,Number,2111,205
+University Heights,2005,Number,1492,205
+University Heights,2004,Number,1576,205
+University Heights,2003,Number,1700,205
+University Heights,2002,Number,1670,205
+East Tremont,2002,Number,1264,206
+East Tremont,2003,Number,1206,206
+East Tremont,2004,Number,1170,206
+East Tremont,2005,Number,1113,206
+East Tremont,2006,Number,1692,206
+East Tremont,2007,Number,1656,206
+East Tremont,2008,Number,1417,206
+East Tremont,2009,Number,1839,206
+East Tremont,2013,Number,1383,206
+East Tremont,2014,Number,1563,206
+East Tremont,2015,Number,1706,206
+East Tremont,2016,Number,1680,206
+East Tremont,2011,Number,1614,206
+East Tremont,2012,Number,1479,206
+East Tremont,2010,Number,1560,206
+East Tremont,2017,Number,1674,206
+East Tremont,2018,Number,1486,206
+East Tremont,2019,Number,1499,206
+Bedford Park,2019,Number,1207,207
+Bedford Park,2018,Number,1346,207
+Bedford Park,2017,Number,1380,207
+Bedford Park,2010,Number,1500,207
+Bedford Park,2012,Number,1342,207
+Bedford Park,2011,Number,1498,207
+Bedford Park,2016,Number,1457,207
+Bedford Park,2015,Number,1343,207
+Bedford Park,2014,Number,1413,207
+Bedford Park,2013,Number,1436,207
+Bedford Park,2009,Number,1753,207
+Bedford Park,2008,Number,1507,207
+Bedford Park,2007,Number,1476,207
+Bedford Park,2006,Number,1559,207
+Bedford Park,2005,Number,1182,207
+Bedford Park,2004,Number,1282,207
+Bedford Park,2003,Number,1365,207
+Bedford Park,2002,Number,1368,207
+Riverdale,2002,Number,426,208
+Riverdale,2003,Number,423,208
+Riverdale,2004,Number,418,208
+Riverdale,2005,Number,396,208
+Riverdale,2006,Number,531,208
+Riverdale,2007,Number,450,208
+Riverdale,2008,Number,489,208
+Riverdale,2009,Number,501,208
+Riverdale,2013,Number,417,208
+Riverdale,2014,Number,426,208
+Riverdale,2015,Number,455,208
+Riverdale,2016,Number,516,208
+Riverdale,2011,Number,435,208
+Riverdale,2012,Number,501,208
+Riverdale,2010,Number,466,208
+Riverdale,2017,Number,513,208
+Riverdale,2018,Number,550,208
+Riverdale,2019,Number,508,208
+Unionport/Soundview,2019,Number,1878,209
+Unionport/Soundview,2018,Number,1915,209
+Unionport/Soundview,2017,Number,1939,209
+Unionport/Soundview,2010,Number,2018,209
+Unionport/Soundview,2012,Number,1960,209
+Unionport/Soundview,2011,Number,2035,209
+Unionport/Soundview,2016,Number,1850,209
+Unionport/Soundview,2015,Number,1753,209
+Unionport/Soundview,2014,Number,1862,209
+Unionport/Soundview,2013,Number,1865,209
+Unionport/Soundview,2009,Number,2438,209
+Unionport/Soundview,2008,Number,2037,209
+Unionport/Soundview,2007,Number,1944,209
+Unionport/Soundview,2006,Number,2171,209
+Unionport/Soundview,2005,Number,1783,209
+Unionport/Soundview,2004,Number,1843,209
+Unionport/Soundview,2003,Number,1832,209
+Unionport/Soundview,2002,Number,1966,209
+Throgs Neck,2002,Number,573,210
+Throgs Neck,2003,Number,531,210
+Throgs Neck,2004,Number,536,210
+Throgs Neck,2005,Number,509,210
+Throgs Neck,2006,Number,626,210
+Throgs Neck,2007,Number,605,210
+Throgs Neck,2008,Number,628,210
+Throgs Neck,2009,Number,721,210
+Throgs Neck,2013,Number,584,210
+Throgs Neck,2014,Number,682,210
+Throgs Neck,2015,Number,703,210
+Throgs Neck,2016,Number,690,210
+Throgs Neck,2011,Number,694,210
+Throgs Neck,2012,Number,641,210
+Throgs Neck,2010,Number,700,210
+Throgs Neck,2017,Number,817,210
+Throgs Neck,2018,Number,787,210
+Throgs Neck,2019,Number,764,210
+Pelham Parkway,2019,Number,822,211
+Pelham Parkway,2018,Number,845,211
+Pelham Parkway,2017,Number,840,211
+Pelham Parkway,2010,Number,865,211
+Pelham Parkway,2012,Number,816,211
+Pelham Parkway,2011,Number,903,211
+Pelham Parkway,2016,Number,913,211
+Pelham Parkway,2015,Number,796,211
+Pelham Parkway,2014,Number,822,211
+Pelham Parkway,2013,Number,761,211
+Pelham Parkway,2009,Number,852,211
+Pelham Parkway,2008,Number,824,211
+Pelham Parkway,2007,Number,751,211
+Pelham Parkway,2006,Number,844,211
+Pelham Parkway,2005,Number,601,211
+Pelham Parkway,2004,Number,647,211
+Pelham Parkway,2003,Number,629,211
+Pelham Parkway,2002,Number,680,211
+Williamsbridge,2002,Number,1184,212
+Williamsbridge,2003,Number,1027,212
+Williamsbridge,2004,Number,1029,212
+Williamsbridge,2005,Number,1142,212
+Williamsbridge,2006,Number,1547,212
+Williamsbridge,2007,Number,1472,212
+Williamsbridge,2008,Number,1648,212
+Williamsbridge,2009,Number,1898,212
+Williamsbridge,2013,Number,1528,212
+Williamsbridge,2014,Number,1562,212
+Williamsbridge,2015,Number,1567,212
+Williamsbridge,2016,Number,1740,212
+Williamsbridge,2011,Number,1711,212
+Williamsbridge,2012,Number,1628,212
+Williamsbridge,2010,Number,1634,212
+Williamsbridge,2017,Number,1774,212
+Williamsbridge,2018,Number,1754,212
+Williamsbridge,2019,Number,1607,212
+Brooklyn,2018,Number,15204,36047
+Brooklyn,2019,Number,13978,36047
+Brooklyn,2010,Number,17761,36047
+Brooklyn,2011,Number,17118,36047
+Brooklyn,2012,Number,15866,36047
+Brooklyn,2013,Number,14925,36047
+Brooklyn,2014,Number,15049,36047
+Brooklyn,2015,Number,14728,36047
+Brooklyn,2016,Number,15738,36047
+Brooklyn,2017,Number,16104,36047
+Brooklyn,2002,Number,18272,36047
+Brooklyn,2003,Number,16994,36047
+Brooklyn,2004,Number,15157,36047
+Brooklyn,2005,Number,14395,36047
+Brooklyn,2006,Number,19193,36047
+Brooklyn,2007,Number,17338,36047
+Brooklyn,2008,Number,17672,36047
+Brooklyn,2009,Number,18647,36047
+Williamsburg/Greenpoint,2010,Number,589,301
+Williamsburg/Greenpoint,2012,Number,486,301
+Williamsburg/Greenpoint,2011,Number,614,301
+Williamsburg/Greenpoint,2016,Number,519,301
+Williamsburg/Greenpoint,2015,Number,481,301
+Williamsburg/Greenpoint,2014,Number,483,301
+Williamsburg/Greenpoint,2013,Number,517,301
+Williamsburg/Greenpoint,2009,Number,685,301
+Williamsburg/Greenpoint,2008,Number,652,301
+Williamsburg/Greenpoint,2007,Number,732,301
+Williamsburg/Greenpoint,2006,Number,864,301
+Williamsburg/Greenpoint,2005,Number,586,301
+Williamsburg/Greenpoint,2004,Number,629,301
+Williamsburg/Greenpoint,2003,Number,681,301
+Williamsburg/Greenpoint,2002,Number,688,301
+Williamsburg/Greenpoint,2017,Number,570,301
+Williamsburg/Greenpoint,2019,Number,521,301
+Williamsburg/Greenpoint,2018,Number,633,301
+Fort Greene/Brooklyn Hts,2018,Number,423,302
+Fort Greene/Brooklyn Hts,2019,Number,415,302
+Fort Greene/Brooklyn Hts,2017,Number,442,302
+Fort Greene/Brooklyn Hts,2002,Number,551,302
+Fort Greene/Brooklyn Hts,2003,Number,578,302
+Fort Greene/Brooklyn Hts,2004,Number,455,302
+Fort Greene/Brooklyn Hts,2005,Number,433,302
+Fort Greene/Brooklyn Hts,2006,Number,588,302
+Fort Greene/Brooklyn Hts,2007,Number,563,302
+Fort Greene/Brooklyn Hts,2008,Number,442,302
+Fort Greene/Brooklyn Hts,2009,Number,555,302
+Fort Greene/Brooklyn Hts,2013,Number,462,302
+Fort Greene/Brooklyn Hts,2014,Number,417,302
+Fort Greene/Brooklyn Hts,2015,Number,397,302
+Fort Greene/Brooklyn Hts,2016,Number,397,302
+Fort Greene/Brooklyn Hts,2011,Number,459,302
+Fort Greene/Brooklyn Hts,2012,Number,470,302
+Fort Greene/Brooklyn Hts,2010,Number,496,302
+Bedford Stuyvesant,2010,Number,2046,303
+Bedford Stuyvesant,2012,Number,1669,303
+Bedford Stuyvesant,2011,Number,1918,303
+Bedford Stuyvesant,2016,Number,1341,303
+Bedford Stuyvesant,2015,Number,1426,303
+Bedford Stuyvesant,2014,Number,1465,303
+Bedford Stuyvesant,2013,Number,1584,303
+Bedford Stuyvesant,2009,Number,2115,303
+Bedford Stuyvesant,2008,Number,2038,303
+Bedford Stuyvesant,2007,Number,2009,303
+Bedford Stuyvesant,2006,Number,2179,303
+Bedford Stuyvesant,2005,Number,1715,303
+Bedford Stuyvesant,2004,Number,1800,303
+Bedford Stuyvesant,2003,Number,1932,303
+Bedford Stuyvesant,2002,Number,1817,303
+Bedford Stuyvesant,2017,Number,1424,303
+Bedford Stuyvesant,2019,Number,1152,303
+Bedford Stuyvesant,2018,Number,1344,303
+Bushwick,2018,Number,701,304
+Bushwick,2019,Number,699,304
+Bushwick,2017,Number,833,304
+Bushwick,2002,Number,1227,304
+Bushwick,2003,Number,1262,304
+Bushwick,2004,Number,1099,304
+Bushwick,2005,Number,1095,304
+Bushwick,2006,Number,1557,304
+Bushwick,2007,Number,1343,304
+Bushwick,2008,Number,1291,304
+Bushwick,2009,Number,1355,304
+Bushwick,2013,Number,972,304
+Bushwick,2014,Number,1006,304
+Bushwick,2015,Number,807,304
+Bushwick,2016,Number,894,304
+Bushwick,2011,Number,1091,304
+Bushwick,2012,Number,1013,304
+Bushwick,2010,Number,1267,304
+East New York,2010,Number,2485,305
+East New York,2012,Number,2284,305
+East New York,2011,Number,2486,305
+East New York,2016,Number,2353,305
+East New York,2015,Number,2148,305
+East New York,2014,Number,2187,305
+East New York,2013,Number,2137,305
+East New York,2009,Number,2502,305
+East New York,2008,Number,2375,305
+East New York,2007,Number,2442,305
+East New York,2006,Number,2562,305
+East New York,2005,Number,1719,305
+East New York,2004,Number,1915,305
+East New York,2003,Number,2048,305
+East New York,2002,Number,2080,305
+East New York,2017,Number,2319,305
+East New York,2019,Number,1953,305
+East New York,2018,Number,2117,305
+Park Slope,2018,Number,369,306
+Park Slope,2019,Number,366,306
+Park Slope,2017,Number,361,306
+Park Slope,2002,Number,558,306
+Park Slope,2003,Number,546,306
+Park Slope,2004,Number,529,306
+Park Slope,2005,Number,478,306
+Park Slope,2006,Number,542,306
+Park Slope,2007,Number,417,306
+Park Slope,2008,Number,435,306
+Park Slope,2009,Number,501,306
+Park Slope,2013,Number,326,306
+Park Slope,2014,Number,332,306
+Park Slope,2015,Number,305,306
+Park Slope,2016,Number,330,306
+Park Slope,2011,Number,385,306
+Park Slope,2012,Number,349,306
+Park Slope,2010,Number,435,306
+Sunset Park,2010,Number,664,307
+Sunset Park,2012,Number,580,307
+Sunset Park,2011,Number,614,307
+Sunset Park,2016,Number,667,307
+Sunset Park,2015,Number,504,307
+Sunset Park,2014,Number,583,307
+Sunset Park,2013,Number,558,307
+Sunset Park,2009,Number,689,307
+Sunset Park,2008,Number,619,307
+Sunset Park,2007,Number,593,307
+Sunset Park,2006,Number,716,307
+Sunset Park,2005,Number,564,307
+Sunset Park,2004,Number,508,307
+Sunset Park,2003,Number,541,307
+Sunset Park,2002,Number,651,307
+Sunset Park,2017,Number,658,307
+Sunset Park,2019,Number,630,307
+Sunset Park,2018,Number,616,307
+Crown Heights North,2018,Number,774,308
+Crown Heights North,2019,Number,648,308
+Crown Heights North,2017,Number,805,308
+Crown Heights North,2002,Number,1048,308
+Crown Heights North,2003,Number,977,308
+Crown Heights North,2004,Number,939,308
+Crown Heights North,2005,Number,875,308
+Crown Heights North,2006,Number,1073,308
+Crown Heights North,2007,Number,990,308
+Crown Heights North,2008,Number,957,308
+Crown Heights North,2009,Number,1025,308
+Crown Heights North,2013,Number,791,308
+Crown Heights North,2014,Number,759,308
+Crown Heights North,2015,Number,757,308
+Crown Heights North,2016,Number,821,308
+Crown Heights North,2011,Number,929,308
+Crown Heights North,2012,Number,799,308
+Crown Heights North,2010,Number,912,308
+Crown Heights South,2010,Number,643,309
+Crown Heights South,2012,Number,529,309
+Crown Heights South,2011,Number,613,309
+Crown Heights South,2016,Number,524,309
+Crown Heights South,2015,Number,512,309
+Crown Heights South,2014,Number,514,309
+Crown Heights South,2013,Number,541,309
+Crown Heights South,2009,Number,661,309
+Crown Heights South,2008,Number,595,309
+Crown Heights South,2007,Number,601,309
+Crown Heights South,2006,Number,696,309
+Crown Heights South,2005,Number,546,309
+Crown Heights South,2004,Number,611,309
+Crown Heights South,2003,Number,645,309
+Crown Heights South,2002,Number,735,309
+Crown Heights South,2017,Number,514,309
+Crown Heights South,2019,Number,459,309
+Crown Heights South,2018,Number,522,309
+Bay Ridge,2018,Number,385,310
+Bay Ridge,2019,Number,335,310
+Bay Ridge,2017,Number,390,310
+Bay Ridge,2002,Number,320,310
+Bay Ridge,2003,Number,298,310
+Bay Ridge,2004,Number,331,310
+Bay Ridge,2005,Number,260,310
+Bay Ridge,2006,Number,398,310
+Bay Ridge,2007,Number,354,310
+Bay Ridge,2008,Number,385,310
+Bay Ridge,2009,Number,426,310
+Bay Ridge,2013,Number,325,310
+Bay Ridge,2014,Number,338,310
+Bay Ridge,2015,Number,372,310
+Bay Ridge,2016,Number,392,310
+Bay Ridge,2011,Number,373,310
+Bay Ridge,2012,Number,359,310
+Bay Ridge,2010,Number,352,310
+Bensonhurst,2010,Number,596,311
+Bensonhurst,2012,Number,616,311
+Bensonhurst,2011,Number,611,311
+Bensonhurst,2016,Number,619,311
+Bensonhurst,2015,Number,616,311
+Bensonhurst,2014,Number,554,311
+Bensonhurst,2013,Number,562,311
+Bensonhurst,2009,Number,596,311
+Bensonhurst,2008,Number,593,311
+Bensonhurst,2007,Number,624,311
+Bensonhurst,2006,Number,623,311
+Bensonhurst,2005,Number,497,311
+Bensonhurst,2004,Number,525,311
+Bensonhurst,2003,Number,591,311
+Bensonhurst,2002,Number,636,311
+Bensonhurst,2017,Number,656,311
+Bensonhurst,2019,Number,584,311
+Bensonhurst,2018,Number,648,311
+Borough Park,2018,Number,469,312
+Borough Park,2019,Number,484,312
+Borough Park,2017,Number,531,312
+Borough Park,2002,Number,511,312
+Borough Park,2003,Number,420,312
+Borough Park,2004,Number,381,312
+Borough Park,2005,Number,362,312
+Borough Park,2006,Number,462,312
+Borough Park,2007,Number,554,312
+Borough Park,2008,Number,489,312
+Borough Park,2009,Number,545,312
+Borough Park,2013,Number,426,312
+Borough Park,2014,Number,462,312
+Borough Park,2015,Number,412,312
+Borough Park,2016,Number,509,312
+Borough Park,2011,Number,451,312
+Borough Park,2012,Number,450,312
+Borough Park,2010,Number,484,312
+Coney Island,2010,Number,704,313
+Coney Island,2012,Number,649,313
+Coney Island,2011,Number,767,313
+Coney Island,2016,Number,757,313
+Coney Island,2015,Number,762,313
+Coney Island,2014,Number,664,313
+Coney Island,2013,Number,598,313
+Coney Island,2009,Number,736,313
+Coney Island,2008,Number,707,313
+Coney Island,2007,Number,755,313
+Coney Island,2006,Number,805,313
+Coney Island,2005,Number,665,313
+Coney Island,2004,Number,663,313
+Coney Island,2003,Number,754,313
+Coney Island,2002,Number,1041,313
+Coney Island,2017,Number,809,313
+Coney Island,2019,Number,712,313
+Coney Island,2018,Number,768,313
+Flatbush/Midwood,2018,Number,780,314
+Flatbush/Midwood,2019,Number,691,314
+Flatbush/Midwood,2017,Number,844,314
+Flatbush/Midwood,2002,Number,1074,314
+Flatbush/Midwood,2003,Number,1030,314
+Flatbush/Midwood,2004,Number,911,314
+Flatbush/Midwood,2005,Number,737,314
+Flatbush/Midwood,2006,Number,1106,314
+Flatbush/Midwood,2007,Number,966,314
+Flatbush/Midwood,2008,Number,1027,314
+Flatbush/Midwood,2009,Number,1140,314
+Flatbush/Midwood,2013,Number,941,314
+Flatbush/Midwood,2014,Number,847,314
+Flatbush/Midwood,2015,Number,818,314
+Flatbush/Midwood,2016,Number,884,314
+Flatbush/Midwood,2011,Number,1003,314
+Flatbush/Midwood,2012,Number,955,314
+Flatbush/Midwood,2010,Number,1050,314
+Sheepshead Bay,2010,Number,536,315
+Sheepshead Bay,2012,Number,516,315
+Sheepshead Bay,2011,Number,492,315
+Sheepshead Bay,2016,Number,537,315
+Sheepshead Bay,2015,Number,475,315
+Sheepshead Bay,2014,Number,519,315
+Sheepshead Bay,2013,Number,501,315
+Sheepshead Bay,2009,Number,570,315
+Sheepshead Bay,2008,Number,567,315
+Sheepshead Bay,2007,Number,486,315
+Sheepshead Bay,2006,Number,537,315
+Sheepshead Bay,2005,Number,423,315
+Sheepshead Bay,2004,Number,451,315
+Sheepshead Bay,2003,Number,549,315
+Sheepshead Bay,2002,Number,658,315
+Sheepshead Bay,2017,Number,597,315
+Sheepshead Bay,2019,Number,505,315
+Sheepshead Bay,2018,Number,609,315
+Brownsville,2018,Number,1667,316
+Brownsville,2019,Number,1536,316
+Brownsville,2017,Number,1763,316
+Brownsville,2002,Number,1606,316
+Brownsville,2003,Number,1399,316
+Brownsville,2004,Number,1262,316
+Brownsville,2005,Number,1212,316
+Brownsville,2006,Number,1653,316
+Brownsville,2007,Number,1441,316
+Brownsville,2008,Number,1662,316
+Brownsville,2009,Number,1665,316
+Brownsville,2013,Number,1553,316
+Brownsville,2014,Number,1625,316
+Brownsville,2015,Number,1572,316
+Brownsville,2016,Number,1702,316
+Brownsville,2011,Number,1683,316
+Brownsville,2012,Number,1595,316
+Brownsville,2010,Number,1724,316
+East Flatbush,2010,Number,1327,317
+East Flatbush,2012,Number,1205,317
+East Flatbush,2011,Number,1341,317
+East Flatbush,2016,Number,1343,317
+East Flatbush,2015,Number,1302,317
+East Flatbush,2014,Number,1284,317
+East Flatbush,2013,Number,1166,317
+East Flatbush,2009,Number,1368,317
+East Flatbush,2008,Number,1278,317
+East Flatbush,2007,Number,1220,317
+East Flatbush,2006,Number,1243,317
+East Flatbush,2005,Number,879,317
+East Flatbush,2004,Number,948,317
+East Flatbush,2003,Number,1133,317
+East Flatbush,2002,Number,1388,317
+East Flatbush,2017,Number,1363,317
+East Flatbush,2019,Number,1149,317
+East Flatbush,2018,Number,1236,317
+Canarsie,2018,Number,1143,318
+Canarsie,2019,Number,1139,318
+Canarsie,2017,Number,1225,318
+Canarsie,2002,Number,1193,318
+Canarsie,2003,Number,936,318
+Canarsie,2004,Number,899,318
+Canarsie,2005,Number,824,318
+Canarsie,2006,Number,1009,318
+Canarsie,2007,Number,989,318
+Canarsie,2008,Number,1090,318
+Canarsie,2009,Number,1083,318
+Canarsie,2013,Number,965,318
+Canarsie,2014,Number,1010,318
+Canarsie,2015,Number,1062,318
+Canarsie,2016,Number,1149,318
+Canarsie,2011,Number,1076,318
+Canarsie,2012,Number,969,318
+Canarsie,2010,Number,1016,318
+Queens,2009,Number,10406,36081
+Queens,2008,Number,12059,36081
+Queens,2007,Number,10907,36081
+Queens,2006,Number,11672,36081
+Queens,2005,Number,9843,36081
+Queens,2004,Number,9632,36081
+Queens,2003,Number,10461,36081
+Queens,2002,Number,11795,36081
+Queens,2017,Number,11459,36081
+Queens,2016,Number,10301,36081
+Queens,2015,Number,10059,36081
+Queens,2014,Number,9941,36081
+Queens,2013,Number,10105,36081
+Queens,2012,Number,10656,36081
+Queens,2011,Number,11540,36081
+Queens,2010,Number,11791,36081
+Queens,2018,Number,11405,36081
+Queens,2019,Number,11057,36081
+Astoria,2019,Number,768,401
+Astoria,2017,Number,870,401
+Astoria,2018,Number,841,401
+Astoria,2010,Number,776,401
+Astoria,2012,Number,737,401
+Astoria,2011,Number,788,401
+Astoria,2016,Number,707,401
+Astoria,2015,Number,728,401
+Astoria,2014,Number,693,401
+Astoria,2013,Number,635,401
+Astoria,2009,Number,775,401
+Astoria,2008,Number,788,401
+Astoria,2007,Number,843,401
+Astoria,2006,Number,978,401
+Astoria,2005,Number,905,401
+Astoria,2004,Number,898,401
+Astoria,2003,Number,995,401
+Astoria,2002,Number,885,401
+Sunnyside/Woodside,2002,Number,353,402
+Sunnyside/Woodside,2003,Number,338,402
+Sunnyside/Woodside,2004,Number,343,402
+Sunnyside/Woodside,2005,Number,318,402
+Sunnyside/Woodside,2006,Number,368,402
+Sunnyside/Woodside,2007,Number,335,402
+Sunnyside/Woodside,2008,Number,359,402
+Sunnyside/Woodside,2009,Number,349,402
+Sunnyside/Woodside,2013,Number,314,402
+Sunnyside/Woodside,2014,Number,338,402
+Sunnyside/Woodside,2015,Number,311,402
+Sunnyside/Woodside,2016,Number,403,402
+Sunnyside/Woodside,2011,Number,343,402
+Sunnyside/Woodside,2012,Number,322,402
+Sunnyside/Woodside,2010,Number,404,402
+Sunnyside/Woodside,2018,Number,403,402
+Sunnyside/Woodside,2017,Number,413,402
+Sunnyside/Woodside,2019,Number,406,402
+Jackson Heights,2019,Number,1007,403
+Jackson Heights,2017,Number,1004,403
+Jackson Heights,2018,Number,1101,403
+Jackson Heights,2010,Number,887,403
+Jackson Heights,2012,Number,919,403
+Jackson Heights,2011,Number,981,403
+Jackson Heights,2016,Number,944,403
+Jackson Heights,2015,Number,896,403
+Jackson Heights,2014,Number,894,403
+Jackson Heights,2013,Number,891,403
+Jackson Heights,2009,Number,799,403
+Jackson Heights,2008,Number,881,403
+Jackson Heights,2007,Number,786,403
+Jackson Heights,2006,Number,862,403
+Jackson Heights,2005,Number,718,403
+Jackson Heights,2004,Number,674,403
+Jackson Heights,2003,Number,699,403
+Jackson Heights,2002,Number,764,403
+Elmhurst/Corona,2002,Number,654,404
+Elmhurst/Corona,2003,Number,585,404
+Elmhurst/Corona,2004,Number,554,404
+Elmhurst/Corona,2005,Number,586,404
+Elmhurst/Corona,2006,Number,780,404
+Elmhurst/Corona,2007,Number,745,404
+Elmhurst/Corona,2008,Number,819,404
+Elmhurst/Corona,2009,Number,820,404
+Elmhurst/Corona,2013,Number,668,404
+Elmhurst/Corona,2014,Number,766,404
+Elmhurst/Corona,2015,Number,781,404
+Elmhurst/Corona,2016,Number,752,404
+Elmhurst/Corona,2011,Number,850,404
+Elmhurst/Corona,2012,Number,752,404
+Elmhurst/Corona,2010,Number,800,404
+Elmhurst/Corona,2018,Number,842,404
+Elmhurst/Corona,2017,Number,783,404
+Elmhurst/Corona,2019,Number,874,404
+Ridgewood/Glendale,2019,Number,591,405
+Ridgewood/Glendale,2017,Number,655,405
+Ridgewood/Glendale,2018,Number,685,405
+Ridgewood/Glendale,2010,Number,795,405
+Ridgewood/Glendale,2012,Number,751,405
+Ridgewood/Glendale,2011,Number,777,405
+Ridgewood/Glendale,2016,Number,609,405
+Ridgewood/Glendale,2015,Number,578,405
+Ridgewood/Glendale,2014,Number,653,405
+Ridgewood/Glendale,2013,Number,689,405
+Ridgewood/Glendale,2009,Number,658,405
+Ridgewood/Glendale,2008,Number,811,405
+Ridgewood/Glendale,2007,Number,755,405
+Ridgewood/Glendale,2006,Number,792,405
+Ridgewood/Glendale,2005,Number,646,405
+Ridgewood/Glendale,2004,Number,648,405
+Ridgewood/Glendale,2003,Number,650,405
+Ridgewood/Glendale,2002,Number,748,405
+Rego Park/Forest Hills,2002,Number,195,406
+Rego Park/Forest Hills,2003,Number,184,406
+Rego Park/Forest Hills,2004,Number,160,406
+Rego Park/Forest Hills,2005,Number,180,406
+Rego Park/Forest Hills,2006,Number,199,406
+Rego Park/Forest Hills,2007,Number,197,406
+Rego Park/Forest Hills,2008,Number,190,406
+Rego Park/Forest Hills,2009,Number,198,406
+Rego Park/Forest Hills,2013,Number,190,406
+Rego Park/Forest Hills,2014,Number,203,406
+Rego Park/Forest Hills,2015,Number,176,406
+Rego Park/Forest Hills,2016,Number,215,406
+Rego Park/Forest Hills,2011,Number,227,406
+Rego Park/Forest Hills,2012,Number,178,406
+Rego Park/Forest Hills,2010,Number,189,406
+Rego Park/Forest Hills,2018,Number,227,406
+Rego Park/Forest Hills,2017,Number,250,406
+Rego Park/Forest Hills,2019,Number,228,406
+Flushing,2019,Number,711,407
+Flushing,2017,Number,677,407
+Flushing,2018,Number,680,407
+Flushing,2010,Number,597,407
+Flushing,2012,Number,657,407
+Flushing,2011,Number,614,407
+Flushing,2016,Number,589,407
+Flushing,2015,Number,594,407
+Flushing,2014,Number,551,407
+Flushing,2013,Number,516,407
+Flushing,2009,Number,627,407
+Flushing,2008,Number,553,407
+Flushing,2007,Number,676,407
+Flushing,2006,Number,700,407
+Flushing,2005,Number,519,407
+Flushing,2004,Number,499,407
+Flushing,2003,Number,569,407
+Flushing,2002,Number,664,407
+Fresh Meadows/Briarwood,2002,Number,517,408
+Fresh Meadows/Briarwood,2003,Number,432,408
+Fresh Meadows/Briarwood,2004,Number,467,408
+Fresh Meadows/Briarwood,2005,Number,471,408
+Fresh Meadows/Briarwood,2006,Number,575,408
+Fresh Meadows/Briarwood,2007,Number,532,408
+Fresh Meadows/Briarwood,2008,Number,510,408
+Fresh Meadows/Briarwood,2009,Number,474,408
+Fresh Meadows/Briarwood,2013,Number,474,408
+Fresh Meadows/Briarwood,2014,Number,454,408
+Fresh Meadows/Briarwood,2015,Number,507,408
+Fresh Meadows/Briarwood,2016,Number,555,408
+Fresh Meadows/Briarwood,2011,Number,513,408
+Fresh Meadows/Briarwood,2012,Number,552,408
+Fresh Meadows/Briarwood,2010,Number,527,408
+Fresh Meadows/Briarwood,2018,Number,616,408
+Fresh Meadows/Briarwood,2017,Number,546,408
+Fresh Meadows/Briarwood,2019,Number,623,408
+Woodhaven,2019,Number,730,409
+Woodhaven,2017,Number,840,409
+Woodhaven,2018,Number,827,409
+Woodhaven,2010,Number,899,409
+Woodhaven,2012,Number,802,409
+Woodhaven,2011,Number,775,409
+Woodhaven,2016,Number,767,409
+Woodhaven,2015,Number,757,409
+Woodhaven,2014,Number,691,409
+Woodhaven,2013,Number,794,409
+Woodhaven,2009,Number,731,409
+Woodhaven,2008,Number,992,409
+Woodhaven,2007,Number,769,409
+Woodhaven,2006,Number,846,409
+Woodhaven,2005,Number,716,409
+Woodhaven,2004,Number,710,409
+Woodhaven,2003,Number,759,409
+Woodhaven,2002,Number,895,409
+Howard Beach,2002,Number,693,410
+Howard Beach,2003,Number,591,410
+Howard Beach,2004,Number,600,410
+Howard Beach,2005,Number,612,410
+Howard Beach,2006,Number,635,410
+Howard Beach,2007,Number,663,410
+Howard Beach,2008,Number,744,410
+Howard Beach,2009,Number,626,410
+Howard Beach,2013,Number,622,410
+Howard Beach,2014,Number,557,410
+Howard Beach,2015,Number,584,410
+Howard Beach,2016,Number,531,410
+Howard Beach,2011,Number,683,410
+Howard Beach,2012,Number,659,410
+Howard Beach,2010,Number,728,410
+Howard Beach,2018,Number,667,410
+Howard Beach,2017,Number,690,410
+Howard Beach,2019,Number,641,410
+Bayside,2019,Number,258,411
+Bayside,2017,Number,191,411
+Bayside,2018,Number,219,411
+Bayside,2010,Number,230,411
+Bayside,2012,Number,194,411
+Bayside,2011,Number,179,411
+Bayside,2016,Number,194,411
+Bayside,2015,Number,186,411
+Bayside,2014,Number,185,411
+Bayside,2013,Number,193,411
+Bayside,2009,Number,220,411
+Bayside,2008,Number,194,411
+Bayside,2007,Number,230,411
+Bayside,2006,Number,214,411
+Bayside,2005,Number,210,411
+Bayside,2004,Number,197,411
+Bayside,2003,Number,211,411
+Bayside,2002,Number,203,411
+Jamaica/St. Albans,2002,Number,2233,412
+Jamaica/St. Albans,2003,Number,1864,412
+Jamaica/St. Albans,2004,Number,1783,412
+Jamaica/St. Albans,2005,Number,1667,412
+Jamaica/St. Albans,2006,Number,2072,412
+Jamaica/St. Albans,2007,Number,1848,412
+Jamaica/St. Albans,2008,Number,2245,412
+Jamaica/St. Albans,2009,Number,1815,412
+Jamaica/St. Albans,2013,Number,2013,412
+Jamaica/St. Albans,2014,Number,1963,412
+Jamaica/St. Albans,2015,Number,1868,412
+Jamaica/St. Albans,2016,Number,1912,412
+Jamaica/St. Albans,2011,Number,2206,412
+Jamaica/St. Albans,2012,Number,1983,412
+Jamaica/St. Albans,2010,Number,2155,412
+Jamaica/St. Albans,2018,Number,2055,412
+Jamaica/St. Albans,2017,Number,2214,412
+Jamaica/St. Albans,2019,Number,1991,412
+Queens Village,2019,Number,1029,413
+Queens Village,2017,Number,1045,413
+Queens Village,2018,Number,981,413
+Queens Village,2010,Number,1165,413
+Queens Village,2012,Number,933,413
+Queens Village,2011,Number,1058,413
+Queens Village,2016,Number,971,413
+Queens Village,2015,Number,987,413
+Queens Village,2014,Number,933,413
+Queens Village,2013,Number,1042,413
+Queens Village,2009,Number,962,413
+Queens Village,2008,Number,1132,413
+Queens Village,2007,Number,1097,413
+Queens Village,2006,Number,1012,413
+Queens Village,2005,Number,872,413
+Queens Village,2004,Number,872,413
+Queens Village,2003,Number,840,413
+Queens Village,2002,Number,1025,413
+The Rockaways,2002,Number,1312,414
+The Rockaways,2003,Number,1037,414
+The Rockaways,2004,Number,1010,414
+The Rockaways,2005,Number,938,414
+The Rockaways,2006,Number,1153,414
+The Rockaways,2007,Number,1143,414
+The Rockaways,2008,Number,1412,414
+The Rockaways,2009,Number,1124,414
+The Rockaways,2013,Number,1064,414
+The Rockaways,2014,Number,1060,414
+The Rockaways,2015,Number,1106,414
+The Rockaways,2016,Number,1152,414
+The Rockaways,2011,Number,1332,414
+The Rockaways,2012,Number,1045,414
+The Rockaways,2010,Number,1320,414
+The Rockaways,2018,Number,1261,414
+The Rockaways,2017,Number,1281,414
+The Rockaways,2019,Number,1200,414
+Staten Island,2018,Number,3092,36085
+Staten Island,2019,Number,2926,36085
+Staten Island,2010,Number,2913,36085
+Staten Island,2011,Number,2861,36085
+Staten Island,2012,Number,2597,36085
+Staten Island,2013,Number,2605,36085
+Staten Island,2014,Number,2606,36085
+Staten Island,2015,Number,2714,36085
+Staten Island,2016,Number,2875,36085
+Staten Island,2017,Number,3173,36085
+Staten Island,2002,Number,2407,36085
+Staten Island,2003,Number,2426,36085
+Staten Island,2004,Number,2401,36085
+Staten Island,2005,Number,2227,36085
+Staten Island,2006,Number,3094,36085
+Staten Island,2007,Number,2847,36085
+Staten Island,2008,Number,3138,36085
+Staten Island,2009,Number,2321,36085
+St. George,2010,Number,1818,501
+St. George,2012,Number,1592,501
+St. George,2011,Number,1792,501
+St. George,2016,Number,1803,501
+St. George,2015,Number,1693,501
+St. George,2014,Number,1635,501
+St. George,2013,Number,1603,501
+St. George,2009,Number,1327,501
+St. George,2008,Number,1913,501
+St. George,2007,Number,1742,501
+St. George,2006,Number,1851,501
+St. George,2005,Number,1274,501
+St. George,2004,Number,1398,501
+St. George,2003,Number,1466,501
+St. George,2002,Number,1460,501
+St. George,2017,Number,1969,501
+St. George,2018,Number,1967,501
+St. George,2019,Number,1831,501
+South Beach,2019,Number,580,502
+South Beach,2018,Number,612,502
+South Beach,2017,Number,611,502
+South Beach,2002,Number,495,502
+South Beach,2003,Number,464,502
+South Beach,2004,Number,486,502
+South Beach,2005,Number,453,502
+South Beach,2006,Number,618,502
+South Beach,2007,Number,572,502
+South Beach,2008,Number,597,502
+South Beach,2009,Number,490,502
+South Beach,2013,Number,506,502
+South Beach,2014,Number,481,502
+South Beach,2015,Number,514,502
+South Beach,2016,Number,565,502
+South Beach,2011,Number,529,502
+South Beach,2012,Number,450,502
+South Beach,2010,Number,524,502
+Tottenville,2010,Number,481,503
+Tottenville,2012,Number,461,503
+Tottenville,2011,Number,479,503
+Tottenville,2016,Number,507,503
+Tottenville,2015,Number,507,503
+Tottenville,2014,Number,490,503
+Tottenville,2013,Number,496,503
+Tottenville,2009,Number,442,503
+Tottenville,2008,Number,517,503
+Tottenville,2007,Number,495,503
+Tottenville,2006,Number,540,503
+Tottenville,2005,Number,409,503
+Tottenville,2004,Number,478,503
+Tottenville,2003,Number,383,503
+Tottenville,2002,Number,408,503
+Tottenville,2017,Number,593,503
+Tottenville,2018,Number,513,503
+Tottenville,2019,Number,515,503
