@@ -64,7 +64,7 @@ childcare.filter <- childcare.2 %>%
 childcare.filter$Fips <- as.numeric(childcare.filter$Fips)
 
 join.incomebirthsmortalitycare <- join.incomebirthsmortality %>%
-  left_join(childcare3,
+  left_join(childcare.filter,
             by= "Fips")
 
 #Joining mi/lb/im/cc and child abuse
